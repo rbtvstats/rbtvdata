@@ -2,12 +2,13 @@
 	{
 		"stats": {
 			"commentCount": 130,
-			"viewCount": 24735,
+			"viewCount": 24738,
 			"favoriteCount": 0,
 			"dislikeCount": 35,
 			"likeCount": 815
 		},
 		"title": "German ComiCon 2015 in Dortmund mit Bell, Eduard und Alvin | Rocket Beans On Tour",
+		"series": [],
 		"length": 2291,
 		"hosts": [
 			"Alwin",
@@ -24,12 +25,15 @@
 	{
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 23973,
+			"viewCount": 23981,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 455
 		},
 		"title": "[10] Bloodborne: The Old Hunters mit Etienne und Dennis | Knallhart Durchgenommen | 18.12.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 915,
 		"hosts": [
 			"Eddy",
@@ -45,12 +49,15 @@
 	{
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 20460,
+			"viewCount": 20470,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 373
 		},
 		"title": "[11] Bloodborne: The Old Hunters mit Etienne und Dennis | Knallhart Durchgenommen | 18.12.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1695,
 		"hosts": [
 			"Eddy",
@@ -66,12 +73,15 @@
 	{
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 18654,
+			"viewCount": 18659,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 396
 		},
 		"title": "[12] Bloodborne: The Old Hunters mit Etienne und Dennis | Knallhart Durchgenommen | 18.12.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1630,
 		"hosts": [
 			"Eddy",
@@ -87,12 +97,15 @@
 	{
 		"stats": {
 			"commentCount": 60,
-			"viewCount": 18219,
+			"viewCount": 18228,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 363
 		},
 		"title": "[13] Bloodborne: The Old Hunters mit Etienne und Dennis | Knallhart Durchgenommen | 18.12.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1518,
 		"hosts": [
 			"Eddy",
@@ -108,12 +121,15 @@
 	{
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 20339,
+			"viewCount": 20350,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 401
 		},
 		"title": "[14] Bloodborne: The Old Hunters mit Etienne und Dennis | Knallhart Durchgenommen | 18.12.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 912,
 		"hosts": [
 			"Eddy",
@@ -129,12 +145,13 @@
 	{
 		"stats": {
 			"commentCount": 162,
-			"viewCount": 44902,
+			"viewCount": 44907,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
-			"likeCount": 1750
+			"likeCount": 1751
 		},
 		"title": "#MoinMoin mit Budi und Simon |  Ralf Richter Musical und Etienne verliert einen Zahn | 04.01.2016",
+		"series": [],
 		"length": 2866,
 		"hosts": [
 			"Budi",
@@ -150,12 +167,13 @@
 	{
 		"stats": {
 			"commentCount": 117,
-			"viewCount": 17244,
+			"viewCount": 17256,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 575
 		},
 		"title": "[12.1] Buch Klub | Pile of Shame - Was wir noch lesen wollten | 26.12.2015",
+		"series": [],
 		"length": 1590,
 		"hosts": [
 			"Gregor",
@@ -174,12 +192,13 @@
 	{
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 12585,
+			"viewCount": 12590,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 485
 		},
 		"title": "[12.2] Buch Klub | Pile of Shame - Was wir noch lesen wollten | 26.12.2015",
+		"series": [],
 		"length": 1904,
 		"hosts": [
 			"Gregor",
@@ -196,12 +215,13 @@
 	{
 		"stats": {
 			"commentCount": 156,
-			"viewCount": 25934,
+			"viewCount": 25936,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 1059
 		},
 		"title": "Jans Wurstkekse, GameOne ist dicht & RBTV-Loot | News vom 04.01.2016",
+		"series": [],
 		"length": 405,
 		"hosts": [],
 		"published": 1451998009,
@@ -214,12 +234,15 @@
 	{
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 15340,
+			"viewCount": 15342,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 434
 		},
 		"title": "[63] Pok\u00e9mon - Feuerrote Edition mit Etienne | Hausdurchsuchung | Classix | 04.01.16",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 723,
 		"hosts": [
 			"Eddy"
@@ -234,12 +257,15 @@
 	{
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 14448,
+			"viewCount": 14454,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 377
 		},
 		"title": "[65] Pok\u00e9mon - Feuerrote Edition mit Etienne | Arenatime auf der Zinnoberinsel | Classix | 04.01.16",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1604,
 		"hosts": [
 			"Eddy"
@@ -254,12 +280,15 @@
 	{
 		"stats": {
 			"commentCount": 90,
-			"viewCount": 14528,
+			"viewCount": 14530,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 395
 		},
 		"title": "[66] Pok\u00e9mon - Feuerrote Edition mit Etienne | Der hitzk\u00f6pfige Pyro | Classix | 04.01.16",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1672,
 		"hosts": [
 			"Eddy"
@@ -274,12 +303,15 @@
 	{
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 14102,
+			"viewCount": 14104,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 365
 		},
 		"title": "[64] Pok\u00e9mon - Feuerrote Edition mit Etienne | Sei kein Dieb | Classix | 04.01.16",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1609,
 		"hosts": [
 			"Eddy"
@@ -300,6 +332,9 @@
 			"likeCount": 364
 		},
 		"title": "[67] Pok\u00e9mon - Feuerrote Edition mit Etienne | Gl\u00fchweg & Glutberg | Classix | 04.01.16",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1545,
 		"hosts": [
 			"Eddy"
@@ -314,12 +349,13 @@
 	{
 		"stats": {
 			"commentCount": 194,
-			"viewCount": 30001,
+			"viewCount": 30020,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 1243
 		},
 		"title": "#MoinMoin mit Etienne | Morgenroutine, Fu\u00dfball  & menschliche Stromkreise | 05.01.2016",
+		"series": [],
 		"length": 2787,
 		"hosts": [
 			"Eddy"
@@ -334,12 +370,13 @@
 	{
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 18681,
+			"viewCount": 18683,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 724
 		},
 		"title": "Dart ist Liebe, Dark Souls 3 Ger\u00fcchte und der japanische Godzilla | News vom 05.01.2016",
+		"series": [],
 		"length": 387,
 		"hosts": [],
 		"published": 1452074401,
@@ -352,12 +389,13 @@
 	{
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 14828,
+			"viewCount": 14830,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 395
 		},
 		"title": "[1/3] Wir m\u00fcssen reden mit Gregor | Silvesterstories | 04.01.2016",
+		"series": [],
 		"length": 779,
 		"hosts": [
 			"Gunnar",
@@ -373,12 +411,13 @@
 	{
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 10245,
+			"viewCount": 10247,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 295
 		},
 		"title": "[2/3] Wir m\u00fcssen reden mit Gregor | Silvesterstories | 04.01.2016",
+		"series": [],
 		"length": 1785,
 		"hosts": [
 			"Gunnar",
@@ -394,12 +433,13 @@
 	{
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 7980,
+			"viewCount": 7979,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 277
 		},
 		"title": "[3/3] Wir m\u00fcssen reden mit Gregor | Silvesterstories | 04.01.2016",
+		"series": [],
 		"length": 2449,
 		"hosts": [
 			"Gunnar",
@@ -415,12 +455,13 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 9245,
+			"viewCount": 9247,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 219
 		},
 		"title": "[3/7] Let's Play Evil Genius mit Dennis R. und Nils | Das Verh\u00f6r | 04.01.2016",
+		"series": [],
 		"length": 1608,
 		"hosts": [
 			"Dennis R",
@@ -436,12 +477,13 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4622,
+			"viewCount": 4624,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 152
 		},
 		"title": "[7/7] Let's Play Evil Genius mit Dennis R. | Zeit ist Geld | 04.01.2016",
+		"series": [],
 		"length": 780,
 		"hosts": [
 			"Dennis R"
@@ -456,12 +498,13 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 5779,
+			"viewCount": 5781,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 155
 		},
 		"title": "[6/7] Let's Play Evil Genius mit Dennis R.| Viel zu tun | 04.01.2016",
+		"series": [],
 		"length": 1624,
 		"hosts": [
 			"Dennis R"
@@ -476,12 +519,13 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 8278,
+			"viewCount": 8280,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 209
 		},
 		"title": "[4/7] Let's Play Evil Genius mit Dennis R. und Nils | Keiner darf entkommen | 04.01.2016",
+		"series": [],
 		"length": 1584,
 		"hosts": [
 			"Dennis R",
@@ -497,12 +541,13 @@
 	{
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 13113,
+			"viewCount": 13121,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 357
 		},
 		"title": "[1/7] Let's Play Evil Genius mit Dennis R. und Nils | Eine Perle der Strategie-Spiele | 04.01.2016",
+		"series": [],
 		"length": 771,
 		"hosts": [
 			"Dennis R",
@@ -518,12 +563,13 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 11297,
+			"viewCount": 11303,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 274
 		},
 		"title": "[2/7] Let's Play Evil Genius mit Dennis R. und Nils | Die Weltm\u00e4chte | 04.01.2016",
+		"series": [],
 		"length": 1546,
 		"hosts": [
 			"Dennis R",
@@ -545,6 +591,7 @@
 			"likeCount": 175
 		},
 		"title": "[5/7] Let's Play Evil Genius mit Dennis R. | Der Stromraum | 04.01.2016",
+		"series": [],
 		"length": 1591,
 		"hosts": [
 			"Dennis R"
@@ -565,6 +612,7 @@
 			"likeCount": 96
 		},
 		"title": "[2/4] Let's Play Pulsar Lost Colony mit Budi | Budi muss drau\u00dfen bleiben | 04.01.2016",
+		"series": [],
 		"length": 1656,
 		"hosts": [
 			"Budi"
@@ -585,6 +633,7 @@
 			"likeCount": 64
 		},
 		"title": "[3/4] Let's Play Pulsar Lost Colony mit Budi | Empyrion | 04.01.2016",
+		"series": [],
 		"length": 1687,
 		"hosts": [
 			"Budi"
@@ -605,6 +654,7 @@
 			"likeCount": 182
 		},
 		"title": "[4/4] Let's Play Pulsar Lost Colony mit Budi | Love is in the Air| 04.01.2016",
+		"series": [],
 		"length": 2433,
 		"hosts": [
 			"Budi"
@@ -625,6 +675,7 @@
 			"likeCount": 150
 		},
 		"title": "[1/4] Let's Play Pulsar Lost Colony mit Budi | Neue Vors\u00e4tze direkt umgesetzt | 04.01.2016",
+		"series": [],
 		"length": 1151,
 		"hosts": [
 			"Budi"
@@ -639,12 +690,13 @@
 	{
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 19636,
+			"viewCount": 19638,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 638
 		},
 		"title": "#MoinMoin mit Budi | VR, Legacy of the Lauch und Apple baut Autos? | 06.01.2016",
+		"series": [],
 		"length": 2714,
 		"hosts": [
 			"Budi"
@@ -665,6 +717,7 @@
 			"likeCount": 80
 		},
 		"title": "[1/3] Let's Play Ben and Ed mit Ben und Eduard | The Show must go on | 05.01.2016",
+		"series": [],
 		"length": 1869,
 		"hosts": [
 			"Ben",
@@ -686,6 +739,7 @@
 			"likeCount": 45
 		},
 		"title": "[2/3] Let's Play Ben and Ed mit Ben und Eduard | Keine Angst zeigen | 05.01.2016",
+		"series": [],
 		"length": 1614,
 		"hosts": [
 			"Ben",
@@ -707,6 +761,7 @@
 			"likeCount": 49
 		},
 		"title": "[3/3] Let's Play Ben and Ed mit Ben und Eduard | Die n\u00e4chste Welt | 05.01.2016",
+		"series": [],
 		"length": 830,
 		"hosts": [
 			"Ben",
@@ -728,6 +783,7 @@
 			"likeCount": 2094
 		},
 		"title": "RBTV hat #Gebohnstag!",
+		"series": [],
 		"length": 78,
 		"hosts": [],
 		"published": 1452099120,
@@ -738,12 +794,13 @@
 	{
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 4349,
+			"viewCount": 4351,
 			"favoriteCount": 0,
-			"dislikeCount": 3,
+			"dislikeCount": 4,
 			"likeCount": 85
 		},
 		"title": "[3/5] Let's Play World Of Warcraft WoD mit Hauke und Jens | Wut kanalisieren | 05.01.2016",
+		"series": [],
 		"length": 1552,
 		"hosts": [
 			"Hauke",
@@ -759,12 +816,13 @@
 	{
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 9653,
+			"viewCount": 9658,
 			"favoriteCount": 0,
-			"dislikeCount": 13,
+			"dislikeCount": 14,
 			"likeCount": 147
 		},
 		"title": "[1/5] Let's Play World Of Warcraft WoD mit Hauke und Jens | Unsere Gilde w\u00e4chst | 05.01.2016",
+		"series": [],
 		"length": 1389,
 		"hosts": [
 			"Hauke",
@@ -780,12 +838,13 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3658,
+			"viewCount": 3660,
 			"favoriteCount": 0,
-			"dislikeCount": 5,
+			"dislikeCount": 6,
 			"likeCount": 87
 		},
 		"title": "[4/5] Let's Play World Of Warcraft WoD mit Hauke und Jens | LeRoy rennt noch | 05.01.2016",
+		"series": [],
 		"length": 1591,
 		"hosts": [
 			"Hauke",
@@ -801,12 +860,13 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 3890,
+			"viewCount": 3892,
 			"favoriteCount": 0,
-			"dislikeCount": 4,
+			"dislikeCount": 5,
 			"likeCount": 84
 		},
 		"title": "[5/5] Let's Play World Of Warcraft WoD mit Hauke und Jens | Knapp die Bahn verpasst | 05.01.2016",
+		"series": [],
 		"length": 761,
 		"hosts": [
 			"Hauke",
@@ -822,12 +882,13 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5089,
+			"viewCount": 5090,
 			"favoriteCount": 0,
-			"dislikeCount": 2,
+			"dislikeCount": 3,
 			"likeCount": 94
 		},
 		"title": "[2/5] Let's Play World Of Warcraft WoD mit Hauke und Jens | Nur ohne Hose | 05.01.2016",
+		"series": [],
 		"length": 1713,
 		"hosts": [
 			"Hauke",
@@ -843,12 +904,13 @@
 	{
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 10381,
+			"viewCount": 10386,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 387
 		},
 		"title": "[26] Gino+ | Adduktoren dehnen mit Gunnar | 11.12.2015",
+		"series": [],
 		"length": 258,
 		"hosts": [
 			"Gino",
@@ -864,12 +926,13 @@
 	{
 		"stats": {
 			"commentCount": 141,
-			"viewCount": 26050,
+			"viewCount": 26056,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 810
 		},
 		"title": "[27] Gino+ | H\u00fcftdehnung mit Katharina | 16.12.2015",
+		"series": [],
 		"length": 340,
 		"hosts": [
 			"Gino",
@@ -885,12 +948,15 @@
 	{
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 8084,
+			"viewCount": 8086,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 186
 		},
 		"title": "[8] Let's Play Rainbow Six: Siege mit Simon, Gino & Jan | Seargent Kr\u00e4tschmer | 05.01.2016",
+		"series": [
+			"Rainbow Six Siege"
+		],
 		"length": 1788,
 		"hosts": [
 			"Simon",
@@ -913,6 +979,9 @@
 			"likeCount": 150
 		},
 		"title": "[11] Let's Play Rainbow Six Siege mit Simon, Gino & Jan | Colin mischt mit | 05.01.2016",
+		"series": [
+			"Rainbow Six Siege"
+		],
 		"length": 2135,
 		"hosts": [
 			"Simon",
@@ -929,12 +998,15 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4691,
+			"viewCount": 4693,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 121
 		},
 		"title": "[9] Let's Play Rainbow Six Siege mit Simon, Gino & Jan | Online Modus in Action | 05.01.2016",
+		"series": [
+			"Rainbow Six Siege"
+		],
 		"length": 1567,
 		"hosts": [
 			"Simon",
@@ -951,12 +1023,15 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4758,
+			"viewCount": 4760,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 117
 		},
 		"title": "[10] Let's Play Rainbow Six Siege mit Simon, Gino & Jan | Trant macht Leute klar | 05.01.2016",
+		"series": [
+			"Rainbow Six Siege"
+		],
 		"length": 1734,
 		"hosts": [
 			"Simon",
@@ -979,6 +1054,7 @@
 			"likeCount": 917
 		},
 		"title": "Occulus Rift wird teuer, Just Cause 3, RIP Lemmy | News vom 06.01.2016",
+		"series": [],
 		"length": 283,
 		"hosts": [],
 		"published": 1452115282,
@@ -991,12 +1067,15 @@
 	{
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 30524,
+			"viewCount": 30559,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 476
 		},
 		"title": "[1] Let's Play Tales from the Borderlands mit Simon | Sand in der Hose | 05.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 2451,
 		"hosts": [
 			"Simon"
@@ -1011,12 +1090,15 @@
 	{
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 15110,
+			"viewCount": 15114,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 325
 		},
 		"title": "[2] Let's Play Tales from the Borderlands mit Simon | Selbst Deutsche w\u00fcrden lachen | 05.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 2776,
 		"hosts": [
 			"Simon"
@@ -1031,12 +1113,13 @@
 	{
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 8665,
+			"viewCount": 8670,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 396
 		},
 		"title": "[28] Gino+ | Kniebeugen mit Bastiaan | 23.12.2015",
+		"series": [],
 		"length": 275,
 		"hosts": [
 			"Gino"
@@ -1051,12 +1134,13 @@
 	{
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 8319,
+			"viewCount": 8325,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 298
 		},
 		"title": "[29] Gino+ | Dehnung der Wadenmuskulatur mit Max | 25.12.2015",
+		"series": [],
 		"length": 261,
 		"hosts": [
 			"Gino",
@@ -1072,12 +1156,13 @@
 	{
 		"stats": {
 			"commentCount": 465,
-			"viewCount": 63684,
+			"viewCount": 63712,
 			"favoriteCount": 0,
 			"dislikeCount": 42,
 			"likeCount": 3096
 		},
 		"title": "#MoinMoin mit Etienne | Song-Analyse \"Adele\" und das Glasperlenspiel | 07.01.2016",
+		"series": [],
 		"length": 2701,
 		"hosts": [
 			"Eddy"
@@ -1092,12 +1177,13 @@
 	{
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 11998,
+			"viewCount": 12004,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 436
 		},
 		"title": "[30] Gino+ | Bauch\u00fcbung mit dem st\u00e4hlernden Gunnar | 30.12.2015",
+		"series": [],
 		"length": 208,
 		"hosts": [
 			"Gino",
@@ -1113,12 +1199,13 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 9275,
+			"viewCount": 9279,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 276
 		},
 		"title": "[31] Gino+ | Alwin geht Schwimmen | 01.01.2016",
+		"series": [],
 		"length": 277,
 		"hosts": [
 			"Gino",
@@ -1134,12 +1221,13 @@
 	{
 		"stats": {
 			"commentCount": 143,
-			"viewCount": 31062,
+			"viewCount": 31070,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 807
 		},
 		"title": "[1/2] Almost Plaily #218 | Was bin ich mit Gino, Dennis H., Budi und Hannes | 06.01.2016",
+		"series": [],
 		"length": 2034,
 		"hosts": [
 			"Gino",
@@ -1157,12 +1245,13 @@
 	{
 		"stats": {
 			"commentCount": 69,
-			"viewCount": 20327,
+			"viewCount": 20334,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 764
 		},
 		"title": "[2/2] Almost Plaily #218 | Was bin ich mit Gino, Dennis H., Budi und Hannes | 06.01.2016",
+		"series": [],
 		"length": 1771,
 		"hosts": [
 			"Gino",
@@ -1180,12 +1269,13 @@
 	{
 		"stats": {
 			"commentCount": 77,
-			"viewCount": 17219,
+			"viewCount": 17243,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 415
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #37 | Aufstand der Barbaren | Seite 1 | 09.01.2016",
+		"series": [],
 		"length": 1853,
 		"hosts": [
 			"Simon",
@@ -1202,12 +1292,13 @@
 	{
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 15226,
+			"viewCount": 15239,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 347
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #37 | Aufstand der Barbaren | Seite 2 | 09.01.2016",
+		"series": [],
 		"length": 1730,
 		"hosts": [
 			"Simon",
@@ -1230,6 +1321,7 @@
 			"likeCount": 326
 		},
 		"title": "#MoinMoin mit Gregor | Beans vs Doom, Speedruns, Gregors gro\u00dfes Geheimnis | 08.01.2016",
+		"series": [],
 		"length": 2673,
 		"hosts": [
 			"Gregor"
@@ -1250,6 +1342,7 @@
 			"likeCount": 848
 		},
 		"title": "[1/3] Bohn Jour #49 | The Coffee Trainer: Philipp und Tolga & \"Scheisse Einfach\" | 06.01.2016",
+		"series": [],
 		"length": 2033,
 		"hosts": [
 			"Simon",
@@ -1265,12 +1358,13 @@
 	{
 		"stats": {
 			"commentCount": 99,
-			"viewCount": 27184,
+			"viewCount": 27185,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 903
 		},
 		"title": "[2/3] Bohn Jour #49 | Joscha Sauer von Nicht lustig, Etienne & Nils im Merch-Paradies | 06.01.2016",
+		"series": [],
 		"length": 2710,
 		"hosts": [
 			"Simon",
@@ -1286,12 +1380,13 @@
 	{
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 17246,
+			"viewCount": 17247,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 686
 		},
 		"title": "[3/3] Bohn Jour #49 | Zehbastian: Figuren f\u00fcr Nicht lustig, Lesung von Jonas Bohlken | 06.01.2016",
+		"series": [],
 		"length": 2941,
 		"hosts": [
 			"Simon",
@@ -1307,12 +1402,13 @@
 	{
 		"stats": {
 			"commentCount": 130,
-			"viewCount": 20687,
+			"viewCount": 20696,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 629
+			"likeCount": 630
 		},
 		"title": "[32] Gino+ | Dehnung der Adduktoren mit Miriam | 06.01.2016",
+		"series": [],
 		"length": 181,
 		"hosts": [
 			"Gino",
@@ -1328,12 +1424,13 @@
 	{
 		"stats": {
 			"commentCount": 197,
-			"viewCount": 53184,
+			"viewCount": 53217,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
-			"likeCount": 1472
+			"likeCount": 1473
 		},
 		"title": "[1/2] Almost Plaily #217 | Stadt, Land, Fluss mit Nils, Gino, Gunnar und Hannes | 03.01.2016",
+		"series": [],
 		"length": 1957,
 		"hosts": [
 			"Nils",
@@ -1351,12 +1448,13 @@
 	{
 		"stats": {
 			"commentCount": 161,
-			"viewCount": 38030,
+			"viewCount": 38044,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1246
 		},
 		"title": "[2/2 ]Almost Plaily #217 | Stadt, Land, Fluss mit Nils, Gino, Gunnar und Hannes | 03.01.2016",
+		"series": [],
 		"length": 2172,
 		"hosts": [
 			"Nils",
@@ -1380,6 +1478,7 @@
 			"likeCount": 828
 		},
 		"title": "[1] Festtagsst\u00fcndchen | Gregors Fahrradfahr-Cast: Geschichten \u00fcber Gott und die Welt | 26.12.2015",
+		"series": [],
 		"length": 3606,
 		"hosts": [
 			"Gregor"
@@ -1392,12 +1491,13 @@
 	{
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 35601,
+			"viewCount": 35656,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 719
+			"likeCount": 721
 		},
 		"title": "[1/4] Zelda: Majora\u2019s Mask mit Simon, Gregor, Sia und Thiefbug | Speedrundale | 09.01.2016",
+		"series": [],
 		"length": 1957,
 		"hosts": [
 			"Gregor",
@@ -1414,12 +1514,13 @@
 	{
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 23486,
+			"viewCount": 23523,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 479
+			"likeCount": 480
 		},
 		"title": "[2/4] Zelda: Majora\u2019s Mask mit Simon, Gregor, Sia und Thiefbug | Speedrundale | 09.01.2016",
+		"series": [],
 		"length": 1769,
 		"hosts": [
 			"Gregor",
@@ -1436,12 +1537,13 @@
 	{
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 20678,
+			"viewCount": 20701,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 429
+			"likeCount": 430
 		},
 		"title": "[3/4] Zelda: Majora\u2019s Mask mit Simon, Gregor, Sia und Thiefbug | Speedrundale | 09.01.2016",
+		"series": [],
 		"length": 1795,
 		"hosts": [
 			"Gregor",
@@ -1458,12 +1560,13 @@
 	{
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 17737,
+			"viewCount": 17751,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 498
+			"likeCount": 500
 		},
 		"title": "[4/4] Zelda: Majora\u2019s Mask mit Simon, Gregor, Sia und Thiefbug | Speedrundale | 09.01.2016",
+		"series": [],
 		"length": 794,
 		"hosts": [
 			"Gregor",
@@ -1480,12 +1583,13 @@
 	{
 		"stats": {
 			"commentCount": 211,
-			"viewCount": 29432,
+			"viewCount": 29436,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 1073
 		},
 		"title": "#MoinMoin mit Nils | Touchdown: Beans vs Football?, Fahrraddiebe, RiP David Bowie | 11.01.2016",
+		"series": [],
 		"length": 2718,
 		"hosts": [
 			"Nils"
@@ -1500,12 +1604,13 @@
 	{
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 7406,
+			"viewCount": 7414,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 182
 		},
 		"title": "[1/4] Let's Play RPG Maker MV mit Budi und Ren\u00e9 | Legacy of the Lauch | 06.01.2015",
+		"series": [],
 		"length": 831,
 		"hosts": [
 			"Budi",
@@ -1521,12 +1626,13 @@
 	{
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 3422,
+			"viewCount": 3424,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 100
 		},
 		"title": "[2/4] Let's Play RPG Maker MV mit Budi und Ren\u00e9 | Laserschelle ist aufgetaucht | 06.01.2015",
+		"series": [],
 		"length": 2455,
 		"hosts": [
 			"Budi",
@@ -1542,12 +1648,13 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 2000,
+			"viewCount": 2002,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 69
 		},
 		"title": "[3/4] Let's Play RPG Maker MV mit Budi und Ren\u00e9 | Im Krankenhaus | 06.01.2015",
+		"series": [],
 		"length": 1408,
 		"hosts": [
 			"Budi",
@@ -1569,6 +1676,7 @@
 			"likeCount": 99
 		},
 		"title": "[4/4] Let's Play RPG Maker MV mit Budi und Ren\u00e9 | Wo? Wer? Was? Und Warum \u00fcberhaupt? | 06.01.2015",
+		"series": [],
 		"length": 1993,
 		"hosts": [
 			"Budi",
@@ -1584,12 +1692,15 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 9511,
+			"viewCount": 9515,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 232
 		},
 		"title": "[3] Let's Play Tales from the Borderlands mit Simon | Hilfreiche Bionische Augen | 06.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 963,
 		"hosts": [
 			"Simon"
@@ -1604,12 +1715,15 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 9063,
+			"viewCount": 9071,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 213
 		},
 		"title": "[4] Let's Play Tales from the Borderlands mit Simon | The Big Chariot Race | 06.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1681,
 		"hosts": [
 			"Simon"
@@ -1624,12 +1738,15 @@
 	{
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 10077,
+			"viewCount": 10079,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 245
 		},
 		"title": "[5] Let's Play Tales from the Borderlands mit Simon | Nie wieder Werbung! | 06.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 2331,
 		"hosts": [
 			"Simon"
@@ -1647,9 +1764,10 @@
 			"viewCount": 18650,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
-			"likeCount": 908
+			"likeCount": 909
 		},
 		"title": "[2] Tilt mit Colin und Ian | Flipper-ABC, Medieval Madness, Turnier Viertelfinale | 10.01.2016",
+		"series": [],
 		"length": 2695,
 		"hosts": [
 			"Colin",
@@ -1665,12 +1783,15 @@
 	{
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 15736,
+			"viewCount": 15743,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 341
 		},
 		"title": "[1] Let's Play Xcom 2 mit Simon | Die \"Gut-Aliens\"? | 07.01.2016",
+		"series": [
+			"XCOM 2"
+		],
 		"length": 1026,
 		"hosts": [
 			"Simon"
@@ -1685,12 +1806,15 @@
 	{
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 11573,
+			"viewCount": 11575,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 247
 		},
 		"title": "[2] Let's Play Xcom 2 mit Simon und Budi | Was macht denn Cortana bei Xcom? | 07.01.2016",
+		"series": [
+			"XCOM 2"
+		],
 		"length": 1399,
 		"hosts": [
 			"Simon"
@@ -1711,6 +1835,9 @@
 			"likeCount": 219
 		},
 		"title": "[3] Let's Play Xcom 2 mit Simon | Die erste Granate macht Rabatz | 07.01.2016",
+		"series": [
+			"XCOM 2"
+		],
 		"length": 1604,
 		"hosts": [
 			"Simon"
@@ -1725,12 +1852,15 @@
 	{
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 8146,
+			"viewCount": 8148,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 171
 		},
 		"title": "[4] Let's Play Xcom 2 mit Simon | Cybernetische Arme und Beine = geil | 07.01.2016",
+		"series": [
+			"XCOM 2"
+		],
 		"length": 1577,
 		"hosts": [
 			"Simon"
@@ -1745,12 +1875,13 @@
 	{
 		"stats": {
 			"commentCount": 324,
-			"viewCount": 50490,
+			"viewCount": 50502,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1314
 		},
 		"title": "[1/2] Kino+ #94 | The Revenant, Til Schweigers Tatort, Morgen h\u00f6r ich auf | 07.01.2016",
+		"series": [],
 		"length": 3596,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1766,12 +1897,13 @@
 	{
 		"stats": {
 			"commentCount": 126,
-			"viewCount": 27866,
+			"viewCount": 27871,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 895
 		},
 		"title": "[2/2] Kino+ #94 mit Simon Verhoeven | Unfriend, Diskussionen \u00fcbers Filmbusiness | 07.01.2016",
+		"series": [],
 		"length": 3734,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1793,6 +1925,9 @@
 			"likeCount": 161
 		},
 		"title": "[5] Let's Play Xcom 2 mit Simon | Nackte Aliens: Von den Klamotten weg entwickelt | 07.01.2016",
+		"series": [
+			"XCOM 2"
+		],
 		"length": 1565,
 		"hosts": [
 			"Simon"
@@ -1807,12 +1942,15 @@
 	{
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 6357,
+			"viewCount": 6359,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 168
 		},
 		"title": "[6] Let's Play Xcom 2 mit Simon | Geb Friendly Fire keine Chance | 07.01.2016",
+		"series": [
+			"XCOM 2"
+		],
 		"length": 1652,
 		"hosts": [
 			"Simon"
@@ -1827,12 +1965,13 @@
 	{
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 24647,
+			"viewCount": 24649,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 970
 		},
 		"title": "Robert: Der neue Moderator bei \"Wir m\u00fcssen reden\", Uncharted 4, Playboyvilla | News vom 11.01.2016",
+		"series": [],
 		"length": 441,
 		"hosts": [],
 		"published": 1452542887,
@@ -1851,6 +1990,9 @@
 			"likeCount": 156
 		},
 		"title": "[7] Let's Play Xcom 2 mit Simon | How to remove a chip from the brain | 07.01.2016",
+		"series": [
+			"XCOM 2"
+		],
 		"length": 833,
 		"hosts": [
 			"Simon"
@@ -1865,12 +2007,13 @@
 	{
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 10462,
+			"viewCount": 10463,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 284
 		},
 		"title": "[1/4] The Long Dark mit Nils | Kein Loot von Leichen | After Dark | 07.01.2016",
+		"series": [],
 		"length": 927,
 		"hosts": [
 			"Nils"
@@ -1885,12 +2028,13 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 6975,
+			"viewCount": 6979,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 197
 		},
 		"title": "[2/4] The Long Dark mit Nils | H\u00fctteneroberung | After Dark | 07.01.2016",
+		"series": [],
 		"length": 1549,
 		"hosts": [
 			"Nils"
@@ -1905,12 +2049,13 @@
 	{
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 5670,
+			"viewCount": 5675,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 158
 		},
 		"title": "[3/4] The Long Dark mit Nils | Verfolgt vom Wolf | After Dark | 07.01.2016",
+		"series": [],
 		"length": 1683,
 		"hosts": [
 			"Nils"
@@ -1925,12 +2070,13 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 4559,
+			"viewCount": 4561,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 187
 		},
 		"title": "[4/4] The Long Dark mit Nils | Hose n\u00e4hen? Nicht mit Nils! | After Dark | 07.01.2016",
+		"series": [],
 		"length": 736,
 		"hosts": [
 			"Nils"
@@ -1945,12 +2091,15 @@
 	{
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 6003,
+			"viewCount": 6007,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 154
 		},
 		"title": "[10] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 07.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 777,
 		"hosts": [
 			"Simon",
@@ -1966,12 +2115,15 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4879,
+			"viewCount": 4885,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 134
 		},
 		"title": "[11] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 07.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 1603,
 		"hosts": [
 			"Simon",
@@ -1987,12 +2139,15 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 4981,
+			"viewCount": 4986,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 135
 		},
 		"title": "[12] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 07.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 1757,
 		"hosts": [
 			"Simon",
@@ -2008,12 +2163,15 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 5382,
+			"viewCount": 5391,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 161
 		},
 		"title": "[13] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 07.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 2430,
 		"hosts": [
 			"Simon",
@@ -2029,12 +2187,15 @@
 	{
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 18016,
+			"viewCount": 18032,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 338
+			"likeCount": 339
 		},
 		"title": "[1] Let's Play Tales Of Symphonia mit Gregor und Gino | Das Verschwinden einer G\u00f6ttin | 06.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 767,
 		"hosts": [
 			"Gino",
@@ -2050,12 +2211,15 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9224,
+			"viewCount": 9235,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 182
 		},
 		"title": "[2] Let's Play Tales Of Symphonia mit Gregor und Gino | Feuerb\u00e4lle gegen Geister | 06.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1509,
 		"hosts": [
 			"Gino",
@@ -2071,12 +2235,13 @@
 	{
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 8458,
+			"viewCount": 8459,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 292
 		},
 		"title": "#MoinMoin mit Gregor | Gregott mit Haaren, der Fahrradfahr-Cast, Who's your daddy? | 12.01.2016",
+		"series": [],
 		"length": 2771,
 		"hosts": [
 			"Gregor"
@@ -2091,12 +2256,15 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 6551,
+			"viewCount": 6558,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 136
+			"likeCount": 137
 		},
 		"title": "[3] Let's Play Tales Of Symphonia mit Gregor und Gino | Frank heil uns! | 06.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1717,
 		"hosts": [
 			"Gino",
@@ -2112,12 +2280,15 @@
 	{
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 5654,
+			"viewCount": 5659,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 111
 		},
 		"title": "[4] Let's Play Tales Of Symphonia mit Gregor und Gino | Noishe nur am Winseln | 06.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1607,
 		"hosts": [
 			"Gino",
@@ -2133,12 +2304,15 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4461,
+			"viewCount": 4465,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 125
 		},
 		"title": "[5] Let's Play Tales Of Symphonia mit Gregor und Gino | Zuhause bei Mama und Papa | 06.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 850,
 		"hosts": [
 			"Gino",
@@ -2160,6 +2334,7 @@
 			"likeCount": 155
 		},
 		"title": "[1/3] Let's Play Fast Racing Neo mit Gino und Gregor | Besser als Wipeout? | 11.01.2016",
+		"series": [],
 		"length": 1141,
 		"hosts": [
 			"Gino",
@@ -2181,6 +2356,7 @@
 			"likeCount": 849
 		},
 		"title": "[1/3] GAME plus # 26 | Xcom2, World of Tanks, Falling Down, Twitch plays Games | 09.01.2016",
+		"series": [],
 		"length": 803,
 		"hosts": [
 			"Budi",
@@ -2203,6 +2379,7 @@
 			"likeCount": 861
 		},
 		"title": "[2/3] GAME plus # 26 | Wall of Hype, Nier, Star Citizen, Wutausbr\u00fcche beim Zocken | 09.01.2016",
+		"series": [],
 		"length": 2814,
 		"hosts": [
 			"Budi",
@@ -2225,6 +2402,7 @@
 			"likeCount": 88
 		},
 		"title": "[2/3] Let's Play Fast Racing Neo mit Gino und Gregor | Zu schnell f\u00fcr eine Moderation | 11.01.2016",
+		"series": [],
 		"length": 1288,
 		"hosts": [
 			"Gino",
@@ -2246,6 +2424,7 @@
 			"likeCount": 73
 		},
 		"title": "[3/3] Let's Play Fast Racing Neo mit Gino und Gregor | Keine Fehler erlaubt | 11.01.2016",
+		"series": [],
 		"length": 725,
 		"hosts": [
 			"Gino",
@@ -2267,6 +2446,7 @@
 			"likeCount": 678
 		},
 		"title": "[3/3] GAME plus # 26 | Michas Gamepitch: R-Aged | 09.01.2016",
+		"series": [],
 		"length": 604,
 		"hosts": [
 			"Budi",
@@ -2283,12 +2463,13 @@
 	{
 		"stats": {
 			"commentCount": 50,
-			"viewCount": 15155,
+			"viewCount": 15157,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 421
 		},
 		"title": "[1/2] Wir m\u00fcssen reden mit Hannes | Das geschah an Weihnachten | 21.12.2015",
+		"series": [],
 		"length": 1646,
 		"hosts": [
 			"Gunnar",
@@ -2310,6 +2491,7 @@
 			"likeCount": 97
 		},
 		"title": "[1/3] Let's Play The Legend Of Heroes: Trails In The Sky Second Chapter mit Gregor | 11.01.2016",
+		"series": [],
 		"length": 860,
 		"hosts": [
 			"Gregor"
@@ -2324,12 +2506,13 @@
 	{
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 8898,
+			"viewCount": 8900,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 311
 		},
 		"title": "[2/2] Wir m\u00fcssen reden mit Hannes | Das geschah an Weihnachten | 21.12.2015",
+		"series": [],
 		"length": 1886,
 		"hosts": [
 			"Gunnar",
@@ -2351,6 +2534,7 @@
 			"likeCount": 52
 		},
 		"title": "[2/3] Let's Play The Legend Of Heroes: Trails In The Sky Second Chapter mit Gregor | 11.01.2016",
+		"series": [],
 		"length": 1646,
 		"hosts": [
 			"Gregor"
@@ -2371,6 +2555,7 @@
 			"likeCount": 40
 		},
 		"title": "[3/3] Let's Play The Legend Of Heroes: Trails In The Sky Second Chapter mit Gregor | 11.01.2016",
+		"series": [],
 		"length": 762,
 		"hosts": [
 			"Gregor"
@@ -2385,12 +2570,15 @@
 	{
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 14562,
+			"viewCount": 14565,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 401
 		},
 		"title": "[68] Pok\u00e9mon - Feuerrote Edition mit Etienne | Lauchboy zertr\u00fcmmert | Classix | 11.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1028,
 		"hosts": [
 			"Eddy"
@@ -2405,12 +2593,15 @@
 	{
 		"stats": {
 			"commentCount": 48,
-			"viewCount": 13811,
+			"viewCount": 13815,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 358
 		},
 		"title": "[69] Pok\u00e9mon - Feuerrote Edition mit Etienne | Die Lohekanonade | Classix | 11.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1740,
 		"hosts": [
 			"Eddy"
@@ -2425,12 +2616,15 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 13091,
+			"viewCount": 13095,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 355
 		},
 		"title": "[70] Pok\u00e9mon - Feuerrote Edition mit Etienne | Endlich Fliegen | Classix | 11.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1627,
 		"hosts": [
 			"Eddy"
@@ -2445,12 +2639,15 @@
 	{
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 13690,
+			"viewCount": 13692,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 341
 		},
 		"title": "[71] Pok\u00e9mon - Feuerrote Edition mit Etienne | Auf dem Weg nach Vertania City | Classix | 11.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1631,
 		"hosts": [
 			"Eddy"
@@ -2465,12 +2662,13 @@
 	{
 		"stats": {
 			"commentCount": 142,
-			"viewCount": 22204,
+			"viewCount": 22205,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
 			"likeCount": 1037
 		},
 		"title": "Colin vs Schr\u00f6ck: Wenn aus Final Fantasy eine Grundsatzdiskussion wird | News vom  12.01.2016",
+		"series": [],
 		"length": 338,
 		"hosts": [],
 		"published": 1452631982,
@@ -2483,12 +2681,15 @@
 	{
 		"stats": {
 			"commentCount": 136,
-			"viewCount": 16439,
+			"viewCount": 16443,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 508
 		},
 		"title": "[72] Pok\u00e9mon - Feuerrote Edition mit Etienne | Ein alter Bekannter | Classix | 11.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1526,
 		"hosts": [
 			"Eddy"
@@ -2503,12 +2704,15 @@
 	{
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 10869,
+			"viewCount": 10874,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 251
 		},
 		"title": "[1] Let's Play King's Quest mit Etienne | 50:50 Chance | 11.01.2016",
+		"series": [
+			"King's Quest"
+		],
 		"length": 908,
 		"hosts": [
 			"Eddy"
@@ -2523,12 +2727,15 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 5782,
+			"viewCount": 5784,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 128
 		},
 		"title": "[2] Let's Play King's Quest mit Etienne | Wildwasserfahrt | 11.01.2016",
+		"series": [
+			"King's Quest"
+		],
 		"length": 1520,
 		"hosts": [
 			"Eddy"
@@ -2543,12 +2750,15 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4716,
+			"viewCount": 4718,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 143
 		},
 		"title": "[3] Let's Play King's Quest mit Etienne | Keine Miez. KEINE MIEZ! | 11.01.2016",
+		"series": [
+			"King's Quest"
+		],
 		"length": 580,
 		"hosts": [
 			"Eddy"
@@ -2563,12 +2773,13 @@
 	{
 		"stats": {
 			"commentCount": 163,
-			"viewCount": 13050,
+			"viewCount": 13052,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 745
 		},
 		"title": "#MoinMoin mit Colin | Schreckliche Werbung aus der Vergangenheit | 13.01.2016",
+		"series": [],
 		"length": 2717,
 		"hosts": [
 			"Colin"
@@ -2583,12 +2794,13 @@
 	{
 		"stats": {
 			"commentCount": 485,
-			"viewCount": 103671,
+			"viewCount": 103732,
 			"favoriteCount": 0,
 			"dislikeCount": 177,
-			"likeCount": 2512
+			"likeCount": 2513
 		},
 		"title": "[1/2] Chat Duell mit Sofia | Team Bohnen gegen Uke und SiegHain | 12.01.2016",
+		"series": [],
 		"length": 2916,
 		"hosts": [
 			"Eddy",
@@ -2607,12 +2819,13 @@
 	{
 		"stats": {
 			"commentCount": 454,
-			"viewCount": 63259,
+			"viewCount": 63278,
 			"favoriteCount": 0,
 			"dislikeCount": 62,
-			"likeCount": 1793
+			"likeCount": 1794
 		},
 		"title": "[2/2] Chat Duell mit Sofia | Team Bohnen gegen Uke und SiegHain | 12.01.2016",
+		"series": [],
 		"length": 1822,
 		"hosts": [
 			"Eddy",
@@ -2631,12 +2844,13 @@
 	{
 		"stats": {
 			"commentCount": 82,
-			"viewCount": 24526,
+			"viewCount": 24536,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 888
 		},
 		"title": "[2] Philosofa mit Simon, Sofia, Uke Bosse, Fabian Siegismund, David Hain und Der Blitz | 12.01.2016",
+		"series": [],
 		"length": 3772,
 		"hosts": [
 			"Simon",
@@ -2654,12 +2868,13 @@
 	{
 		"stats": {
 			"commentCount": 115,
-			"viewCount": 41450,
+			"viewCount": 41465,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
-			"likeCount": 897
+			"likeCount": 898
 		},
 		"title": "[1/2] Almost Plaily #219 | Nobody's Perfect mit Budi, Sofia, Schr\u00f6ck und Gunnar | 13.01.2016",
+		"series": [],
 		"length": 1560,
 		"hosts": [
 			"Sofia",
@@ -2677,12 +2892,13 @@
 	{
 		"stats": {
 			"commentCount": 51,
-			"viewCount": 23721,
+			"viewCount": 23723,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 700
 		},
 		"title": "[2/2] Almost Plaily #219 | Nobody's Perfect mit Budi, Sofia, Schr\u00f6ck und Gunnar | 13.01.2016",
+		"series": [],
 		"length": 1850,
 		"hosts": [
 			"Sofia",
@@ -2700,12 +2916,13 @@
 	{
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 10657,
+			"viewCount": 10663,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 307
 		},
 		"title": "[1] Let's Play Fifa 16 Ultimate Team mit Nils und Etienne | Die Wahl des Kapit\u00e4ns | 12.01.2016",
+		"series": [],
 		"length": 1462,
 		"hosts": [
 			"Eddy",
@@ -2721,12 +2938,13 @@
 	{
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 8236,
+			"viewCount": 8239,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 223
 		},
 		"title": "[2] Let's Play Fifa 16 Ultimate Team mit Nils und Etienne | Der Traumkader | 12.01.2016",
+		"series": [],
 		"length": 2760,
 		"hosts": [
 			"Eddy",
@@ -2742,12 +2960,13 @@
 	{
 		"stats": {
 			"commentCount": 63,
-			"viewCount": 19248,
+			"viewCount": 19251,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 776
 		},
 		"title": "Dosenbeatz ist eine W\u00fcrstchenparty, Pacific Rim 2, HTC Vive kostspielig? | News vom 13.01.2016",
+		"series": [],
 		"length": 480,
 		"hosts": [],
 		"published": 1452715200,
@@ -2760,12 +2979,13 @@
 	{
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 6380,
+			"viewCount": 6382,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 189
 		},
 		"title": "[3] Let's Play Fifa 16 Ultimate Team mit Nils und Etienne | Auf dem Transfermarkt | 12.01.2016",
+		"series": [],
 		"length": 950,
 		"hosts": [
 			"Eddy",
@@ -2781,12 +3001,13 @@
 	{
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 5888,
+			"viewCount": 5889,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 150
 		},
 		"title": "[1] Let's Play Amplitude mit Simon und Gregor | Einfach mal auf Musik ballern | 12.01.2016",
+		"series": [],
 		"length": 1986,
 		"hosts": [
 			"Simon",
@@ -2802,12 +3023,13 @@
 	{
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 11096,
+			"viewCount": 11098,
 			"favoriteCount": 0,
 			"dislikeCount": 31,
-			"likeCount": 356
+			"likeCount": 357
 		},
 		"title": "#MoinMoin mit Tim und Sofia | Madonna-Songs, Dreamhack-Partybus, Der Kaugummiautomat | 14.01.2016",
+		"series": [],
 		"length": 2610,
 		"hosts": [
 			"Tim H",
@@ -2823,12 +3045,13 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 3404,
+			"viewCount": 3405,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 97
 		},
 		"title": "[1/4] Minecraft mit Hauke | Rocketminers #9 | 11.01.2016",
+		"series": [],
 		"length": 1832,
 		"hosts": [
 			"Hauke"
@@ -2843,12 +3066,13 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 1886,
+			"viewCount": 1887,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 57
 		},
 		"title": "[2/4] Minecraft mit Hauke | Rocketminers #9 | 11.01.2016",
+		"series": [],
 		"length": 1888,
 		"hosts": [
 			"Hauke"
@@ -2869,6 +3093,7 @@
 			"likeCount": 47
 		},
 		"title": "[3/4] Minecraft mit Hauke | Rocketminers #9 | 11.01.2016",
+		"series": [],
 		"length": 1933,
 		"hosts": [
 			"Hauke"
@@ -2889,6 +3114,7 @@
 			"likeCount": 528
 		},
 		"title": "[1/3] Q&A #16 mit Hauke und Marco | Couch an Couch, Radio Nukular, Zuschauerzahlen | 13.01.2016",
+		"series": [],
 		"length": 845,
 		"hosts": [
 			"Hauke",
@@ -2910,6 +3136,7 @@
 			"likeCount": 489
 		},
 		"title": "[2/3] Q&A #16 mit Hauke und Marco | Almost Daily-Pause, Beans vs, Beards, Clickbait | 13.01.2016",
+		"series": [],
 		"length": 1674,
 		"hosts": [
 			"Hauke",
@@ -2931,6 +3158,7 @@
 			"likeCount": 49
 		},
 		"title": "[4/4] Minecraft mit Hauke | Rocketminers #9 | 11.01.2016",
+		"series": [],
 		"length": 1071,
 		"hosts": [
 			"Hauke"
@@ -2945,12 +3173,13 @@
 	{
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 10812,
+			"viewCount": 10813,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 400
 		},
 		"title": "[3/3] Q&A #16 mit Hauke, Marco und Budi | Dreamhack 2016, Beanscastle, Ping of Pong | 13.01.2016",
+		"series": [],
 		"length": 824,
 		"hosts": [
 			"Budi",
@@ -2967,12 +3196,15 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 10022,
+			"viewCount": 10025,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 217
 		},
 		"title": "[6] Let's Play Tales from the Borderlands mit Simon | Epischer Einstieg | 12.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1075,
 		"hosts": [
 			"Simon"
@@ -2987,12 +3219,15 @@
 	{
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 10624,
+			"viewCount": 10629,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 211
 		},
 		"title": "[7] Let's Play Tales from the Borderlands mit Simon und Uke \"That's Bro. Bro.\" | 12.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1845,
 		"hosts": [
 			"Simon",
@@ -3008,12 +3243,15 @@
 	{
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 10229,
+			"viewCount": 10234,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 202
 		},
 		"title": "[8] Let's Play Tales from the Borderlands mit Simon und Uke | Trants Sensei Uke Bosse | 12.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1736,
 		"hosts": [
 			"Simon",
@@ -3029,12 +3267,13 @@
 	{
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 8319,
+			"viewCount": 8323,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 423
 		},
 		"title": "[4] Panelz mit Tim G. und Blitz | Star Wars-Comics und Ralph Azham | 10.01.2016",
+		"series": [],
 		"length": 2050,
 		"hosts": [
 			"Blitz",
@@ -3056,6 +3295,7 @@
 			"likeCount": 90
 		},
 		"title": "[1/2] Let's Play Hardware Rivals mit Gunnar und Dennis H. | Das Wrestling-Textadventure | 13.01.2016",
+		"series": [],
 		"length": 1574,
 		"hosts": [
 			"Gunnar",
@@ -3077,6 +3317,7 @@
 			"likeCount": 38
 		},
 		"title": "[2/2] Let's Play Hardware Rivals mit Gunnar und Dennis H. | Gunnars Wochenende | 13.01.2016",
+		"series": [],
 		"length": 1635,
 		"hosts": [
 			"Gunnar",
@@ -3098,6 +3339,7 @@
 			"likeCount": 464
 		},
 		"title": "[1] Let's Play Who's Your Daddy mit Gunnar und Gregor | Erziehung wie sie sein sollte | 12.01.2016",
+		"series": [],
 		"length": 1589,
 		"hosts": [
 			"Gunnar",
@@ -3119,6 +3361,7 @@
 			"likeCount": 743
 		},
 		"title": "[1/3] Bohn Jour #50 | The Ping of Pong-Premiere, Highlights & Pari Pari | 13.01.2016",
+		"series": [],
 		"length": 1795,
 		"hosts": [
 			"Budi",
@@ -3134,12 +3377,13 @@
 	{
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 28452,
+			"viewCount": 28458,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 823
 		},
 		"title": "[2/3] Bohn Jour #50 | Methodisch Inkorrekt-Podcast & Mate Knights | 13.01.2016",
+		"series": [],
 		"length": 3358,
 		"hosts": [
 			"Budi",
@@ -3161,6 +3405,7 @@
 			"likeCount": 525
 		},
 		"title": "[3/3] Bohn Jour #50 | Oh Sir! Beleidigungen statt F\u00e4uste, Wer ist die sch\u00f6nste Bohne? | 13.01.2016",
+		"series": [],
 		"length": 2075,
 		"hosts": [
 			"Budi",
@@ -3176,12 +3421,13 @@
 	{
 		"stats": {
 			"commentCount": 207,
-			"viewCount": 34841,
+			"viewCount": 34843,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1155
 		},
 		"title": "Kino+ Spezial | Oscars 2016 - Die Nominierungen | 14.01.2016",
+		"series": [],
 		"length": 1543,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -3197,12 +3443,13 @@
 	{
 		"stats": {
 			"commentCount": 115,
-			"viewCount": 21043,
+			"viewCount": 21045,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 724
 		},
 		"title": "Mutter bastelt einen neuen Sohn, Esport in der Schule, Alan Rickman verstorben | News vom 14.01.2016",
+		"series": [],
 		"length": 459,
 		"hosts": [],
 		"published": 1452805201,
@@ -3215,12 +3462,13 @@
 	{
 		"stats": {
 			"commentCount": 73,
-			"viewCount": 37056,
+			"viewCount": 37063,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1029
 		},
 		"title": "[1/3] Kino+ #95 | Golden Globes, Creed und The Big Short | 14.01.2016",
+		"series": [],
 		"length": 1948,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -3236,12 +3484,13 @@
 	{
 		"stats": {
 			"commentCount": 241,
-			"viewCount": 41534,
+			"viewCount": 41561,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 1145
 		},
 		"title": "[2/3] Kino+ #95 mit Moritz Bleibtreu und Stephan Rick | Die dunkle Seite des Mondes | 14.01.2016",
+		"series": [],
 		"length": 3900,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -3257,12 +3506,13 @@
 	{
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 20644,
+			"viewCount": 20645,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 665
 		},
 		"title": "[3/3] Kino+ #95 mit Stephan Rick | Filme mit Moritz Bleibtreu | 14.01.2016",
+		"series": [],
 		"length": 1690,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -3278,12 +3528,13 @@
 	{
 		"stats": {
 			"commentCount": 118,
-			"viewCount": 20993,
+			"viewCount": 20995,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 864
+			"likeCount": 865
 		},
 		"title": "#MoinMoin mit Budi und Gunnar | #Gebohnstag, Live-Einkaufen, Gunnars Bankdaten | 15.01.2016|",
+		"series": [],
 		"length": 3705,
 		"hosts": [
 			"Budi",
@@ -3305,6 +3556,7 @@
 			"likeCount": 189
 		},
 		"title": "[1/2] Let's Play Counter-Strike Global Offensive mit Budi und Max | Eine Diva bei RBTV | 13.01.2016",
+		"series": [],
 		"length": 2893,
 		"hosts": [
 			"Budi",
@@ -3326,6 +3578,7 @@
 			"likeCount": 86
 		},
 		"title": "[2/2] Let's Play Counter-Strike Global Offensive mit Budi und Max | Budi wird gemessert | 13.01.2016",
+		"series": [],
 		"length": 1437,
 		"hosts": [
 			"Budi",
@@ -3341,12 +3594,13 @@
 	{
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 21825,
+			"viewCount": 21829,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 639
 		},
 		"title": "[1/3] Wir m\u00fcssen reden mit Ian | Pr\u00fcgeleien | 11.01.2016",
+		"series": [],
 		"length": 1435,
 		"hosts": [
 			"Gunnar",
@@ -3362,12 +3616,13 @@
 	{
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 14200,
+			"viewCount": 14202,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 424
 		},
 		"title": "[2/3] Wir m\u00fcssen reden mit Ian | Pr\u00fcgeleien | 11.01.2016",
+		"series": [],
 		"length": 2029,
 		"hosts": [
 			"Gunnar",
@@ -3383,12 +3638,13 @@
 	{
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 12387,
+			"viewCount": 12391,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 491
 		},
 		"title": "[3/3] Wir m\u00fcssen reden mit Ian | Pr\u00fcgeleien | 11.01.2016",
+		"series": [],
 		"length": 1632,
 		"hosts": [
 			"Gunnar",
@@ -3404,12 +3660,13 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 24268,
+			"viewCount": 24294,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 502
 		},
 		"title": "[1/2] Awesome Games Done Quick mit Simon, Gregor und Sia | Speedrundale | 16.01.2016",
+		"series": [],
 		"length": 1766,
 		"hosts": [
 			"Simon",
@@ -3426,12 +3683,13 @@
 	{
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 14779,
+			"viewCount": 14787,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 349
 		},
 		"title": "[2/2] Awesome Games Done Quick mit Simon, Gregor und Sia | Speedrundale | 30.01.2016",
+		"series": [],
 		"length": 1315,
 		"hosts": [
 			"Simon",
@@ -3448,12 +3706,13 @@
 	{
 		"stats": {
 			"commentCount": 136,
-			"viewCount": 42647,
+			"viewCount": 42677,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 1370
 		},
 		"title": "[15] Spiele mit Bart | Gabriel Knight II mit Simon und Gregor | 16.01.2016",
+		"series": [],
 		"length": 3621,
 		"hosts": [
 			"Gregor",
@@ -3469,12 +3728,13 @@
 	{
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 18842,
+			"viewCount": 18876,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 342
 		},
 		"title": "[1] Let's Play Star Citizen mit Nils und Jens | Geteilte Meinungen | 13.01.2016",
+		"series": [],
 		"length": 1167,
 		"hosts": [
 			"Nils",
@@ -3490,12 +3750,13 @@
 	{
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 17236,
+			"viewCount": 17263,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 379
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #38 | Logars Rache | Seite 1 | 16.01.2016",
+		"series": [],
 		"length": 1793,
 		"hosts": [
 			"Colin",
@@ -3512,12 +3773,13 @@
 	{
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 11587,
+			"viewCount": 11603,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 207
 		},
 		"title": "[2] Let's Play Star Citizen mit Nils und Jens | Auf der Raumstation | 13.01.2016",
+		"series": [],
 		"length": 1886,
 		"hosts": [
 			"Nils",
@@ -3533,12 +3795,13 @@
 	{
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 13427,
+			"viewCount": 13443,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 307
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #38 | Logars Rache | Seite 2 | 16.01.2016",
+		"series": [],
 		"length": 1663,
 		"hosts": [
 			"Colin",
@@ -3555,12 +3818,13 @@
 	{
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 8325,
+			"viewCount": 8331,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 155
 		},
 		"title": "[3] Let's Play Star Citizen mit Nils und Jens | Das halb zerst\u00f6rte Schiff | 13.01.2016",
+		"series": [],
 		"length": 1471,
 		"hosts": [
 			"Nils",
@@ -3576,12 +3840,13 @@
 	{
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 18587,
+			"viewCount": 18588,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 692
 		},
 		"title": "Happy Birthday Rocket Beans TV,  RBTV-Game von 2K-Games, The Division | News vom 15.01.2016",
+		"series": [],
 		"length": 304,
 		"hosts": [],
 		"published": 1453053600,
@@ -3594,12 +3859,13 @@
 	{
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 34077,
+			"viewCount": 34076,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 834
 		},
 		"title": "[1/3] GAME plus # 27 | Doom, Tales from the Borderlands, Amplitude, Pok\u00e9mon Tekken | 16.01.2016",
+		"series": [],
 		"length": 917,
 		"hosts": [
 			"Colin",
@@ -3616,12 +3882,13 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 7359,
+			"viewCount": 7366,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 151
 		},
 		"title": "[4] Let's Play Star Citizen mit Nils und Jens | Der Shooter im Weltraumspiel | 13.01.2016",
+		"series": [],
 		"length": 2253,
 		"hosts": [
 			"Nils",
@@ -3643,6 +3910,7 @@
 			"likeCount": 736
 		},
 		"title": "[2/3] GAME plus # 27 | Homefront, Goat Simulator, Der gr\u00f6\u00dfte Trimuph im Gaming #1 | 16.01.2016",
+		"series": [],
 		"length": 2056,
 		"hosts": [
 			"Colin",
@@ -3659,12 +3927,13 @@
 	{
 		"stats": {
 			"commentCount": 73,
-			"viewCount": 23930,
+			"viewCount": 23931,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 750
 		},
 		"title": "[3/3] GAME plus # 27 | Der gr\u00f6\u00dfte Triumph im Gaming #2, Gino's Gamepitch: (Ab)-Spekken | 16.01.2016",
+		"series": [],
 		"length": 1394,
 		"hosts": [
 			"Colin",
@@ -3687,6 +3956,9 @@
 			"likeCount": 108
 		},
 		"title": "[79] Let's Play Cities: Skylines mit Hannes und Steffen | Ein wundersch\u00f6ner Knast | 14.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 988,
 		"hosts": [
 			"Hannes",
@@ -3708,6 +3980,9 @@
 			"likeCount": 75
 		},
 		"title": "[80] Let's Play Cities: Skylines mit Hannes und Steffen | \"Ich mag Z\u00fcge\" | 14.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 1550,
 		"hosts": [
 			"Hannes",
@@ -3723,12 +3998,13 @@
 	{
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 11717,
+			"viewCount": 11726,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
 			"likeCount": 374
 		},
 		"title": "[13] Buch Klub | \"Blade Runner\" von Philip K. Dick & \"Null\" von Adam Fawer  | 17.01.2016",
+		"series": [],
 		"length": 1857,
 		"hosts": [
 			"Bell",
@@ -3750,6 +4026,9 @@
 			"likeCount": 76
 		},
 		"title": "[81] Let's Play Cities: Skylines mit Hannes und Steffen | Bukake & der gelbe Strand | 14.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 1794,
 		"hosts": [
 			"Hannes",
@@ -3771,6 +4050,9 @@
 			"likeCount": 77
 		},
 		"title": "[82] Let's Play Cities: Skylines mit Hannes und Steffen | Bukake & der gelbe Strand | 14.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 1505,
 		"hosts": [
 			"Hannes",
@@ -3792,6 +4074,9 @@
 			"likeCount": 73
 		},
 		"title": "[83] Let's Play Cities: Skylines mit Hannes und Steffen | Hanns urster Zweitname | 14.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 628,
 		"hosts": [
 			"Hannes",
@@ -3807,12 +4092,15 @@
 	{
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 24588,
+			"viewCount": 24608,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 466
 		},
 		"title": "[1] Beans vs Doom mit Dennis R. und Budi | Hurt me Plenty | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 612,
 		"hosts": [
 			"Dennis R",
@@ -3828,12 +4116,15 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 17023,
+			"viewCount": 17038,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 303
 		},
 		"title": "[2] Beans vs Doom mit Dennis R. und Budi | Ein fragw\u00fcrdiger  Spielstil | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 2451,
 		"hosts": [
 			"Dennis R",
@@ -3849,12 +4140,15 @@
 	{
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 10448,
+			"viewCount": 10457,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 218
 		},
 		"title": "[3] Beans vs Doom mit Budi und Hannes | \"Sch\u00f6n den Oberleib abgetrennt\" | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 2011,
 		"hosts": [
 			"Budi",
@@ -3870,12 +4164,15 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 8078,
+			"viewCount": 8080,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 171
 		},
 		"title": "[4] Beans vs Doom mit Hannes und Budi | Alt aber schnell | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1611,
 		"hosts": [
 			"Hannes",
@@ -3897,6 +4194,9 @@
 			"likeCount": 164
 		},
 		"title": "[5] Beans vs Doom mit Hannes, Gunnar und Budi | Ein Portal zum sterben | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1867,
 		"hosts": [
 			"Hannes",
@@ -3919,6 +4219,9 @@
 			"likeCount": 187
 		},
 		"title": "[6] Beans vs Doom mit Gregor und Simon | Unsichtbar mit den falschen Kontaktlinsen | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1765,
 		"hosts": [
 			"Gregor",
@@ -3934,12 +4237,15 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 6457,
+			"viewCount": 6459,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 148
 		},
 		"title": "[7] Beans vs Doom mit Gregor und Simon | Unsichtbar mit den falschen Kontaktlinsen | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1648,
 		"hosts": [
 			"Gregor",
@@ -3955,12 +4261,15 @@
 	{
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 9073,
+			"viewCount": 9076,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 206
 		},
 		"title": "[8] Beans vs Doom mit Budi und Etienne | Der erste sp\u00e4te Rage | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 2055,
 		"hosts": [
 			"Eddy",
@@ -3976,12 +4285,15 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 6195,
+			"viewCount": 6197,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 154
 		},
 		"title": "[9] Beans vs Doom mit Gregor und Simon | Das menschliche Equivalent zum H\u00fcnchen | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1733,
 		"hosts": [
 			"Gregor",
@@ -3997,12 +4309,15 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5503,
+			"viewCount": 5506,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 129
 		},
 		"title": "[10] Beans vs Doom mit Gregor und Simon | \"Die T\u00fcren sind keine Freunde\" | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1685,
 		"hosts": [
 			"Gregor",
@@ -4018,12 +4333,15 @@
 	{
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 8458,
+			"viewCount": 8461,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 161
 		},
 		"title": "[11] Beans vs Doom mit Etienne, Budi und Nils | Der Opferpartner | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1743,
 		"hosts": [
 			"Eddy",
@@ -4039,12 +4357,15 @@
 	{
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 10113,
+			"viewCount": 10118,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 204
 		},
 		"title": "[12] Beans vs Doom 1 & 3 mit Simon und Etienne | Das Chat-Voting | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1765,
 		"hosts": [
 			"Eddy",
@@ -4060,12 +4381,13 @@
 	{
 		"stats": {
 			"commentCount": 74,
-			"viewCount": 12361,
+			"viewCount": 12365,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 511
 		},
 		"title": "#MoinMoin mit Hannes | Das neue Beans-Jahr, Dreamhack-Bus, die Hood des Kings | 18.01.2016",
+		"series": [],
 		"length": 2719,
 		"hosts": [
 			"Hannes"
@@ -4080,12 +4402,13 @@
 	{
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 14200,
+			"viewCount": 14203,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 351
 		},
 		"title": "[1/4] Let's Play Aviary Attorney mit Simon und Nils | Das Spiel mit V\u00f6geln  | 14.01.2016",
+		"series": [],
 		"length": 942,
 		"hosts": [
 			"Nils",
@@ -4107,6 +4430,7 @@
 			"likeCount": 184
 		},
 		"title": "[2/4] Let's Play Aviary Attorney mit Simon und Nils | The helpful Falcon | 14.01.2016",
+		"series": [],
 		"length": 1379,
 		"hosts": [
 			"Nils",
@@ -4128,6 +4452,7 @@
 			"likeCount": 173
 		},
 		"title": "[3/4] Let's Play Aviary Attorney mit Simon und Nils | Some questions for the Lion Baron | 14.01.2016",
+		"series": [],
 		"length": 1692,
 		"hosts": [
 			"Nils",
@@ -4149,6 +4474,7 @@
 			"likeCount": 218
 		},
 		"title": "[4/4] Let's Play Aviary Attorney mit Simon und Nils | Theorien und alles anfechten | 14.01.2016",
+		"series": [],
 		"length": 749,
 		"hosts": [
 			"Nils",
@@ -4164,12 +4490,13 @@
 	{
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 41932,
+			"viewCount": 41953,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1523
 		},
 		"title": "[1/4] 100 Jahre Rocket Beans Geburtstagsparty | Der Gebohnstagskuchen | 15.01.2016",
+		"series": [],
 		"length": 1409,
 		"hosts": [
 			"Eddy",
@@ -4185,12 +4512,15 @@
 	{
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 11084,
+			"viewCount": 11091,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 234
 		},
 		"title": "[8] Soma mit Nils und Simon | Simonster | 14.01.2016",
+		"series": [
+			"Soma"
+		],
 		"length": 1643,
 		"hosts": [
 			"Nils",
@@ -4206,12 +4536,15 @@
 	{
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 8322,
+			"viewCount": 8330,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 204
 		},
 		"title": "[9] Soma mit Nils und Simon | Simonster | 14.01.2016",
+		"series": [
+			"Soma"
+		],
 		"length": 1640,
 		"hosts": [
 			"Nils",
@@ -4227,12 +4560,13 @@
 	{
 		"stats": {
 			"commentCount": 75,
-			"viewCount": 35828,
+			"viewCount": 35839,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 1087
+			"likeCount": 1088
 		},
 		"title": "[2/4] 100 Jahre Rocket Beans Geburtstagsparty | Babyfotos der Bohnen, 5 Minuten Ruhm | 15.01.2016",
+		"series": [],
 		"length": 2398,
 		"hosts": [
 			"Eddy",
@@ -4254,6 +4588,7 @@
 			"likeCount": 536
 		},
 		"title": "Dreamhack 2016 | Esport, Shows und Party auf der gr\u00f6\u00dften deutschen LAN-Party | Teaser",
+		"series": [],
 		"length": 33,
 		"hosts": [],
 		"published": 1453142649,
@@ -4264,12 +4599,13 @@
 	{
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 31943,
+			"viewCount": 31956,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 882
 		},
 		"title": "[3/4] 100 Jahre Rocket Beans Geburtstagsparty | That's what HE said!, Geschenke! | 15.01.2016",
+		"series": [],
 		"length": 1632,
 		"hosts": [
 			"Simon",
@@ -4285,12 +4621,15 @@
 	{
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 8399,
+			"viewCount": 8411,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 221
 		},
 		"title": "[10] Soma mit Nils und Simon | Simonster | 14.01.2016",
+		"series": [
+			"Soma"
+		],
 		"length": 1630,
 		"hosts": [
 			"Nils",
@@ -4306,12 +4645,13 @@
 	{
 		"stats": {
 			"commentCount": 94,
-			"viewCount": 30528,
+			"viewCount": 30539,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 1069
 		},
 		"title": "[4/4] 100 Jahre Rocket Beans Geburtstagsparty | Die Pinata, Geburtsagsgr\u00fc\u00dfe!, Kuchen | 15.01.2016",
+		"series": [],
 		"length": 2530,
 		"hosts": [
 			"Eddy",
@@ -4327,12 +4667,13 @@
 	{
 		"stats": {
 			"commentCount": 197,
-			"viewCount": 42104,
+			"viewCount": 42259,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
-			"likeCount": 1657
+			"likeCount": 1658
 		},
 		"title": "Etienne und Nils in unserem Merch-Store bei Otaku | Rocket Beans On Tour HD",
+		"series": [],
 		"length": 2008,
 		"hosts": [
 			"Eddy",
@@ -4348,12 +4689,13 @@
 	{
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 15692,
+			"viewCount": 15694,
 			"favoriteCount": 0,
 			"dislikeCount": 149,
 			"likeCount": 521
 		},
 		"title": "Endlich da - Einkaufen ohne Druck auf der D\u00fcse, DanganRonpa bei Steam, Turtles | News vom 18.01.2016",
+		"series": [],
 		"length": 481,
 		"hosts": [],
 		"published": 1453147200,
@@ -4366,12 +4708,13 @@
 	{
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 7909,
+			"viewCount": 7913,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 258
 		},
 		"title": "[1/2] Weihnachtsgr\u00fc\u00dfe in Retro-Spielen, David Bowie in Games | Retro Klub mit Gregor | 14.01.2016",
+		"series": [],
 		"length": 791,
 		"hosts": [
 			"Gregor"
@@ -4386,12 +4729,13 @@
 	{
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 8354,
+			"viewCount": 8357,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 270
 		},
 		"title": "[2/2] Outtakes vom Future Club, Die besten Retro-Games 2015 | Retro Klub mit Gregor | 14.01.2016",
+		"series": [],
 		"length": 2531,
 		"hosts": [
 			"Gregor"
@@ -4406,12 +4750,13 @@
 	{
 		"stats": {
 			"commentCount": 126,
-			"viewCount": 35940,
+			"viewCount": 35949,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 1069
 		},
 		"title": "[1/5] Press Select mit Etienne, Budi, Claas Paletta  & Thorsten K\u00fcchler | Trends 2016 | 17.01.2016",
+		"series": [],
 		"length": 959,
 		"hosts": [
 			"Colin",
@@ -4428,12 +4773,13 @@
 	{
 		"stats": {
 			"commentCount": 109,
-			"viewCount": 29030,
+			"viewCount": 29035,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 817
 		},
 		"title": "[2/5] Press Select mit Etienne, Budi, Claas Paletta  & Thorsten K\u00fcchler | Trends 2016 | 17.01.2016",
+		"series": [],
 		"length": 1681,
 		"hosts": [
 			"Colin",
@@ -4450,12 +4796,13 @@
 	{
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 23755,
+			"viewCount": 23759,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 691
 		},
 		"title": "[3/5] Press Select mit Etienne, Budi, Claas Paletta  & Thorsten K\u00fcchler | Trends 2016 | 17.01.2016",
+		"series": [],
 		"length": 1520,
 		"hosts": [
 			"Colin",
@@ -4472,12 +4819,13 @@
 	{
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 21216,
+			"viewCount": 21218,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 669
 		},
 		"title": "[4/5] Press Select mit Etienne, Budi, Claas Paletta  & Thorsten K\u00fcchler | Trends 2016 | 17.01.2016",
+		"series": [],
 		"length": 1507,
 		"hosts": [
 			"Colin",
@@ -4494,12 +4842,13 @@
 	{
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 17369,
+			"viewCount": 17370,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 650
 		},
 		"title": "[5/5] Press Select mit Etienne, Budi, Claas Paletta  & Thorsten K\u00fcchler | Trends 2016 | 17.01.2016",
+		"series": [],
 		"length": 841,
 		"hosts": [
 			"Colin",
@@ -4516,12 +4865,15 @@
 	{
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 4412,
+			"viewCount": 4413,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 125
 		},
 		"title": "[4] Let's Play King's Quest mit Etienne | Eindringlinge? Wo? | 18.01.2016",
+		"series": [
+			"King's Quest"
+		],
 		"length": 1888,
 		"hosts": [
 			"Eddy"
@@ -4536,12 +4888,15 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 3184,
+			"viewCount": 3185,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 77
 		},
 		"title": "[5] Let's Play King's Quest mit Etienne | Der Ritterlichkeitstest | 18.01.2016",
+		"series": [
+			"King's Quest"
+		],
 		"length": 2605,
 		"hosts": [
 			"Eddy"
@@ -4556,12 +4911,13 @@
 	{
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 10559,
+			"viewCount": 10558,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 398
 		},
 		"title": "#MoinMoin mit Budi | Twitter ist down, Psychedelische Kinderspiele, Telefonprank | 19.01.2016",
+		"series": [],
 		"length": 2938,
 		"hosts": [
 			"Budi"
@@ -4576,12 +4932,15 @@
 	{
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 9596,
+			"viewCount": 9598,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 152
+			"likeCount": 153
 		},
 		"title": "[13] Beans vs Doom 3 mit Etienne und Colin | Der K\u00f6rper als T\u00fcr\u00f6ffner | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1725,
 		"hosts": [
 			"Eddy",
@@ -4597,12 +4956,15 @@
 	{
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 4421,
+			"viewCount": 4425,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 97
 		},
 		"title": "[14] Beans vs Doom 3 mit Holzf\u00e4ller-Steffen und Jan | Streetfighter Anekdote | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1663,
 		"hosts": [
 			"Jan"
@@ -4617,12 +4979,15 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 3079,
+			"viewCount": 3081,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 79
 		},
 		"title": "[15] Beans vs Doom 3 mit Steffen G. und Jan | Immer in die Ecke | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1584,
 		"hosts": [
 			"Jan",
@@ -4638,12 +5003,15 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4256,
+			"viewCount": 4258,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 81
 		},
 		"title": "[16] Beans vs Doom 3 mit Steffen G. und Jan | 1,2 oder 3 - letzte Chance vorbei | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1594,
 		"hosts": [
 			"Jan",
@@ -4665,6 +5033,7 @@
 			"likeCount": 142
 		},
 		"title": "[1/3] Let's Play Ludum Dare mit Budi | Entwickler gegen Entwickler | 18.01.2016",
+		"series": [],
 		"length": 894,
 		"hosts": [
 			"Budi"
@@ -4685,6 +5054,7 @@
 			"likeCount": 74
 		},
 		"title": "[2/3] Let's Play Ludum Dare mit Budi | Double Kick Heroes, Agent Hooker | 18.01.2016",
+		"series": [],
 		"length": 1474,
 		"hosts": [
 			"Budi"
@@ -4705,6 +5075,7 @@
 			"likeCount": 62
 		},
 		"title": "[3/3] Let's Play Ludum Dare mit Budi | Snake Date, Psychotennis, Shoot'n Grow | 18.01.2016",
+		"series": [],
 		"length": 920,
 		"hosts": [
 			"Budi"
@@ -4719,12 +5090,13 @@
 	{
 		"stats": {
 			"commentCount": 260,
-			"viewCount": 98052,
+			"viewCount": 98287,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 3778
+			"likeCount": 3782
 		},
 		"title": "Die gro\u00dfe Rocket Beans-Highlight-Show | Ein R\u00fcckblick auf das Jahr 2015 | 15.01.2016",
+		"series": [],
 		"length": 2523,
 		"hosts": [],
 		"published": 1453221000,
@@ -4735,12 +5107,15 @@
 	{
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 15645,
+			"viewCount": 15649,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 448
 		},
 		"title": "[73] Pok\u00e9mon - Feuerrote Edition mit Etienne | Schnittwunden und Gehirnfotos | Classix | 18.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1729,
 		"hosts": [
 			"Eddy"
@@ -4755,12 +5130,15 @@
 	{
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 14651,
+			"viewCount": 14655,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 370
 		},
 		"title": "[74] Pok\u00e9mon - Feuerrote Edition mit Etienne | Aufleven und hoffen | Classix | 18.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 2016,
 		"hosts": [
 			"Eddy"
@@ -4775,12 +5153,13 @@
 	{
 		"stats": {
 			"commentCount": 68,
-			"viewCount": 28508,
+			"viewCount": 28543,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 908
+			"likeCount": 909
 		},
 		"title": "Best of Rocket Beans Music | Das beste der Bohn Jour Band 2015 | 15.01.2016",
+		"series": [],
 		"length": 4735,
 		"hosts": [],
 		"published": 1453226400,
@@ -4791,12 +5170,15 @@
 	{
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 15242,
+			"viewCount": 15247,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 393
 		},
 		"title": "[75] Pok\u00e9mon - Feuerrote Edition mit Etienne | Licht am Ende der H\u00f6hle | Classix | 18.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1947,
 		"hosts": [
 			"Eddy"
@@ -4811,12 +5193,15 @@
 	{
 		"stats": {
 			"commentCount": 286,
-			"viewCount": 25254,
+			"viewCount": 25261,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 863
 		},
 		"title": "[76] Pok\u00e9mon - Feuerrote Edition mit Etienne | Auch Siri kann nicht helfen | Classix | 18.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1810,
 		"hosts": [
 			"Eddy"
@@ -4831,12 +5216,13 @@
 	{
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 8265,
+			"viewCount": 8267,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 197
 		},
 		"title": "[1/3] Let's Play Xcom Enemy Within mit Simon | Die Railgun=eine sch\u00f6ne Wumme | 18.01.2016",
+		"series": [],
 		"length": 808,
 		"hosts": [
 			"Simon"
@@ -4857,6 +5243,7 @@
 			"likeCount": 147
 		},
 		"title": "[2/3] Let's Play Xcom Enemy Within mit Simon | Aliengranateninflation | 18.01.2016",
+		"series": [],
 		"length": 1856,
 		"hosts": [
 			"Simon"
@@ -4877,6 +5264,7 @@
 			"likeCount": 595
 		},
 		"title": "Glaubensfrage: Mamba oder Maoam?, Deadpool, Resident Evil Zero | News vom 19.01.2016",
+		"series": [],
 		"length": 407,
 		"hosts": [],
 		"published": 1453231801,
@@ -4895,6 +5283,7 @@
 			"likeCount": 140
 		},
 		"title": "[3/3] Let's Play Xcom Enemy Within mit Simon | Ein Mech ein Wort | 18.01.2016",
+		"series": [],
 		"length": 2264,
 		"hosts": [
 			"Simon"
@@ -4909,12 +5298,13 @@
 	{
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 15737,
+			"viewCount": 15739,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 446
 		},
 		"title": "[1/3] Wir m\u00fcssen reden mit Christian G\u00fcrnth | In dieser Welt w\u00fcrde ich gerne leben | 18.01.2016",
+		"series": [],
 		"length": 1016,
 		"hosts": [
 			"Gunnar"
@@ -4935,6 +5325,7 @@
 			"likeCount": 188
 		},
 		"title": "[1] Let's Play Xcom Enemy Unknown mit Simon | Alienpanik | 18.01.2016",
+		"series": [],
 		"length": 1707,
 		"hosts": [
 			"Simon"
@@ -4949,12 +5340,13 @@
 	{
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 8932,
+			"viewCount": 8930,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 290
 		},
 		"title": "[2/3] Wir m\u00fcssen reden mit Christian G\u00fcrnth | In dieser Welt w\u00fcrde ich gerne leben | 18.01.2016",
+		"series": [],
 		"length": 1821,
 		"hosts": [
 			"Gunnar"
@@ -4969,12 +5361,13 @@
 	{
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 8912,
+			"viewCount": 8915,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 309
 		},
 		"title": "[3/3] Wir m\u00fcssen reden mit Christian G\u00fcrnth | In dieser Welt w\u00fcrde ich gerne leben | 18.01.2016",
+		"series": [],
 		"length": 2433,
 		"hosts": [
 			"Gunnar"
@@ -4995,6 +5388,7 @@
 			"likeCount": 146
 		},
 		"title": "[1/2] Let's Play Dragon's Dogma: Dark Arisen mit Gregor | Der Schwarzenegger Adonis | 19.01.2016",
+		"series": [],
 		"length": 1584,
 		"hosts": [
 			"Gregor"
@@ -5015,6 +5409,7 @@
 			"likeCount": 84
 		},
 		"title": "[2/2] Let's Play Dragon's Dogma: Dark Arisen mit Gregor | Der Zyklopen-Oger in Raserei | 19.01.2016",
+		"series": [],
 		"length": 3455,
 		"hosts": [
 			"Gregor"
@@ -5029,12 +5424,13 @@
 	{
 		"stats": {
 			"commentCount": 173,
-			"viewCount": 37729,
+			"viewCount": 37738,
 			"favoriteCount": 0,
 			"dislikeCount": 117,
 			"likeCount": 830
 		},
 		"title": "#MoinMoin mit Nasti und Gino | Ginos neuer Haarschnitt, Artzooka, Dreamhack-Party | 20.01.2016",
+		"series": [],
 		"length": 2704,
 		"hosts": [
 			"Gino",
@@ -5050,12 +5446,15 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4232,
+			"viewCount": 4230,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 82
 		},
 		"title": "[1] Dropsy mit Sofia und Madlin | Keine Gesunde Gangart | Point & Chick | 07.01.2016",
+		"series": [
+			"Dropsy"
+		],
 		"length": 1506,
 		"hosts": [
 			"Sofia",
@@ -5077,6 +5476,9 @@
 			"likeCount": 42
 		},
 		"title": "[2] Dropsy mit Sofia und Madlin | Alle f\u00fchlen sich einsam | Point & Chick | 07.01.2016",
+		"series": [
+			"Dropsy"
+		],
 		"length": 1545,
 		"hosts": [
 			"Sofia",
@@ -5092,12 +5494,15 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 4185,
+			"viewCount": 4187,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 96
 		},
 		"title": "[17] Beans vs Doom 2 Colin und Jens | Ruhig bleiben und dann Vollgas | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1215,
 		"hosts": [
 			"Jens",
@@ -5113,12 +5518,15 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 4127,
+			"viewCount": 4129,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 87
 		},
 		"title": "[18] Beans vs Doom 2 Jens, Sofia und Nils | Schurkenartige Drachenwesen | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1025,
 		"hosts": [
 			"Jens",
@@ -5135,12 +5543,15 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 3980,
+			"viewCount": 3981,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 86
 		},
 		"title": "[20] Beans vs Doom 2 Nils und Dennis Heinrichs | \"Wenn ich aime, weint man im Haus\" | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1725,
 		"hosts": [
 			"Nils",
@@ -5162,6 +5573,9 @@
 			"likeCount": 84
 		},
 		"title": "[21] Beans vs Doom 2 Nils und Dennis H. | Verschwendung des Berserkers | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1895,
 		"hosts": [
 			"Nils",
@@ -5183,6 +5597,9 @@
 			"likeCount": 79
 		},
 		"title": "[22] Beans vs Doom 2 Nils, Dennis H. und Schr\u00f6ck | Furunkel der H\u00f6lle | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 2157,
 		"hosts": [
 			"Nils",
@@ -5204,6 +5621,9 @@
 			"likeCount": 73
 		},
 		"title": "[23] Beans vs Doom 2 Schr\u00f6ck und Dennis H | Der Sekundenschlaf | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 2077,
 		"hosts": [
 			"Nils",
@@ -5226,6 +5646,9 @@
 			"likeCount": 85
 		},
 		"title": "[24] Beans vs Doom 2 Dennis H., Schr\u00f6ck und Gino | Am Ende der H\u00f6lle | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 2397,
 		"hosts": [
 			"Dennis H",
@@ -5248,6 +5671,9 @@
 			"likeCount": 89
 		},
 		"title": "[19] Beans vs Doom 2 Nils und Jan | Das Konzept der H\u00f6lle & das seelische Gef\u00e4ngnis | 08.01.2016",
+		"series": [
+			"Doom"
+		],
 		"length": 1652,
 		"hosts": [
 			"Jan",
@@ -5263,12 +5689,13 @@
 	{
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 11791,
+			"viewCount": 11799,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 346
 		},
 		"title": "[1/2] The Park mit Simon | \"H\u00f6r auf zu br\u00fcllen!\" | After Dark | 04.11.2015",
+		"series": [],
 		"length": 1104,
 		"hosts": [
 			"Simon"
@@ -5283,12 +5710,13 @@
 	{
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 8870,
+			"viewCount": 8872,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 280
 		},
 		"title": "[2/2] The Park mit Simon | \"Was w\u00fcrde Kraki machen?!\" | After Dark | 04.11.2015",
+		"series": [],
 		"length": 1639,
 		"hosts": [
 			"Simon"
@@ -5303,12 +5731,13 @@
 	{
 		"stats": {
 			"commentCount": 254,
-			"viewCount": 74016,
+			"viewCount": 74044,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 1818
 		},
 		"title": "[1/2] Chat Duell mit Colin | Bremer Bohnen gegen Radio Nukular | 19.01.2016",
+		"series": [],
 		"length": 2417,
 		"hosts": [
 			"Dennis H",
@@ -5326,12 +5755,13 @@
 	{
 		"stats": {
 			"commentCount": 143,
-			"viewCount": 49076,
+			"viewCount": 49088,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 1388
 		},
 		"title": "[2/2] Chat Duell mit Colin | Bremer Bohnen gegen Radio Nukular | 19.01.2016",
+		"series": [],
 		"length": 2003,
 		"hosts": [
 			"Dennis H",
@@ -5349,12 +5779,13 @@
 	{
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 18468,
+			"viewCount": 18470,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 515
 		},
 		"title": "[2/2] Almost Plaily #220 | Scharade mit Budi, Colin Schummelg\u00e4bel, Alwin und Gino | 20.01.2016",
+		"series": [],
 		"length": 1673,
 		"hosts": [
 			"Budi",
@@ -5372,12 +5803,13 @@
 	{
 		"stats": {
 			"commentCount": 104,
-			"viewCount": 30238,
+			"viewCount": 30241,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 727
 		},
 		"title": "[1/2] Almost Plaily #220 | Scharade mit Budi, Colin Schummelg\u00e4bel, Alwin und Gino | 20.01.2016",
+		"series": [],
 		"length": 1757,
 		"hosts": [
 			"Budi",
@@ -5395,12 +5827,13 @@
 	{
 		"stats": {
 			"commentCount": 90,
-			"viewCount": 25179,
+			"viewCount": 25180,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 852
 		},
 		"title": "Was ist denn mit Budi los?, Dark Souls-Comic, Wildstar am Ende? | News vom 20.01.2016",
+		"series": [],
 		"length": 392,
 		"hosts": [],
 		"published": 1453320000,
@@ -5413,12 +5846,13 @@
 	{
 		"stats": {
 			"commentCount": 130,
-			"viewCount": 23655,
+			"viewCount": 23663,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1157
 		},
 		"title": "[1/3] TheraThiel mit Michael Thiel und Max aka Rockstah | Thema: Mobbing | 19.01.2016",
+		"series": [],
 		"length": 1720,
 		"hosts": [
 			"Michael T"
@@ -5433,12 +5867,13 @@
 	{
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 15048,
+			"viewCount": 15051,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 626
 		},
 		"title": "[2/3] TheraThiel mit Michael Thiel und Max aka Rockstah | Thema: Mobbing | 19.01.2016",
+		"series": [],
 		"length": 1607,
 		"hosts": [
 			"Michael T"
@@ -5459,6 +5894,7 @@
 			"likeCount": 614
 		},
 		"title": "[3/3] TheraThiel mit Michael Thiel und Max aka Rockstah | Thema: Mobbing | 19.01.2016",
+		"series": [],
 		"length": 1817,
 		"hosts": [
 			"Michael T"
@@ -5479,6 +5915,7 @@
 			"likeCount": 119
 		},
 		"title": "[1/4] Let's Play Blade & Soul mit Jan | Press F to talk | 19.01.2016",
+		"series": [],
 		"length": 856,
 		"hosts": [
 			"Jan"
@@ -5499,6 +5936,7 @@
 			"likeCount": 193
 		},
 		"title": "#MoinMoin mit Steffen und Jens | Keys f\u00fcr alle, Dreamhack 2016, Beans vs Leipzig | 21.01.2016",
+		"series": [],
 		"length": 2651,
 		"hosts": [
 			"Steffen",
@@ -5520,6 +5958,7 @@
 			"likeCount": 68
 		},
 		"title": "[2/4] Let's Play Blade & Soul mit Jan | Zeig deine wahre St\u00e4rke | 19.01.2016",
+		"series": [],
 		"length": 1665,
 		"hosts": [
 			"Jan"
@@ -5540,6 +5979,7 @@
 			"likeCount": 49
 		},
 		"title": "[3/4] Let's Play Blade & Soul mit Jan | Grinden am Strand | 19.01.2016",
+		"series": [],
 		"length": 1603,
 		"hosts": [
 			"Jan"
@@ -5560,6 +6000,7 @@
 			"likeCount": 46
 		},
 		"title": "[4/4] Let's Play Blade & Soul mit Jan | \"Block das!\" B\u00c4M | 19.01.2016",
+		"series": [],
 		"length": 1292,
 		"hosts": [
 			"Jan"
@@ -5574,12 +6015,15 @@
 	{
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 9180,
+			"viewCount": 9185,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 195
 		},
 		"title": "[9] Let's Play Tales from the Borderlands mit Simon | Wie das A-Team in einem Roboter | 19.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 836,
 		"hosts": [
 			"Simon"
@@ -5594,12 +6038,15 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9014,
+			"viewCount": 9019,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 212
 		},
 		"title": "[10] Let's Play Tales from the Borderlands mit Simon | Lieferung des Humors | 19.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1981,
 		"hosts": [
 			"Simon"
@@ -5614,12 +6061,15 @@
 	{
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 6297,
+			"viewCount": 6301,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 193
+			"likeCount": 194
 		},
 		"title": "[6] Let's Play Tales Of Symphonia mit Gregor und Gino | Lloyd rettet die Schule | 20.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 932,
 		"hosts": [
 			"Gregor",
@@ -5635,12 +6085,15 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4776,
+			"viewCount": 4780,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 138
 		},
 		"title": "[7] Let's Play Tales Of Symphonia mit Gregor und Gino | Alle Hunde anspielen | 20.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1574,
 		"hosts": [
 			"Gregor",
@@ -5656,12 +6109,15 @@
 	{
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 4430,
+			"viewCount": 4435,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 108
+			"likeCount": 109
 		},
 		"title": "[8] Let's Play Tales Of Symphonia mit Gregor und Gino | Schlagkr\u00e4ftiger Hauptcharakter | 20.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1650,
 		"hosts": [
 			"Gregor",
@@ -5677,12 +6133,15 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 4098,
+			"viewCount": 4105,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 116
 		},
 		"title": "[9] Let's Play Tales Of Symphonia mit Gregor und Gino | Kein Orientierungssinn | 20.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1446,
 		"hosts": [
 			"Gregor",
@@ -5704,6 +6163,7 @@
 			"likeCount": 953
 		},
 		"title": "[1/3] Bohn Jour #51 mit Rockstah | Rob Vegas, Etiennes Gehirn & Pensen Paletti | 20.01.2016",
+		"series": [],
 		"length": 3513,
 		"hosts": [
 			"Eddy"
@@ -5718,12 +6178,15 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4045,
+			"viewCount": 4046,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 129
 		},
 		"title": "[10] Let's Play Tales Of Symphonia mit Gregor und Gino | Schuhexperte Gino | 20.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1002,
 		"hosts": [
 			"Gregor",
@@ -5739,12 +6202,13 @@
 	{
 		"stats": {
 			"commentCount": 228,
-			"viewCount": 29989,
+			"viewCount": 29995,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 998
 		},
 		"title": "[2/3] Bohn Jour #51 mit Rockstah | Setzen 6: Eddy und Rockstah in der Schule | 20.01.2016",
+		"series": [],
 		"length": 2373,
 		"hosts": [
 			"Eddy"
@@ -5759,12 +6223,13 @@
 	{
 		"stats": {
 			"commentCount": 78,
-			"viewCount": 26429,
+			"viewCount": 26433,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 821
 		},
 		"title": "[3/3] Bohn Jour #51 mit Rockstah | Die Medienkuh, Schr\u00f6cks Fake-Interview mit Cro | 20.01.2016",
+		"series": [],
 		"length": 2055,
 		"hosts": [
 			"Eddy"
@@ -5779,12 +6244,13 @@
 	{
 		"stats": {
 			"commentCount": 117,
-			"viewCount": 55861,
+			"viewCount": 55995,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
-			"likeCount": 2667
+			"likeCount": 2670
 		},
 		"title": "Gunnars gr\u00f6\u00dfter Streich: Schr\u00f6cks Interview mit Cro | Rocket Beans Highlights",
+		"series": [],
 		"length": 758,
 		"hosts": [],
 		"published": 1453402800,
@@ -5801,6 +6267,7 @@
 			"likeCount": 740
 		},
 		"title": "Darkwing Duck bei RBTV, ein neuer Planet, Scrap Mechanic | News vom 21.01.2016",
+		"series": [],
 		"length": 439,
 		"hosts": [],
 		"published": 1453404628,
@@ -5816,9 +6283,10 @@
 			"viewCount": 16555,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
-			"likeCount": 415
+			"likeCount": 416
 		},
 		"title": "Tilt Spezial: Ian zockt Pinball Arcade UNCUT | 10.01.2016",
+		"series": [],
 		"length": 1083,
 		"hosts": [
 			"Ian"
@@ -5833,12 +6301,13 @@
 	{
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 13401,
+			"viewCount": 13411,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 381
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #39 | Seytanias Opfer | Seite 2 | 23.01.2016",
+		"series": [],
 		"length": 1742,
 		"hosts": [
 			"Simon",
@@ -5855,12 +6324,13 @@
 	{
 		"stats": {
 			"commentCount": 115,
-			"viewCount": 38643,
+			"viewCount": 38649,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 861
 		},
 		"title": "[1/4] Kino+ #96 | Sicario, Die Hure, James Bond 007: Spectre | 21.01.2016",
+		"series": [],
 		"length": 918,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5877,12 +6347,13 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 5172,
+			"viewCount": 5174,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 104
 		},
 		"title": "[1/5] Let's Play Attractio mit Sofia und Jan |   | 20.01.2016",
+		"series": [],
 		"length": 798,
 		"hosts": [
 			"Jan",
@@ -5904,6 +6375,7 @@
 			"likeCount": 45
 		},
 		"title": "[2/5] Let's Play Attractio mit Sofia und Jan | 20.01.2016",
+		"series": [],
 		"length": 1656,
 		"hosts": [
 			"Jan",
@@ -5919,12 +6391,13 @@
 	{
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 33217,
+			"viewCount": 33221,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 749
 		},
 		"title": "[2/4] Kino+ #96 | Point Break, Anomalisa, Daddy's Home, Brooklyn, Ride Along | 21.01.2016",
+		"series": [],
 		"length": 2584,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5947,6 +6420,7 @@
 			"likeCount": 37
 		},
 		"title": "[3/5] Let's Play Attractio mit Sofia und Jan | 20.01.2016",
+		"series": [],
 		"length": 1546,
 		"hosts": [
 			"Jan",
@@ -5962,12 +6436,13 @@
 	{
 		"stats": {
 			"commentCount": 135,
-			"viewCount": 47085,
+			"viewCount": 47090,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 932
 		},
 		"title": "[3/4] Kino+ #96 | Deadpool, Netflix, Die Oscars, David Bowie, 10 Cloverfield Lane | 21.01.2016",
+		"series": [],
 		"length": 2971,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5984,12 +6459,13 @@
 	{
 		"stats": {
 			"commentCount": 170,
-			"viewCount": 26207,
+			"viewCount": 26209,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
 			"likeCount": 733
 		},
 		"title": "[4/4] Kino+ #96 | 10 Cloverfiled Lane, Suicide Squad, Batman v Superman | 21.01.2016",
+		"series": [],
 		"length": 1228,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6012,6 +6488,7 @@
 			"likeCount": 36
 		},
 		"title": "[4/5] Let's Play Attractio mit Sofia und Jan | 20.01.2016",
+		"series": [],
 		"length": 1626,
 		"hosts": [
 			"Jan",
@@ -6033,6 +6510,7 @@
 			"likeCount": 33
 		},
 		"title": "[5/5] Let's Play Attractio mit Sofia und Jan | 20.01.2016",
+		"series": [],
 		"length": 759,
 		"hosts": [
 			"Jan",
@@ -6054,6 +6532,7 @@
 			"likeCount": 379
 		},
 		"title": "#MoinMoin mit Colin und Michael | Dreamhack 2016, Wo Bohnen wohnen | 22.01.2016",
+		"series": [],
 		"length": 3993,
 		"hosts": [
 			"Colin",
@@ -6069,12 +6548,13 @@
 	{
 		"stats": {
 			"commentCount": 64,
-			"viewCount": 19719,
+			"viewCount": 19737,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 423
+			"likeCount": 424
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #39 | Seytanias Opfer | Seite 1 | 23.01.2016",
+		"series": [],
 		"length": 1936,
 		"hosts": [
 			"Simon",
@@ -6090,12 +6570,13 @@
 	{
 		"stats": {
 			"commentCount": 144,
-			"viewCount": 47385,
+			"viewCount": 47423,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1485
 		},
 		"title": "[16] Spiele mit Bart | Gabriel Knight II mit Simon und Gregor | 23.01.2016",
+		"series": [],
 		"length": 3413,
 		"hosts": [
 			"Simon",
@@ -6111,12 +6592,13 @@
 	{
 		"stats": {
 			"commentCount": 69,
-			"viewCount": 21548,
+			"viewCount": 21552,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 564
 		},
 		"title": "Dreamhack 2016 | #MoinMoin mit Budi & Etienne | \u00dc18-Bereich, Metro geh\u00f6rt die Welt | 22.01.2016",
+		"series": [],
 		"length": 2567,
 		"hosts": [
 			"Budi",
@@ -6133,12 +6615,13 @@
 	{
 		"stats": {
 			"commentCount": 70,
-			"viewCount": 9294,
+			"viewCount": 9295,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 455
 		},
 		"title": "#MoinMoin mit Gregor | Royal Rumble Reaktion, Telefonat mit Mama, Gabriel Knight Porn | 25.01.2016",
+		"series": [],
 		"length": 2698,
 		"hosts": [
 			"Gregor"
@@ -6159,6 +6642,7 @@
 			"likeCount": 247
 		},
 		"title": "Dreamhack 2016 | 5v5 Battleborn | Budi und Dennis suchen Leute f\u00fcr ihre Teams | 22.01.2016",
+		"series": [],
 		"length": 875,
 		"hosts": [
 			"Dennis R",
@@ -6174,12 +6658,13 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 12090,
+			"viewCount": 12093,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 252
 		},
 		"title": "[1/2] Dreamhack 2016 | 5v5 Battleborn | Team Jens mit Frodo gegen Team Budi mit LeFloid | 22.01.2016",
+		"series": [],
 		"length": 1019,
 		"hosts": [
 			"Jens",
@@ -6201,6 +6686,7 @@
 			"likeCount": 202
 		},
 		"title": "[2/2] Dreamhack 2016 | 5v5 Battleborn | Team Etienne gegen Team Dennis | 22.01.2016",
+		"series": [],
 		"length": 2530,
 		"hosts": [
 			"Dennis R",
@@ -6222,6 +6708,7 @@
 			"likeCount": 345
 		},
 		"title": "Dreamhack 2016 | Recap Freitag | Pokerturnier, Cosplayerinnen, Dennis auf der LAN | 22.01.2016",
+		"series": [],
 		"length": 2507,
 		"hosts": [
 			"Eddy",
@@ -6239,12 +6726,13 @@
 	{
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 11398,
+			"viewCount": 11408,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 254
 		},
 		"title": "[2/2] Awesome Games Done Quick mit Simon, Gregor und Sia | Speedrundale | 16.01.2016",
+		"series": [],
 		"length": 1609,
 		"hosts": [
 			"Sia",
@@ -6261,12 +6749,13 @@
 	{
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 18247,
+			"viewCount": 18258,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 322
 		},
 		"title": "[1/2] Awesome Games Done Quick mit Simon, Gregor und Sia | Speedrundale | 30.01.2016",
+		"series": [],
 		"length": 1569,
 		"hosts": [
 			"Sia",
@@ -6283,12 +6772,13 @@
 	{
 		"stats": {
 			"commentCount": 69,
-			"viewCount": 15475,
+			"viewCount": 15476,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 566
 		},
 		"title": "Der Tag der Jogginghose, die Dreamhack Partybus-Crew, Dr. Who im Free TV | News vom 22.01.2016",
+		"series": [],
 		"length": 415,
 		"hosts": [],
 		"published": 1453740909,
@@ -6301,12 +6791,13 @@
 	{
 		"stats": {
 			"commentCount": 45,
-			"viewCount": 16626,
+			"viewCount": 16628,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 678
+			"likeCount": 679
 		},
 		"title": "[3] Tilt mit Colin & Rockstah | Flipper ABC#2, Pinball 2000, Turnier - Das Finale | 24.01.2016",
+		"series": [],
 		"length": 2843,
 		"hosts": [
 			"Colin"
@@ -6321,12 +6812,13 @@
 	{
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 7565,
+			"viewCount": 7567,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 360
 		},
 		"title": "[5] Panelz mit Tim G. und Blitz | Zombies und Brian K Vaughans Paper Girls | 24.01.2016",
+		"series": [],
 		"length": 2013,
 		"hosts": [
 			"Blitz",
@@ -6342,12 +6834,13 @@
 	{
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 14048,
+			"viewCount": 14060,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 580
+			"likeCount": 581
 		},
 		"title": "[14] Buch Klub mit Dominik Hammes | The Complete Fiction von H.P. Lovecraft | 24.01.2016",
+		"series": [],
 		"length": 1575,
 		"hosts": [
 			"Simon"
@@ -6368,6 +6861,7 @@
 			"likeCount": 117
 		},
 		"title": "[1] Let's Play Oxenfree mit Gunnar | Ein Thriller mit Freunden | 21.01.2016",
+		"series": [],
 		"length": 639,
 		"hosts": [
 			"Gunnar"
@@ -6388,6 +6882,7 @@
 			"likeCount": 70
 		},
 		"title": "[2] Let's Play Oxenfree mit Gunnar | Die richtige Radiofrequenz | 21.01.2016",
+		"series": [],
 		"length": 1690,
 		"hosts": [
 			"Gunnar"
@@ -6408,6 +6903,7 @@
 			"likeCount": 74
 		},
 		"title": "[3] Let's Play Oxenfree mit Gunnar | \"Du kannst ruhig sterben!\" | 21.01.2016",
+		"series": [],
 		"length": 851,
 		"hosts": [
 			"Gunnar"
@@ -6422,12 +6918,13 @@
 	{
 		"stats": {
 			"commentCount": 60,
-			"viewCount": 18596,
+			"viewCount": 18599,
 			"favoriteCount": 0,
 			"dislikeCount": 81,
 			"likeCount": 670
 		},
 		"title": "Zensierte Dreamhack-Geschichten, Whats-App-Datenklau, Eunuchen-Gesang | News vom 25.01.2016",
+		"series": [],
 		"length": 559,
 		"hosts": [],
 		"published": 1453752663,
@@ -6440,12 +6937,13 @@
 	{
 		"stats": {
 			"commentCount": 179,
-			"viewCount": 40971,
+			"viewCount": 40973,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 1069
 		},
 		"title": "[1/3] GAME plus #28 | Toxikk, Pornhub will Weltraumporno, Nils \u00fcber Fallout 4 | 23.01.2016",
+		"series": [],
 		"length": 2226,
 		"hosts": [
 			"Simon",
@@ -6462,12 +6960,13 @@
 	{
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 29655,
+			"viewCount": 29657,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 704
 		},
 		"title": "[2/3] GAME plus #28 | Half Life: Prospekt, Resident Evil Zero, MGS: Shadow Moses | 23.01.2016",
+		"series": [],
 		"length": 1266,
 		"hosts": [
 			"Simon",
@@ -6484,12 +6983,13 @@
 	{
 		"stats": {
 			"commentCount": 74,
-			"viewCount": 27311,
+			"viewCount": 27313,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 855
+			"likeCount": 856
 		},
 		"title": "[3/3] GAME plus #28 | Jumpscares der RBTV-Redaktion, Hannes Gamepitch: Battle Ball | 23.01.2016",
+		"series": [],
 		"length": 1282,
 		"hosts": [
 			"Simon",
@@ -6512,6 +7012,9 @@
 			"likeCount": 114
 		},
 		"title": "[84] Let's Play Cities: Skylines mit Hannes und Dennis H. | Fehlende Gehwege | 21.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 650,
 		"hosts": [
 			"Hannes",
@@ -6533,6 +7036,9 @@
 			"likeCount": 105
 		},
 		"title": "[85] Let's Play Cities: Skylines mit Hannes und Dennis H. | Ein neues Gebiet | 21.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 1582,
 		"hosts": [
 			"Hannes",
@@ -6548,12 +7054,15 @@
 	{
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3144,
+			"viewCount": 3145,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 82
 		},
 		"title": "[86] Let's Play Cities: Skylines mit Hannes und Dennis H. | Der Sportplatz | 21.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 1660,
 		"hosts": [
 			"Hannes",
@@ -6569,12 +7078,15 @@
 	{
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3197,
+			"viewCount": 3196,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 77
 		},
 		"title": "[87] Let's Play Cities: Skylines mit Hannes und Dennis H. | Bukkake-Beach? | 21.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 1800,
 		"hosts": [
 			"Hannes",
@@ -6596,6 +7108,9 @@
 			"likeCount": 83
 		},
 		"title": "[88] Let's Play Cities: Skylines mit Hannes und Dennis H. | Unterwegs mitm LKW | 21.01.2016",
+		"series": [
+			"Cities: Skylines"
+		],
 		"length": 730,
 		"hosts": [
 			"Hannes",
@@ -6611,12 +7126,13 @@
 	{
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 12798,
+			"viewCount": 12800,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 358
 		},
 		"title": "[1/2] Dreamhack 2016 | LAN Kochen mit Budi und Schr\u00f6ck | Schnippeln und Labern auf LAN | 23.01.2016",
+		"series": [],
 		"length": 1712,
 		"hosts": [
 			"Budi",
@@ -6638,6 +7154,7 @@
 			"likeCount": 278
 		},
 		"title": "[2/2] Dreamhack 2016 | LAN Kochen mit Budi und Schr\u00f6ck | Schnippeln und Labern auf LAN | 23.01.2016",
+		"series": [],
 		"length": 1789,
 		"hosts": [
 			"Budi",
@@ -6659,6 +7176,7 @@
 			"likeCount": 142
 		},
 		"title": "Dreamhack 2016 | 5v5 Battleborn | Schr\u00f6ck und Dennis suchen Leute f\u00fcr ihre Teams | 23.01.2016",
+		"series": [],
 		"length": 761,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6680,6 +7198,7 @@
 			"likeCount": 615
 		},
 		"title": "#MoinMoin mit Budi | Frauen bei RBTV, der Chat \u00fcbernimmt die Regie, Politk | 26.01.2016",
+		"series": [],
 		"length": 2766,
 		"hosts": [
 			"Budi"
@@ -6694,12 +7213,13 @@
 	{
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 9212,
+			"viewCount": 9214,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 220
 		},
 		"title": "Dreamhack 2016 | 1v1 Blooby Volley | Dennis vs Budi vs TLO vs Leipzig | 23.01.2016",
+		"series": [],
 		"length": 1792,
 		"hosts": [
 			"Dennis R",
@@ -6721,6 +7241,7 @@
 			"likeCount": 186
 		},
 		"title": "Dreamhack 2016 | 2v2 TowerFall Ascension | Etienne vs Dennis vs Leipzig | 23.01.2016",
+		"series": [],
 		"length": 1589,
 		"hosts": [
 			"Dennis R",
@@ -6737,12 +7258,13 @@
 	{
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 14912,
+			"viewCount": 14918,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 288
 		},
 		"title": "[1/2] Dreamhack 2016 | Almost Daily mit Team Na'Vi & Method | Thema: eSport | 23.01.2016",
+		"series": [],
 		"length": 1755,
 		"hosts": [
 			"Budi",
@@ -6759,12 +7281,15 @@
 	{
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 30352,
+			"viewCount": 30377,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 554
 		},
 		"title": "[1] Resident Evil Zero Remastered mit Simon | K\u00f6rpertreffer bei Zombies | After Dark | 21.01.2016",
+		"series": [
+			"Resident Evil Zero"
+		],
 		"length": 1070,
 		"hosts": [
 			"Simon"
@@ -6779,12 +7304,15 @@
 	{
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 18061,
+			"viewCount": 18072,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 379
 		},
 		"title": "[2] Resident Evil Zero Remastered mit Simon | Die Geheimt\u00fcr in die Bar | After Dark | 21.01.2016",
+		"series": [
+			"Resident Evil Zero"
+		],
 		"length": 1748,
 		"hosts": [
 			"Simon"
@@ -6799,12 +7327,15 @@
 	{
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 16412,
+			"viewCount": 16425,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 382
 		},
 		"title": "[3] Resident Evil Zero Remastered mit Simon | Eure Fetische sind egal | After Dark | 21.01.2016",
+		"series": [
+			"Resident Evil Zero"
+		],
 		"length": 2037,
 		"hosts": [
 			"Simon"
@@ -6825,6 +7356,7 @@
 			"likeCount": 291
 		},
 		"title": "[1] Subnautica mit Simon | Das H2O-Update | Simonster | 25.01.2016",
+		"series": [],
 		"length": 1388,
 		"hosts": [
 			"Simon"
@@ -6839,12 +7371,13 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 5512,
+			"viewCount": 5514,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 210
 		},
 		"title": "[2] Subnautica mit Simon | Ein leuchtender Aal im Wasser | Simonster | 25.01.2016",
+		"series": [],
 		"length": 1547,
 		"hosts": [
 			"Simon"
@@ -6859,12 +7392,13 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 8651,
+			"viewCount": 8653,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 214
 		},
 		"title": "[2/2] Dreamhack 2016 | Almost Daily mit Team Na'Vi & Method | Thema: eSport | 23.01.2016",
+		"series": [],
 		"length": 1932,
 		"hosts": [
 			"Budi",
@@ -6887,6 +7421,7 @@
 			"likeCount": 671
 		},
 		"title": "[1/2] Bohndesliga Folge 18 mit Ralph Gunesch | Rocket Beans TV | 25.01.2016",
+		"series": [],
 		"length": 2809,
 		"hosts": [
 			"Eddy",
@@ -6903,12 +7438,15 @@
 	{
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 16317,
+			"viewCount": 16319,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 423
 		},
 		"title": "[77] Pok\u00e9mon - Feuerrote Edition mit Etienne | Im Kraftwerk angekommen | Classix | 25.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1351,
 		"hosts": [
 			"Eddy"
@@ -6929,6 +7467,7 @@
 			"likeCount": 469
 		},
 		"title": "[2/2] Bohndesliga Folge 18 mit Ralph Gunesch | Rocket Beans TV | 25.01.2016",
+		"series": [],
 		"length": 2793,
 		"hosts": [
 			"Eddy",
@@ -6945,12 +7484,15 @@
 	{
 		"stats": {
 			"commentCount": 66,
-			"viewCount": 14724,
+			"viewCount": 14729,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 338
 		},
 		"title": "[78] Pok\u00e9mon - Feuerrote Edition mit Etienne | \"Fast h\u00e4tte es geklappt\" | Classix | 25.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 2019,
 		"hosts": [
 			"Eddy"
@@ -6965,12 +7507,15 @@
 	{
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 15033,
+			"viewCount": 15037,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 371
 		},
 		"title": "[79] Pok\u00e9mon - Feuerrote Edition mit Etienne | Drei Trillionen Hyperb\u00e4lle | Classix | 25.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 1758,
 		"hosts": [
 			"Eddy"
@@ -6991,6 +7536,7 @@
 			"likeCount": 668
 		},
 		"title": "Thor gegen Hulk?, Zucker-Anja & Facebook-Chef, Gratis Pok\u00e9mon zum Jubil\u00e4um | News vom 26.01.2016",
+		"series": [],
 		"length": 427,
 		"hosts": [],
 		"published": 1453838379,
@@ -7003,12 +7549,15 @@
 	{
 		"stats": {
 			"commentCount": 148,
-			"viewCount": 24792,
+			"viewCount": 24797,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 685
 		},
 		"title": "[80] Pok\u00e9mon - Feuerrote Edition mit Etienne | Mit nem f**king Superball! | Classix | 25.01.2016",
+		"series": [
+			"Pok\u00e9mon - Feuerrote Edition"
+		],
 		"length": 2184,
 		"hosts": [
 			"Eddy"
@@ -7023,12 +7572,15 @@
 	{
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 6264,
+			"viewCount": 6268,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 166
 		},
 		"title": "[14] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 22.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 1670,
 		"hosts": [
 			"Simon",
@@ -7044,12 +7596,15 @@
 	{
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 4548,
+			"viewCount": 4552,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 119
 		},
 		"title": "[15] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 22.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 1133,
 		"hosts": [
 			"Simon",
@@ -7065,12 +7620,15 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4421,
+			"viewCount": 4427,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 124
 		},
 		"title": "[16] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 22.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 1127,
 		"hosts": [
 			"Simon",
@@ -7086,12 +7644,15 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5027,
+			"viewCount": 5034,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 117
 		},
 		"title": "[17] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 22.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 1876,
 		"hosts": [
 			"Simon",
@@ -7107,12 +7668,15 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4729,
+			"viewCount": 4737,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 127
 		},
 		"title": "[18] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 22.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 2040,
 		"hosts": [
 			"Simon",
@@ -7128,12 +7692,15 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 6053,
+			"viewCount": 6062,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 136
 		},
 		"title": "[19] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 22.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 2713,
 		"hosts": [
 			"Simon",
@@ -7149,12 +7716,15 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 5518,
+			"viewCount": 5524,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 171
 		},
 		"title": "[20] Let's Play Contradiction Spot The Liar mit Simon und Gunnar | 22.01.2016",
+		"series": [
+			"Contradiction: Spot the Liar!"
+		],
 		"length": 1574,
 		"hosts": [
 			"Simon",
@@ -7176,6 +7746,7 @@
 			"likeCount": 94
 		},
 		"title": "[1/4] Let's Play Dark Chronicle mit Gregor | Blocken, ausweichen, fast sterben | 25.01.2016",
+		"series": [],
 		"length": 1052,
 		"hosts": [
 			"Gregor"
@@ -7196,6 +7767,7 @@
 			"likeCount": 61
 		},
 		"title": "[2/4] Let's Play Dark Chronicle mit Gregor | Im Zirkus | 25.01.2016",
+		"series": [],
 		"length": 1743,
 		"hosts": [
 			"Gregor"
@@ -7216,6 +7788,7 @@
 			"likeCount": 51
 		},
 		"title": "[3/4] Let's Play Dark Chronicle mit Gregor | Bomben vom Zug werfen | 25.01.2016",
+		"series": [],
 		"length": 1671,
 		"hosts": [
 			"Gregor"
@@ -7236,6 +7809,7 @@
 			"likeCount": 45
 		},
 		"title": "[4/4] Let's Play Dark Chronicle mit Gregor | \u00dcber Eulen und Schalter | 25.01.2016",
+		"series": [],
 		"length": 397,
 		"hosts": [
 			"Gregor"
@@ -7250,12 +7824,13 @@
 	{
 		"stats": {
 			"commentCount": 211,
-			"viewCount": 13575,
+			"viewCount": 13581,
 			"favoriteCount": 0,
 			"dislikeCount": 224,
-			"likeCount": 378
+			"likeCount": 379
 		},
 		"title": "[1/3] Wir m\u00fcssen reden mit Florian | Sport | 25.01.2016",
+		"series": [],
 		"length": 1456,
 		"hosts": [
 			"Gunnar",
@@ -7271,12 +7846,13 @@
 	{
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 7764,
+			"viewCount": 7766,
 			"favoriteCount": 0,
 			"dislikeCount": 92,
 			"likeCount": 225
 		},
 		"title": "[2/3] Wir m\u00fcssen reden mit Florian | Sport | 25.01.2016",
+		"series": [],
 		"length": 1661,
 		"hosts": [
 			"Gunnar",
@@ -7292,12 +7868,15 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 2781,
+			"viewCount": 2782,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 59
 		},
 		"title": "[3] Dropsy mit Sofia und Madlin | Der Mann im Gockelkost\u00fcm | Point & Chick | 21.01.2016",
+		"series": [
+			"Dropsy"
+		],
 		"length": 953,
 		"hosts": [
 			"Sofia",
@@ -7319,6 +7898,9 @@
 			"likeCount": 39
 		},
 		"title": "[4] Dropsy mit Sofia und Madlin | Auf dem Schrottplatz | Point & Chick | 21.01.2016",
+		"series": [
+			"Dropsy"
+		],
 		"length": 1514,
 		"hosts": [
 			"Sofia",
@@ -7340,6 +7922,7 @@
 			"likeCount": 249
 		},
 		"title": "[3/3] Wir m\u00fcssen reden mit Florian | Sport | 25.01.2016",
+		"series": [],
 		"length": 1828,
 		"hosts": [
 			"Gunnar",
@@ -7355,12 +7938,15 @@
 	{
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 1643,
+			"viewCount": 1645,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 43
 		},
 		"title": "[5] Dropsy mit Sofia und Madlin | Betrunkene Roboter | Point & Chick | 21.01.2016",
+		"series": [
+			"Dropsy"
+		],
 		"length": 802,
 		"hosts": [
 			"Sofia",
@@ -7382,6 +7968,7 @@
 			"likeCount": 278
 		},
 		"title": "Dreamhack 2016 | Recap Samstag | Battleborn, CS: GO, Pokerturnier, Business Partner | 23.01.2016",
+		"series": [],
 		"length": 3321,
 		"hosts": [
 			"Budi",
@@ -7405,6 +7992,7 @@
 			"likeCount": 734
 		},
 		"title": "#MoinMoin mit Colin | Die schlechtesten Werbespots der Welt zusammengefasst | 27.01.2016",
+		"series": [],
 		"length": 2722,
 		"hosts": [
 			"Colin"
@@ -7419,12 +8007,13 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 4337,
+			"viewCount": 4339,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 89
 		},
 		"title": "[1/2] Let's Play Between Me and The Night mit Gunnar | Das Spiel im Spiel | 26.01.2016",
+		"series": [],
 		"length": 756,
 		"hosts": [
 			"Gunnar"
@@ -7445,6 +8034,7 @@
 			"likeCount": 45
 		},
 		"title": "[2/2] Let's Play Between Me and The Night mit Gunnar | Seltsame Tr\u00e4ume | 26.01.2016",
+		"series": [],
 		"length": 1615,
 		"hosts": [
 			"Gunnar"
@@ -7459,12 +8049,13 @@
 	{
 		"stats": {
 			"commentCount": 158,
-			"viewCount": 28999,
+			"viewCount": 29010,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
 			"likeCount": 1963
 		},
 		"title": "[1] Photochopped mit Hannes und Ben | Photoshop Fix und - Mix im Test | 26.01.2016",
+		"series": [],
 		"length": 842,
 		"hosts": [
 			"Ben",
@@ -7486,6 +8077,7 @@
 			"likeCount": 100
 		},
 		"title": "[1/3]Let's Play CounterStrike: Global Offensive mit Max, Jens und Steffen | 26.01.2016",
+		"series": [],
 		"length": 2385,
 		"hosts": [
 			"Max",
@@ -7502,12 +8094,13 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 1972,
+			"viewCount": 1971,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 54
 		},
 		"title": "[2/3]Let's Play CounterStrike: Global Offensive mit Max, Jens und Steffen | 26.01.2016",
+		"series": [],
 		"length": 1697,
 		"hosts": [
 			"Max",
@@ -7530,6 +8123,7 @@
 			"likeCount": 55
 		},
 		"title": "[3/3]Let's Play CounterStrike: Global Offensive mit Max, Jens und Steffen | 26.01.2016",
+		"series": [],
 		"length": 2757,
 		"hosts": [
 			"Max",
@@ -7552,6 +8146,7 @@
 			"likeCount": 551
 		},
 		"title": "Angry Birds-Film, Marvin Wassens Geburtstag, neuer Jurassic Park-Film? | News vom 27.01.2016",
+		"series": [],
 		"length": 273,
 		"hosts": [],
 		"published": 1453923000,
@@ -7564,12 +8159,13 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 8945,
+			"viewCount": 8949,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 170
 		},
 		"title": "[1/3] Let's Play The Witness mit Gregor | Kabel verfolgen | 26.01.2016",
+		"series": [],
 		"length": 1186,
 		"hosts": [
 			"Gregor"
@@ -7584,12 +8180,13 @@
 	{
 		"stats": {
 			"commentCount": 348,
-			"viewCount": 32879,
+			"viewCount": 32891,
 			"favoriteCount": 0,
 			"dislikeCount": 49,
 			"likeCount": 827
 		},
 		"title": "[1/3] TheraThiel mit Michael Thiel und Nicole J\u00e4ger | Thema: Abnehmen & Ern\u00e4hrung | 26.01.2016",
+		"series": [],
 		"length": 1792,
 		"hosts": [
 			"Michael T"
@@ -7610,6 +8207,7 @@
 			"likeCount": 404
 		},
 		"title": "[2/3] TheraThiel mit Michael Thiel und Nicole J\u00e4ger | Thema: Abnehmen & Ern\u00e4hrung | 26.01.2016",
+		"series": [],
 		"length": 1748,
 		"hosts": [
 			"Michael T"
@@ -7624,12 +8222,13 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4889,
+			"viewCount": 4892,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 96
 		},
 		"title": "[2/3] Let's Play The Witness mit Gregor | Budis Kopf und weitere R\u00e4tsel  | 26.01.2016",
+		"series": [],
 		"length": 1307,
 		"hosts": [
 			"Gregor"
@@ -7644,12 +8243,13 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4901,
+			"viewCount": 4905,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 102
 		},
 		"title": "[3/3] Let's Play The Witness mit Gregor | Gelb und Blau macht nicht schlau  | 26.01.2016",
+		"series": [],
 		"length": 2521,
 		"hosts": [
 			"Gregor"
@@ -7670,6 +8270,7 @@
 			"likeCount": 417
 		},
 		"title": "[3/3] TheraThiel mit Michael Thiel und Nicole J\u00e4ger | Thema: Abnehmen & Ern\u00e4hrung | 26.01.2016",
+		"series": [],
 		"length": 2358,
 		"hosts": [
 			"Michael T"
@@ -7684,12 +8285,13 @@
 	{
 		"stats": {
 			"commentCount": 74,
-			"viewCount": 19018,
+			"viewCount": 19023,
 			"favoriteCount": 0,
 			"dislikeCount": 38,
 			"likeCount": 499
 		},
 		"title": "#MoinMoin mit Nasti & Marco | Nutella-Zimtr\u00f6llchen, die Bohnenprinzessin, Fun-Werbung | 28.01.2016",
+		"series": [],
 		"length": 2695,
 		"hosts": [
 			"Marco",
@@ -7705,12 +8307,15 @@
 	{
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 8993,
+			"viewCount": 8998,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 214
 		},
 		"title": "[11] Let's Play Tales from the Borderlands mit Simon | Lieferung des Humors | 26.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1726,
 		"hosts": [
 			"Simon"
@@ -7731,6 +8336,9 @@
 			"likeCount": 217
 		},
 		"title": "[12] Let's Play Tales from the Borderlands mit Simon | Lieferung des Humors | 26.01.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1661,
 		"hosts": [
 			"Simon"
@@ -7745,12 +8353,13 @@
 	{
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 33473,
+			"viewCount": 33482,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 930
 		},
 		"title": "[1/3] Bohn Jour #52 | Dreamhack-Dosenbeatz-Party & Jan K\u00f6ppen | 27.01.2016",
+		"series": [],
 		"length": 1471,
 		"hosts": [
 			"Simon",
@@ -7766,12 +8375,13 @@
 	{
 		"stats": {
 			"commentCount": 127,
-			"viewCount": 45437,
+			"viewCount": 45445,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 1092
 		},
 		"title": "[2/3] Bohn Jour #52 | Etiennes Pok\u00e9mon-Hyperball-Rechnung, Schr\u00f6ck beim Pokern | 27.01.2016",
+		"series": [],
 		"length": 2385,
 		"hosts": [
 			"Simon",
@@ -7788,12 +8398,13 @@
 	{
 		"stats": {
 			"commentCount": 57,
-			"viewCount": 16339,
+			"viewCount": 16340,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 590
 		},
 		"title": "Der Gewinner des Mega-Rechners, Conan der Barbar, The Jan Dance | News vom 28.01.2016",
+		"series": [],
 		"length": 308,
 		"hosts": [],
 		"published": 1454009400,
@@ -7806,12 +8417,13 @@
 	{
 		"stats": {
 			"commentCount": 138,
-			"viewCount": 35367,
+			"viewCount": 35371,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 1061
 		},
 		"title": "[3/3] Bohn Jour #52 | Etienne beim Pokern, Photochopped-Challenge | 27.01.2016",
+		"series": [],
 		"length": 2402,
 		"hosts": [
 			"Simon",
@@ -7828,12 +8440,13 @@
 	{
 		"stats": {
 			"commentCount": 157,
-			"viewCount": 36424,
+			"viewCount": 36426,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
 			"likeCount": 772
 		},
 		"title": "[1/2] Almost Plaily #221 | Das gro\u00dfe Knetspiel mit Gunnar, Colin, Alwin und Miri | 27.01.2016",
+		"series": [],
 		"length": 1698,
 		"hosts": [
 			"Colin",
@@ -7857,6 +8470,7 @@
 			"likeCount": 524
 		},
 		"title": "[2/2] Almost Plaily #221 | Das gro\u00dfe Knetspiel mit Gunnar, Colin, Alwin und Miri | 27.01.2016",
+		"series": [],
 		"length": 1807,
 		"hosts": [
 			"Colin",
@@ -7874,12 +8488,15 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 3926,
+			"viewCount": 3929,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 104
 		},
 		"title": "[11] Let's Play Tales Of Symphonia mit Gregor und Gino | Das ewige Plakat | 27.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1029,
 		"hosts": [
 			"Gregor",
@@ -7901,6 +8518,9 @@
 			"likeCount": 76
 		},
 		"title": "[12] Let's Play Tales Of Symphonia mit Gregor und Gino | Neue Synchronisation | 27.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1631,
 		"hosts": [
 			"Gregor",
@@ -7916,12 +8536,15 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 3186,
+			"viewCount": 3189,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 72
 		},
 		"title": "[13] Let's Play Tales Of Symphonia mit Gregor und Gino | Tote B\u00e4ume | 27.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1633,
 		"hosts": [
 			"Gregor",
@@ -7937,12 +8560,15 @@
 	{
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 2949,
+			"viewCount": 2951,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 81
 		},
 		"title": "[14] Let's Play Tales Of Symphonia mit Gregor und Gino | Der Passierschein | 27.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 1727,
 		"hosts": [
 			"Gregor",
@@ -7964,6 +8590,7 @@
 			"likeCount": 379
 		},
 		"title": "#MoinMoin mit Tim und DJ Klik | Turntables, Beatz und Musik am Morgen | 29.01.2016",
+		"series": [],
 		"length": 2707,
 		"hosts": [
 			"Tim H"
@@ -7978,12 +8605,15 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 2990,
+			"viewCount": 2995,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 82
 		},
 		"title": "[15] Let's Play Tales Of Symphonia mit Gregor und Gino | Einfach ignorieren | 27.01.2016",
+		"series": [
+			"Tales of Symphonia"
+		],
 		"length": 755,
 		"hosts": [
 			"Gregor",
@@ -7999,12 +8629,15 @@
 	{
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 17098,
+			"viewCount": 17113,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 348
 		},
 		"title": "[4] Resident Evil Zero Remastered mit Simon | Wer bleibt zur\u00fcck? | After Dark | 27.01.2016",
+		"series": [
+			"Resident Evil Zero"
+		],
 		"length": 1728,
 		"hosts": [
 			"Simon"
@@ -8019,12 +8652,15 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 14706,
+			"viewCount": 14725,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 302
 		},
 		"title": "[5] Resident Evil Zero Remastered mit Simon | Rache an Umbrella | After Dark | 27.01.2016",
+		"series": [
+			"Resident Evil Zero"
+		],
 		"length": 1579,
 		"hosts": [
 			"Simon"
@@ -8039,12 +8675,15 @@
 	{
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 13812,
+			"viewCount": 13828,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 303
 		},
 		"title": "[6] Resident Evil Zero Remastered mit Simon | Rabenplage | After Dark | 27.01.2016",
+		"series": [
+			"Resident Evil Zero"
+		],
 		"length": 1677,
 		"hosts": [
 			"Simon"
@@ -8065,6 +8704,9 @@
 			"likeCount": 217
 		},
 		"title": "[13] Let's Play Tales from the Borderlands mit Simon | Skins Skins Skins | 02.02.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1728,
 		"hosts": [
 			"Simon"
@@ -8079,12 +8721,15 @@
 	{
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 9037,
+			"viewCount": 9040,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 177
 		},
 		"title": "[14] Let's Play Tales from the Borderlands mit Simon | Der Sprung | 02.02.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1642,
 		"hosts": [
 			"Simon"
@@ -8099,12 +8744,15 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 8748,
+			"viewCount": 8752,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 188
 		},
 		"title": "[15] Let's Play Tales from the Borderlands mit Simon | \"Frauen haben die Macht\" | 02.02.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1800,
 		"hosts": [
 			"Simon"
@@ -8119,12 +8767,15 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9573,
+			"viewCount": 9577,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 226
 		},
 		"title": "[16] Let's Play Tales from the Borderlands mit Simon | Jack-Apedia | 02.02.2016",
+		"series": [
+			"Tales from the Borderlands"
+		],
 		"length": 1854,
 		"hosts": [
 			"Simon"
@@ -8139,12 +8790,13 @@
 	{
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 13085,
+			"viewCount": 13099,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 431
 		},
 		"title": "[15] Buch Klub mit Ann-Kathrin Karschnick | Die Phoenix-Trilogie | 31.01.2016",
+		"series": [],
 		"length": 1804,
 		"hosts": [
 			"Bell"

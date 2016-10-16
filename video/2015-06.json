@@ -2,12 +2,13 @@
 	{
 		"stats": {
 			"commentCount": 103,
-			"viewCount": 37281,
+			"viewCount": 37285,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 1440
 		},
 		"title": "Was kommen k\u00f6nnte | #6 | Buzzkiller | 30.05.2015",
+		"series": [],
 		"length": 556,
 		"hosts": [
 			"Eddy",
@@ -30,6 +31,7 @@
 			"likeCount": 625
 		},
 		"title": "#MoinMoin mit Gregor | 01.06.2015",
+		"series": [],
 		"length": 2455,
 		"hosts": [
 			"Gregor"
@@ -44,12 +46,13 @@
 	{
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 8103,
+			"viewCount": 8105,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 191
 		},
 		"title": "Fifa 15 | Road To Division One  | #39 | 29.05.2015",
+		"series": [],
 		"length": 1425,
 		"hosts": [
 			"Nils",
@@ -65,12 +68,13 @@
 	{
 		"stats": {
 			"commentCount": 98,
-			"viewCount": 40114,
+			"viewCount": 40144,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 776
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #12 | Entf\u00fchrung ins All | Seite 1",
+		"series": [],
 		"length": 1735,
 		"hosts": [
 			"Dennis R",
@@ -87,12 +91,13 @@
 	{
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 33106,
+			"viewCount": 33125,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 609
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #12 | Entf\u00fchrung ins All | Seite 2",
+		"series": [],
 		"length": 1996,
 		"hosts": [
 			"Dennis R",
@@ -115,6 +120,7 @@
 			"likeCount": 169
 		},
 		"title": "Fifa 15 | Road To Division One  | #40 | 29.05.2015",
+		"series": [],
 		"length": 1862,
 		"hosts": [
 			"Nils",
@@ -130,12 +136,13 @@
 	{
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8350,
+			"viewCount": 8351,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 211
 		},
 		"title": "Fifa 15 | Road To Division One  | #41 | 29.05.2015",
+		"series": [],
 		"length": 2297,
 		"hosts": [
 			"Nils",
@@ -151,12 +158,13 @@
 	{
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 34495,
+			"viewCount": 34516,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 724
+			"likeCount": 725
 		},
 		"title": "Golden Axe | Speedrundale | #6 | 30.05.2015",
+		"series": [],
 		"length": 2600,
 		"hosts": [
 			"Simon",
@@ -172,12 +180,13 @@
 	{
 		"stats": {
 			"commentCount": 168,
-			"viewCount": 43219,
+			"viewCount": 43234,
 			"favoriteCount": 0,
 			"dislikeCount": 35,
 			"likeCount": 1131
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward #1 - Das MMO-Tagebuch",
+		"series": [],
 		"length": 1018,
 		"hosts": [],
 		"published": 1433188800,
@@ -194,6 +203,7 @@
 			"likeCount": 235
 		},
 		"title": "Kirby und der Regenbogen-Pinsel | Zocken mit Bohnen | #1 | 26.05.2015",
+		"series": [],
 		"length": 1253,
 		"hosts": [
 			"Colin"
@@ -202,7 +212,8 @@
 		"id": "KMYt-6XAakc",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -214,6 +225,7 @@
 			"likeCount": 133
 		},
 		"title": "Kirby und der Regenbogen-Pinsel | Zocken mit Bohnen | #2 | 26.05.2015",
+		"series": [],
 		"length": 1292,
 		"hosts": [
 			"Colin"
@@ -222,18 +234,20 @@
 		"id": "5wKdfgHYeS0",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 132,
-			"viewCount": 23054,
+			"viewCount": 23056,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 967
 		},
 		"title": "#MoinMoin mit Gunnar und Gino | 02.06.2015",
+		"series": [],
 		"length": 2436,
 		"hosts": [
 			"Gunnar",
@@ -255,6 +269,7 @@
 			"likeCount": 471
 		},
 		"title": "Wir m\u00fcssen reden | feat. Dennis H. | #1 | 01.06.2015",
+		"series": [],
 		"length": 1375,
 		"hosts": [
 			"Gunnar",
@@ -270,12 +285,13 @@
 	{
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 11608,
+			"viewCount": 11610,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 364
 		},
 		"title": "Wir m\u00fcssen reden | feat. Dennis H. | #2 | 01.06.2015",
+		"series": [],
 		"length": 1658,
 		"hosts": [
 			"Gunnar",
@@ -291,12 +307,13 @@
 	{
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 11279,
+			"viewCount": 11280,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 364
 		},
 		"title": "Wir m\u00fcssen reden | feat. Dennis H. | #3 | 01.06.2015",
+		"series": [],
 		"length": 1515,
 		"hosts": [
 			"Gunnar",
@@ -312,12 +329,13 @@
 	{
 		"stats": {
 			"commentCount": 408,
-			"viewCount": 190127,
+			"viewCount": 190289,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 4754
 		},
 		"title": "[1/2] Royal Beef  | #5 | Nidhogg | 24.05.2015",
+		"series": [],
 		"length": 1818,
 		"hosts": [
 			"Simon",
@@ -335,12 +353,13 @@
 	{
 		"stats": {
 			"commentCount": 518,
-			"viewCount": 152562,
+			"viewCount": 152677,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
-			"likeCount": 4016
+			"likeCount": 4017
 		},
 		"title": "[2/2] Royal Beef  | #5 | Nidhogg | 24.05.2015",
+		"series": [],
 		"length": 1560,
 		"hosts": [
 			"Simon",
@@ -364,6 +383,7 @@
 			"likeCount": 70
 		},
 		"title": "Battlefield 4 | Community Beef | #8 | 01.06.2015",
+		"series": [],
 		"length": 1647,
 		"hosts": [
 			"Hauke"
@@ -384,6 +404,7 @@
 			"likeCount": 52
 		},
 		"title": "Battlefield 4 | Community Beef | #9 | 01.06.2015",
+		"series": [],
 		"length": 1589,
 		"hosts": [
 			"Hauke"
@@ -404,6 +425,7 @@
 			"likeCount": 44
 		},
 		"title": "Battlefield 4 | Community Beef | #10 | 01.06.2015",
+		"series": [],
 		"length": 1657,
 		"hosts": [
 			"Hauke"
@@ -424,6 +446,7 @@
 			"likeCount": 44
 		},
 		"title": "Battlefield 4 | Community Beef | #11 | 01.06.2015",
+		"series": [],
 		"length": 1602,
 		"hosts": [
 			"Hauke"
@@ -444,6 +467,7 @@
 			"likeCount": 200
 		},
 		"title": "Slender: The Arrival | After Dark | #1 | 29.05.2015",
+		"series": [],
 		"length": 1752,
 		"hosts": [
 			"Colin"
@@ -464,6 +488,7 @@
 			"likeCount": 138
 		},
 		"title": "Slender: The Arrival | After Dark | #2 | 29.05.2015",
+		"series": [],
 		"length": 1895,
 		"hosts": [
 			"Colin"
@@ -484,6 +509,7 @@
 			"likeCount": 101
 		},
 		"title": "Slender: The Arrival | After Dark | #3 | 29.05.2015",
+		"series": [],
 		"length": 2202,
 		"hosts": [
 			"Colin"
@@ -504,6 +530,7 @@
 			"likeCount": 97
 		},
 		"title": "Slender: The Arrival | After Dark | #4 | 29.05.2015",
+		"series": [],
 		"length": 1475,
 		"hosts": [
 			"Colin"
@@ -524,6 +551,9 @@
 			"likeCount": 143
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #4 | 01.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1330,
 		"hosts": [
 			"Nils"
@@ -532,7 +562,8 @@
 		"id": "FJbxpbcRM-g",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -544,6 +575,9 @@
 			"likeCount": 124
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #5 | 01.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1620,
 		"hosts": [
 			"Nils"
@@ -552,7 +586,8 @@
 		"id": "MmII3_Dut8s",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -564,6 +599,9 @@
 			"likeCount": 128
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #6 | 01.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1620,
 		"hosts": [
 			"Nils"
@@ -572,18 +610,20 @@
 		"id": "IyUwiV8PvZU",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 103,
-			"viewCount": 29060,
+			"viewCount": 29062,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 1115
 		},
 		"title": "#MoinMoin mit Nils | 03.06.2015",
+		"series": [],
 		"length": 2339,
 		"hosts": [
 			"Nils"
@@ -598,12 +638,13 @@
 	{
 		"stats": {
 			"commentCount": 150,
-			"viewCount": 52019,
+			"viewCount": 52025,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 1266
 		},
 		"title": "Almost Plaily #164 | Scharade #6 | Part 1 | 02.06.2015",
+		"series": [],
 		"length": 1667,
 		"hosts": [
 			"Colin",
@@ -621,12 +662,13 @@
 	{
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 33800,
+			"viewCount": 33803,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1125
 		},
 		"title": "Almost Plaily #164 | Scharade #6 | Part 2 | 02.06.2015",
+		"series": [],
 		"length": 1643,
 		"hosts": [
 			"Colin",
@@ -644,12 +686,13 @@
 	{
 		"stats": {
 			"commentCount": 116,
-			"viewCount": 61685,
+			"viewCount": 61687,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 1477
 		},
 		"title": "Royal Beef | Teaser | Runde 6 | Sonntag, 07.06.2015 | 20:15",
+		"series": [],
 		"length": 29,
 		"hosts": [],
 		"published": 1433358164,
@@ -660,12 +703,13 @@
 	{
 		"stats": {
 			"commentCount": 482,
-			"viewCount": 104185,
+			"viewCount": 104191,
 			"favoriteCount": 0,
 			"dislikeCount": 37,
 			"likeCount": 4071
 		},
 		"title": "PEN & PAPER (Staffel 2) | B.E.A.R.D.S | 03.07.2015 | TEASER",
+		"series": [],
 		"length": 34,
 		"hosts": [],
 		"published": 1433359090,
@@ -682,6 +726,7 @@
 			"likeCount": 105
 		},
 		"title": "Passing Pineview Forest | After Dark | #1 | 02.06.2015",
+		"series": [],
 		"length": 1309,
 		"hosts": [
 			"Bell",
@@ -703,6 +748,7 @@
 			"likeCount": 69
 		},
 		"title": "Passing Pineview Forest  / The Hat Man: Shadow Ward | After Dark | #2 | 02.06.2015",
+		"series": [],
 		"length": 1625,
 		"hosts": [
 			"Bell",
@@ -724,6 +770,7 @@
 			"likeCount": 59
 		},
 		"title": "The Hat Man: Shadow Ward | After Dark | #3 | 02.06.2015",
+		"series": [],
 		"length": 1694,
 		"hosts": [
 			"Bell",
@@ -745,6 +792,7 @@
 			"likeCount": 48
 		},
 		"title": "The Hat Man: Shadow Ward | After Dark | #4 | 02.06.2015",
+		"series": [],
 		"length": 1532,
 		"hosts": [
 			"Bell",
@@ -766,6 +814,7 @@
 			"likeCount": 91
 		},
 		"title": "The Evil Within: The Executioner | After Dark | #1 | 29.05.2015",
+		"series": [],
 		"length": 2153,
 		"hosts": [
 			"Colin",
@@ -787,6 +836,7 @@
 			"likeCount": 49
 		},
 		"title": "The Evil Within: The Executioner | After Dark | #2 | 29.05.2015",
+		"series": [],
 		"length": 1017,
 		"hosts": [
 			"Colin",
@@ -808,6 +858,7 @@
 			"likeCount": 50
 		},
 		"title": "The Evil Within: The Executioner | After Dark | #3 | 29.05.2015",
+		"series": [],
 		"length": 1444,
 		"hosts": [
 			"Colin",
@@ -823,12 +874,13 @@
 	{
 		"stats": {
 			"commentCount": 700,
-			"viewCount": 148735,
+			"viewCount": 148769,
 			"favoriteCount": 0,
 			"dislikeCount": 35,
 			"likeCount": 6859
 		},
 		"title": "Pen & Paper | Staffel 2 | B.E.A.R.D.S | Charaktervorstellung",
+		"series": [],
 		"length": 597,
 		"hosts": [
 			"Simon",
@@ -846,12 +898,15 @@
 	{
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 19715,
+			"viewCount": 19727,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 400
 		},
 		"title": "Bloodborne mit Etienne und Colin | Knallhart Durchgenommen | #19 | 03.06.2015 | Part 1",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1540,
 		"hosts": [
 			"Eddy",
@@ -867,12 +922,15 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 17715,
+			"viewCount": 17726,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 355
 		},
 		"title": "Bloodborne mit Etienne und Colin | Knallhart Durchgenommen | #19 | 03.06.2015 | Part 2",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1651,
 		"hosts": [
 			"Eddy",
@@ -888,12 +946,13 @@
 	{
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 20072,
+			"viewCount": 20077,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 821
 		},
 		"title": "#MoinMoin mit Budi | 04.06.2015",
+		"series": [],
 		"length": 2105,
 		"hosts": [
 			"Budi"
@@ -914,6 +973,7 @@
 			"likeCount": 697
 		},
 		"title": "Rocket Beans TV Archon Cup | Bunny & DeMusliM",
+		"series": [],
 		"length": 55,
 		"hosts": [],
 		"published": 1433425885,
@@ -930,6 +990,7 @@
 			"likeCount": 943
 		},
 		"title": "Bohn Jour #22 | Part 2 | mit Ralf \"Ralle\" Petersen und Hack Norris | 03.06.2015",
+		"series": [],
 		"length": 1908,
 		"hosts": [
 			"Simon",
@@ -951,6 +1012,7 @@
 			"likeCount": 1187
 		},
 		"title": "Bohn Jour #22 | Part 1 | mit Ralf \"Ralle\" Petersen und Hack Norris | 03.06.2015",
+		"series": [],
 		"length": 2139,
 		"hosts": [
 			"Simon",
@@ -972,6 +1034,7 @@
 			"likeCount": 920
 		},
 		"title": "Bohn Jour #22 | Part 3 | mit Ralf \"Ralle\" Petersen und Hack Norris | 03.06.2015",
+		"series": [],
 		"length": 1980,
 		"hosts": [
 			"Simon",
@@ -987,12 +1050,13 @@
 	{
 		"stats": {
 			"commentCount": 163,
-			"viewCount": 25194,
+			"viewCount": 25200,
 			"favoriteCount": 0,
 			"dislikeCount": 56,
 			"likeCount": 721
 		},
 		"title": "Kino+ Spezial | Game of Thrones Talkrunde | Folge 7 - Staffel 5",
+		"series": [],
 		"length": 2736,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1010,12 +1074,13 @@
 	{
 		"stats": {
 			"commentCount": 335,
-			"viewCount": 33619,
+			"viewCount": 33629,
 			"favoriteCount": 0,
 			"dislikeCount": 258,
 			"likeCount": 894
 		},
 		"title": "Kino+ Spezial | Game of Thrones Talkrunde | Folge 8 - Staffel 5",
+		"series": [],
 		"length": 2869,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1033,12 +1098,13 @@
 	{
 		"stats": {
 			"commentCount": 212,
-			"viewCount": 34309,
+			"viewCount": 34311,
 			"favoriteCount": 0,
 			"dislikeCount": 73,
 			"likeCount": 941
 		},
 		"title": "Kino+ #60 | Part 1 | Spy \u2013 Susan Cooper Undercover | Kind 44 | News",
+		"series": [],
 		"length": 3495,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1054,12 +1120,13 @@
 	{
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 30960,
+			"viewCount": 30964,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
 			"likeCount": 766
 		},
 		"title": "Kino+ #60 | Part 2 | Sky Sharks | Kung Fury | Trash und Cannes",
+		"series": [],
 		"length": 3715,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1081,6 +1148,7 @@
 			"likeCount": 164
 		},
 		"title": "Kirby's Dream Course | Zocken mit Bohnen | 02.06.2015",
+		"series": [],
 		"length": 2246,
 		"hosts": [
 			"Gregor"
@@ -1089,7 +1157,8 @@
 		"id": "4DNMvY5MIJk",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -1101,6 +1170,7 @@
 			"likeCount": 451
 		},
 		"title": "#MoinMoin mit Dennis H. | 05.06.2015",
+		"series": [],
 		"length": 2657,
 		"hosts": [
 			"Dennis H"
@@ -1121,6 +1191,7 @@
 			"likeCount": 515
 		},
 		"title": "Rocket Beans TV Archon Cup | Stephano & Targa",
+		"series": [],
 		"length": 54,
 		"hosts": [],
 		"published": 1433509200,
@@ -1131,12 +1202,13 @@
 	{
 		"stats": {
 			"commentCount": 154,
-			"viewCount": 63129,
+			"viewCount": 63139,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 1884
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #1 | Part 1 | 03.06.2015",
+		"series": [],
 		"length": 1240,
 		"hosts": [
 			"Hauke",
@@ -1152,12 +1224,13 @@
 	{
 		"stats": {
 			"commentCount": 161,
-			"viewCount": 34985,
+			"viewCount": 34989,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1270
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #1 | Part 2 | 03.06.2015",
+		"series": [],
 		"length": 1689,
 		"hosts": [
 			"Hauke",
@@ -1173,12 +1246,13 @@
 	{
 		"stats": {
 			"commentCount": 97,
-			"viewCount": 29984,
+			"viewCount": 29988,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 1125
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #1 | Part 3 | 03.06.2015",
+		"series": [],
 		"length": 1586,
 		"hosts": [
 			"Hauke",
@@ -1194,12 +1268,13 @@
 	{
 		"stats": {
 			"commentCount": 85,
-			"viewCount": 28020,
+			"viewCount": 28025,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 1154
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #1 | Part 4 | 03.06.2015",
+		"series": [],
 		"length": 1566,
 		"hosts": [
 			"Hauke",
@@ -1221,6 +1296,7 @@
 			"likeCount": 452
 		},
 		"title": "StarCraft II | Call of Budi | #11 | 03.06.2015",
+		"series": [],
 		"length": 1602,
 		"hosts": [
 			"Budi",
@@ -1236,12 +1312,13 @@
 	{
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 15529,
+			"viewCount": 15531,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 418
 		},
 		"title": "StarCraft II | Call of Budi | #12 | 03.06.2015",
+		"series": [],
 		"length": 1606,
 		"hosts": [
 			"Budi",
@@ -1257,12 +1334,13 @@
 	{
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 14712,
+			"viewCount": 14714,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 335
 		},
 		"title": "StarCraft II | Call of Budi | #13 | 03.06.2015",
+		"series": [],
 		"length": 2397,
 		"hosts": [
 			"Budi",
@@ -1278,12 +1356,13 @@
 	{
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 14087,
+			"viewCount": 14090,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 412
 		},
 		"title": "StarCraft II | Call of Budi | #14 | 03.06.2015",
+		"series": [],
 		"length": 2254,
 		"hosts": [
 			"Budi",
@@ -1299,12 +1378,15 @@
 	{
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 20609,
+			"viewCount": 20620,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 357
 		},
 		"title": "Bloodborne mit Etienne und Colin | Knallhart Durchgenommen | #20 | Part 1 | 05.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1680,
 		"hosts": [
 			"Eddy",
@@ -1320,12 +1402,15 @@
 	{
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 17908,
+			"viewCount": 17918,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 387
 		},
 		"title": "Bloodborne mit Etienne und Colin | Knallhart Durchgenommen | #20 | Part 2 | 05.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1657,
 		"hosts": [
 			"Eddy",
@@ -1347,6 +1432,7 @@
 			"likeCount": 492
 		},
 		"title": "Rocket Beans TV Archon Cup | White-Ra & DIMAGA",
+		"series": [],
 		"length": 52,
 		"hosts": [],
 		"published": 1433595602,
@@ -1363,6 +1449,9 @@
 			"likeCount": 214
 		},
 		"title": "Super Metroid | Classix | #17 | 02.06.2015",
+		"series": [
+			"Super Metroid"
+		],
 		"length": 1457,
 		"hosts": [
 			"Eddy"
@@ -1377,12 +1466,15 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 7163,
+			"viewCount": 7167,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 199
 		},
 		"title": "Super Metroid | Classix | #18 | 02.06.2015",
+		"series": [
+			"Super Metroid"
+		],
 		"length": 1565,
 		"hosts": [
 			"Eddy"
@@ -1397,12 +1489,15 @@
 	{
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 6552,
+			"viewCount": 6554,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 178
 		},
 		"title": "Super Metroid | Classix | #19 | 02.06.2015",
+		"series": [
+			"Super Metroid"
+		],
 		"length": 1608,
 		"hosts": [
 			"Eddy"
@@ -1417,12 +1512,15 @@
 	{
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 7892,
+			"viewCount": 7894,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 229
 		},
 		"title": "Super Metroid | Classix | #20 | 02.06.2015",
+		"series": [
+			"Super Metroid"
+		],
 		"length": 1720,
 		"hosts": [
 			"Eddy"
@@ -1443,6 +1541,7 @@
 			"likeCount": 152
 		},
 		"title": "Rocket Beans TV Archon Cup | White-Ra & DIMAGA | English Version",
+		"series": [],
 		"length": 52,
 		"hosts": [],
 		"published": 1433612145,
@@ -1459,6 +1558,7 @@
 			"likeCount": 135
 		},
 		"title": "Rocket Beans TV Archon Cup | Stephano & Targa | English Version",
+		"series": [],
 		"length": 56,
 		"hosts": [],
 		"published": 1433612148,
@@ -1475,6 +1575,7 @@
 			"likeCount": 156
 		},
 		"title": "Rocket Beans TV Archon Cup | HasuObs & Socke | English Version",
+		"series": [],
 		"length": 63,
 		"hosts": [],
 		"published": 1433612151,
@@ -1491,6 +1592,7 @@
 			"likeCount": 166
 		},
 		"title": "Rocket Beans TV Archon Cup | Bunny & DeMusliM | English Version",
+		"series": [],
 		"length": 55,
 		"hosts": [],
 		"published": 1433612154,
@@ -1507,6 +1609,9 @@
 			"likeCount": 135
 		},
 		"title": "The Witcher 3: Wild Hunt | Zocken mit Bohnen | #14 | 03.06.2015",
+		"series": [
+			"The Witcher 3: Wild Hunt"
+		],
 		"length": 1300,
 		"hosts": [
 			"Nils",
@@ -1516,18 +1621,22 @@
 		"id": "fYnVmmmnqOk",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 5521,
+			"viewCount": 5522,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 122
 		},
 		"title": "The Witcher 3: Wild Hunt | Zocken mit Bohnen | #15 | 03.06.2015",
+		"series": [
+			"The Witcher 3: Wild Hunt"
+		],
 		"length": 1866,
 		"hosts": [
 			"Nils",
@@ -1537,18 +1646,22 @@
 		"id": "kTGP6yQqTx8",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 7752,
+			"viewCount": 7753,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 126
 		},
 		"title": "The Witcher 3: Wild Hunt | Zocken mit Bohnen | #16 | 03.06.2015",
+		"series": [
+			"The Witcher 3: Wild Hunt"
+		],
 		"length": 1488,
 		"hosts": [
 			"Nils"
@@ -1557,7 +1670,8 @@
 		"id": "EYPL0kGNmyw",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -1569,6 +1683,9 @@
 			"likeCount": 119
 		},
 		"title": "Minecraft | Zocken mit Bohnen | #13 | 04.06.2015",
+		"series": [
+			"Minecraft"
+		],
 		"length": 1744,
 		"hosts": [
 			"Dennis R",
@@ -1578,7 +1695,8 @@
 		"id": "SzoCnYtJd6M",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -1590,6 +1708,9 @@
 			"likeCount": 94
 		},
 		"title": "Minecraft | Zocken mit Bohnen | #14 | 04.06.2015",
+		"series": [
+			"Minecraft"
+		],
 		"length": 1630,
 		"hosts": [
 			"Dennis R",
@@ -1599,18 +1720,20 @@
 		"id": "1ZbZfYYoxhw",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 336,
-			"viewCount": 117399,
+			"viewCount": 117453,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
-			"likeCount": 3389
+			"likeCount": 3392
 		},
 		"title": "Almost Daily #165 | Mein fr\u00fcheres Ich | Part 1 | 06.06.2015",
+		"series": [],
 		"length": 1863,
 		"hosts": [
 			"Simon",
@@ -1628,12 +1751,13 @@
 	{
 		"stats": {
 			"commentCount": 191,
-			"viewCount": 75984,
+			"viewCount": 76020,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 2880
 		},
 		"title": "Almost Daily #165 | Mein fr\u00fcheres Ich | Part 2 | 06.06.2015",
+		"series": [],
 		"length": 1124,
 		"hosts": [
 			"Simon",
@@ -1657,6 +1781,7 @@
 			"likeCount": 261
 		},
 		"title": "Rocket Beans TV Archon Cup | HasuObs & Socke",
+		"series": [],
 		"length": 63,
 		"hosts": [],
 		"published": 1433682000,
@@ -1673,6 +1798,9 @@
 			"likeCount": 132
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #7 | 02.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1593,
 		"hosts": [
 			"Nils"
@@ -1681,7 +1809,8 @@
 		"id": "iT11YNWUJT0",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -1693,6 +1822,9 @@
 			"likeCount": 117
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #8 | 02.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1465,
 		"hosts": [
 			"Nils"
@@ -1701,7 +1833,8 @@
 		"id": "hVr43zGdhf8",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -1713,6 +1846,9 @@
 			"likeCount": 128
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #9 | 02.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1665,
 		"hosts": [
 			"Nils"
@@ -1721,18 +1857,22 @@
 		"id": "Z5naRTZX9Mg",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 2954,
+			"viewCount": 2955,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 82
 		},
 		"title": "Dead Synchronicity | Point & Chick | #10 | 04.06.2015",
+		"series": [
+			"Dead Synchronicity"
+		],
 		"length": 1497,
 		"hosts": [
 			"Sofia",
@@ -1754,6 +1894,9 @@
 			"likeCount": 62
 		},
 		"title": "Dead Synchronicity | Point & Chick | #11 | 04.06.2015",
+		"series": [
+			"Dead Synchronicity"
+		],
 		"length": 1406,
 		"hosts": [
 			"Sofia",
@@ -1775,6 +1918,9 @@
 			"likeCount": 52
 		},
 		"title": "Dead Synchronicity | Point & Chick | #12 | 04.06.2015",
+		"series": [
+			"Dead Synchronicity"
+		],
 		"length": 1598,
 		"hosts": [
 			"Sofia",
@@ -1796,6 +1942,9 @@
 			"likeCount": 59
 		},
 		"title": "Dead Synchronicity | Point & Chick | #13 | 04.06.2015",
+		"series": [
+			"Dead Synchronicity"
+		],
 		"length": 1734,
 		"hosts": [
 			"Sofia",
@@ -1811,12 +1960,13 @@
 	{
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 39515,
+			"viewCount": 39538,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
-			"likeCount": 846
+			"likeCount": 847
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #13 | Fluch der Silberkugel | Seite 1",
+		"series": [],
 		"length": 2141,
 		"hosts": [
 			"Simon",
@@ -1833,12 +1983,13 @@
 	{
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 27958,
+			"viewCount": 27980,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 631
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #13 | Fluch der Silberkugel | Seite 2",
+		"series": [],
 		"length": 1840,
 		"hosts": [
 			"Simon",
@@ -1855,12 +2006,13 @@
 	{
 		"stats": {
 			"commentCount": 216,
-			"viewCount": 38728,
+			"viewCount": 38729,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1694
 		},
 		"title": "Was kommen k\u00f6nnte | #7 | Ich bin ein Nerd | 06.06.2015",
+		"series": [],
 		"length": 998,
 		"hosts": [
 			"Simon",
@@ -1883,6 +2035,7 @@
 			"likeCount": 985
 		},
 		"title": "#MoinMoin mit Nils | 08.06.2015",
+		"series": [],
 		"length": 2306,
 		"hosts": [
 			"Nils"
@@ -1903,6 +2056,7 @@
 			"likeCount": 153
 		},
 		"title": "Stunt Race FX / Donkey Kong | Classix | #1 | 03.06.2015",
+		"series": [],
 		"length": 1608,
 		"hosts": [
 			"Gregor"
@@ -1923,6 +2077,7 @@
 			"likeCount": 1049
 		},
 		"title": "Rocket Beans TV pr\u00e4sentiert: Der Superfan | Finale | FC Barcelona vs. Juventus Turin",
+		"series": [],
 		"length": 1437,
 		"hosts": [
 			"Nils"
@@ -1943,6 +2098,7 @@
 			"likeCount": 133
 		},
 		"title": "Stunt Race FX / Donkey Kong | Classix | #2 | 03.06.2015",
+		"series": [],
 		"length": 1417,
 		"hosts": [
 			"Gregor"
@@ -1957,12 +2113,13 @@
 	{
 		"stats": {
 			"commentCount": 100,
-			"viewCount": 31660,
+			"viewCount": 31674,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 807
 		},
 		"title": "Mega Man 3 | Speedrundale | #7 | Part 1 | 06.06.2015",
+		"series": [],
 		"length": 1889,
 		"hosts": [
 			"Simon",
@@ -1978,12 +2135,13 @@
 	{
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 22194,
+			"viewCount": 22198,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 745
 		},
 		"title": "Mega Man 3 | Speedrundale | #7 | Part 2 | 06.06.2015",
+		"series": [],
 		"length": 1435,
 		"hosts": [
 			"Simon",
@@ -1999,12 +2157,13 @@
 	{
 		"stats": {
 			"commentCount": 84,
-			"viewCount": 17707,
+			"viewCount": 17709,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 551
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward #2 - Das MMO-Tagebuch",
+		"series": [],
 		"length": 906,
 		"hosts": [],
 		"published": 1433793601,
@@ -2015,12 +2174,13 @@
 	{
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 8295,
+			"viewCount": 8296,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 160
 		},
 		"title": "Lara Croft and the Temple of Osiris | Zocken mit Bohnen | #1 | 01.06.2015",
+		"series": [],
 		"length": 1558,
 		"hosts": [
 			"Colin",
@@ -2030,7 +2190,8 @@
 		"id": "Hr0BHrRKELA",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -2042,6 +2203,7 @@
 			"likeCount": 76
 		},
 		"title": "Lara Croft and the Temple of Osiris | Zocken mit Bohnen | #2 | 01.06.2015",
+		"series": [],
 		"length": 1637,
 		"hosts": [
 			"Colin",
@@ -2051,7 +2213,8 @@
 		"id": "LSYVUf-Z5Xw",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -2063,6 +2226,7 @@
 			"likeCount": 587
 		},
 		"title": "#MoinMoin mit Gregor | 09.06.2015",
+		"series": [],
 		"length": 2456,
 		"hosts": [
 			"Gregor"
@@ -2077,12 +2241,13 @@
 	{
 		"stats": {
 			"commentCount": 146,
-			"viewCount": 35175,
+			"viewCount": 35177,
 			"favoriteCount": 0,
 			"dislikeCount": 46,
-			"likeCount": 1158
+			"likeCount": 1159
 		},
 		"title": "Wir m\u00fcssen reden | mit Hauke | #1 | 08.06.2015",
+		"series": [],
 		"length": 1650,
 		"hosts": [
 			"Gunnar",
@@ -2098,12 +2263,13 @@
 	{
 		"stats": {
 			"commentCount": 96,
-			"viewCount": 20630,
+			"viewCount": 20632,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 681
 		},
 		"title": "Wir m\u00fcssen reden | mit Hauke | #2 | 08.06.2015",
+		"series": [],
 		"length": 1393,
 		"hosts": [
 			"Gunnar",
@@ -2119,12 +2285,13 @@
 	{
 		"stats": {
 			"commentCount": 161,
-			"viewCount": 21376,
+			"viewCount": 21377,
 			"favoriteCount": 0,
 			"dislikeCount": 54,
 			"likeCount": 810
 		},
 		"title": "Wir m\u00fcssen reden | mit Hauke | #3 | 08.06.2015",
+		"series": [],
 		"length": 1650,
 		"hosts": [
 			"Gunnar",
@@ -2140,12 +2307,13 @@
 	{
 		"stats": {
 			"commentCount": 709,
-			"viewCount": 211209,
+			"viewCount": 211433,
 			"favoriteCount": 0,
 			"dislikeCount": 52,
-			"likeCount": 5854
+			"likeCount": 5860
 		},
 		"title": "Royal Beef  | #6 | Gang Beasts | 07.06.2015",
+		"series": [],
 		"length": 1855,
 		"hosts": [
 			"Simon",
@@ -2169,6 +2337,7 @@
 			"likeCount": 91
 		},
 		"title": "Battlefield 4 | Community Beef | #12 | 08.06.2015",
+		"series": [],
 		"length": 1412,
 		"hosts": [
 			"Hauke",
@@ -2190,6 +2359,7 @@
 			"likeCount": 55
 		},
 		"title": "Battlefield 4 | Community Beef | #13 | 08.06.2015",
+		"series": [],
 		"length": 1586,
 		"hosts": [
 			"Hauke",
@@ -2211,6 +2381,7 @@
 			"likeCount": 55
 		},
 		"title": "Battlefield 4 | Community Beef | #14 | 08.06.2015",
+		"series": [],
 		"length": 1658,
 		"hosts": [
 			"Hauke",
@@ -2226,12 +2397,13 @@
 	{
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 44690,
+			"viewCount": 44697,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 1213
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 1 | #1",
+		"series": [],
 		"length": 4293,
 		"hosts": [
 			"Niklas",
@@ -2247,12 +2419,13 @@
 	{
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 21194,
+			"viewCount": 21196,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 619
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 1 | #2",
+		"series": [],
 		"length": 2441,
 		"hosts": [
 			"Niklas",
@@ -2274,6 +2447,7 @@
 			"likeCount": 547
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 1 | #3",
+		"series": [],
 		"length": 3193,
 		"hosts": [
 			"Niklas",
@@ -2295,6 +2469,7 @@
 			"likeCount": 424
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 1 | #4",
+		"series": [],
 		"length": 1572,
 		"hosts": [
 			"Niklas",
@@ -2316,6 +2491,7 @@
 			"likeCount": 447
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 1 | #5",
+		"series": [],
 		"length": 3044,
 		"hosts": [
 			"Niklas",
@@ -2337,6 +2513,7 @@
 			"likeCount": 666
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 1 | #6",
+		"series": [],
 		"length": 3739,
 		"hosts": [
 			"Niklas",
@@ -2358,6 +2535,7 @@
 			"likeCount": 39
 		},
 		"title": "Battlefield 4 | Community Beef | #15 | 08.06.2015",
+		"series": [],
 		"length": 1490,
 		"hosts": [
 			"Hauke",
@@ -2379,6 +2557,7 @@
 			"likeCount": 996
 		},
 		"title": "#MoinMoin mit Hannes | 10.06.2015",
+		"series": [],
 		"length": 2568,
 		"hosts": [
 			"Hannes"
@@ -2393,12 +2572,13 @@
 	{
 		"stats": {
 			"commentCount": 425,
-			"viewCount": 34917,
+			"viewCount": 34923,
 			"favoriteCount": 0,
 			"dislikeCount": 101,
 			"likeCount": 1268
 		},
 		"title": "Kino+ Spezial | Game of Thrones Talkrunde | Folge 9 - Staffel 5",
+		"series": [],
 		"length": 3257,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -2416,12 +2596,13 @@
 	{
 		"stats": {
 			"commentCount": 264,
-			"viewCount": 45113,
+			"viewCount": 45135,
 			"favoriteCount": 0,
 			"dislikeCount": 166,
 			"likeCount": 1187
 		},
 		"title": "Almost Plaily #166 | Passwort #2 | Part 1 | 09.06.2015",
+		"series": [],
 		"length": 1682,
 		"hosts": [
 			"Charly",
@@ -2439,12 +2620,13 @@
 	{
 		"stats": {
 			"commentCount": 92,
-			"viewCount": 17379,
+			"viewCount": 17387,
 			"favoriteCount": 0,
 			"dislikeCount": 52,
 			"likeCount": 594
 		},
 		"title": "Almost Plaily #166 | Passwort #2 | Part 2 | 09.06.2015",
+		"series": [],
 		"length": 1748,
 		"hosts": [
 			"Charly",
@@ -2468,6 +2650,7 @@
 			"likeCount": 1056
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #2 | Part 1 | 09.06.2015",
+		"series": [],
 		"length": 1460,
 		"hosts": [
 			"Hauke",
@@ -2483,12 +2666,13 @@
 	{
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 26378,
+			"viewCount": 26379,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 832
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #2 | Part 2 | 09.06.2015",
+		"series": [],
 		"length": 1504,
 		"hosts": [
 			"Hauke",
@@ -2510,6 +2694,7 @@
 			"likeCount": 818
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #2 | Part 3 | 09.06.2015",
+		"series": [],
 		"length": 1546,
 		"hosts": [
 			"Hauke",
@@ -2531,6 +2716,7 @@
 			"likeCount": 774
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #2 | Part 4 | 09.06.2015",
+		"series": [],
 		"length": 2498,
 		"hosts": [
 			"Hauke",
@@ -2552,6 +2738,7 @@
 			"likeCount": 79
 		},
 		"title": "Slender: The Arrival | After Dark | #7 | 05.06.2015",
+		"series": [],
 		"length": 1335,
 		"hosts": [
 			"Colin"
@@ -2566,12 +2753,13 @@
 	{
 		"stats": {
 			"commentCount": 111,
-			"viewCount": 54349,
+			"viewCount": 54351,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1470
 		},
 		"title": "Royal Beef | Teaser | Runde 7 | Sonntag, 14.06.2015 | 20:15",
+		"series": [],
 		"length": 31,
 		"hosts": [],
 		"published": 1433968208,
@@ -2582,12 +2770,13 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2198,
+			"viewCount": 2196,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 81
 		},
 		"title": "Slender: The Arrival | After Dark | #5 | 05.06.2015",
+		"series": [],
 		"length": 1601,
 		"hosts": [
 			"Colin"
@@ -2602,12 +2791,13 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 1714,
+			"viewCount": 1715,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 75
 		},
 		"title": "Slender: The Arrival | After Dark | #6 | 09.06.2015",
+		"series": [],
 		"length": 1611,
 		"hosts": [
 			"Colin"
@@ -2628,6 +2818,7 @@
 			"likeCount": 93
 		},
 		"title": "Grand Theft Auto V | Los Santos Connection | #7 | 04.06.15",
+		"series": [],
 		"length": 1849,
 		"hosts": [
 			"Dennis H",
@@ -2649,6 +2840,7 @@
 			"likeCount": 65
 		},
 		"title": "Grand Theft Auto V | Los Santos Connection | #8 | 04.06.15",
+		"series": [],
 		"length": 1945,
 		"hosts": [
 			"Dennis H",
@@ -2670,6 +2862,7 @@
 			"likeCount": 69
 		},
 		"title": "Grand Theft Auto V | Los Santos Connection | #9 | 04.06.15",
+		"series": [],
 		"length": 2029,
 		"hosts": [
 			"Dennis H",
@@ -2685,12 +2878,13 @@
 	{
 		"stats": {
 			"commentCount": 128,
-			"viewCount": 97082,
+			"viewCount": 97083,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 1881
 		},
 		"title": "Beans @ E3 | Das erwartet euch | TEASER",
+		"series": [],
 		"length": 50,
 		"hosts": [],
 		"published": 1434013705,
@@ -2701,12 +2895,15 @@
 	{
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 18303,
+			"viewCount": 18311,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 357
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #21 | Part 1 | 10.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1745,
 		"hosts": [
 			"Dennis R",
@@ -2722,12 +2919,15 @@
 	{
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 15287,
+			"viewCount": 15293,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 332
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #21 | Part 2 | 10.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1903,
 		"hosts": [
 			"Dennis R",
@@ -2749,6 +2949,7 @@
 			"likeCount": 620
 		},
 		"title": "#MoinMoin mit Budi | 11.06.2015",
+		"series": [],
 		"length": 2522,
 		"hosts": [
 			"Budi"
@@ -2763,12 +2964,13 @@
 	{
 		"stats": {
 			"commentCount": 100,
-			"viewCount": 30850,
+			"viewCount": 30874,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 1239
 		},
 		"title": "Almost Daily mit Florentin Will und Aurel Mertz | Teaser | 13.06.2015",
+		"series": [],
 		"length": 81,
 		"hosts": [],
 		"published": 1434026640,
@@ -2779,12 +2981,13 @@
 	{
 		"stats": {
 			"commentCount": 175,
-			"viewCount": 37333,
+			"viewCount": 37354,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 1749
 		},
 		"title": "Media Future Day | Rocket Beans on Tour | Arno und Budi in Z\u00fcrich",
+		"series": [],
 		"length": 2874,
 		"hosts": [
 			"Nils"
@@ -2799,12 +3002,13 @@
 	{
 		"stats": {
 			"commentCount": 203,
-			"viewCount": 41023,
+			"viewCount": 41033,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 1215
 		},
 		"title": "Bohn Jour #23 | Part 1 | mit Florentin Will und Aurel Mertz | 10.06.2015",
+		"series": [],
 		"length": 2005,
 		"hosts": [
 			"Budi",
@@ -2820,12 +3024,13 @@
 	{
 		"stats": {
 			"commentCount": 141,
-			"viewCount": 43331,
+			"viewCount": 43341,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 1290
 		},
 		"title": "Bohn Jour #23 | Part 2 | mit Florentin Will und Aurel Mertz | 10.06.2015",
+		"series": [],
 		"length": 3452,
 		"hosts": [
 			"Budi",
@@ -2841,12 +3046,13 @@
 	{
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 28461,
+			"viewCount": 28464,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 1098
 		},
 		"title": "Bohn Jour #23 | Part 3 | mit Florentin Will und Aurel Mertz | 10.06.2015",
+		"series": [],
 		"length": 1816,
 		"hosts": [
 			"Budi",
@@ -2862,12 +3068,13 @@
 	{
 		"stats": {
 			"commentCount": 209,
-			"viewCount": 45602,
+			"viewCount": 45608,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 1008
 		},
 		"title": "Kino+ #61 | Part 2 | Sky Sharks Gewinnspiel | Mad Max: Fury Road Besprechung",
+		"series": [],
 		"length": 3638,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -2891,6 +3098,7 @@
 			"likeCount": 93
 		},
 		"title": "Decay: The Mare | After Dark | #1 | 09.06.2015",
+		"series": [],
 		"length": 1531,
 		"hosts": [
 			"Bell",
@@ -2906,12 +3114,13 @@
 	{
 		"stats": {
 			"commentCount": 155,
-			"viewCount": 51619,
+			"viewCount": 51633,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 1227
 		},
 		"title": "Kino+ #61 | Part 1 | Jurassic World | Miss Bodyguard | News",
+		"series": [],
 		"length": 3697,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -2933,6 +3142,7 @@
 			"likeCount": 56
 		},
 		"title": "Decay: The Mare | After Dark | #2 | 09.06.2015",
+		"series": [],
 		"length": 1561,
 		"hosts": [
 			"Bell",
@@ -2954,6 +3164,7 @@
 			"likeCount": 51
 		},
 		"title": "Decay: The Mare / Quadrant | After Dark | #3 | 09.06.2015",
+		"series": [],
 		"length": 1372,
 		"hosts": [
 			"Bell",
@@ -2975,6 +3186,7 @@
 			"likeCount": 72
 		},
 		"title": "Quadrant | After Dark | #4 | 09.06.2015",
+		"series": [],
 		"length": 1718,
 		"hosts": [
 			"Bell",
@@ -2996,6 +3208,9 @@
 			"likeCount": 62
 		},
 		"title": "Dead Synchronicity | Point & Chick | #14 | 11.06.2015",
+		"series": [
+			"Dead Synchronicity"
+		],
 		"length": 1817,
 		"hosts": [
 			"Sofia",
@@ -3017,6 +3232,9 @@
 			"likeCount": 144
 		},
 		"title": "Technobabylon | Point & Chick | #1 | 11.06.2015",
+		"series": [
+			"Technobabylon"
+		],
 		"length": 2730,
 		"hosts": [
 			"Sofia",
@@ -3038,6 +3256,9 @@
 			"likeCount": 71
 		},
 		"title": "Technobabylon | Point & Chick | #2 | 11.06.2015",
+		"series": [
+			"Technobabylon"
+		],
 		"length": 1541,
 		"hosts": [
 			"Sofia",
@@ -3059,6 +3280,7 @@
 			"likeCount": 1358
 		},
 		"title": "#MoinMoin mit Budi und Nils | Part 1 | 12.06.2015",
+		"series": [],
 		"length": 1596,
 		"hosts": [
 			"Budi",
@@ -3074,12 +3296,13 @@
 	{
 		"stats": {
 			"commentCount": 105,
-			"viewCount": 29900,
+			"viewCount": 29902,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 1026
 		},
 		"title": "#MoinMoin mit Budi und Nils | Part 2 | 12.06.2015",
+		"series": [],
 		"length": 2507,
 		"hosts": [
 			"Budi",
@@ -3095,12 +3318,13 @@
 	{
 		"stats": {
 			"commentCount": 82,
-			"viewCount": 36095,
+			"viewCount": 36097,
 			"favoriteCount": 0,
 			"dislikeCount": 45,
 			"likeCount": 1171
 		},
 		"title": "Rocket Beans TV | Beans @ E3 Theme | Chilln in L.A.",
+		"series": [],
 		"length": 136,
 		"hosts": [],
 		"published": 1434118449,
@@ -3111,12 +3335,13 @@
 	{
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 27671,
+			"viewCount": 27673,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 981
 		},
 		"title": "#MoinMoin mit Budi und Nils | Part 3 | 12.06.2015",
+		"series": [],
 		"length": 1397,
 		"hosts": [
 			"Budi",
@@ -3132,12 +3357,13 @@
 	{
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 16234,
+			"viewCount": 16237,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 431
 		},
 		"title": "StarCraft II | Call of Budi | #15 | 11.06.2015",
+		"series": [],
 		"length": 2219,
 		"hosts": [
 			"Budi",
@@ -3159,6 +3385,7 @@
 			"likeCount": 276
 		},
 		"title": "StarCraft II | Call of Budi | #16 | 11.06.2015",
+		"series": [],
 		"length": 1829,
 		"hosts": [
 			"Budi",
@@ -3174,12 +3401,13 @@
 	{
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 16906,
+			"viewCount": 16908,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 368
 		},
 		"title": "StarCraft II | Call of Budi | #17 | 11.06.2015",
+		"series": [],
 		"length": 4265,
 		"hosts": [
 			"Budi",
@@ -3195,12 +3423,13 @@
 	{
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 11095,
+			"viewCount": 11094,
 			"favoriteCount": 0,
 			"dislikeCount": 33,
 			"likeCount": 335
 		},
 		"title": "Pinball Arcade | Zocken mit Bohnen | #1 | 11.06.2015",
+		"series": [],
 		"length": 1523,
 		"hosts": [
 			"Colin",
@@ -3210,18 +3439,20 @@
 		"id": "t0g8h9sW-RQ",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5762,
+			"viewCount": 5761,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 179
 		},
 		"title": "Pinball Arcade | Zocken mit Bohnen | #2 | 11.06.2015",
+		"series": [],
 		"length": 1698,
 		"hosts": [
 			"Colin",
@@ -3231,18 +3462,20 @@
 		"id": "XHbNkmXPqn0",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 4440,
+			"viewCount": 4444,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 127
 		},
 		"title": "Pinball Arcade | Zocken mit Bohnen | #3 | 11.06.2015",
+		"series": [],
 		"length": 1827,
 		"hosts": [
 			"Colin",
@@ -3252,7 +3485,8 @@
 		"id": "Y7eSFtcKBEg",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -3264,6 +3498,7 @@
 			"likeCount": 143
 		},
 		"title": "Pinball Arcade | Zocken mit Bohnen | #4 | 11.06.2015",
+		"series": [],
 		"length": 1544,
 		"hosts": [
 			"Colin",
@@ -3273,18 +3508,22 @@
 		"id": "jbUkroUnaCA",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 19289,
+			"viewCount": 19295,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 380
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #22 | Part 1 | 10.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1888,
 		"hosts": [
 			"Dennis R",
@@ -3300,12 +3539,15 @@
 	{
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 17239,
+			"viewCount": 17244,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 334
+			"likeCount": 335
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #22 | Part 2 | 10.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1887,
 		"hosts": [
 			"Dennis R",
@@ -3321,12 +3563,15 @@
 	{
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 20896,
+			"viewCount": 20898,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 380
 		},
 		"title": "Dark Souls 2: Scholar of the First Sin mit Colin | Zocken mit Bohnen | #1 | 05.06.15",
+		"series": [
+			"Dark Souls II: Scholar of the First Sin"
+		],
 		"length": 1841,
 		"hosts": [
 			"Colin"
@@ -3335,18 +3580,22 @@
 		"id": "-v6yEVqg_Ao",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 7181,
+			"viewCount": 7182,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 154
 		},
 		"title": "Dark Souls 2: Scholar of the First Sin mit Colin | Zocken mit Bohnen | #2 | 05.06.15",
+		"series": [
+			"Dark Souls II: Scholar of the First Sin"
+		],
 		"length": 1749,
 		"hosts": [
 			"Colin"
@@ -3355,7 +3604,8 @@
 		"id": "IQywmVn_9aA",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -3367,6 +3617,9 @@
 			"likeCount": 120
 		},
 		"title": "Dark Souls 2: Scholar of the First Sin mit Colin | Zocken mit Bohnen | #3 | 05.06.15",
+		"series": [
+			"Dark Souls II: Scholar of the First Sin"
+		],
 		"length": 2384,
 		"hosts": [
 			"Colin"
@@ -3375,7 +3628,8 @@
 		"id": "nUOT3akJyKY",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -3387,6 +3641,9 @@
 			"likeCount": 141
 		},
 		"title": "Dark Souls 2: Scholar of the First Sin mit Colin | Zocken mit Bohnen | #4 | 05.06.15",
+		"series": [
+			"Dark Souls II: Scholar of the First Sin"
+		],
 		"length": 1702,
 		"hosts": [
 			"Colin"
@@ -3395,18 +3652,22 @@
 		"id": "u94DjU5AsPg",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 60,
-			"viewCount": 40766,
+			"viewCount": 40778,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 559
 		},
 		"title": "King's Field IV | Classix | #1 | 05.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 1702,
 		"hosts": [
 			"Colin",
@@ -3422,12 +3683,15 @@
 	{
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 15624,
+			"viewCount": 15625,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 417
 		},
 		"title": "King's Field IV | Classix | #2 | 05.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 2034,
 		"hosts": [
 			"Colin",
@@ -3443,12 +3707,13 @@
 	{
 		"stats": {
 			"commentCount": 149,
-			"viewCount": 65217,
+			"viewCount": 65248,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 2114
 		},
 		"title": "Almost Daily #167 | mit Florentin Will und Aurel Mertz | Part 1 | 13.06.2015",
+		"series": [],
 		"length": 2611,
 		"hosts": [
 			"Budi",
@@ -3464,12 +3729,13 @@
 	{
 		"stats": {
 			"commentCount": 150,
-			"viewCount": 46140,
+			"viewCount": 46152,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 2046
 		},
 		"title": "Almost Daily #167 | mit Florentin Will und Aurel Mertz | Part 2 | 13.06.2015",
+		"series": [],
 		"length": 3092,
 		"hosts": [
 			"Budi",
@@ -3485,12 +3751,13 @@
 	{
 		"stats": {
 			"commentCount": 168,
-			"viewCount": 53434,
+			"viewCount": 53436,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 3044
 		},
 		"title": "Gadget Inspectors | Smartwatch",
+		"series": [],
 		"length": 560,
 		"hosts": [
 			"Simon",
@@ -3506,12 +3773,13 @@
 	{
 		"stats": {
 			"commentCount": 86,
-			"viewCount": 37610,
+			"viewCount": 37635,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 801
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #14 | Die Zeitfalle | Seite 1",
+		"series": [],
 		"length": 1821,
 		"hosts": [
 			"Dennis R",
@@ -3529,12 +3797,13 @@
 	{
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 30724,
+			"viewCount": 30746,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 673
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #14 | Die Zeitfalle | Seite 2",
+		"series": [],
 		"length": 1916,
 		"hosts": [
 			"Dennis R",
@@ -3558,6 +3827,7 @@
 			"likeCount": 612
 		},
 		"title": "#MoinMoin mit Dennis H. und Johannes | 15.06.2015",
+		"series": [],
 		"length": 2332,
 		"hosts": [
 			"Dennis H",
@@ -3579,6 +3849,7 @@
 			"likeCount": 215
 		},
 		"title": "Fifa 15 mit Nils | Zocken mit Bohnen | 15.06.15",
+		"series": [],
 		"length": 3372,
 		"hosts": [
 			"Nils"
@@ -3587,18 +3858,20 @@
 		"id": "THbv_-3gVDA",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 72,
-			"viewCount": 36956,
+			"viewCount": 36957,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 953
 		},
 		"title": "[1/2] GAME minus | #9 | E3 - Hype | 13.06.2015",
+		"series": [],
 		"length": 2352,
 		"hosts": [
 			"Simon",
@@ -3614,12 +3887,13 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 18796,
+			"viewCount": 18795,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 542
 		},
 		"title": "[2/2] GAME minus | #9 | E3 - Hype | 13.06.2015",
+		"series": [],
 		"length": 2129,
 		"hosts": [
 			"Simon",
@@ -3635,12 +3909,13 @@
 	{
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 11350,
+			"viewCount": 11352,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 386
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward #3 - Das MMO-Tagebuch",
+		"series": [],
 		"length": 809,
 		"hosts": [],
 		"published": 1434398401,
@@ -3657,6 +3932,7 @@
 			"likeCount": 595
 		},
 		"title": "E3 2015: Zusammenfassung Tag 1 | Montag | Hamburg | #1 | 15.06.15",
+		"series": [],
 		"length": 1489,
 		"hosts": [
 			"Gregor",
@@ -3679,6 +3955,7 @@
 			"likeCount": 327
 		},
 		"title": "E3 2015: Zusammenfassung Tag 1 | Montag | Hamburg | #2 | 15.06.15",
+		"series": [],
 		"length": 1146,
 		"hosts": [
 			"Gregor",
@@ -3701,6 +3978,7 @@
 			"likeCount": 334
 		},
 		"title": "E3 2015: Zusammenfassung Tag 1 | Montag | Hamburg | #3 | 15.06.15",
+		"series": [],
 		"length": 1787,
 		"hosts": [
 			"Gregor",
@@ -3723,6 +4001,7 @@
 			"likeCount": 285
 		},
 		"title": "E3 2015: Zusammenfassung Tag 1 | Montag | Hamburg | #4 | 15.06.15",
+		"series": [],
 		"length": 2291,
 		"hosts": [
 			"Gregor",
@@ -3739,12 +4018,13 @@
 	{
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 15230,
+			"viewCount": 15232,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 541
 		},
 		"title": "#MoinMoin mit Gunnar und Sofia | 16.06.2015",
+		"series": [],
 		"length": 2539,
 		"hosts": [
 			"Gunnar",
@@ -3760,12 +4040,13 @@
 	{
 		"stats": {
 			"commentCount": 315,
-			"viewCount": 154791,
+			"viewCount": 154901,
 			"favoriteCount": 0,
 			"dislikeCount": 147,
-			"likeCount": 3445
+			"likeCount": 3446
 		},
 		"title": "Royal Beef | #7 | ThiefTown | 14.06.2015",
+		"series": [],
 		"length": 1979,
 		"hosts": [
 			"Simon",
@@ -3789,6 +4070,7 @@
 			"likeCount": 891
 		},
 		"title": "E3 2015: Zusammenfassung Tag 1 | Montag | Los Angeles | #1 | 15.06.15",
+		"series": [],
 		"length": 4332,
 		"hosts": [
 			"Simon",
@@ -3811,6 +4093,7 @@
 			"likeCount": 560
 		},
 		"title": "E3 2015: Zusammenfassung Tag 1 | Montag | Los Angeles | #2 | 15.06.15",
+		"series": [],
 		"length": 2004,
 		"hosts": [
 			"Simon",
@@ -3833,6 +4116,7 @@
 			"likeCount": 353
 		},
 		"title": "E3 2015: Besprechung der Ubisoft Pressekonferenz  | Los Angeles | 15.06.15",
+		"series": [],
 		"length": 2604,
 		"hosts": [
 			"Simon",
@@ -3855,6 +4139,7 @@
 			"likeCount": 331
 		},
 		"title": "E3 2015: Besprechung der Microsoft Pressekonferenz | Los Angeles | 15.06.15",
+		"series": [],
 		"length": 3239,
 		"hosts": [
 			"Nils",
@@ -3876,6 +4161,7 @@
 			"likeCount": 298
 		},
 		"title": "E3 2015: Electronic Arts Pressekonferenz | mit Kommentar | 15.06.15",
+		"series": [],
 		"length": 5050,
 		"hosts": [],
 		"published": 1434488430,
@@ -3894,6 +4180,7 @@
 			"likeCount": 311
 		},
 		"title": "E3 2015: Microsoft Pressekonferenz | mit Kommentar | 15.06.15",
+		"series": [],
 		"length": 6039,
 		"hosts": [],
 		"published": 1434490201,
@@ -3906,12 +4193,13 @@
 	{
 		"stats": {
 			"commentCount": 110,
-			"viewCount": 31211,
+			"viewCount": 31212,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
 			"likeCount": 646
 		},
 		"title": "E3 2015: Sony Pressekonferenz | mit Kommentar | 15.06.15",
+		"series": [],
 		"length": 5636,
 		"hosts": [
 			"Simon",
@@ -3934,6 +4222,7 @@
 			"likeCount": 232
 		},
 		"title": "E3 2015: Ubisoft Pressekonferenz | mit Kommentar | 15.06.15",
+		"series": [],
 		"length": 4090,
 		"hosts": [],
 		"published": 1434493800,
@@ -3946,12 +4235,15 @@
 	{
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 19496,
+			"viewCount": 19547,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 383
+			"likeCount": 384
 		},
 		"title": "[1] Terranigma mit Gregor | Classix | 08.06.2015",
+		"series": [
+			"Terranigma"
+		],
 		"length": 1427,
 		"hosts": [
 			"Gregor"
@@ -3966,12 +4258,15 @@
 	{
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 9953,
+			"viewCount": 9971,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 264
 		},
 		"title": "[2] Terranigma mit Gregor | Classix | 08.06.2015",
+		"series": [
+			"Terranigma"
+		],
 		"length": 1468,
 		"hosts": [
 			"Gregor"
@@ -3992,6 +4287,7 @@
 			"likeCount": 295
 		},
 		"title": "Rocket Beans TV Archon Cup | Best Of Runde 1",
+		"series": [],
 		"length": 202,
 		"hosts": [],
 		"published": 1434541288,
@@ -4008,6 +4304,7 @@
 			"likeCount": 531
 		},
 		"title": "#MoinMoin mit Alwin, Ben und Hannes | 17.06.2015",
+		"series": [],
 		"length": 2622,
 		"hosts": [
 			"Alwin",
@@ -4030,6 +4327,7 @@
 			"likeCount": 273
 		},
 		"title": "E3 2015: Zusammenfassung Tag 2 | Dienstag | Hamburg | #1 | 16.06.15",
+		"series": [],
 		"length": 2264,
 		"hosts": [
 			"Gregor",
@@ -4051,6 +4349,7 @@
 			"likeCount": 514
 		},
 		"title": "Heroes of the Storm | Rocket Beans on Tour | Dennis und Yves in London",
+		"series": [],
 		"length": 1270,
 		"hosts": [
 			"Dennis R"
@@ -4071,6 +4370,7 @@
 			"likeCount": 206
 		},
 		"title": "E3 2015: Zusammenfassung Tag 2 | Dienstag | Hamburg | # 2 | 16.06.15",
+		"series": [],
 		"length": 1252,
 		"hosts": [
 			"Gregor",
@@ -4086,12 +4386,13 @@
 	{
 		"stats": {
 			"commentCount": 571,
-			"viewCount": 52138,
+			"viewCount": 52150,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 1370
 		},
 		"title": "Kino+ Spezial | Game of Thrones Talkrunde | Folge 10 - Staffel 5",
+		"series": [],
 		"length": 5223,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4114,6 +4415,7 @@
 			"likeCount": 435
 		},
 		"title": "Battleborn | Rocket Beans on Tour | Johannes und Eduard in Los Angeles",
+		"series": [],
 		"length": 423,
 		"hosts": [
 			"Johannes"
@@ -4134,6 +4436,7 @@
 			"likeCount": 317
 		},
 		"title": "E3 2015: Twitch Booth | Star Wars Battlefront, Call of Duty: Black Ops 3 | #1 | 16.06.2015",
+		"series": [],
 		"length": 4259,
 		"hosts": [
 			"Simon",
@@ -4156,6 +4459,7 @@
 			"likeCount": 170
 		},
 		"title": "E3 2015: Twitch Booth | Master of Orion, Mirror's Edge Catalyst  | #2 | 16.06.2015",
+		"series": [],
 		"length": 3153,
 		"hosts": [
 			"Dennis R",
@@ -4178,6 +4482,7 @@
 			"likeCount": 213
 		},
 		"title": "E3 2015: Twitch Booth | Civilization: Beyond Earth - Rising Tide    | #3 | 16.06.2015",
+		"series": [],
 		"length": 1457,
 		"hosts": [
 			"Nils"
@@ -4192,12 +4497,13 @@
 	{
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 13607,
+			"viewCount": 13608,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 542
 		},
 		"title": "E3 2015: Twitch Booth | Star Fox Zero, Fabian Mario Doehla  | #4 | 16.06.2015",
+		"series": [],
 		"length": 1676,
 		"hosts": [
 			"Nils",
@@ -4219,6 +4525,7 @@
 			"likeCount": 279
 		},
 		"title": "E3 2015: Twitch Booth | XCOM 2  | #5 | 16.06.2015",
+		"series": [],
 		"length": 1675,
 		"hosts": [
 			"Simon"
@@ -4239,6 +4546,7 @@
 			"likeCount": 245
 		},
 		"title": "E3 2015: Twitch Booth | Anno 2205 | #6 | 16.06.2015",
+		"series": [],
 		"length": 2764,
 		"hosts": [
 			"Dennis R"
@@ -4253,12 +4561,13 @@
 	{
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 4200,
+			"viewCount": 4201,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 225
 		},
 		"title": "E3 2015: Twitch Booth | Interview mit Simon Koschel von Twitch | #7 | 16.06.2015",
+		"series": [],
 		"length": 1155,
 		"hosts": [
 			"Dennis R"
@@ -4279,6 +4588,7 @@
 			"likeCount": 515
 		},
 		"title": "E3 2015: Zusammenfassung Tag 2 | Dienstag | Los Angeles | #1 | 17.06.15",
+		"series": [],
 		"length": 3582,
 		"hosts": [
 			"Simon",
@@ -4301,6 +4611,7 @@
 			"likeCount": 349
 		},
 		"title": "E3 2015: Zusammenfassung Tag 2 | Dienstag | Los Angeles | #2 | 17.06.15",
+		"series": [],
 		"length": 2536,
 		"hosts": [
 			"Simon",
@@ -4323,6 +4634,7 @@
 			"likeCount": 271
 		},
 		"title": "E3 2015: Zusammenfassung Tag 2 | Dienstag | Hamburg | #3 | 16.06.2015",
+		"series": [],
 		"length": 5456,
 		"hosts": [
 			"Gregor",
@@ -4345,6 +4657,7 @@
 			"likeCount": 333
 		},
 		"title": "E3 2015: Nintendo Pressekonferenz | mit Kommentar | 16.06.15",
+		"series": [],
 		"length": 3058,
 		"hosts": [
 			"Nils",
@@ -4366,6 +4679,7 @@
 			"likeCount": 215
 		},
 		"title": "E3 2015: Square Enix Pressekonferenz | mit Kommentar | 16.06.15",
+		"series": [],
 		"length": 4897,
 		"hosts": [
 			"Nils"
@@ -4386,6 +4700,7 @@
 			"likeCount": 267
 		},
 		"title": "E3 2015: PC Gaming Show | mit Kommentar | #1 | 16.06.15",
+		"series": [],
 		"length": 5204,
 		"hosts": [
 			"Nils",
@@ -4407,6 +4722,7 @@
 			"likeCount": 193
 		},
 		"title": "E3 2015: PC Gaming Show | mit Kommentar | #2 | 16.06.15",
+		"series": [],
 		"length": 4738,
 		"hosts": [
 			"Nils",
@@ -4428,6 +4744,7 @@
 			"likeCount": 598
 		},
 		"title": "#MoinMoin mit Budi und Co | 18.06.2015",
+		"series": [],
 		"length": 2619,
 		"hosts": [
 			"Budi"
@@ -4448,6 +4765,9 @@
 			"likeCount": 76
 		},
 		"title": "Splatoon mit Colin und Gregor | Zocken mit Bohnen | #5 | 22.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1647,
 		"hosts": [
 			"Colin",
@@ -4457,7 +4777,8 @@
 		"id": "pdQS6b_-pyU",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -4469,6 +4790,7 @@
 			"likeCount": 211
 		},
 		"title": "Rocket Beans TV Archon Cup | TLO & RET",
+		"series": [],
 		"length": 56,
 		"hosts": [],
 		"published": 1434631595,
@@ -4485,6 +4807,9 @@
 			"likeCount": 49
 		},
 		"title": "Splatoon mit Colin und Gregor | Zocken mit Bohnen | #6 | 22.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1733,
 		"hosts": [
 			"Colin",
@@ -4494,7 +4819,8 @@
 		"id": "8ml28bOiBhw",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -4506,6 +4832,9 @@
 			"likeCount": 116
 		},
 		"title": "Splatoon | Zocken mit Bohnen | #1 | 19.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1451,
 		"hosts": [
 			"Gregor"
@@ -4514,7 +4843,8 @@
 		"id": "xUgTmt498p4",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -4526,6 +4856,7 @@
 			"likeCount": 259
 		},
 		"title": "E3 2015: Halbzeit Show | Mittwoch | Hamburg | #1 | 17.06.2015",
+		"series": [],
 		"length": 2325,
 		"hosts": [
 			"Colin",
@@ -4547,6 +4878,9 @@
 			"likeCount": 60
 		},
 		"title": "Splatoon | Zocken mit Bohnen | #2 | 19.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1521,
 		"hosts": [
 			"Gregor"
@@ -4555,7 +4889,8 @@
 		"id": "FA-No2dCcBQ",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -4567,6 +4902,9 @@
 			"likeCount": 49
 		},
 		"title": "Splatoon | Zocken mit Bohnen | #4 | 19.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1686,
 		"hosts": [
 			"Gregor"
@@ -4575,7 +4913,8 @@
 		"id": "Cg3yCs4lh5g",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -4587,6 +4926,7 @@
 			"likeCount": 151
 		},
 		"title": "Rocket Beans TV Archon Cup | TLO & RET | English Version",
+		"series": [],
 		"length": 56,
 		"hosts": [],
 		"published": 1434639476,
@@ -4603,6 +4943,7 @@
 			"likeCount": 199
 		},
 		"title": "E3 2015: Halbzeit Show | Mittwoch | Hamburg | #2 | 17.06.2015",
+		"series": [],
 		"length": 2900,
 		"hosts": [
 			"Colin",
@@ -4624,6 +4965,9 @@
 			"likeCount": 57
 		},
 		"title": "Splatoon | Zocken mit Bohnen | #3 | 19.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1505,
 		"hosts": [
 			"Gregor"
@@ -4632,7 +4976,8 @@
 		"id": "Zgfg9rGcdkw",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -4644,6 +4989,7 @@
 			"likeCount": 181
 		},
 		"title": "E3 2015: Halbzeit Show | Mittwoch | Hamburg | #3 | 17.06.2015",
+		"series": [],
 		"length": 3271,
 		"hosts": [
 			"Colin",
@@ -4665,6 +5011,7 @@
 			"likeCount": 148
 		},
 		"title": "E3 2015: Halbzeit Show | Mittwoch | Hamburg | #4 | 17.06.2015",
+		"series": [],
 		"length": 2245,
 		"hosts": [
 			"Colin",
@@ -4686,6 +5033,7 @@
 			"likeCount": 160
 		},
 		"title": "E3 2015: Halbzeit Show | Mittwoch | Hamburg | #5 | 17.06.2015",
+		"series": [],
 		"length": 2341,
 		"hosts": [
 			"Colin",
@@ -4708,6 +5056,7 @@
 			"likeCount": 412
 		},
 		"title": "E3 2015: Twitch Booth | Sony Morpheus, Elite: Dangerous   | #1 | 17.06.2015",
+		"series": [],
 		"length": 2405,
 		"hosts": [
 			"Simon",
@@ -4729,6 +5078,7 @@
 			"likeCount": 215
 		},
 		"title": "E3 2015: Twitch Booth | Halo 5: Guardians , Deus Ex: Mankind Divided  | #2 | 17.06.2015",
+		"series": [],
 		"length": 2224,
 		"hosts": [
 			"Simon",
@@ -4750,6 +5100,7 @@
 			"likeCount": 211
 		},
 		"title": "E3 2015: Twitch Booth | Tom Clancy's The Division | #3 | 17.06.2015",
+		"series": [],
 		"length": 1923,
 		"hosts": [
 			"Simon"
@@ -4770,6 +5121,7 @@
 			"likeCount": 164
 		},
 		"title": "E3 2015: Twitch Booth | Hitman  | #4 | 17.06.2015",
+		"series": [],
 		"length": 1360,
 		"hosts": [
 			"Simon"
@@ -4790,6 +5142,7 @@
 			"likeCount": 144
 		},
 		"title": "E3 2015: Twitch Booth | Deus Ex: Mankind Divided | #5 | 17.06.2015",
+		"series": [],
 		"length": 1287,
 		"hosts": [
 			"Simon"
@@ -4804,12 +5157,13 @@
 	{
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 5462,
+			"viewCount": 5464,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 198
 		},
 		"title": "E3 2015: Twitch Booth | Battleborn, Microsoft HoloLens | #6 | 17.06.2015",
+		"series": [],
 		"length": 3045,
 		"hosts": [
 			"Simon"
@@ -4830,6 +5184,7 @@
 			"likeCount": 480
 		},
 		"title": "E3 2015: Zusammenfassung Tag 3 | Mittwoch | Los Angeles | #1 | 18.06.2015",
+		"series": [],
 		"length": 2055,
 		"hosts": [
 			"Simon",
@@ -4852,6 +5207,7 @@
 			"likeCount": 439
 		},
 		"title": "E3 2015: Zusammenfassung Tag 3 | Mittwoch | Los Angeles | #2 | 18.06.2015",
+		"series": [],
 		"length": 1763,
 		"hosts": [
 			"Simon",
@@ -4873,6 +5229,7 @@
 			"likeCount": 448
 		},
 		"title": "E3 2015: Zusammenfassung Tag 3 | Mittwoch | Los Angeles | #3 | 18.06.2015",
+		"series": [],
 		"length": 1107,
 		"hosts": [
 			"Simon",
@@ -4895,6 +5252,7 @@
 			"likeCount": 329
 		},
 		"title": "E3 2015: Zusammenfassung Tag 3 | Mittwoch | Los Angeles | #4 | 18.06.2015",
+		"series": [],
 		"length": 1778,
 		"hosts": [
 			"Nils",
@@ -4910,12 +5268,13 @@
 	{
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 12939,
+			"viewCount": 12940,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 362
 		},
 		"title": "E3 2015: Zusammenfassung Tag 3 | Mittwoch | Los Angeles | #5 | 18.06.2015",
+		"series": [],
 		"length": 608,
 		"hosts": [
 			"Nils"
@@ -4936,6 +5295,9 @@
 			"likeCount": 62
 		},
 		"title": "Splatoon mit Colin und Gregor | Zocken mit Bohnen | #8 | 22.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1413,
 		"hosts": [
 			"Colin",
@@ -4945,7 +5307,8 @@
 		"id": "W7MfNycfwFA",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -4957,6 +5320,7 @@
 			"likeCount": 220
 		},
 		"title": "E3 2015: Zusammenfassung Tag 4 | Donnerstag | Hamburg | #1 | 18.06.2015",
+		"series": [],
 		"length": 2411,
 		"hosts": [
 			"Nils",
@@ -4980,6 +5344,7 @@
 			"likeCount": 148
 		},
 		"title": "E3 2015: Zusammenfassung Tag 4 | Donnerstag | Hamburg | #2 | 18.06.2015",
+		"series": [],
 		"length": 851,
 		"hosts": [
 			"Budi",
@@ -4995,12 +5360,13 @@
 	{
 		"stats": {
 			"commentCount": 155,
-			"viewCount": 27696,
+			"viewCount": 27700,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 892
 		},
 		"title": "E3 2015: Twitch Booth | eSport, @SeltzerPlease | #1 | 18.06.2015",
+		"series": [],
 		"length": 2363,
 		"hosts": [
 			"Nils"
@@ -5021,6 +5387,7 @@
 			"likeCount": 184
 		},
 		"title": "E3 2015: Twitch Booth | Guitar Hero Live, Destiny: The Taken King | #2 | 18.06.2015",
+		"series": [],
 		"length": 1317,
 		"hosts": [
 			"Nils",
@@ -5042,6 +5409,7 @@
 			"likeCount": 202
 		},
 		"title": "E3 2015: Twitch Booth | Life is Strange | #3 | 18.06.2015",
+		"series": [],
 		"length": 1381,
 		"hosts": [
 			"Simon"
@@ -5062,6 +5430,7 @@
 			"likeCount": 177
 		},
 		"title": "E3 2015: Twitch Booth | Just Cause 3 | #4 | 18.06.2015",
+		"series": [],
 		"length": 1577,
 		"hosts": [
 			"Nils"
@@ -5082,6 +5451,7 @@
 			"likeCount": 369
 		},
 		"title": "E3 2015: Twitch Booth | Destiny: The Taken King, Fabian Siegismund | #5 | 18.06.2015",
+		"series": [],
 		"length": 1582,
 		"hosts": [
 			"Simon",
@@ -5103,6 +5473,9 @@
 			"likeCount": 53
 		},
 		"title": "Splatoon mit Colin und Gregor | Zocken mit Bohnen | #7 | 22.05.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1325,
 		"hosts": [
 			"Colin",
@@ -5112,18 +5485,20 @@
 		"id": "4B7YangJ9Is",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 24049,
+			"viewCount": 24050,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 719
 		},
 		"title": "#MoinMoin mit Gunnar und Gino | 19.06.2015",
+		"series": [],
 		"length": 2554,
 		"hosts": [
 			"Gunnar",
@@ -5139,12 +5514,13 @@
 	{
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 26508,
+			"viewCount": 26510,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 936
 		},
 		"title": "E3 2015: Zusammenfassung Tag 4 | Donnerstag | Los Angeles | #1 | 19.06.2015",
+		"series": [],
 		"length": 1600,
 		"hosts": [
 			"Nils",
@@ -5166,6 +5542,7 @@
 			"likeCount": 680
 		},
 		"title": "E3 2015: Zusammenfassung Tag 4 | Donnerstag | Los Angeles | #2 | 19.06.2015",
+		"series": [],
 		"length": 3341,
 		"hosts": [
 			"Simon",
@@ -5182,12 +5559,13 @@
 	{
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 43054,
+			"viewCount": 43058,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 870
 		},
 		"title": "Kino+ Live | Twitter Challenge, Hausaufgabe, Trailertalk | #1 | 18.06.2015",
+		"series": [],
 		"length": 2444,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5203,12 +5581,13 @@
 	{
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 22966,
+			"viewCount": 22968,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 684
 		},
 		"title": "Kino+ Live | Twitter Challenge, Hausaufgabe, Trailertalk | #2 | 18.06.2015",
+		"series": [],
 		"length": 2766,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5224,12 +5603,13 @@
 	{
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 19836,
+			"viewCount": 19840,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 575
+			"likeCount": 576
 		},
 		"title": "Kino+ Live | Twitter Challenge, Hausaufgabe, Trailertalk | #3 | 18.06.2015",
+		"series": [],
 		"length": 2517,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5246,12 +5626,13 @@
 	{
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 19624,
+			"viewCount": 19626,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 607
 		},
 		"title": "Kino+ Live | Twitter Challenge, Hausaufgabe, Trailertalk | #4 | 18.06.2015",
+		"series": [],
 		"length": 3227,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5269,12 +5650,13 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3599,
+			"viewCount": 3598,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 110
 		},
 		"title": "Rocket Beans TV Archon Cup | HeRoMaRinE & Lamboking",
+		"series": [],
 		"length": 63,
 		"hosts": [],
 		"published": 1434808800,
@@ -5285,12 +5667,13 @@
 	{
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 1730,
+			"viewCount": 1729,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 28
 		},
 		"title": "Rocket Beans TV Archon Cup | HeRoMaRinE & Lamboking | English Version",
+		"series": [],
 		"length": 62,
 		"hosts": [],
 		"published": 1434808801,
@@ -5307,6 +5690,7 @@
 			"likeCount": 581
 		},
 		"title": "Kino+ Live | Twitter Challenge, Hausaufgabe, Trailertalk | #5 | 18.06.2015",
+		"series": [],
 		"length": 1831,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5323,12 +5707,13 @@
 	{
 		"stats": {
 			"commentCount": 238,
-			"viewCount": 39536,
+			"viewCount": 39539,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 1786
 		},
 		"title": "Future Klub '95 | E3 und neue Konsolentrends | #1 | 19.06.2015",
+		"series": [],
 		"length": 1998,
 		"hosts": [
 			"Gregor"
@@ -5343,12 +5728,13 @@
 	{
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 15531,
+			"viewCount": 15532,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 720
 		},
 		"title": "Future Klub '95 | E3 und neue Konsolentrends | #2 | 19.06.2015",
+		"series": [],
 		"length": 1648,
 		"hosts": [
 			"Gregor"
@@ -5363,12 +5749,13 @@
 	{
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 13504,
+			"viewCount": 13505,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 616
 		},
 		"title": "Future Klub '95 | E3 und neue Konsolentrends | #3 | 19.06.2015",
+		"series": [],
 		"length": 1893,
 		"hosts": [
 			"Gregor"
@@ -5383,12 +5770,13 @@
 	{
 		"stats": {
 			"commentCount": 92,
-			"viewCount": 12712,
+			"viewCount": 12714,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 630
 		},
 		"title": "Future Klub '95 | E3 und neue Konsolentrends | #4 | 19.06.2015",
+		"series": [],
 		"length": 868,
 		"hosts": [
 			"Gregor"
@@ -5409,6 +5797,9 @@
 			"likeCount": 160
 		},
 		"title": "Dark Souls 2: Scholar of the First Sin mit Colin und Gregor | Zocken mit Bohnen | #5 | 12.06.15",
+		"series": [
+			"Dark Souls II: Scholar of the First Sin"
+		],
 		"length": 1461,
 		"hosts": [
 			"Colin",
@@ -5418,7 +5809,8 @@
 		"id": "Vt3eXYumEFc",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -5430,6 +5822,9 @@
 			"likeCount": 125
 		},
 		"title": "Dark Souls 2: Scholar of the First Sin mit Colin und Gregor | Zocken mit Bohnen | #6 | 12.06.15",
+		"series": [
+			"Dark Souls II: Scholar of the First Sin"
+		],
 		"length": 2452,
 		"hosts": [
 			"Colin",
@@ -5439,7 +5834,8 @@
 		"id": "2OXoHxcLGY0",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -5451,6 +5847,9 @@
 			"likeCount": 128
 		},
 		"title": "Dark Souls 2: Scholar of the First Sin mit Colin und Gregor | Zocken mit Bohnen | #7 | 12.06.15",
+		"series": [
+			"Dark Souls II: Scholar of the First Sin"
+		],
 		"length": 1626,
 		"hosts": [
 			"Colin",
@@ -5460,7 +5859,8 @@
 		"id": "Ip1BtYsnZAI",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -5472,6 +5872,7 @@
 			"likeCount": 94
 		},
 		"title": "Grand Theft Auto V mit Dennis H. und Tim | Los Santos Connection | #10 | 12.06.15",
+		"series": [],
 		"length": 1681,
 		"hosts": [
 			"Dennis H",
@@ -5493,6 +5894,7 @@
 			"likeCount": 60
 		},
 		"title": "Grand Theft Auto V mit Dennis H. und Tim | Los Santos Connection | #11 | 12.06.15",
+		"series": [],
 		"length": 1447,
 		"hosts": [
 			"Dennis H",
@@ -5508,12 +5910,13 @@
 	{
 		"stats": {
 			"commentCount": 177,
-			"viewCount": 92340,
+			"viewCount": 92357,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
 			"likeCount": 1834
 		},
 		"title": "Almost Daily #168 | Tagtr\u00e4umer | Part 1 | 18.06.2015",
+		"series": [],
 		"length": 1643,
 		"hosts": [
 			"Dennis H",
@@ -5530,12 +5933,13 @@
 	{
 		"stats": {
 			"commentCount": 80,
-			"viewCount": 66358,
+			"viewCount": 66371,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1436
 		},
 		"title": "Almost Daily #168 | Tagtr\u00e4umer | Part 2 | 18.06.2015",
+		"series": [],
 		"length": 1942,
 		"hosts": [
 			"Dennis H",
@@ -5552,12 +5956,13 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 2403,
+			"viewCount": 2405,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 82
 		},
 		"title": "Grand Theft Auto V mit Dennis H. und Tim | Los Santos Connection | #12 | 12.06.15",
+		"series": [],
 		"length": 2392,
 		"hosts": [
 			"Dennis H",
@@ -5573,12 +5978,13 @@
 	{
 		"stats": {
 			"commentCount": 82,
-			"viewCount": 35985,
+			"viewCount": 36018,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 800
+			"likeCount": 801
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #15 | Das Geschenk der Leonen | Seite 1",
+		"series": [],
 		"length": 2109,
 		"hosts": [
 			"Gregor",
@@ -5594,12 +6000,13 @@
 	{
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 27101,
+			"viewCount": 27127,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 669
+			"likeCount": 670
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #15 | Das Geschenk der Leonen | Seite 2",
+		"series": [],
 		"length": 1692,
 		"hosts": [
 			"Gregor",
@@ -5615,12 +6022,13 @@
 	{
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 24572,
+			"viewCount": 24578,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 561
 		},
 		"title": "Almost Plaily | Teaser | Ben und seine Gitarre | 23.06.2015",
+		"series": [],
 		"length": 28,
 		"hosts": [],
 		"published": 1434968399,
@@ -5631,12 +6039,13 @@
 	{
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8038,
+			"viewCount": 8041,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 200
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward - Community Event | Teaser | 22.06. um 20:15",
+		"series": [],
 		"length": 30,
 		"hosts": [],
 		"published": 1434973588,
@@ -5653,6 +6062,7 @@
 			"likeCount": 753
 		},
 		"title": "#MoinMoin mit Colin | 22.06.2015",
+		"series": [],
 		"length": 2779,
 		"hosts": [
 			"Colin"
@@ -5673,6 +6083,7 @@
 			"likeCount": 375
 		},
 		"title": "E3 2015: Zusammenfassung Tag 4 | Donnerstag | Los Angeles | #3 | 19.06.2015",
+		"series": [],
 		"length": 2787,
 		"hosts": [
 			"Simon",
@@ -5695,6 +6106,9 @@
 			"likeCount": 60
 		},
 		"title": "Splatoon mit Gregor | Zocken mit Bohnen | #9 | 09.06.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1759,
 		"hosts": [
 			"Gregor"
@@ -5703,7 +6117,8 @@
 		"id": "FnzltksKCBg",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -5715,6 +6130,9 @@
 			"likeCount": 47
 		},
 		"title": "Splatoon mit Gregor | Zocken mit Bohnen | #10 | 09.06.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1745,
 		"hosts": [
 			"Gregor"
@@ -5723,7 +6141,8 @@
 		"id": "d8bjQgAKV_k",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -5735,6 +6154,9 @@
 			"likeCount": 57
 		},
 		"title": "Splatoon mit Gregor  | Zocken mit Bohnen | #11 | 09.06.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1549,
 		"hosts": [
 			"Gregor"
@@ -5743,18 +6165,20 @@
 		"id": "jhbsA-H6zxI",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 210,
-			"viewCount": 62137,
+			"viewCount": 62139,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1652
 		},
 		"title": "Pen & Paper 2 | B.E.A.R.D.S. | Teaser #2",
+		"series": [],
 		"length": 12,
 		"hosts": [],
 		"published": 1435050858,
@@ -5771,6 +6195,7 @@
 			"likeCount": 755
 		},
 		"title": "#MoinMoin mit Gunnar und Ben | 23.06.2015",
+		"series": [],
 		"length": 2492,
 		"hosts": [
 			"Gunnar",
@@ -5786,12 +6211,13 @@
 	{
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 19428,
+			"viewCount": 19430,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 540
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #1",
+		"series": [],
 		"length": 4695,
 		"hosts": [
 			"Niklas",
@@ -5807,12 +6233,13 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 14000,
+			"viewCount": 14002,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 368
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #2",
+		"series": [],
 		"length": 2812,
 		"hosts": [
 			"Niklas",
@@ -5828,12 +6255,13 @@
 	{
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 12212,
+			"viewCount": 12215,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 302
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #3",
+		"series": [],
 		"length": 2248,
 		"hosts": [
 			"Niklas",
@@ -5855,6 +6283,7 @@
 			"likeCount": 333
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #4",
+		"series": [],
 		"length": 3126,
 		"hosts": [
 			"Niklas",
@@ -5870,12 +6299,13 @@
 	{
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 13466,
+			"viewCount": 13467,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 321
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #5",
+		"series": [],
 		"length": 3405,
 		"hosts": [
 			"Niklas",
@@ -5891,12 +6321,13 @@
 	{
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 10701,
+			"viewCount": 10702,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 267
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #6",
+		"series": [],
 		"length": 2005,
 		"hosts": [
 			"Niklas",
@@ -5918,6 +6349,7 @@
 			"likeCount": 301
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #7",
+		"series": [],
 		"length": 2418,
 		"hosts": [
 			"Niklas",
@@ -5939,6 +6371,7 @@
 			"likeCount": 318
 		},
 		"title": "StarCraft II: Legacy of the Void | Rocket Beans TV Archon Cup | Runde 2 | #8",
+		"series": [],
 		"length": 1111,
 		"hosts": [
 			"Niklas",
@@ -5954,12 +6387,13 @@
 	{
 		"stats": {
 			"commentCount": 127,
-			"viewCount": 27643,
+			"viewCount": 27646,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 900
 		},
 		"title": "Wir m\u00fcssen reden | mit Andi | #1 | 22.06.2015",
+		"series": [],
 		"length": 1180,
 		"hosts": [
 			"Gunnar",
@@ -5975,12 +6409,13 @@
 	{
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 19203,
+			"viewCount": 19206,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 584
 		},
 		"title": "Wir m\u00fcssen reden | mit Andi | #2 | 22.06.2015",
+		"series": [],
 		"length": 1513,
 		"hosts": [
 			"Gunnar",
@@ -5996,12 +6431,13 @@
 	{
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 19048,
+			"viewCount": 19051,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 567
 		},
 		"title": "Wir m\u00fcssen reden | mit Andi | #3 | 22.06.2015",
+		"series": [],
 		"length": 1674,
 		"hosts": [
 			"Gunnar",
@@ -6023,6 +6459,7 @@
 			"likeCount": 153
 		},
 		"title": "Magicka 2 mit Colin und Isa | Zocken mit Bohnen | #1 | 02.06.15",
+		"series": [],
 		"length": 1532,
 		"hosts": [
 			"Colin",
@@ -6032,7 +6469,8 @@
 		"id": "vf6MMkdrraE",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6044,6 +6482,7 @@
 			"likeCount": 78
 		},
 		"title": "Magicka 2 mit Colin und Isa | Zocken mit Bohnen | #2 | 02.06.15",
+		"series": [],
 		"length": 1534,
 		"hosts": [
 			"Colin",
@@ -6053,7 +6492,8 @@
 		"id": "7HGvcsY_zyc",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6065,6 +6505,7 @@
 			"likeCount": 78
 		},
 		"title": "Magicka 2 mit Colin und Isa | Zocken mit Bohnen | #3 | 02.06.15",
+		"series": [],
 		"length": 1642,
 		"hosts": [
 			"Colin",
@@ -6074,18 +6515,20 @@
 		"id": "a1Ty5QWy5HY",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 6982,
+			"viewCount": 6983,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 206
 		},
 		"title": "Enclave mit Colin | Classix | #1 | 08.06.15",
+		"series": [],
 		"length": 1787,
 		"hosts": [
 			"Colin"
@@ -6106,6 +6549,7 @@
 			"likeCount": 117
 		},
 		"title": "Enclave mit Colin | Classix | #2 | 08.06.15",
+		"series": [],
 		"length": 1210,
 		"hosts": [
 			"Colin"
@@ -6120,12 +6564,13 @@
 	{
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 10741,
+			"viewCount": 10743,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 229
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward - Community Event  | #1 | 22.06.2015",
+		"series": [],
 		"length": 2486,
 		"hosts": [
 			"Gregor"
@@ -6144,6 +6589,7 @@
 			"likeCount": 113
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward - Community Event  | #2 | 22.06.2015",
+		"series": [],
 		"length": 1254,
 		"hosts": [
 			"Gregor"
@@ -6156,12 +6602,13 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 3525,
+			"viewCount": 3527,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 105
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward - Community Event  | #3 | 22.06.2015",
+		"series": [],
 		"length": 1871,
 		"hosts": [
 			"Gregor"
@@ -6174,12 +6621,13 @@
 	{
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4056,
+			"viewCount": 4058,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 106
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward - Community Event  | #4 | 22.06.2015",
+		"series": [],
 		"length": 1608,
 		"hosts": [
 			"Gregor"
@@ -6198,6 +6646,7 @@
 			"likeCount": 758
 		},
 		"title": "#MoinMoin mit Gregor | 24.06.2015",
+		"series": [],
 		"length": 2767,
 		"hosts": [
 			"Gregor"
@@ -6212,12 +6661,13 @@
 	{
 		"stats": {
 			"commentCount": 114,
-			"viewCount": 47518,
+			"viewCount": 47528,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
 			"likeCount": 1332
 		},
 		"title": "Almost Plaily #169 | Montagsmaler | Part 1 | 23.06.2015",
+		"series": [],
 		"length": 1560,
 		"hosts": [
 			"Ben",
@@ -6235,12 +6685,13 @@
 	{
 		"stats": {
 			"commentCount": 104,
-			"viewCount": 32195,
+			"viewCount": 32199,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1277
 		},
 		"title": "Almost Plaily #169 | Montagsmaler | Part 2 | 23.06.2015",
+		"series": [],
 		"length": 1605,
 		"hosts": [
 			"Ben",
@@ -6258,12 +6709,13 @@
 	{
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 6037,
+			"viewCount": 6040,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 145
 		},
 		"title": "Quadrant mit Bell und Eduard | After Dark | #1 | 23.06.2015",
+		"series": [],
 		"length": 1024,
 		"hosts": [
 			"Bell",
@@ -6285,6 +6737,7 @@
 			"likeCount": 87
 		},
 		"title": "Quadrant mit Bell und Eduard | After Dark | #2 | 23.06.2015",
+		"series": [],
 		"length": 1564,
 		"hosts": [
 			"Bell",
@@ -6306,6 +6759,7 @@
 			"likeCount": 62
 		},
 		"title": "Quadrant mit Bell und Eduard | After Dark | #3 | 23.06.2015",
+		"series": [],
 		"length": 1569,
 		"hosts": [
 			"Bell",
@@ -6327,6 +6781,7 @@
 			"likeCount": 61
 		},
 		"title": "Quadrant mit Bell und Eduard | After Dark | #4 | 23.06.2015",
+		"series": [],
 		"length": 1601,
 		"hosts": [
 			"Bell",
@@ -6348,6 +6803,9 @@
 			"likeCount": 142
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #10 | 23.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 2069,
 		"hosts": [
 			"Nils"
@@ -6356,7 +6814,8 @@
 		"id": "_Gw3fNSWrPs",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6368,6 +6827,9 @@
 			"likeCount": 96
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #11 | 23.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1564,
 		"hosts": [
 			"Nils"
@@ -6376,7 +6838,8 @@
 		"id": "F53JOabRBtY",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6388,6 +6851,9 @@
 			"likeCount": 114
 		},
 		"title": "Half-Life: Opposing Force mit Nils | Zocken mit Bohnen | #12 | 23.06.2015",
+		"series": [
+			"Half-Life: Opposing Force"
+		],
 		"length": 1750,
 		"hosts": [
 			"Nils"
@@ -6396,7 +6862,8 @@
 		"id": "aIHYyUUhx3c",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6408,6 +6875,7 @@
 			"likeCount": 578
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #3 | Part 4 | 23.06.2015",
+		"series": [],
 		"length": 1803,
 		"hosts": [
 			"Hauke",
@@ -6429,6 +6897,7 @@
 			"likeCount": 791
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #3 | Part 1 | 23.06.2015",
+		"series": [],
 		"length": 1548,
 		"hosts": [
 			"Hauke",
@@ -6450,6 +6919,7 @@
 			"likeCount": 538
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #3 | Part 3 | 23.06.2015",
+		"series": [],
 		"length": 1341,
 		"hosts": [
 			"Hauke",
@@ -6471,6 +6941,7 @@
 			"likeCount": 619
 		},
 		"title": "Q&A mit Dennis H. und Hauke | #3 | Part 2 | 23.06.2015",
+		"series": [],
 		"length": 1731,
 		"hosts": [
 			"Hauke",
@@ -6486,12 +6957,13 @@
 	{
 		"stats": {
 			"commentCount": 86,
-			"viewCount": 25773,
+			"viewCount": 25775,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 888
 		},
 		"title": "#MoinMoin mit Hannes | 25.06.2015",
+		"series": [],
 		"length": 2250,
 		"hosts": [
 			"Hannes"
@@ -6506,12 +6978,13 @@
 	{
 		"stats": {
 			"commentCount": 90,
-			"viewCount": 23944,
+			"viewCount": 23945,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 887
 		},
 		"title": "[3/3] Bohn Jour #24 | mit T\u00e4towierungen, der Beans Hochzeit und Poetry Slam | 23.06.2015",
+		"series": [],
 		"length": 1137,
 		"hosts": [
 			"Nils",
@@ -6527,12 +7000,13 @@
 	{
 		"stats": {
 			"commentCount": 223,
-			"viewCount": 32657,
+			"viewCount": 32660,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 907
 		},
 		"title": "[2/3] Bohn Jour #24 | mit T\u00e4towierungen, der Beans Hochzeit und Poetry Slam | 23.06.2015",
+		"series": [],
 		"length": 2260,
 		"hosts": [
 			"Nils",
@@ -6548,12 +7022,13 @@
 	{
 		"stats": {
 			"commentCount": 70,
-			"viewCount": 37948,
+			"viewCount": 37950,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1125
 		},
 		"title": "[1/3] Bohn Jour #24 | mit T\u00e4towierungen, der Beans Hochzeit und Poetry Slam | 23.06.2015",
+		"series": [],
 		"length": 2402,
 		"hosts": [
 			"Nils",
@@ -6569,12 +7044,13 @@
 	{
 		"stats": {
 			"commentCount": 144,
-			"viewCount": 43905,
+			"viewCount": 43939,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 1027
 		},
 		"title": "Kino+ #62 | Ted 2, Die Liebe seines Lebens, Tim Holland ist Spider-Man  | #1 | 25.06.2015",
+		"series": [],
 		"length": 3415,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6590,12 +7066,13 @@
 	{
 		"stats": {
 			"commentCount": 132,
-			"viewCount": 30555,
+			"viewCount": 30559,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 806
 		},
 		"title": "Kino+ #62 | Lupin III Gewinnspiel, Daredevil, OITNB, True Detective | #2 | 25.06.2015",
+		"series": [],
 		"length": 3477,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6611,12 +7088,13 @@
 	{
 		"stats": {
 			"commentCount": 310,
-			"viewCount": 59462,
+			"viewCount": 59467,
 			"favoriteCount": 0,
 			"dislikeCount": 142,
 			"likeCount": 2907
 		},
 		"title": "Dragon Ball Z - Lip Sync | Alwin & Dennis | 25.06.2015",
+		"series": [],
 		"length": 104,
 		"hosts": [],
 		"published": 1435309700,
@@ -6627,12 +7105,15 @@
 	{
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 16007,
+			"viewCount": 16016,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 311
+			"likeCount": 312
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #23 | Part 1 | 24.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1693,
 		"hosts": [
 			"Dennis R",
@@ -6648,12 +7129,15 @@
 	{
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 13757,
+			"viewCount": 13764,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 290
+			"likeCount": 291
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #23 | Part 2 | 23.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1817,
 		"hosts": [
 			"Dennis R",
@@ -6669,12 +7153,13 @@
 	{
 		"stats": {
 			"commentCount": 164,
-			"viewCount": 38200,
+			"viewCount": 38201,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 1222
 		},
 		"title": "#MoinMoin mit Nils | 26.06.2015",
+		"series": [],
 		"length": 2339,
 		"hosts": [
 			"Nils"
@@ -6689,12 +7174,13 @@
 	{
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 13691,
+			"viewCount": 13692,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 402
 		},
 		"title": "StarCraft II | Call of Budi | #18 | 24.06.2015",
+		"series": [],
 		"length": 2715,
 		"hosts": [
 			"Budi",
@@ -6710,12 +7196,13 @@
 	{
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 13608,
+			"viewCount": 13610,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 279
 		},
 		"title": "StarCraft II | Call of Budi | #20 | 24.06.2015",
+		"series": [],
 		"length": 3008,
 		"hosts": [
 			"Budi",
@@ -6731,12 +7218,13 @@
 	{
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 10471,
+			"viewCount": 10473,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 209
 		},
 		"title": "StarCraft II | Call of Budi | #19 | 24.06.2015",
+		"series": [],
 		"length": 1495,
 		"hosts": [
 			"Budi",
@@ -6752,12 +7240,15 @@
 	{
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 10315,
+			"viewCount": 10319,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 229
 		},
 		"title": "Batman: Arkham Knight mit Dennis H. und Alwin | Zocken mit Bohnen | #1 | 24.06.2015",
+		"series": [
+			"Batman: Arkham Knight"
+		],
 		"length": 1373,
 		"hosts": [
 			"Dennis H",
@@ -6767,7 +7258,8 @@
 		"id": "nN2Y0Gn1IsU",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6779,6 +7271,9 @@
 			"likeCount": 125
 		},
 		"title": "Batman: Arkham Knight mit Dennis H. und Alwin | Zocken mit Bohnen | #2 | 24.06.2015",
+		"series": [
+			"Batman: Arkham Knight"
+		],
 		"length": 1383,
 		"hosts": [
 			"Dennis H",
@@ -6788,18 +7283,22 @@
 		"id": "NXmUWPmnZ54",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 5047,
+			"viewCount": 5049,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 97
 		},
 		"title": "Batman: Arkham Knight mit Dennis H. und Alwin | Zocken mit Bohnen | #4 | 24.06.2015",
+		"series": [
+			"Batman: Arkham Knight"
+		],
 		"length": 1677,
 		"hosts": [
 			"Dennis H",
@@ -6809,7 +7308,8 @@
 		"id": "XAWb4aDK0p0",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6821,6 +7321,9 @@
 			"likeCount": 116
 		},
 		"title": "Batman: Arkham Knight mit Dennis H. und Alwin | Zocken mit Bohnen | #3 | 24.06.2015",
+		"series": [
+			"Batman: Arkham Knight"
+		],
 		"length": 1529,
 		"hosts": [
 			"Dennis H",
@@ -6830,18 +7333,22 @@
 		"id": "j94O73FQ-hA",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 15452,
+			"viewCount": 15461,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 290
+			"likeCount": 291
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #24 | Part 1 | 26.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1942,
 		"hosts": [
 			"Dennis R",
@@ -6857,12 +7364,15 @@
 	{
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 14171,
+			"viewCount": 14179,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 293
+			"likeCount": 294
 		},
 		"title": "Bloodborne mit Dennis R. und Colin | Knallhart Durchgenommen | #24 | Part 2 | 26.06.2015",
+		"series": [
+			"Bloodborne"
+		],
 		"length": 1947,
 		"hosts": [
 			"Dennis R",
@@ -6884,6 +7394,9 @@
 			"likeCount": 60
 		},
 		"title": "Splatoon mit Gregor | Zocken mit Bohnen | #12 | 15.06.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1390,
 		"hosts": [
 			"Gregor"
@@ -6892,7 +7405,8 @@
 		"id": "5W_XY-z1s6Y",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
@@ -6904,6 +7418,9 @@
 			"likeCount": 71
 		},
 		"title": "Splatoon mit Gregor | Zocken mit Bohnen | #13 | 15.06.2015",
+		"series": [
+			"Splatoon"
+		],
 		"length": 1904,
 		"hosts": [
 			"Gregor"
@@ -6912,18 +7429,22 @@
 		"id": "dWMUQkUC4Oc",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"Zocken mit Bohnen"
+			"Zocken mit Bohnen",
+			"Lets Play"
 		]
 	},
 	{
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 12804,
+			"viewCount": 12807,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 358
 		},
 		"title": "King's Field IV mit Colin | Classix | #3 | 25.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 1431,
 		"hosts": [
 			"Colin"
@@ -6938,15 +7459,19 @@
 	{
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 9747,
+			"viewCount": 9749,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 253
 		},
 		"title": "King's Field IV mit Colin | Classix | #5 | 25.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 1658,
 		"hosts": [
-			"Colin"
+			"Colin",
+			"Dennis H"
 		],
 		"published": 1435428000,
 		"id": "3yJTLHbVb-I",
@@ -6958,12 +7483,15 @@
 	{
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 10098,
+			"viewCount": 10100,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 242
 		},
 		"title": "King's Field IV mit Colin | Classix | #4 | 25.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 1409,
 		"hosts": [
 			"Colin"
@@ -6978,12 +7506,15 @@
 	{
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 8421,
+			"viewCount": 8423,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 253
 		},
 		"title": "King's Field IV mit Colin | Classix | #8 | 25.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 1680,
 		"hosts": [
 			"Colin",
@@ -6999,12 +7530,15 @@
 	{
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 7969,
+			"viewCount": 7971,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 221
 		},
 		"title": "King's Field IV mit Colin | Classix | #7 | 25.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 1360,
 		"hosts": [
 			"Colin",
@@ -7020,15 +7554,19 @@
 	{
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 8863,
+			"viewCount": 8865,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 246
 		},
 		"title": "King's Field IV mit Colin | Classix | #6 | 25.06.15",
+		"series": [
+			"King's Field IV"
+		],
 		"length": 1679,
 		"hosts": [
-			"Colin"
+			"Colin",
+			"Dennis H"
 		],
 		"published": 1435428001,
 		"id": "MEsMTk_973k",
@@ -7040,12 +7578,13 @@
 	{
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 12056,
+			"viewCount": 12060,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 349
 		},
 		"title": "Contra mit Gregor und Colin | Retro Klub | #16 |  Part 1 | 28.05.2015",
+		"series": [],
 		"length": 1867,
 		"hosts": [
 			"Gregor",
@@ -7061,12 +7600,13 @@
 	{
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 8537,
+			"viewCount": 8540,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 211
 		},
 		"title": "Contra mit Gregor und Colin | Retro Klub | #16 |  Part 2 | 28.05.2015",
+		"series": [],
 		"length": 1492,
 		"hosts": [
 			"Gregor",
@@ -7082,12 +7622,13 @@
 	{
 		"stats": {
 			"commentCount": 230,
-			"viewCount": 93107,
+			"viewCount": 93128,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 2611
 		},
 		"title": "Almost Daily #170 | Bumsen! Jetzt! | Part 1 | 27.06.2015",
+		"series": [],
 		"length": 1857,
 		"hosts": [
 			"Nils",
@@ -7104,12 +7645,13 @@
 	{
 		"stats": {
 			"commentCount": 423,
-			"viewCount": 63674,
+			"viewCount": 63703,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 3150
 		},
 		"title": "Almost Daily #170 | Verg\u00e4nglichkeit und Depression | Part 2 | 27.06.2015",
+		"series": [],
 		"length": 1593,
 		"hosts": [
 			"Nils",
@@ -7126,12 +7668,13 @@
 	{
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 13358,
+			"viewCount": 13361,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 321
 		},
 		"title": "Streets of Rage, Turtles in Time, Golden Axe | Retro Klub mit Gregor | #17 | Part 2 | 04.06.2015",
+		"series": [],
 		"length": 1548,
 		"hosts": [
 			"Gregor",
@@ -7147,12 +7690,13 @@
 	{
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 14650,
+			"viewCount": 14652,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 377
 		},
 		"title": "Streets of Rage, Turtles in Time, Golden Axe | Retro Klub mit Gregor | #17 | Part 1 | 04.06.2015",
+		"series": [],
 		"length": 1421,
 		"hosts": [
 			"Gregor",
@@ -7168,12 +7712,13 @@
 	{
 		"stats": {
 			"commentCount": 264,
-			"viewCount": 49299,
+			"viewCount": 49301,
 			"favoriteCount": 0,
 			"dislikeCount": 74,
 			"likeCount": 1451
 		},
 		"title": "GAME plus | #10 | E3 2015 Feedback & Just Cause 3 | 27.06.2015",
+		"series": [],
 		"length": 5861,
 		"hosts": [
 			"Gregor",
@@ -7190,12 +7735,13 @@
 	{
 		"stats": {
 			"commentCount": 86,
-			"viewCount": 35017,
+			"viewCount": 35051,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
-			"likeCount": 717
+			"likeCount": 718
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #16 | Kurs auf Wega 5 | Seite 1",
+		"series": [],
 		"length": 2004,
 		"hosts": [
 			"Dennis R",
@@ -7211,12 +7757,13 @@
 	{
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 26841,
+			"viewCount": 26862,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 571
+			"likeCount": 572
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner | #16 | Kurs auf Wega 5 | Seite 2",
+		"series": [],
 		"length": 2292,
 		"hosts": [
 			"Colin",
@@ -7232,12 +7779,13 @@
 	{
 		"stats": {
 			"commentCount": 513,
-			"viewCount": 75250,
+			"viewCount": 75280,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 3792
+			"likeCount": 3794
 		},
 		"title": "#MoinMoin mit Etienne | 29.06.2015",
+		"series": [],
 		"length": 2452,
 		"hosts": [
 			"Eddy"
@@ -7258,6 +7806,9 @@
 			"likeCount": 114
 		},
 		"title": "Technobabylon mit Sofia und Steffen | Point & Chick | #3 | 25.06.2015",
+		"series": [
+			"Technobabylon"
+		],
 		"length": 1777,
 		"hosts": [
 			"Sofia",
@@ -7279,6 +7830,9 @@
 			"likeCount": 49
 		},
 		"title": "Technobabylon mit Sofia und Steffen | Point & Chick | #4 | 25.06.2015",
+		"series": [
+			"Technobabylon"
+		],
 		"length": 1055,
 		"hosts": [
 			"Sofia",
@@ -7300,6 +7854,9 @@
 			"likeCount": 55
 		},
 		"title": "Technobabylon mit Sofia und Steffen | Point & Chick | #6 | 25.06.2015",
+		"series": [
+			"Technobabylon"
+		],
 		"length": 1838,
 		"hosts": [
 			"Sofia",
@@ -7321,6 +7878,9 @@
 			"likeCount": 66
 		},
 		"title": "Technobabylon mit Sofia und Steffen | Point & Chick | #5 | 25.06.2015",
+		"series": [
+			"Technobabylon"
+		],
 		"length": 1588,
 		"hosts": [
 			"Sofia",
@@ -7342,6 +7902,7 @@
 			"likeCount": 358
 		},
 		"title": "Road to Final Fantasy XIV: Heavensward #4 - Das MMO-Tagebuch",
+		"series": [],
 		"length": 1024,
 		"hosts": [],
 		"published": 1435604401,
@@ -7358,6 +7919,7 @@
 			"likeCount": 573
 		},
 		"title": "#MoinMoin mit Gunnar und Alwin | 30.06.2015",
+		"series": [],
 		"length": 2587,
 		"hosts": [
 			"Gunnar",
@@ -7373,12 +7935,13 @@
 	{
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 6183,
+			"viewCount": 6186,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 141
 		},
 		"title": "Fifa 15 | Road To Division One  | #43 | 26.06.2015",
+		"series": [],
 		"length": 2133,
 		"hosts": [
 			"Nils",
@@ -7394,12 +7957,13 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 3750,
+			"viewCount": 3751,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 110
 		},
 		"title": "Fifa 15 | Road To Division One  | #44 | 26.06.2015",
+		"series": [],
 		"length": 2116,
 		"hosts": [
 			"Nils",
@@ -7415,12 +7979,13 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5885,
+			"viewCount": 5887,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 142
 		},
 		"title": "Fifa 15 | Road To Division One  | #42 | 26.06.2015",
+		"series": [],
 		"length": 2285,
 		"hosts": [
 			"Nils",
@@ -7436,12 +8001,13 @@
 	{
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 16652,
+			"viewCount": 16655,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 449
 		},
 		"title": "Wir m\u00fcssen reden | mit Johannes | #1 | Geschichten mit Nadeln | 29.06.2015",
+		"series": [],
 		"length": 961,
 		"hosts": [
 			"Gunnar",
@@ -7457,12 +8023,13 @@
 	{
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 10619,
+			"viewCount": 10621,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 345
 		},
 		"title": "Wir m\u00fcssen reden | mit Johannes | #3 | Geschichten mit Nadeln | 29.06.2015",
+		"series": [],
 		"length": 1490,
 		"hosts": [
 			"Gunnar",
@@ -7478,12 +8045,13 @@
 	{
 		"stats": {
 			"commentCount": 85,
-			"viewCount": 12661,
+			"viewCount": 12664,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 361
 		},
 		"title": "Wir m\u00fcssen reden | mit Johannes | #2 | Geschichten mit Nadeln | 29.06.2015",
+		"series": [],
 		"length": 1372,
 		"hosts": [
 			"Gunnar",
@@ -7505,6 +8073,7 @@
 			"likeCount": 407
 		},
 		"title": "ARK: Survival Evolved mit Simon | Community Beef | #1 | 30.06.2015",
+		"series": [],
 		"length": 1674,
 		"hosts": [
 			"Simon"
@@ -7519,12 +8088,13 @@
 	{
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 9519,
+			"viewCount": 9520,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 199
 		},
 		"title": "ARK: Survival Evolved mit Simon | Community Beef | #2 | 30.06.2015",
+		"series": [],
 		"length": 2217,
 		"hosts": [
 			"Simon"
@@ -7545,6 +8115,7 @@
 			"likeCount": 172
 		},
 		"title": "ARK: Survival Evolved mit Simon | Community Beef | #3 | 30.06.2015",
+		"series": [],
 		"length": 2104,
 		"hosts": [
 			"Simon"

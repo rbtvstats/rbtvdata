@@ -1,5 +1,6 @@
 [
 	{
+		"aired": 1467280800,
 		"stats": {
 			"commentCount": 16,
 			"viewCount": 11904,
@@ -24,6 +25,7 @@
 		]
 	},
 	{
+		"aired": 1467280800,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 9742,
@@ -48,9 +50,10 @@
 		]
 	},
 	{
+		"aired": 1467280800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9283,
+			"viewCount": 9285,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 240
@@ -72,9 +75,10 @@
 		]
 	},
 	{
+		"aired": 1467194400,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 9056,
+			"viewCount": 9051,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 175
@@ -93,6 +97,7 @@
 		]
 	},
 	{
+		"aired": 1467194400,
 		"stats": {
 			"commentCount": 5,
 			"viewCount": 4087,
@@ -114,6 +119,7 @@
 		]
 	},
 	{
+		"aired": 1467194400,
 		"stats": {
 			"commentCount": 52,
 			"viewCount": 12344,
@@ -135,6 +141,7 @@
 		]
 	},
 	{
+		"aired": 1467194400,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 5726,
@@ -156,6 +163,7 @@
 		]
 	},
 	{
+		"aired": 1467280800,
 		"stats": {
 			"commentCount": 15,
 			"viewCount": 5329,
@@ -181,6 +189,7 @@
 		]
 	},
 	{
+		"aired": 1467280800,
 		"stats": {
 			"commentCount": 4,
 			"viewCount": 4543,
@@ -206,6 +215,7 @@
 		]
 	},
 	{
+		"aired": 1467280800,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 4589,
@@ -231,6 +241,7 @@
 		]
 	},
 	{
+		"aired": 1467280800,
 		"stats": {
 			"commentCount": 20,
 			"viewCount": 4772,
@@ -256,9 +267,10 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 19585,
+			"viewCount": 19587,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
 			"likeCount": 648
@@ -277,6 +289,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 99,
 			"viewCount": 49334,
@@ -294,6 +307,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 190,
 			"viewCount": 18988,
@@ -313,6 +327,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 56,
 			"viewCount": 16498,
@@ -334,6 +349,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 47,
 			"viewCount": 18121,
@@ -358,6 +374,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 43,
 			"viewCount": 15044,
@@ -382,9 +399,10 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 14267,
+			"viewCount": 14270,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 252
@@ -406,9 +424,10 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 15059,
+			"viewCount": 15063,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 307
@@ -430,6 +449,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 140,
 			"viewCount": 35400,
@@ -452,6 +472,7 @@
 		]
 	},
 	{
+		"aired": 1467453600,
 		"stats": {
 			"commentCount": 38,
 			"viewCount": 14550,
@@ -474,6 +495,7 @@
 		]
 	},
 	{
+		"aired": 1467453600,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 6758,
@@ -495,9 +517,10 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 81,
-			"viewCount": 42509,
+			"viewCount": 42508,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1746
@@ -512,9 +535,10 @@
 		"shows": []
 	},
 	{
+		"aired": 1467540000,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 16705,
+			"viewCount": 16710,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 322
@@ -536,9 +560,10 @@
 		]
 	},
 	{
+		"aired": 1467540000,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 15204,
+			"viewCount": 15207,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 320
@@ -560,12 +585,13 @@
 		]
 	},
 	{
+		"aired": 1467540000,
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 15131,
+			"viewCount": 15134,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 259
+			"likeCount": 260
 		},
 		"title": "[88] Dark Souls III mit Etienne und Colin | Knallhart Durchgenommen | 03.07.2016",
 		"series": [
@@ -584,9 +610,10 @@
 		]
 	},
 	{
+		"aired": 1467540000,
 		"stats": {
 			"commentCount": 128,
-			"viewCount": 20743,
+			"viewCount": 20744,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 403
@@ -608,6 +635,7 @@
 		]
 	},
 	{
+		"aired": 1467540000,
 		"stats": {
 			"commentCount": 85,
 			"viewCount": 33272,
@@ -629,9 +657,10 @@
 		]
 	},
 	{
+		"aired": 1467540000,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 18134,
+			"viewCount": 18136,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 655
@@ -650,6 +679,7 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 107,
 			"viewCount": 17741,
@@ -672,6 +702,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 10880,
@@ -695,6 +726,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 6684,
@@ -718,6 +750,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 4,
 			"viewCount": 8494,
@@ -741,6 +774,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 3,
 			"viewCount": 7444,
@@ -764,6 +798,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 9730,
@@ -787,6 +822,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 45,
 			"viewCount": 12710,
@@ -808,6 +844,7 @@
 		]
 	},
 	{
+		"aired": 1467367200,
 		"stats": {
 			"commentCount": 35,
 			"viewCount": 8832,
@@ -829,9 +866,10 @@
 		]
 	},
 	{
+		"aired": 1450695600,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 6860,
+			"viewCount": 6862,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 217
@@ -850,9 +888,10 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 10066,
+			"viewCount": 10069,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 219
@@ -873,6 +912,7 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 154,
 			"viewCount": 17169,
@@ -892,6 +932,7 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 7457,
@@ -915,6 +956,7 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 7510,
@@ -938,6 +980,7 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 77,
 			"viewCount": 26377,
@@ -961,9 +1004,10 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 15330,
+			"viewCount": 15329,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 343
@@ -984,9 +1028,10 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 12219,
+			"viewCount": 12222,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 273
@@ -1007,6 +1052,7 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 8,
 			"viewCount": 6560,
@@ -1030,6 +1076,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 125,
 			"viewCount": 33224,
@@ -1051,6 +1098,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 84,
 			"viewCount": 18221,
@@ -1068,6 +1116,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 3294,
@@ -1092,6 +1141,7 @@
 		]
 	},
 	{
+		"aired": 1467626400,
 		"stats": {
 			"commentCount": 5,
 			"viewCount": 2000,
@@ -1116,6 +1166,7 @@
 		]
 	},
 	{
+		"aired": 1467453600,
 		"stats": {
 			"commentCount": 98,
 			"viewCount": 15587,
@@ -1137,6 +1188,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 87,
 			"viewCount": 38061,
@@ -1154,6 +1206,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 60,
 			"viewCount": 15318,
@@ -1176,6 +1229,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 25,
 			"viewCount": 10968,
@@ -1199,6 +1253,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 45,
 			"viewCount": 16128,
@@ -1218,6 +1273,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 25,
 			"viewCount": 10530,
@@ -1241,6 +1297,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 14,
 			"viewCount": 7151,
@@ -1264,6 +1321,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 6222,
@@ -1287,6 +1345,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 4308,
@@ -1310,6 +1369,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 9391,
@@ -1331,6 +1391,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 2,
 			"viewCount": 3002,
@@ -1352,6 +1413,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 0,
 			"viewCount": 2152,
@@ -1373,6 +1435,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 3,
 			"viewCount": 2129,
@@ -1394,6 +1457,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 52,
 			"viewCount": 14896,
@@ -1415,9 +1479,10 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 209,
-			"viewCount": 60989,
+			"viewCount": 60990,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 1695
@@ -1439,9 +1504,10 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 204,
-			"viewCount": 44936,
+			"viewCount": 44940,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1586
@@ -1463,6 +1529,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 46,
 			"viewCount": 19018,
@@ -1485,6 +1552,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 7522,
@@ -1507,6 +1575,7 @@
 		]
 	},
 	{
+		"aired": 1467712800,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 6392,
@@ -1529,6 +1598,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 12,
 			"viewCount": 4405,
@@ -1551,6 +1621,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 119,
 			"viewCount": 18343,
@@ -1570,9 +1641,10 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 135,
-			"viewCount": 26272,
+			"viewCount": 26273,
 			"favoriteCount": 0,
 			"dislikeCount": 36,
 			"likeCount": 1970
@@ -1587,9 +1659,10 @@
 		"shows": []
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 246,
-			"viewCount": 26171,
+			"viewCount": 26173,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1229
@@ -1604,6 +1677,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 67,
 			"viewCount": 16729,
@@ -1627,6 +1701,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 27,
 			"viewCount": 10323,
@@ -1650,6 +1725,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 18,
 			"viewCount": 8312,
@@ -1673,6 +1749,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 8102,
@@ -1696,6 +1773,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 43,
 			"viewCount": 10075,
@@ -1719,6 +1797,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 19,
 			"viewCount": 5342,
@@ -1742,6 +1821,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 93,
 			"viewCount": 14759,
@@ -1764,6 +1844,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 63,
 			"viewCount": 20153,
@@ -1786,6 +1867,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 34,
 			"viewCount": 15278,
@@ -1808,6 +1890,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 63,
 			"viewCount": 12201,
@@ -1830,6 +1913,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 83,
 			"viewCount": 18087,
@@ -1849,6 +1933,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 98,
 			"viewCount": 27596,
@@ -1873,6 +1958,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 64,
 			"viewCount": 29642,
@@ -1895,6 +1981,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 178,
 			"viewCount": 28573,
@@ -1917,6 +2004,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 25,
 			"viewCount": 20626,
@@ -1939,6 +2027,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 20,
 			"viewCount": 14545,
@@ -1961,9 +2050,10 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 12953,
+			"viewCount": 12955,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 295
@@ -1985,6 +2075,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 15,
 			"viewCount": 9987,
@@ -2009,9 +2100,10 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 10391,
+			"viewCount": 10393,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 267
@@ -2033,9 +2125,10 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 127,
-			"viewCount": 31331,
+			"viewCount": 31333,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 939
@@ -2054,6 +2147,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 30,
 			"viewCount": 14249,
@@ -2077,6 +2171,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 7918,
@@ -2100,6 +2195,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 12,
 			"viewCount": 7576,
@@ -2123,6 +2219,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 5961,
@@ -2146,6 +2243,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 1890,
@@ -2170,6 +2268,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 0,
 			"viewCount": 1040,
@@ -2194,6 +2293,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 0,
 			"viewCount": 933,
@@ -2218,6 +2318,7 @@
 		]
 	},
 	{
+		"aired": 1467799200,
 		"stats": {
 			"commentCount": 0,
 			"viewCount": 1218,
@@ -2242,6 +2343,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 6,
 			"viewCount": 4162,
@@ -2263,6 +2365,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 806,
@@ -2284,6 +2387,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 670,
@@ -2305,6 +2409,7 @@
 		]
 	},
 	{
+		"aired": 1467885600,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 1024,
@@ -2326,6 +2431,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 129,
 			"viewCount": 24241,
@@ -2345,6 +2451,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 134,
 			"viewCount": 21024,
@@ -2368,6 +2475,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 63,
 			"viewCount": 13624,
@@ -2391,9 +2499,10 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 30760,
+			"viewCount": 30762,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
 			"likeCount": 1198
@@ -2413,6 +2522,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 78,
 			"viewCount": 15841,
@@ -2430,6 +2540,7 @@
 		"shows": []
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 39,
 			"viewCount": 32598,
@@ -2447,6 +2558,7 @@
 		"shows": []
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 6072,
@@ -2464,9 +2576,10 @@
 		"shows": []
 	},
 	{
+		"aired": 1468058400,
 		"stats": {
 			"commentCount": 51,
-			"viewCount": 24854,
+			"viewCount": 24855,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 597
@@ -2487,6 +2600,7 @@
 		]
 	},
 	{
+		"aired": 1468058400,
 		"stats": {
 			"commentCount": 190,
 			"viewCount": 28860,
@@ -2509,6 +2623,7 @@
 		]
 	},
 	{
+		"aired": 1468144800,
 		"stats": {
 			"commentCount": 140,
 			"viewCount": 35080,
@@ -2531,6 +2646,7 @@
 		]
 	},
 	{
+		"aired": 1468144800,
 		"stats": {
 			"commentCount": 43,
 			"viewCount": 19157,
@@ -2553,6 +2669,7 @@
 		]
 	},
 	{
+		"aired": 1468144800,
 		"stats": {
 			"commentCount": 43,
 			"viewCount": 15252,
@@ -2575,6 +2692,7 @@
 		]
 	},
 	{
+		"aired": 1468144800,
 		"stats": {
 			"commentCount": 51,
 			"viewCount": 11785,
@@ -2597,6 +2715,7 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 67,
 			"viewCount": 18954,
@@ -2619,6 +2738,7 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 34,
 			"viewCount": 12133,
@@ -2641,6 +2761,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 26,
 			"viewCount": 9259,
@@ -2662,6 +2783,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 5530,
@@ -2683,6 +2805,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 4133,
@@ -2704,6 +2827,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 0,
 			"viewCount": 1153,
@@ -2725,6 +2849,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 7088,
@@ -2746,6 +2871,7 @@
 		]
 	},
 	{
+		"aired": 1467972000,
 		"stats": {
 			"commentCount": 6,
 			"viewCount": 2377,
@@ -2767,9 +2893,10 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 92,
-			"viewCount": 19095,
+			"viewCount": 19099,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 756
@@ -2786,6 +2913,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 67,
 			"viewCount": 22790,
@@ -2803,6 +2931,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 36,
 			"viewCount": 12424,
@@ -2824,9 +2953,10 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 197,
-			"viewCount": 48303,
+			"viewCount": 48306,
 			"favoriteCount": 0,
 			"dislikeCount": 92,
 			"likeCount": 1210
@@ -2849,6 +2979,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 155,
 			"viewCount": 57043,
@@ -2866,9 +2997,10 @@
 		"shows": []
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 201,
-			"viewCount": 35267,
+			"viewCount": 35268,
 			"favoriteCount": 0,
 			"dislikeCount": 43,
 			"likeCount": 742
@@ -2891,9 +3023,10 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 85,
-			"viewCount": 21853,
+			"viewCount": 21855,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 476
@@ -2916,9 +3049,10 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 19566,
+			"viewCount": 19568,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 530
@@ -2941,6 +3075,7 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 77,
 			"viewCount": 19065,
@@ -2965,6 +3100,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 46,
 			"viewCount": 14858,
@@ -2984,6 +3120,7 @@
 		]
 	},
 	{
+		"aired": 1468231200,
 		"stats": {
 			"commentCount": 88,
 			"viewCount": 13358,
@@ -3008,6 +3145,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 46,
 			"viewCount": 21406,
@@ -3025,6 +3163,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 68,
 			"viewCount": 10606,
@@ -3046,6 +3185,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 116,
 			"viewCount": 26046,
@@ -3069,6 +3209,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 64,
 			"viewCount": 18771,
@@ -3092,6 +3233,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 31,
 			"viewCount": 17138,
@@ -3115,9 +3257,10 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 15123,
+			"viewCount": 15131,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 472
@@ -3138,6 +3281,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 8,
 			"viewCount": 8168,
@@ -3161,6 +3305,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 4775,
@@ -3184,6 +3329,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 8,
 			"viewCount": 4568,
@@ -3207,6 +3353,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 3723,
@@ -3230,6 +3377,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 144,
 			"viewCount": 45894,
@@ -3256,6 +3404,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 12,
 			"viewCount": 7491,
@@ -3280,6 +3429,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 3818,
@@ -3304,6 +3454,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 19,
 			"viewCount": 5965,
@@ -3328,6 +3479,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 15,
 			"viewCount": 6241,
@@ -3352,6 +3504,7 @@
 		]
 	},
 	{
+		"aired": 1468317600,
 		"stats": {
 			"commentCount": 162,
 			"viewCount": 32602,
@@ -3378,9 +3531,10 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 34380,
+			"viewCount": 34382,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 946
@@ -3403,9 +3557,10 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 25083,
+			"viewCount": 25085,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 938
@@ -3428,6 +3583,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 80,
 			"viewCount": 16294,
@@ -3447,6 +3603,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 66,
 			"viewCount": 26152,
@@ -3464,6 +3621,7 @@
 		"shows": []
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 73,
 			"viewCount": 22669,
@@ -3481,6 +3639,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 28,
 			"viewCount": 14215,
@@ -3504,6 +3663,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 8019,
@@ -3527,6 +3687,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 18,
 			"viewCount": 7035,
@@ -3550,6 +3711,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 4304,
@@ -3573,6 +3735,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 161,
 			"viewCount": 19457,
@@ -3595,6 +3758,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 47,
 			"viewCount": 22188,
@@ -3617,6 +3781,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 39,
 			"viewCount": 15967,
@@ -3639,9 +3804,10 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 12914,
+			"viewCount": 12906,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 495
@@ -3661,6 +3827,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 5812,
@@ -3682,6 +3849,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 125,
 			"viewCount": 34988,
@@ -3699,6 +3867,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 5,
 			"viewCount": 1561,
@@ -3723,6 +3892,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 3,
 			"viewCount": 911,
@@ -3747,6 +3917,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 0,
 			"viewCount": 836,
@@ -3771,6 +3942,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 915,
@@ -3795,6 +3967,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 3,
 			"viewCount": 1280,
@@ -3819,6 +3992,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 83,
 			"viewCount": 28906,
@@ -3841,6 +4015,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 71,
 			"viewCount": 18049,
@@ -3865,6 +4040,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 131,
 			"viewCount": 31062,
@@ -3887,6 +4063,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 83,
 			"viewCount": 20737,
@@ -3906,6 +4083,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 141,
 			"viewCount": 24136,
@@ -3928,6 +4106,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 45,
 			"viewCount": 17403,
@@ -3950,6 +4129,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 39,
 			"viewCount": 14572,
@@ -3974,6 +4154,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 9671,
@@ -3998,6 +4179,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 22,
 			"viewCount": 10048,
@@ -4022,9 +4204,10 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8285,
+			"viewCount": 8283,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 203
@@ -4046,6 +4229,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 23,
 			"viewCount": 10029,
@@ -4070,9 +4254,10 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 9075,
+			"viewCount": 9079,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 227
@@ -4094,9 +4279,10 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 8775,
+			"viewCount": 8778,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 243
@@ -4118,6 +4304,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 27,
 			"viewCount": 11979,
@@ -4142,6 +4329,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 9818,
@@ -4166,6 +4354,7 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 40,
 			"viewCount": 10865,
@@ -4190,6 +4379,7 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 65,
 			"viewCount": 18229,
@@ -4211,9 +4401,10 @@
 		]
 	},
 	{
+		"aired": 1468490400,
 		"stats": {
 			"commentCount": 547,
-			"viewCount": 52416,
+			"viewCount": 52426,
 			"favoriteCount": 0,
 			"dislikeCount": 103,
 			"likeCount": 2633
@@ -4232,6 +4423,7 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 99,
 			"viewCount": 29161,
@@ -4251,9 +4443,10 @@
 		]
 	},
 	{
+		"aired": 1468749600,
 		"stats": {
 			"commentCount": 232,
-			"viewCount": 45246,
+			"viewCount": 45250,
 			"favoriteCount": 0,
 			"dislikeCount": 88,
 			"likeCount": 1713
@@ -4274,9 +4467,10 @@
 		]
 	},
 	{
+		"aired": 1468749600,
 		"stats": {
 			"commentCount": 271,
-			"viewCount": 29623,
+			"viewCount": 29625,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 1337
@@ -4297,6 +4491,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 336,
 			"viewCount": 54718,
@@ -4318,6 +4513,7 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 34,
 			"viewCount": 14219,
@@ -4339,6 +4535,7 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 22,
 			"viewCount": 9901,
@@ -4360,6 +4557,7 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 8868,
@@ -4381,9 +4579,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 177,
-			"viewCount": 69538,
+			"viewCount": 69541,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 1862
@@ -4406,9 +4605,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 57904,
+			"viewCount": 57910,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 1276
@@ -4431,9 +4631,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 264,
-			"viewCount": 125068,
+			"viewCount": 125081,
 			"favoriteCount": 0,
 			"dislikeCount": 54,
 			"likeCount": 2782
@@ -4456,9 +4657,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 83362,
+			"viewCount": 83375,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1727
@@ -4481,9 +4683,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 95434,
+			"viewCount": 95442,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 1883
@@ -4506,9 +4709,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 152,
-			"viewCount": 101887,
+			"viewCount": 101893,
 			"favoriteCount": 0,
 			"dislikeCount": 49,
 			"likeCount": 1800
@@ -4531,9 +4735,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 256,
-			"viewCount": 95349,
+			"viewCount": 95361,
 			"favoriteCount": 0,
 			"dislikeCount": 84,
 			"likeCount": 1823
@@ -4556,9 +4761,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 246,
-			"viewCount": 93279,
+			"viewCount": 93285,
 			"favoriteCount": 0,
 			"dislikeCount": 58,
 			"likeCount": 1829
@@ -4581,9 +4787,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 353,
-			"viewCount": 111393,
+			"viewCount": 111403,
 			"favoriteCount": 0,
 			"dislikeCount": 103,
 			"likeCount": 2558
@@ -4606,9 +4813,10 @@
 		]
 	},
 	{
+		"aired": 1468576800,
 		"stats": {
 			"commentCount": 552,
-			"viewCount": 92653,
+			"viewCount": 92663,
 			"favoriteCount": 0,
 			"dislikeCount": 253,
 			"likeCount": 2797
@@ -4631,6 +4839,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 60,
 			"viewCount": 18275,
@@ -4650,6 +4859,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 8887,
@@ -4673,6 +4883,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 8,
 			"viewCount": 6864,
@@ -4696,6 +4907,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 89,
 			"viewCount": 20449,
@@ -4719,6 +4931,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 8373,
@@ -4742,6 +4955,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 16,
 			"viewCount": 9485,
@@ -4765,6 +4979,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 14,
 			"viewCount": 7801,
@@ -4788,6 +5003,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 16,
 			"viewCount": 6450,
@@ -4811,6 +5027,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 71,
 			"viewCount": 18293,
@@ -4832,9 +5049,10 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 140,
-			"viewCount": 29294,
+			"viewCount": 29296,
 			"favoriteCount": 0,
 			"dislikeCount": 104,
 			"likeCount": 609
@@ -4858,6 +5076,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 60,
 			"viewCount": 12998,
@@ -4884,6 +5103,7 @@
 		]
 	},
 	{
+		"aired": 1468836000,
 		"stats": {
 			"commentCount": 31,
 			"viewCount": 12026,
@@ -4910,11 +5130,12 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 240,
-			"viewCount": 45394,
+			"viewCount": 45398,
 			"favoriteCount": 0,
-			"dislikeCount": 33,
+			"dislikeCount": 34,
 			"likeCount": 3058
 		},
 		"title": "Blasphemie in der Spieleindustrie: Das ist halt kein Dark Souls! | Rocket Beans Highlights",
@@ -4927,6 +5148,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 23,
 			"viewCount": 15968,
@@ -4946,6 +5168,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 14,
 			"viewCount": 3669,
@@ -4970,6 +5193,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 4,
 			"viewCount": 1434,
@@ -4994,6 +5218,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 1628,
@@ -5018,6 +5243,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 36,
 			"viewCount": 11019,
@@ -5041,6 +5267,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 6034,
@@ -5064,6 +5291,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 4822,
@@ -5087,6 +5315,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 4496,
@@ -5110,6 +5339,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 148,
 			"viewCount": 30659,
@@ -5132,9 +5362,10 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 271,
-			"viewCount": 45570,
+			"viewCount": 45571,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 1131
@@ -5156,6 +5387,7 @@
 		]
 	},
 	{
+		"aired": 1468922400,
 		"stats": {
 			"commentCount": 108,
 			"viewCount": 28855,
@@ -5180,6 +5412,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 2,
 			"viewCount": 1716,
@@ -5204,6 +5437,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 1064,
@@ -5228,6 +5462,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 1,
 			"viewCount": 991,
@@ -5252,6 +5487,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 4,
 			"viewCount": 1801,
@@ -5276,6 +5512,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 23,
 			"viewCount": 11537,
@@ -5299,6 +5536,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 185,
 			"viewCount": 42816,
@@ -5316,6 +5554,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 49,
 			"viewCount": 18490,
@@ -5335,6 +5574,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 8023,
@@ -5358,6 +5598,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 6039,
@@ -5381,6 +5622,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 12,
 			"viewCount": 4816,
@@ -5404,6 +5646,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 71,
 			"viewCount": 39319,
@@ -5426,6 +5669,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 109,
 			"viewCount": 22616,
@@ -5448,6 +5692,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 91,
 			"viewCount": 17730,
@@ -5470,6 +5715,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 95,
 			"viewCount": 22166,
@@ -5491,6 +5737,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 18,
 			"viewCount": 6795,
@@ -5515,6 +5762,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 4984,
@@ -5539,6 +5787,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 93,
 			"viewCount": 20914,
@@ -5563,6 +5812,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 98,
 			"viewCount": 30255,
@@ -5586,6 +5836,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 68,
 			"viewCount": 28177,
@@ -5609,6 +5860,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 116,
 			"viewCount": 23795,
@@ -5632,6 +5884,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 38,
 			"viewCount": 14723,
@@ -5655,6 +5908,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 53,
 			"viewCount": 14325,
@@ -5674,6 +5928,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 14613,
@@ -5697,6 +5952,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 20,
 			"viewCount": 8868,
@@ -5720,6 +5976,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 33,
 			"viewCount": 8659,
@@ -5743,6 +6000,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 14,
 			"viewCount": 5062,
@@ -5766,6 +6024,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 52,
 			"viewCount": 10804,
@@ -5788,6 +6047,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 59,
 			"viewCount": 12823,
@@ -5809,6 +6069,7 @@
 		]
 	},
 	{
+		"aired": 1468404000,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 4867,
@@ -5831,9 +6092,10 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 233,
-			"viewCount": 30044,
+			"viewCount": 30049,
 			"favoriteCount": 0,
 			"dislikeCount": 47,
 			"likeCount": 1376
@@ -5852,6 +6114,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 4369,
@@ -5876,6 +6139,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 3396,
@@ -5900,6 +6164,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 5,
 			"viewCount": 3452,
@@ -5924,6 +6189,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 3909,
@@ -5948,6 +6214,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 34,
 			"viewCount": 10864,
@@ -5972,6 +6239,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 9867,
@@ -5996,6 +6264,7 @@
 		]
 	},
 	{
+		"aired": 1469095200,
 		"stats": {
 			"commentCount": 16,
 			"viewCount": 9638,
@@ -6020,6 +6289,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 67,
 			"viewCount": 21000,
@@ -6039,6 +6309,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 94,
 			"viewCount": 16979,
@@ -6063,9 +6334,10 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 13370,
+			"viewCount": 13371,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
 			"likeCount": 271
@@ -6087,6 +6359,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 81,
 			"viewCount": 16958,
@@ -6111,6 +6384,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 121,
 			"viewCount": 36437,
@@ -6135,6 +6409,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 47,
 			"viewCount": 16167,
@@ -6159,6 +6434,7 @@
 		]
 	},
 	{
+		"aired": 1469008800,
 		"stats": {
 			"commentCount": 66,
 			"viewCount": 14543,
@@ -6183,6 +6459,7 @@
 		]
 	},
 	{
+		"aired": 1468663200,
 		"stats": {
 			"commentCount": 23,
 			"viewCount": 14585,
@@ -6205,6 +6482,7 @@
 		]
 	},
 	{
+		"aired": 1468663200,
 		"stats": {
 			"commentCount": 3,
 			"viewCount": 5955,
@@ -6227,6 +6505,7 @@
 		]
 	},
 	{
+		"aired": 1469268000,
 		"stats": {
 			"commentCount": 24,
 			"viewCount": 13718,
@@ -6249,6 +6528,7 @@
 		]
 	},
 	{
+		"aired": 1469268000,
 		"stats": {
 			"commentCount": 14,
 			"viewCount": 9718,
@@ -6271,9 +6551,10 @@
 		]
 	},
 	{
+		"aired": 1469354400,
 		"stats": {
 			"commentCount": 262,
-			"viewCount": 51171,
+			"viewCount": 51176,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
 			"likeCount": 1407
@@ -6295,9 +6576,10 @@
 		]
 	},
 	{
+		"aired": 1469354400,
 		"stats": {
 			"commentCount": 254,
-			"viewCount": 33980,
+			"viewCount": 33983,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1129
@@ -6319,6 +6601,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 108,
 			"viewCount": 18089,
@@ -6340,9 +6623,10 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 73,
-			"viewCount": 13434,
+			"viewCount": 13438,
 			"favoriteCount": 0,
 			"dislikeCount": 38,
 			"likeCount": 263
@@ -6365,6 +6649,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 6247,
@@ -6390,6 +6675,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 4554,
@@ -6415,6 +6701,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 4208,
@@ -6440,6 +6727,7 @@
 		]
 	},
 	{
+		"aired": 1468663200,
 		"stats": {
 			"commentCount": 35,
 			"viewCount": 8240,
@@ -6462,6 +6750,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 68,
 			"viewCount": 13730,
@@ -6483,6 +6772,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 17,
 			"viewCount": 7598,
@@ -6504,6 +6794,7 @@
 		]
 	},
 	{
+		"aired": 1469181600,
 		"stats": {
 			"commentCount": 101,
 			"viewCount": 30535,
@@ -6529,6 +6820,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 56,
 			"viewCount": 18202,
@@ -6548,9 +6840,10 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 8368,
+			"viewCount": 8370,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 205
@@ -6571,6 +6864,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 5,
 			"viewCount": 6369,
@@ -6594,6 +6888,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 10,
 			"viewCount": 6992,
@@ -6617,6 +6912,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 41,
 			"viewCount": 13451,
@@ -6638,9 +6934,10 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 11185,
+			"viewCount": 11180,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 337
@@ -6661,6 +6958,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 6,
 			"viewCount": 6363,
@@ -6684,6 +6982,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 8,
 			"viewCount": 5969,
@@ -6707,6 +7006,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 4305,
@@ -6730,6 +7030,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 213,
 			"viewCount": 20098,
@@ -6755,6 +7056,7 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 44,
 			"viewCount": 7376,
@@ -6780,9 +7082,10 @@
 		]
 	},
 	{
+		"aired": 1469440800,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 4691,
+			"viewCount": 4693,
 			"favoriteCount": 0,
 			"dislikeCount": 114,
 			"likeCount": 96
@@ -6805,6 +7108,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 46,
 			"viewCount": 16018,
@@ -6824,6 +7128,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 58,
 			"viewCount": 16047,
@@ -6848,6 +7153,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 14,
 			"viewCount": 12352,
@@ -6872,6 +7178,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 33,
 			"viewCount": 9645,
@@ -6896,6 +7203,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 8,
 			"viewCount": 7293,
@@ -6920,6 +7228,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 5,
 			"viewCount": 3710,
@@ -6944,6 +7253,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 1404,
@@ -6968,6 +7278,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 0,
 			"viewCount": 1582,
@@ -6992,9 +7303,10 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 340,
-			"viewCount": 95378,
+			"viewCount": 95383,
 			"favoriteCount": 0,
 			"dislikeCount": 44,
 			"likeCount": 2825
@@ -7014,6 +7326,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 35,
 			"viewCount": 6925,
@@ -7038,6 +7351,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 5741,
@@ -7062,6 +7376,7 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 18,
 			"viewCount": 5639,
@@ -7086,9 +7401,10 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 428,
-			"viewCount": 49799,
+			"viewCount": 49803,
 			"favoriteCount": 0,
 			"dislikeCount": 521,
 			"likeCount": 1286
@@ -7111,9 +7427,10 @@
 		]
 	},
 	{
+		"aired": 1469527200,
 		"stats": {
 			"commentCount": 181,
-			"viewCount": 34318,
+			"viewCount": 34319,
 			"favoriteCount": 0,
 			"dislikeCount": 147,
 			"likeCount": 1000
@@ -7136,9 +7453,10 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 113,
-			"viewCount": 26222,
+			"viewCount": 26224,
 			"favoriteCount": 0,
 			"dislikeCount": 84,
 			"likeCount": 695
@@ -7158,6 +7476,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 26,
 			"viewCount": 10527,
@@ -7180,6 +7499,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 35,
 			"viewCount": 17416,
@@ -7199,9 +7519,10 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 241,
-			"viewCount": 38570,
+			"viewCount": 38571,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 1769
@@ -7221,6 +7542,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 26,
 			"viewCount": 12513,
@@ -7246,6 +7568,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 18,
 			"viewCount": 9552,
@@ -7271,6 +7594,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 18,
 			"viewCount": 8999,
@@ -7296,6 +7620,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 21,
 			"viewCount": 5806,
@@ -7321,6 +7646,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 96,
 			"viewCount": 29035,
@@ -7343,9 +7669,10 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 146,
-			"viewCount": 33775,
+			"viewCount": 33795,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
 			"likeCount": 703
@@ -7365,9 +7692,10 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 57,
-			"viewCount": 15363,
+			"viewCount": 15365,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 479
@@ -7387,6 +7715,7 @@
 		]
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 6,
 			"viewCount": 9908,
@@ -7404,9 +7733,10 @@
 		"shows": []
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5043,
+			"viewCount": 5045,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 165
@@ -7421,6 +7751,7 @@
 		"shows": []
 	},
 	{
+		"aired": null,
 		"stats": {
 			"commentCount": 27,
 			"viewCount": 5451,
@@ -7438,6 +7769,7 @@
 		"shows": []
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 47,
 			"viewCount": 14565,
@@ -7457,6 +7789,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 69,
 			"viewCount": 15553,
@@ -7481,6 +7814,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 90,
 			"viewCount": 30775,
@@ -7504,9 +7838,10 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 42327,
+			"viewCount": 42336,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 801
@@ -7527,6 +7862,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 103,
 			"viewCount": 29525,
@@ -7551,6 +7887,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 57,
 			"viewCount": 21998,
@@ -7575,6 +7912,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 39,
 			"viewCount": 31476,
@@ -7599,6 +7937,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 31,
 			"viewCount": 13003,
@@ -7623,6 +7962,7 @@
 		]
 	},
 	{
+		"aired": 1469613600,
 		"stats": {
 			"commentCount": 112,
 			"viewCount": 30668,
@@ -7647,9 +7987,10 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 4461,
+			"viewCount": 4463,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 148
@@ -7671,6 +8012,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 7,
 			"viewCount": 2994,
@@ -7695,9 +8037,10 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3214,
+			"viewCount": 3216,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 119
@@ -7719,9 +8062,10 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 3457,
+			"viewCount": 3459,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 117
@@ -7743,9 +8087,10 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 37457,
+			"viewCount": 37468,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
 			"likeCount": 1244
@@ -7764,6 +8109,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 243,
 			"viewCount": 41199,
@@ -7785,6 +8131,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 72,
 			"viewCount": 17895,
@@ -7809,6 +8156,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 11,
 			"viewCount": 10837,
@@ -7833,6 +8181,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 12,
 			"viewCount": 9542,
@@ -7857,6 +8206,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 9,
 			"viewCount": 5887,
@@ -7881,6 +8231,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 109,
 			"viewCount": 18190,
@@ -7903,6 +8254,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 93,
 			"viewCount": 18994,
@@ -7926,6 +8278,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 39,
 			"viewCount": 11408,
@@ -7949,6 +8302,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 13,
 			"viewCount": 9350,
@@ -7972,6 +8326,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 50,
 			"viewCount": 10141,
@@ -7995,6 +8350,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 65,
 			"viewCount": 14881,
@@ -8019,6 +8375,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 26,
 			"viewCount": 12706,
@@ -8043,9 +8400,10 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 11804,
+			"viewCount": 11805,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 232
@@ -8067,9 +8425,10 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 12322,
+			"viewCount": 12324,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 266
@@ -8091,6 +8450,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 32,
 			"viewCount": 10983,
@@ -8115,6 +8475,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 28,
 			"viewCount": 9082,
@@ -8140,6 +8501,7 @@
 		]
 	},
 	{
+		"aired": 1469700000,
 		"stats": {
 			"commentCount": 23,
 			"viewCount": 9799,
@@ -8165,6 +8527,7 @@
 		]
 	},
 	{
+		"aired": 1469786400,
 		"stats": {
 			"commentCount": 131,
 			"viewCount": 34277,
@@ -8187,9 +8550,10 @@
 		]
 	},
 	{
+		"aired": 1469959200,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 14228,
+			"viewCount": 14232,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 285
@@ -8211,9 +8575,10 @@
 		]
 	},
 	{
+		"aired": 1469959200,
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 18270,
+			"viewCount": 18273,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 383
@@ -8235,6 +8600,7 @@
 		]
 	},
 	{
+		"aired": 1469959200,
 		"stats": {
 			"commentCount": 101,
 			"viewCount": 37575,
@@ -8259,6 +8625,7 @@
 		]
 	},
 	{
+		"aired": 1469959200,
 		"stats": {
 			"commentCount": 143,
 			"viewCount": 22958,

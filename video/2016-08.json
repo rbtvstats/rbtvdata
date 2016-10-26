@@ -683,7 +683,7 @@
 		"aired": 1470132000,
 		"stats": {
 			"commentCount": 77,
-			"viewCount": 24057,
+			"viewCount": 24059,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 678
@@ -1098,7 +1098,7 @@
 		"aired": 1470218400,
 		"stats": {
 			"commentCount": 106,
-			"viewCount": 26190,
+			"viewCount": 26192,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 897
@@ -1222,7 +1222,7 @@
 			"viewCount": 49764,
 			"favoriteCount": 0,
 			"dislikeCount": 239,
-			"likeCount": 1728
+			"likeCount": 1729
 		},
 		"title": "#MoinMoin mit Etienne | Ede vs Trump,  Fahrradhelme, Kindererziehung f\u00fcr Profis | 04.08.2016",
 		"series": [],
@@ -2598,9 +2598,7 @@
 			"likeCount": 474
 		},
 		"title": "#MoinMoin mit Sofia | Der Festivalsommer: Was ist das nur f\u00fcr 1 Sziget? | 10.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2810,
 		"hosts": [
 			"Sofia"
@@ -2948,9 +2946,7 @@
 			"likeCount": 373
 		},
 		"title": "#MoinMoin mit Sofia | Tag 2 auf dem Sziget: Communitybesuch & Unterwegs im Ability Park | 11.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2821,
 		"hosts": [
 			"Sofia"
@@ -3312,7 +3308,7 @@
 			"viewCount": 10413,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 276
+			"likeCount": 277
 		},
 		"title": "[28] Resident Evil Code: Veronica X mit Simon, Gregor und Fabian | After Dark | 11.08.2016",
 		"series": [
@@ -3417,9 +3413,7 @@
 			"likeCount": 297
 		},
 		"title": "#MoinMoin mit Sofia | Sziget Tag 3, Interview Isolation Berlin, Max & Sofia im Streit | 12.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2827,
 		"hosts": [
 			"Max",
@@ -3460,7 +3454,7 @@
 		"aired": 1470909600,
 		"stats": {
 			"commentCount": 251,
-			"viewCount": 37244,
+			"viewCount": 37245,
 			"favoriteCount": 0,
 			"dislikeCount": 46,
 			"likeCount": 978
@@ -4184,9 +4178,7 @@
 			"likeCount": 1129
 		},
 		"title": "gamescom 2016 | MoinMoin mit Krogmann & Max | Studioaufbau, GC-Toiletten, Kaffee bei 2K | 16.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2842,
 		"hosts": [
 			"Max",
@@ -4374,9 +4366,7 @@
 			"likeCount": 909
 		},
 		"title": "gamescom 2016 | MoinMoin mit Etienne & Jens | Eduard Lasers Auftritt, Messe-Merchandise | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2863,
 		"hosts": [
 			"Jens",
@@ -4443,9 +4433,7 @@
 			"likeCount": 268
 		},
 		"title": "gamescom 2016 | The Sexy Brutale -  Interview: Nils spricht mit Tequila Works | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1055,
 		"hosts": [
 			"Nils"
@@ -4467,9 +4455,7 @@
 			"likeCount": 315
 		},
 		"title": "gamescom 2016 |  Interview: Budi im Gespr\u00e4ch mit Aaron Greenberg (Head Of Xbox Games) | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1735,
 		"hosts": [
 			"Budi"
@@ -4491,9 +4477,7 @@
 			"likeCount": 219
 		},
 		"title": "gamescom 2016 | Injustice 2 - Interview: Gregor spricht mit Ed Boon (Creative Director) | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1195,
 		"hosts": [
 			"Gregor"
@@ -4515,9 +4499,7 @@
 			"likeCount": 278
 		},
 		"title": "gamescom 2016 | Watch Dogs 2 - Interview: Nils spricht mit Dominic Guay | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1102,
 		"hosts": [
 			"Nils"
@@ -4539,9 +4521,7 @@
 			"likeCount": 207
 		},
 		"title": "gamescom 2016 | Torment: Tides of Numenera - Interview: Gregor befragt Brian Fargo | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1566,
 		"hosts": [
 			"Gregor"
@@ -4563,9 +4543,7 @@
 			"likeCount": 1761
 		},
 		"title": "gamescom 2016 | Interview: Nils verzaubert Rachel \"SeltzerPlease\" Quirico | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2969,
 		"hosts": [
 			"Nils"
@@ -4587,9 +4565,7 @@
 			"likeCount": 213
 		},
 		"title": "gamescom 2016 | The Surge - Interview: Budi spricht mit Jan Klose (Creative Director) | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2276,
 		"hosts": [
 			"Budi"
@@ -4611,9 +4587,7 @@
 			"likeCount": 174
 		},
 		"title": "gamescom 2016 | Sea Of Thieves - Interview: Fabian spricht mit Joe Neate & Ted Timmens | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 943,
 		"hosts": [
 			"Fabian"
@@ -4635,9 +4609,7 @@
 			"likeCount": 241
 		},
 		"title": "gamescom 2016 | Dropzone: Rocket Beans vs TakeTV mit Etienne, Gregor & Sofia | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 3330,
 		"hosts": [
 			"Gregor",
@@ -4661,9 +4633,7 @@
 			"likeCount": 114
 		},
 		"title": "gamescom 2016 | Gears Of War 4 - Interview - 2/2: Schr\u00f6ck im Gespr\u00e4ch mit Chuck O'Shea | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 995,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4685,9 +4655,7 @@
 			"likeCount": 134
 		},
 		"title": "gamescom 2016 | Gears Of War 4 - Interview - 1/2: Schr\u00f6ck im Gespr\u00e4ch mit Chuck O'Shea | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 787,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4709,9 +4677,7 @@
 			"likeCount": 162
 		},
 		"title": "gamescom 2016 | Call Of Duty: Infinite Warfare Zombie Modus - Lee Ross im Interview | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1185,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4805,9 +4771,7 @@
 			"likeCount": 581
 		},
 		"title": "gamescom 2016 | Recap Tag 1: CoD, Microsoft, Battlefield 1 - Game Plus Daily 1/4 | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1799,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4881,9 +4845,7 @@
 			"likeCount": 130
 		},
 		"title": "gamescom 2016 | Gigantic - Interview: Budi im Gespr\u00e4ch mit James Phinney | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1344,
 		"hosts": [
 			"Budi"
@@ -4925,9 +4887,7 @@
 			"likeCount": 521
 		},
 		"title": "gamescom 2016 | Recap Tag 1: FIFA 17, Titanfall 2, Recore - Game Plus Daily 2/4 | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1676,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4953,9 +4913,7 @@
 			"likeCount": 337
 		},
 		"title": "gamescom 2016 | Civilization VI - Interview: Nils befragt Brian Busatti & Sarah Darney | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2298,
 		"hosts": [
 			"Nils"
@@ -4977,9 +4935,7 @@
 			"likeCount": 588
 		},
 		"title": "gamescom 2016 | Recap Tag 1: Nintendo, Detroit Become Human - Game Plus Daily 3/4 | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2572,
 		"hosts": [
 			"Budi",
@@ -5006,9 +4962,7 @@
 			"likeCount": 544
 		},
 		"title": "gamescom 2016 | Recap Tag 1: Days Gone, Horizon Zero Dawn - Game Plus Daily 4/4 | 17.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 746,
 		"hosts": [
 			"Budi",
@@ -5034,9 +4988,7 @@
 			"likeCount": 457
 		},
 		"title": "gamescom 2016 | MoinMoin mit Budi | Simon im Traumland, Interview mit Scott Taylor | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2886,
 		"hosts": [
 			"Budi"
@@ -5059,9 +5011,7 @@
 			"likeCount": 184
 		},
 		"title": "gamescom 2016 | Halo Wars 2 - Interview: Simon & Micha sprechen mit Al Hope  | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1435,
 		"hosts": [
 			"Simon",
@@ -5084,9 +5034,7 @@
 			"likeCount": 158
 		},
 		"title": "gamescom 2016 | Dropzone: Rocket Beans vs TakeTV mit Etienne, Schr\u00f6ck & Sofia | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2869,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5110,9 +5058,7 @@
 			"likeCount": 140
 		},
 		"title": "gamescom 2016 | Monster Boy And The Cursed Kingdom - Interview mit Philipp D\u00f6schl | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1556,
 		"hosts": [
 			"Eddy",
@@ -5136,9 +5082,7 @@
 			"likeCount": 172
 		},
 		"title": "gamescom 2016 | The Elder Scrolls Online - Interview mit Matt Firor | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1558,
 		"hosts": [
 			"Eddy",
@@ -5161,9 +5105,7 @@
 			"likeCount": 166
 		},
 		"title": "gamescom 2016 | Drone Swarm - Interview: Michael spricht mit Still Alive Studios | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1157,
 		"hosts": [
 			"Michael R"
@@ -5185,9 +5127,7 @@
 			"likeCount": 625
 		},
 		"title": "gamescom 2016 | Elex - Interview: Michael im Gespr\u00e4ch mit Bj\u00f6rn Pankratz &  Harald Iken | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2204,
 		"hosts": [
 			"Michael R"
@@ -5209,9 +5149,7 @@
 			"likeCount": 282
 		},
 		"title": "gamescom 2016 | Speedrunners: Rocket Beans vs GC-Community mit Nils, Budi & Sofia | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2436,
 		"hosts": [
 			"Budi",
@@ -5234,9 +5172,7 @@
 			"likeCount": 379
 		},
 		"title": "gamescom 2016 | South Park: The Fractured But Whole  - Interview mit Ubisoft | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1083,
 		"hosts": [
 			"Nils"
@@ -5258,9 +5194,7 @@
 			"likeCount": 503
 		},
 		"title": "gamescom 2016 | Recap Tag 2: Bioshock, WWE2K17 - Game Plus Daily 1/4 | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1787,
 		"hosts": [
 			"Nils",
@@ -5285,9 +5219,7 @@
 			"likeCount": 377
 		},
 		"title": "gamescom 2016 | Recap Tag 2: Hitman, Metal Gear Survive, Prey - Game Plus Daily 2/4 | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1684,
 		"hosts": [
 			"Nils",
@@ -5338,9 +5270,7 @@
 			"likeCount": 94
 		},
 		"title": "gamescom 2016 | Killing Floor 2 - Interview mit John Gibson & David Hensley | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 990,
 		"hosts": [
 			"Michael R"
@@ -5362,9 +5292,7 @@
 			"likeCount": 397
 		},
 		"title": "gamescom 2016 | Recap Tag 2: The Last Guardian, Vikings, Vampyr - Game Plus Daily 3/4 | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2566,
 		"hosts": [
 			"Simon",
@@ -5389,9 +5317,7 @@
 			"likeCount": 355
 		},
 		"title": "gamescom 2016 | Recap Tag 2: South Park, Watch Dogs 2, For Honor - Game Plus Daily 4/4 | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 716,
 		"hosts": [
 			"Simon",
@@ -5436,9 +5362,7 @@
 			"likeCount": 171
 		},
 		"title": "gamescom 2016 | Vampyr - Interview Micha im Gespr\u00e4ch mit Gregory Szucs  | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1088,
 		"hosts": [
 			"Michael R"
@@ -5460,9 +5384,7 @@
 			"likeCount": 302
 		},
 		"title": "gamescom 2016 | WWE2K17 - Gregor bei 2K mit Bill Goldberg, Holger B\u00f6schen & Olaf Bleich | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2534,
 		"hosts": [
 			"Gregor"
@@ -5484,9 +5406,7 @@
 			"likeCount": 797
 		},
 		"title": "gamescom 2016 | MoinMoin mit Budi & Etienne | Jubil\u00e4umsfolge 400 mit David Hain | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2832,
 		"hosts": [
 			"Budi",
@@ -5510,9 +5430,7 @@
 			"likeCount": 193
 		},
 		"title": "gamescom 2016 | Little Nightmares - Interview: Gregor im Gespr\u00e4ch mit Bandai Namco | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 908,
 		"hosts": [
 			"Gregor"
@@ -5534,9 +5452,7 @@
 			"likeCount": 294
 		},
 		"title": "gamescom 2016 | Nerdy Timber und sein Bruder Tom im Interview mit Nils | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2189,
 		"hosts": [
 			"Nils",
@@ -5560,9 +5476,7 @@
 			"likeCount": 100
 		},
 		"title": "gamescom 2016 | Dropzone: Rocket Beans vs TakeTV mit Etienne, Simon & Gregor | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 4001,
 		"hosts": [
 			"Eddy",
@@ -5586,9 +5500,7 @@
 			"likeCount": 218
 		},
 		"title": "gamescom 2016 | For Honor - Interview: Schr\u00f6ck spricht mit Bio-Jade Adam Granger | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1272,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -5610,9 +5522,7 @@
 			"likeCount": 145
 		},
 		"title": "gamescom 2016 | Dreadnaught - Interview: Fabian & Micha sprechen mit Peter Holzapfel | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1777,
 		"hosts": [
 			"Fabian",
@@ -5635,9 +5545,7 @@
 			"likeCount": 186
 		},
 		"title": "gamescom 2016 | Mafia III - Interview: Nils & Micha im Gespr\u00e4ch mit Matthias Worch | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1910,
 		"hosts": [
 			"Nils",
@@ -5660,9 +5568,7 @@
 			"likeCount": 338
 		},
 		"title": "gamescom 2016 | Pro Evolution Soccer 2017 - Interview: Nils spricht mit Adam Bhatti  | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1453,
 		"hosts": [
 			"Nils"
@@ -5684,9 +5590,7 @@
 			"likeCount": 177
 		},
 		"title": "gamescom 2016 | ABXO - Interview: Etienne & Simon sprechen mit  Sebastian Tyzak  | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1626,
 		"hosts": [
 			"Simon",
@@ -5709,9 +5613,7 @@
 			"likeCount": 115
 		},
 		"title": "gamescom 2016 | Vikings: Wolves Of Midgard - Interview: Micha spricht mit Peter Nagy | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 422,
 		"hosts": [
 			"Michael R"
@@ -5733,9 +5635,7 @@
 			"likeCount": 112
 		},
 		"title": "gamescom 2016 | Sudden Strike 4 - Interview: Micha spricht mit Attila Banki-Horvath | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 858,
 		"hosts": [
 			"Michael R"
@@ -5757,9 +5657,7 @@
 			"likeCount": 126
 		},
 		"title": "gamescom 2016 | Urban Empire - Interview: Micha spricht  mit Marian Denefleh | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 724,
 		"hosts": [
 			"Michael R"
@@ -5781,9 +5679,7 @@
 			"likeCount": 130
 		},
 		"title": "gamescom 2016 | Grand Values Monaco - Interview: Michael im Gespr\u00e4ch mit Helen & Max | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 898,
 		"hosts": [
 			"Michael R"
@@ -5805,9 +5701,7 @@
 			"likeCount": 250
 		},
 		"title": "gamescom 2016 | Overcooked: Rocket Beans vs GC-Community mit Budi & Simon | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 3336,
 		"hosts": [
 			"Budi",
@@ -5830,9 +5724,7 @@
 			"likeCount": 413
 		},
 		"title": "gamescom 2016 | Recap Tag 3: Fallout 4 VR, CoD, Little Nightmares - Game Plus Daily 1/4 | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1871,
 		"hosts": [
 			"Nils",
@@ -5858,9 +5750,7 @@
 			"likeCount": 279
 		},
 		"title": "gamescom 2016 | Recap Tag 3: Gwent, Below, Tyranny - Game Plus Daily 2/4 | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1543,
 		"hosts": [
 			"Nils",
@@ -5886,9 +5776,7 @@
 			"likeCount": 274
 		},
 		"title": "gamescom 2016 | Recap Tag 3: Sniper Ghost Warrior 3, Destiny - Game Plus Daily 3/4 | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2244,
 		"hosts": [
 			"Nils",
@@ -5913,9 +5801,7 @@
 			"likeCount": 223
 		},
 		"title": "gamescom 2016 | Recap Tag 3: WWE2K17 - Game Plus Daily 4/4 | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 897,
 		"hosts": [
 			"Gregor",
@@ -5940,9 +5826,7 @@
 			"likeCount": 152
 		},
 		"title": "gamescom 2016 | Insert Moin - Interview mit Manuel, Michael & Daniel | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1656,
 		"hosts": [
 			"Gregor",
@@ -5965,9 +5849,7 @@
 			"likeCount": 119
 		},
 		"title": "gamescom 2016 | Tyranny - Interview: Nils & Micha sprechen mit Brian Heins | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1560,
 		"hosts": [
 			"Nils",
@@ -5990,9 +5872,7 @@
 			"likeCount": 133
 		},
 		"title": "gamescom 2016 | Star Trek Online - Interview: Gregor spricht mit Sam Wall & Tim Davis | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1640,
 		"hosts": [
 			"Gregor"
@@ -6014,9 +5894,7 @@
 			"likeCount": 105
 		},
 		"title": "gamescom 2016 | World Of Warships - Interview mit Artur Plociennik & Ingo Horn | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1390,
 		"hosts": [
 			"Budi"
@@ -6038,9 +5916,7 @@
 			"likeCount": 118
 		},
 		"title": "gamescom 2016 | Mother Russia Bleeds & Shadow Warrior 2 - Interview mit Alex & Tadeusz | 19.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1804,
 		"hosts": [
 			"Gregor"
@@ -6062,9 +5938,7 @@
 			"likeCount": 521
 		},
 		"title": "gamescom 2016 | MoinMoin mit Budi, Tim, Gino & Mental | Dosenbeatz killed MoinMoin | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 3000,
 		"hosts": [
 			"Budi",
@@ -6089,9 +5963,7 @@
 			"likeCount": 366
 		},
 		"title": "gamescom 2016 |  Interview mit NBA-Star Dennis Schr\u00f6der - Der Profi der Atlanta Hawks | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 974,
 		"hosts": [
 			"Eddy",
@@ -6114,9 +5986,7 @@
 			"likeCount": 125
 		},
 		"title": "gamescom 2016 | Dropzone: Rocket Beans vs TakeTV mit Etienne, Gregor, Sofia & TLO | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 4026,
 		"hosts": [
 			"Gregor",
@@ -6160,9 +6030,7 @@
 			"likeCount": 397
 		},
 		"title": "gamescom 2016 | Gwent - Interview mit Miles Tost & Fabian Mario D\u00f6hla | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1938,
 		"hosts": [
 			"Alwin"
@@ -6184,9 +6052,7 @@
 			"likeCount": 90
 		},
 		"title": "gamescom 2016 | The Little Acre - Interview mit Charles Cecile & Pewter Game Studios | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1733,
 		"hosts": [
 			"Fabian"
@@ -6208,9 +6074,7 @@
 			"likeCount": 128
 		},
 		"title": "gamescom 2016 | DICED - Interview: Gregor spricht mit Denis Rubbert | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2238,
 		"hosts": [
 			"Gregor"
@@ -6232,9 +6096,7 @@
 			"likeCount": 204
 		},
 		"title": "gamescom 2016 | Speedrunners: Rocket Beans vs Community mit Nils, Simon, Schr\u00f6ck & Wolf | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 3503,
 		"hosts": [
 			"Nils",
@@ -6258,9 +6120,7 @@
 			"likeCount": 514
 		},
 		"title": "gamescom 2016 | Inside Playstation - Interview: Nils im Gespr\u00e4ch mit Anne & Wolf | 20.08.2016",
-		"series": [
-			"Inside"
-		],
+		"series": [],
 		"length": 1437,
 		"hosts": [
 			"Nils"
@@ -6282,9 +6142,7 @@
 			"likeCount": 111
 		},
 		"title": "gamescom 2016 | The Inner World, Subsiege, In Between  - Interview mit Head Up Games | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1288,
 		"hosts": [
 			"Fabian",
@@ -6307,9 +6165,7 @@
 			"likeCount": 615
 		},
 		"title": "gamescom 2016 | Recap Tag 4: Top 10 Games der Messe - Game Plus Daily 1/3 | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2176,
 		"hosts": [
 			"Simon",
@@ -6335,9 +6191,7 @@
 			"likeCount": 478
 		},
 		"title": "gamescom 2016 | Recap Tag 4: Top 10 Games der Messe - Game Plus Daily 2/3 | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1465,
 		"hosts": [
 			"Simon",
@@ -6363,9 +6217,7 @@
 			"likeCount": 604
 		},
 		"title": "gamescom 2016 | Recap Tag 4: Top 10 Games der Messe - Game Plus Daily 3/3 | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 3059,
 		"hosts": [
 			"Simon",
@@ -6391,9 +6243,7 @@
 			"likeCount": 318
 		},
 		"title": "gamescom 2016 | Looterkings - Interview mit Sgt. Rumpel & Dominik | 20.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1860,
 		"hosts": [
 			"Fabian",
@@ -6512,9 +6362,7 @@
 			"likeCount": 654
 		},
 		"title": "gamescom 2016 | MoinMoin mit Budi, Simon, Nils, Tim & Nino Kerl | Speedrunners & Anime | 21.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 4473,
 		"hosts": [
 			"Budi",
@@ -6540,9 +6388,7 @@
 			"likeCount": 189
 		},
 		"title": "gamescom 2016 | Speedrunners: Rocket Beans vs Community mit Nils, Ede & Schr\u00f6ck 1/2 | 21.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1434,
 		"hosts": [
 			"Nils",
@@ -6567,9 +6413,7 @@
 			"likeCount": 176
 		},
 		"title": "gamescom 2016 | Speedrunners: Rocket Beans vs Community mit Nils, Ede & Gregor 2/2 | 21.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2260,
 		"hosts": [
 			"Nils",
@@ -6593,9 +6437,7 @@
 			"likeCount": 2430
 		},
 		"title": "gamescom 2016 | Almost Daily #250 - Almost D\u00f6hli \u00fcber Neid, Hass & Hoffnung | 21.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 4439,
 		"hosts": [
 			"Simon",
@@ -6620,9 +6462,7 @@
 			"likeCount": 1543
 		},
 		"title": "gamescom 2016 | \u2764 Schwei\u00df, Flei\u00df & Party: Das war die Beanscom 2016 \u2764 | 21.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 129,
 		"hosts": [],
 		"published": 1471789481,
@@ -7767,7 +7607,7 @@
 			"viewCount": 8151,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 251
+			"likeCount": 252
 		},
 		"title": "[60] Let's Play Gothic 2 mit Michael und Krogmann | Aligator Jack | 24.08.2016",
 		"series": [
@@ -8101,9 +7941,7 @@
 			"likeCount": 845
 		},
 		"title": "Best-Of \"Krogis-Drumsessions\" Gamescom 2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 1458,
 		"hosts": [],
 		"published": 1472223955,
@@ -8192,9 +8030,7 @@
 			"likeCount": 222
 		},
 		"title": "gamescom 2016 | Kingdom Come Deliverance - Interview mit Tobias Stolz-Zwilling | 18.08.2016",
-		"series": [
-			"2016"
-		],
+		"series": [],
 		"length": 2221,
 		"hosts": [
 			"Michael R"
@@ -8348,7 +8184,7 @@
 		"aired": 1472378400,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 23354,
+			"viewCount": 23356,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 680
@@ -8396,7 +8232,7 @@
 		"aired": 1472378400,
 		"stats": {
 			"commentCount": 238,
-			"viewCount": 28107,
+			"viewCount": 28108,
 			"favoriteCount": 0,
 			"dislikeCount": 38,
 			"likeCount": 1345

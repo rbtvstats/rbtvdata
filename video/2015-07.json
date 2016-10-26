@@ -1058,7 +1058,7 @@
 		"aired": 1435831200,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 10925,
+			"viewCount": 10927,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 307
@@ -2101,7 +2101,7 @@
 		"aired": 1436176800,
 		"stats": {
 			"commentCount": 293,
-			"viewCount": 327752,
+			"viewCount": 327759,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 4729
@@ -2130,7 +2130,7 @@
 			"viewCount": 253740,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 3146
+			"likeCount": 3147
 		},
 		"title": "[4/7] Pen & Paper | B.E.A.R.D.S. | Akt 1: Kampf um Skalme | Steppkens Traum | 06.07.2015",
 		"series": [],
@@ -2253,7 +2253,7 @@
 		"aired": 1436176800,
 		"stats": {
 			"commentCount": 171,
-			"viewCount": 226281,
+			"viewCount": 226284,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 2984
@@ -3381,7 +3381,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 50,
-			"viewCount": 24044,
+			"viewCount": 24046,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 544
@@ -3988,7 +3988,7 @@
 		"aired": 1436695200,
 		"stats": {
 			"commentCount": 204,
-			"viewCount": 138578,
+			"viewCount": 138579,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 3194
@@ -4013,7 +4013,7 @@
 		"aired": 1436695200,
 		"stats": {
 			"commentCount": 348,
-			"viewCount": 124877,
+			"viewCount": 124878,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 3226
@@ -7414,7 +7414,7 @@
 		"aired": 1437645600,
 		"stats": {
 			"commentCount": 412,
-			"viewCount": 73747,
+			"viewCount": 73748,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 1449
@@ -7512,7 +7512,7 @@
 		"aired": 1437645600,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3124,
+			"viewCount": 3123,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 74
@@ -7802,7 +7802,7 @@
 		"aired": 1437472800,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 12795,
+			"viewCount": 12792,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 380
@@ -8331,7 +8331,7 @@
 		"aired": 1422010800,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 11642,
+			"viewCount": 11644,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 180
@@ -9481,9 +9481,7 @@
 			"likeCount": 667
 		},
 		"title": "gamescom 2015 | Vorbesprechung mit Etienne, Nils, Budi und Marco | 2/4 | 29.07.2015",
-		"series": [
-			"2015"
-		],
+		"series": [],
 		"length": 1395,
 		"hosts": [
 			"Eddy",
@@ -9508,9 +9506,7 @@
 			"likeCount": 649
 		},
 		"title": "gamescom 2015 | Vorbesprechung mit Etienne, Nils, Budi und Marco | 3/4 | 29.07.2015",
-		"series": [
-			"2015"
-		],
+		"series": [],
 		"length": 1664,
 		"hosts": [
 			"Eddy",
@@ -9535,9 +9531,7 @@
 			"likeCount": 543
 		},
 		"title": "gamescom 2015 | Vorbesprechung mit Etienne, Nils, Budi und Marco | 4/4 | 29.07.2015",
-		"series": [
-			"2015"
-		],
+		"series": [],
 		"length": 558,
 		"hosts": [
 			"Eddy",

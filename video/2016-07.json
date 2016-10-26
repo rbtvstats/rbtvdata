@@ -3,7 +3,7 @@
 		"aired": 1467280800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 11904,
+			"viewCount": 11928,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 286
@@ -28,7 +28,7 @@
 		"aired": 1467280800,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 9742,
+			"viewCount": 9765,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 243
@@ -53,7 +53,7 @@
 		"aired": 1467280800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9285,
+			"viewCount": 9305,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 240
@@ -78,7 +78,7 @@
 		"aired": 1467194400,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 9051,
+			"viewCount": 9067,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 175
@@ -100,7 +100,7 @@
 		"aired": 1467194400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 4087,
+			"viewCount": 4091,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 104
@@ -122,7 +122,7 @@
 		"aired": 1467194400,
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 12344,
+			"viewCount": 12362,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 271
@@ -144,10 +144,10 @@
 		"aired": 1467194400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 5726,
+			"viewCount": 5731,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 169
+			"likeCount": 170
 		},
 		"title": "[2/2] Let's Play FTL: Faster Than Light mit Dennis | \"Baller die ab!\" | 29.06.2016",
 		"series": [],
@@ -166,7 +166,7 @@
 		"aired": 1467280800,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 5329,
+			"viewCount": 5331,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 156
@@ -192,7 +192,7 @@
 		"aired": 1467280800,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 4543,
+			"viewCount": 4545,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 118
@@ -218,7 +218,7 @@
 		"aired": 1467280800,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 4589,
+			"viewCount": 4587,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 132
@@ -244,7 +244,7 @@
 		"aired": 1467280800,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 4772,
+			"viewCount": 4774,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 141
@@ -270,10 +270,10 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 19587,
+			"viewCount": 19708,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
-			"likeCount": 648
+			"likeCount": 651
 		},
 		"title": "#MoinMoin mit Florentin und Stefan Titze | Das Podcast Ufo, Segways und Bildungsauftrag | 01.07.2016",
 		"series": [],
@@ -292,9 +292,9 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 99,
-			"viewCount": 49334,
+			"viewCount": 49336,
 			"favoriteCount": 0,
-			"dislikeCount": 31,
+			"dislikeCount": 32,
 			"likeCount": 1544
 		},
 		"title": "Pen & Paper: B.E.A.R.D.S. 3 | Teaser #2",
@@ -310,7 +310,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 190,
-			"viewCount": 18988,
+			"viewCount": 18989,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 788
@@ -330,13 +330,15 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 16498,
+			"viewCount": 16518,
 			"favoriteCount": 0,
-			"dislikeCount": 24,
+			"dislikeCount": 25,
 			"likeCount": 440
 		},
 		"title": "Roskilde Festival 2016: Food Tour #2, Interviews: Kakkmaddafakka & Liss | Festivalsommer | 01.07.16",
-		"series": [],
+		"series": [
+			"2016"
+		],
 		"length": 3589,
 		"hosts": [
 			"Sofia"
@@ -345,14 +347,14 @@
 		"id": "niU9VaMA68U",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"[Event] Festival Sommer"
 		]
 	},
 	{
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 18121,
+			"viewCount": 18156,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 354
@@ -377,7 +379,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 15044,
+			"viewCount": 15076,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 282
@@ -402,10 +404,10 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 14270,
+			"viewCount": 14310,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 252
+			"likeCount": 253
 		},
 		"title": "[84] Dark Souls III mit Etienne und Dennis | Knallhart Durchgenommen | 01.07.2016",
 		"series": [
@@ -427,7 +429,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 15063,
+			"viewCount": 15089,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 307
@@ -452,10 +454,10 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 140,
-			"viewCount": 35400,
+			"viewCount": 35455,
 			"favoriteCount": 0,
 			"dislikeCount": 45,
-			"likeCount": 1218
+			"likeCount": 1220
 		},
 		"title": "Verflixxte Klixx #11 mit Lars Paulsen und Florentin Will | 01.07.2016",
 		"series": [],
@@ -475,7 +477,7 @@
 		"aired": 1467453600,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 14550,
+			"viewCount": 14567,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 385
@@ -498,9 +500,9 @@
 		"aired": 1467453600,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 6758,
+			"viewCount": 6762,
 			"favoriteCount": 0,
-			"dislikeCount": 4,
+			"dislikeCount": 5,
 			"likeCount": 227
 		},
 		"title": "[80] Gino+ | Liegest\u00fctz am Slingtrainer mit Timm | 02.07.2016",
@@ -520,9 +522,9 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 81,
-			"viewCount": 42508,
+			"viewCount": 42510,
 			"favoriteCount": 0,
-			"dislikeCount": 18,
+			"dislikeCount": 19,
 			"likeCount": 1746
 		},
 		"title": "Pen & Paper: B.E.A.R.D.S. 3 | Teaser #3",
@@ -538,7 +540,7 @@
 		"aired": 1467540000,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 16710,
+			"viewCount": 16744,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 322
@@ -563,7 +565,7 @@
 		"aired": 1467540000,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 15207,
+			"viewCount": 15234,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 320
@@ -588,7 +590,7 @@
 		"aired": 1467540000,
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 15134,
+			"viewCount": 15171,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 260
@@ -613,7 +615,7 @@
 		"aired": 1467540000,
 		"stats": {
 			"commentCount": 128,
-			"viewCount": 20744,
+			"viewCount": 20780,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 403
@@ -638,7 +640,7 @@
 		"aired": 1467540000,
 		"stats": {
 			"commentCount": 85,
-			"viewCount": 33272,
+			"viewCount": 33308,
 			"favoriteCount": 0,
 			"dislikeCount": 31,
 			"likeCount": 888
@@ -660,7 +662,7 @@
 		"aired": 1467540000,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 18136,
+			"viewCount": 18145,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 655
@@ -682,10 +684,10 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 107,
-			"viewCount": 17741,
+			"viewCount": 17775,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 933
+			"likeCount": 934
 		},
 		"title": "#MoinMoin mit Mental und Honor | Weltall, Religion, Politik, HIV und Bonjwa Cup | 04.07.2016",
 		"series": [],
@@ -705,7 +707,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 10880,
+			"viewCount": 10891,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 234
@@ -729,7 +731,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 6684,
+			"viewCount": 6692,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 180
@@ -753,7 +755,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 8494,
+			"viewCount": 8502,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 151
@@ -777,7 +779,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 7444,
+			"viewCount": 7450,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 148
@@ -801,7 +803,7 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 9730,
+			"viewCount": 9740,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 198
@@ -825,10 +827,10 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 45,
-			"viewCount": 12710,
+			"viewCount": 12712,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 383
+			"likeCount": 384
 		},
 		"title": "[1/2] Geschichte des Videogame-Fu\u00dfballs, Wir spielen Klassiker | Retro Klub mit Gregor | 01.07.2016",
 		"series": [],
@@ -847,10 +849,10 @@
 		"aired": 1467367200,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 8832,
+			"viewCount": 8838,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 341
+			"likeCount": 342
 		},
 		"title": "[2/2] Manni der Libero & Die Kickers | Retro Klub mit Gregor | 01.07.2016",
 		"series": [],
@@ -869,10 +871,10 @@
 		"aired": 1450695600,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 6862,
+			"viewCount": 6864,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 217
+			"likeCount": 218
 		},
 		"title": "Let's Play Steamgames mit Simon | Grimoir, Bierzerkers, I Have No Mouth & I Must Scream | 21.12.2015",
 		"series": [],
@@ -891,10 +893,10 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 10069,
+			"viewCount": 10087,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 219
+			"likeCount": 220
 		},
 		"title": "[15] Dead Space mit Simon | Verlust der Orientierung | After Dark | 04.07.2016",
 		"series": [
@@ -915,7 +917,7 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 154,
-			"viewCount": 17169,
+			"viewCount": 17168,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 740
@@ -935,7 +937,7 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 7457,
+			"viewCount": 7476,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 169
@@ -959,7 +961,7 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 7510,
+			"viewCount": 7530,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 188
@@ -983,10 +985,10 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 77,
-			"viewCount": 26377,
+			"viewCount": 26387,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 719
+			"likeCount": 720
 		},
 		"title": "[1/4] Skyrim - Enderal-Mod & Die gr\u00f6\u00dften Videospielskandale | Game+ Daily mit Budi | 04.07.2016",
 		"series": [],
@@ -1007,10 +1009,10 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 15329,
+			"viewCount": 15334,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 343
+			"likeCount": 344
 		},
 		"title": "[2/4] Skyrim - Enderal-Mod & Die gr\u00f6\u00dften Videospielskandale | Game+ Daily mit Budi | 04.07.2016",
 		"series": [],
@@ -1031,10 +1033,10 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 12222,
+			"viewCount": 12226,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 273
+			"likeCount": 274
 		},
 		"title": "[3/4] Skyrim - Enderal-Mod & Die gr\u00f6\u00dften Videospielskandale | Game+ Daily mit Budi | 04.07.2016",
 		"series": [],
@@ -1055,10 +1057,10 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 6560,
+			"viewCount": 6562,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 227
+			"likeCount": 228
 		},
 		"title": "[4/4] Beef der Woche: Jungle King | Game+ Daily mit Budi | 04.07.2016",
 		"series": [],
@@ -1079,7 +1081,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 125,
-			"viewCount": 33224,
+			"viewCount": 33236,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 1186
@@ -1101,7 +1103,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 84,
-			"viewCount": 18221,
+			"viewCount": 18227,
 			"favoriteCount": 0,
 			"dislikeCount": 68,
 			"likeCount": 1135
@@ -1119,7 +1121,7 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 3294,
+			"viewCount": 3307,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 69
@@ -1144,7 +1146,7 @@
 		"aired": 1467626400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2000,
+			"viewCount": 2010,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 46
@@ -1169,7 +1171,7 @@
 		"aired": 1467453600,
 		"stats": {
 			"commentCount": 98,
-			"viewCount": 15587,
+			"viewCount": 15589,
 			"favoriteCount": 0,
 			"dislikeCount": 70,
 			"likeCount": 1171
@@ -1191,7 +1193,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 38061,
+			"viewCount": 38063,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 1238
@@ -1256,7 +1258,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 45,
-			"viewCount": 16128,
+			"viewCount": 16127,
 			"favoriteCount": 0,
 			"dislikeCount": 73,
 			"likeCount": 515
@@ -1276,7 +1278,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 10530,
+			"viewCount": 10534,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 283
@@ -1300,7 +1302,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 7151,
+			"viewCount": 7152,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 191
@@ -1348,10 +1350,10 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4308,
+			"viewCount": 4310,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 158
+			"likeCount": 159
 		},
 		"title": "[4/4] Beef der Woche: Jungle King | Game+ Daily mit Micha | 05.07.2016",
 		"series": [],
@@ -1372,7 +1374,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 9391,
+			"viewCount": 9396,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 155
@@ -1394,7 +1396,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3002,
+			"viewCount": 3003,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 57
@@ -1416,7 +1418,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 2152,
+			"viewCount": 2154,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 38
@@ -1438,7 +1440,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 2129,
+			"viewCount": 2130,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 38
@@ -1460,7 +1462,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 14896,
+			"viewCount": 14900,
 			"favoriteCount": 0,
 			"dislikeCount": 46,
 			"likeCount": 382
@@ -1482,10 +1484,10 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 209,
-			"viewCount": 60990,
+			"viewCount": 61129,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
-			"likeCount": 1695
+			"likeCount": 1701
 		},
 		"title": "[1/2] Chat Duell Staffel 2 mit Budi | Team Bohnen gegen Team GameTube | 05.07.2016",
 		"series": [],
@@ -1507,10 +1509,10 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 204,
-			"viewCount": 44940,
+			"viewCount": 45021,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 1586
+			"likeCount": 1590
 		},
 		"title": "[2/2] Chat Duell Staffel 2 mit Budi | Team Bohnen gegen Team GameTube | 05.07.2016",
 		"series": [],
@@ -1532,7 +1534,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 19018,
+			"viewCount": 19033,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 484
@@ -1555,7 +1557,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 7522,
+			"viewCount": 7530,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 228
@@ -1578,7 +1580,7 @@
 		"aired": 1467712800,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 6392,
+			"viewCount": 6400,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 217
@@ -1601,7 +1603,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 4405,
+			"viewCount": 4410,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 194
@@ -1624,7 +1626,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 119,
-			"viewCount": 18343,
+			"viewCount": 18345,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 719
@@ -1644,7 +1646,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 135,
-			"viewCount": 26273,
+			"viewCount": 26286,
 			"favoriteCount": 0,
 			"dislikeCount": 36,
 			"likeCount": 1970
@@ -1662,7 +1664,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 246,
-			"viewCount": 26173,
+			"viewCount": 26225,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1229
@@ -1680,7 +1682,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 16729,
+			"viewCount": 16733,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 427
@@ -1704,7 +1706,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 10323,
+			"viewCount": 10327,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 263
@@ -1728,7 +1730,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 8312,
+			"viewCount": 8315,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 240
@@ -1824,7 +1826,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 14759,
+			"viewCount": 14768,
 			"favoriteCount": 0,
 			"dislikeCount": 83,
 			"likeCount": 922
@@ -1847,7 +1849,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 63,
-			"viewCount": 20153,
+			"viewCount": 20164,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 589
@@ -1870,7 +1872,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 15278,
+			"viewCount": 15289,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 485
@@ -1893,7 +1895,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 63,
-			"viewCount": 12201,
+			"viewCount": 12211,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 441
@@ -1916,7 +1918,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 18087,
+			"viewCount": 18088,
 			"favoriteCount": 0,
 			"dislikeCount": 43,
 			"likeCount": 701
@@ -1936,7 +1938,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 98,
-			"viewCount": 27596,
+			"viewCount": 27614,
 			"favoriteCount": 0,
 			"dislikeCount": 46,
 			"likeCount": 969
@@ -1961,7 +1963,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 64,
-			"viewCount": 29642,
+			"viewCount": 29653,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 903
@@ -1984,7 +1986,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 178,
-			"viewCount": 28573,
+			"viewCount": 28579,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 694
@@ -2007,10 +2009,10 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 20626,
+			"viewCount": 20633,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 525
+			"likeCount": 526
 		},
 		"title": "[3/4] Kino+ | Michael Cimino, Unfriend, Bunker of the Dead, Weird Al Yankovic - UHF  | 07.07.2016",
 		"series": [],
@@ -2030,10 +2032,10 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 14545,
+			"viewCount": 14560,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 490
+			"likeCount": 491
 		},
 		"title": "[4/4] Kino+ | Fantasy Film Fest: The Devil's Candy, Creepy, Psycho Raman, Kingsglaive | 07.07.2016",
 		"series": [],
@@ -2053,7 +2055,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 12955,
+			"viewCount": 12977,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 295
@@ -2078,7 +2080,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 9987,
+			"viewCount": 10007,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 246
@@ -2103,7 +2105,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 10393,
+			"viewCount": 10418,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 267
@@ -2128,7 +2130,7 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 127,
-			"viewCount": 31333,
+			"viewCount": 31350,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 939
@@ -2150,7 +2152,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 14249,
+			"viewCount": 14254,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 353
@@ -2198,7 +2200,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 7576,
+			"viewCount": 7579,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 208
@@ -2222,7 +2224,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 5961,
+			"viewCount": 5963,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 185
@@ -2246,7 +2248,7 @@
 		"aired": 1467799200,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 1890,
+			"viewCount": 1892,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 50
@@ -2346,7 +2348,7 @@
 		"aired": 1467885600,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 4162,
+			"viewCount": 4172,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 72
@@ -2454,7 +2456,7 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 134,
-			"viewCount": 21024,
+			"viewCount": 21027,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 530
@@ -2478,7 +2480,7 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 63,
-			"viewCount": 13624,
+			"viewCount": 13625,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 407
@@ -2502,10 +2504,10 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 30762,
+			"viewCount": 30817,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
-			"likeCount": 1198
+			"likeCount": 1199
 		},
 		"title": "Verflixxte Klixx #12 mit Lars Paulsen und Florentin Will | 08.07.2016",
 		"series": [],
@@ -2525,10 +2527,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 78,
-			"viewCount": 15841,
+			"viewCount": 15865,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
-			"likeCount": 631
+			"likeCount": 632
 		},
 		"title": "[1/2] Freestyle Music Session mit Hannes, Felix, Krogmann und Brous One | Rocket Beans TV",
 		"series": [],
@@ -2543,7 +2545,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 32598,
+			"viewCount": 32599,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1321
@@ -2561,7 +2563,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 6072,
+			"viewCount": 6086,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 214
@@ -2579,10 +2581,10 @@
 		"aired": 1468058400,
 		"stats": {
 			"commentCount": 51,
-			"viewCount": 24855,
+			"viewCount": 24929,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 597
+			"likeCount": 599
 		},
 		"title": "Mighty No. 9 mit Sia, Simon und Gregor | Speedrundale | 09.07.2016",
 		"series": [],
@@ -2603,7 +2605,7 @@
 		"aired": 1468058400,
 		"stats": {
 			"commentCount": 190,
-			"viewCount": 28860,
+			"viewCount": 28902,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 765
@@ -2626,10 +2628,10 @@
 		"aired": 1468144800,
 		"stats": {
 			"commentCount": 140,
-			"viewCount": 35080,
+			"viewCount": 35090,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 1259
+			"likeCount": 1260
 		},
 		"title": "[1/4] Press Select #12 | Lets Plays - Fluch oder Segen? | 10.07.2016",
 		"series": [],
@@ -2649,10 +2651,10 @@
 		"aired": 1468144800,
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 19157,
+			"viewCount": 19166,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 680
+			"likeCount": 681
 		},
 		"title": "[2/4] Press Select #12 | Lets Plays - Fluch oder Segen? | 10.07.2016",
 		"series": [],
@@ -2672,10 +2674,10 @@
 		"aired": 1468144800,
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 15252,
+			"viewCount": 15258,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 548
+			"likeCount": 549
 		},
 		"title": "[3/4] Press Select #12 | Lets Plays - Fluch oder Segen? | 10.07.2016",
 		"series": [],
@@ -2695,10 +2697,10 @@
 		"aired": 1468144800,
 		"stats": {
 			"commentCount": 51,
-			"viewCount": 11785,
+			"viewCount": 11787,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 622
+			"likeCount": 623
 		},
 		"title": "[4/4] Press Select #12 | Lets Plays - Fluch oder Segen? | 10.07.2016",
 		"series": [],
@@ -2718,7 +2720,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 18954,
+			"viewCount": 18962,
 			"favoriteCount": 0,
 			"dislikeCount": 46,
 			"likeCount": 440
@@ -2741,7 +2743,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 12133,
+			"viewCount": 12139,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
 			"likeCount": 324
@@ -2764,7 +2766,7 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 9259,
+			"viewCount": 9268,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 316
@@ -2786,7 +2788,7 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 5530,
+			"viewCount": 5539,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 203
@@ -2852,7 +2854,7 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 7088,
+			"viewCount": 7085,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 147
@@ -2874,7 +2876,7 @@
 		"aired": 1467972000,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 2377,
+			"viewCount": 2378,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 54
@@ -2916,7 +2918,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 22790,
+			"viewCount": 22791,
 			"favoriteCount": 0,
 			"dislikeCount": 33,
 			"likeCount": 818
@@ -2934,7 +2936,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 12424,
+			"viewCount": 12427,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 379
@@ -2956,7 +2958,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 197,
-			"viewCount": 48306,
+			"viewCount": 48343,
 			"favoriteCount": 0,
 			"dislikeCount": 92,
 			"likeCount": 1210
@@ -2982,7 +2984,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 155,
-			"viewCount": 57043,
+			"viewCount": 57051,
 			"favoriteCount": 0,
 			"dislikeCount": 133,
 			"likeCount": 2088
@@ -3000,7 +3002,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 201,
-			"viewCount": 35268,
+			"viewCount": 35287,
 			"favoriteCount": 0,
 			"dislikeCount": 43,
 			"likeCount": 742
@@ -3026,7 +3028,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 85,
-			"viewCount": 21855,
+			"viewCount": 21863,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 476
@@ -3052,7 +3054,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 19568,
+			"viewCount": 19583,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 530
@@ -3078,7 +3080,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 77,
-			"viewCount": 19065,
+			"viewCount": 19069,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 594
@@ -3103,7 +3105,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 14858,
+			"viewCount": 14857,
 			"favoriteCount": 0,
 			"dislikeCount": 35,
 			"likeCount": 502
@@ -3123,7 +3125,7 @@
 		"aired": 1468231200,
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 13358,
+			"viewCount": 13360,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 458
@@ -3148,7 +3150,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 21406,
+			"viewCount": 21407,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 769
@@ -3188,7 +3190,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 116,
-			"viewCount": 26046,
+			"viewCount": 26059,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 662
@@ -3212,7 +3214,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 64,
-			"viewCount": 18771,
+			"viewCount": 18779,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 430
@@ -3236,7 +3238,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 17138,
+			"viewCount": 17154,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 416
@@ -3260,7 +3262,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 15131,
+			"viewCount": 15144,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 472
@@ -3284,7 +3286,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 8168,
+			"viewCount": 8170,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 257
@@ -3308,7 +3310,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4775,
+			"viewCount": 4779,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 149
@@ -3332,7 +3334,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4568,
+			"viewCount": 4570,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 149
@@ -3356,7 +3358,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 3723,
+			"viewCount": 3725,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 138
@@ -3380,7 +3382,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 144,
-			"viewCount": 45894,
+			"viewCount": 45970,
 			"favoriteCount": 0,
 			"dislikeCount": 39,
 			"likeCount": 1108
@@ -3407,7 +3409,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 7491,
+			"viewCount": 7502,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 168
@@ -3432,7 +3434,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 3818,
+			"viewCount": 3828,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 105
@@ -3457,7 +3459,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 5965,
+			"viewCount": 5976,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 131
@@ -3482,7 +3484,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 6241,
+			"viewCount": 6251,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 145
@@ -3507,7 +3509,7 @@
 		"aired": 1468317600,
 		"stats": {
 			"commentCount": 162,
-			"viewCount": 32602,
+			"viewCount": 32669,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 992
@@ -3534,10 +3536,10 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 34382,
+			"viewCount": 34431,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 946
+			"likeCount": 947
 		},
 		"title": "[1/2] Almost Plaily #018 | Agent Undercover mit Budi, Gunnar, Andi, Flo und Andreas | 13.07.2016",
 		"series": [],
@@ -3560,7 +3562,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 25085,
+			"viewCount": 25116,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 938
@@ -3642,7 +3644,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 14215,
+			"viewCount": 14229,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 363
@@ -3666,7 +3668,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 8019,
+			"viewCount": 8024,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 186
@@ -3690,7 +3692,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 7035,
+			"viewCount": 7040,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 183
@@ -3714,7 +3716,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4304,
+			"viewCount": 4309,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 143
@@ -3738,7 +3740,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 161,
-			"viewCount": 19457,
+			"viewCount": 19464,
 			"favoriteCount": 0,
 			"dislikeCount": 47,
 			"likeCount": 526
@@ -3761,7 +3763,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 22188,
+			"viewCount": 22198,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 791
@@ -3784,7 +3786,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 15967,
+			"viewCount": 15980,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 521
@@ -3807,7 +3809,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 12906,
+			"viewCount": 12921,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 495
@@ -3830,10 +3832,10 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 5812,
+			"viewCount": 5822,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 201
+			"likeCount": 203
 		},
 		"title": "[36] Buch Klub mit Annabell & Markus Herrmann | Aaarfz | 14.07.2016",
 		"series": [],
@@ -3852,7 +3854,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 125,
-			"viewCount": 34988,
+			"viewCount": 34990,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 1664
@@ -3870,7 +3872,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 1561,
+			"viewCount": 1559,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 53
@@ -3895,7 +3897,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 911,
+			"viewCount": 912,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 35
@@ -3920,7 +3922,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 836,
+			"viewCount": 837,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 31
@@ -3945,7 +3947,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 915,
+			"viewCount": 916,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 36
@@ -3970,7 +3972,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 1280,
+			"viewCount": 1283,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 41
@@ -3995,10 +3997,10 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 28906,
+			"viewCount": 28919,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 735
+			"likeCount": 736
 		},
 		"title": "[1/4] Kino+ | Silicon Valley, Banshee, Batman vs Superman | 14.07.2016",
 		"series": [],
@@ -4018,7 +4020,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 18049,
+			"viewCount": 18066,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 741
@@ -4043,7 +4045,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 131,
-			"viewCount": 31062,
+			"viewCount": 31077,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 673
@@ -4086,7 +4088,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 141,
-			"viewCount": 24136,
+			"viewCount": 24147,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 572
@@ -4109,7 +4111,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 45,
-			"viewCount": 17403,
+			"viewCount": 17412,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 500
@@ -4132,7 +4134,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 14572,
+			"viewCount": 14578,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 325
@@ -4157,7 +4159,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 9671,
+			"viewCount": 9677,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 199
@@ -4182,7 +4184,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 10048,
+			"viewCount": 10053,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 196
@@ -4207,7 +4209,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8283,
+			"viewCount": 8289,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 203
@@ -4232,10 +4234,10 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 10029,
+			"viewCount": 10080,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 291
+			"likeCount": 292
 		},
 		"title": "[55] Let's Play Gothic 2 mit Michael und Krogmann | Knutschen mit Trixie | 13.07.2016",
 		"series": [
@@ -4257,10 +4259,10 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 9079,
+			"viewCount": 9127,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 227
+			"likeCount": 228
 		},
 		"title": "[56] Let's Play Gothic 2 mit Michael und Krogmann | Auf Schatzsuche | 13.07.2016",
 		"series": [
@@ -4282,10 +4284,10 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 8778,
+			"viewCount": 8812,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 243
+			"likeCount": 244
 		},
 		"title": "[57] Let's Play Gothic 2 mit Michael und Krogmann | St\u00e4rke ist Trumpf | 13.07.2016",
 		"series": [
@@ -4307,7 +4309,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 11979,
+			"viewCount": 12009,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 291
@@ -4332,7 +4334,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 9818,
+			"viewCount": 9838,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 240
@@ -4357,7 +4359,7 @@
 		"aired": 1468490400,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 10865,
+			"viewCount": 10887,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 263
@@ -4403,11 +4405,11 @@
 	{
 		"aired": 1468490400,
 		"stats": {
-			"commentCount": 547,
-			"viewCount": 52426,
+			"commentCount": 549,
+			"viewCount": 52858,
 			"favoriteCount": 0,
 			"dislikeCount": 103,
-			"likeCount": 2633
+			"likeCount": 2640
 		},
 		"title": "[1] Social Eating mit Ian | Asiatisches Essen | 14.07.2016",
 		"series": [],
@@ -4426,7 +4428,7 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 99,
-			"viewCount": 29161,
+			"viewCount": 29162,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
 			"likeCount": 764
@@ -4446,7 +4448,7 @@
 		"aired": 1468749600,
 		"stats": {
 			"commentCount": 232,
-			"viewCount": 45250,
+			"viewCount": 45328,
 			"favoriteCount": 0,
 			"dislikeCount": 88,
 			"likeCount": 1713
@@ -4470,7 +4472,7 @@
 		"aired": 1468749600,
 		"stats": {
 			"commentCount": 271,
-			"viewCount": 29625,
+			"viewCount": 29681,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 1337
@@ -4494,10 +4496,10 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 336,
-			"viewCount": 54718,
+			"viewCount": 54760,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
-			"likeCount": 1888
+			"likeCount": 1889
 		},
 		"title": "#MoinMoin mit Simon | Pen & Paper: Mut zum Met, Chuck Palahniuk, Fangeschenke | 18.07.2016",
 		"series": [],
@@ -4516,7 +4518,7 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 14219,
+			"viewCount": 14246,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 453
@@ -4538,7 +4540,7 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 9901,
+			"viewCount": 9910,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 296
@@ -4560,7 +4562,7 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8868,
+			"viewCount": 8881,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 300
@@ -4582,10 +4584,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 177,
-			"viewCount": 69541,
+			"viewCount": 69860,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 1862
+			"likeCount": 1863
 		},
 		"title": "[1/2] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Pre-Show | 15.07.2016",
 		"series": [],
@@ -4608,10 +4610,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 57910,
+			"viewCount": 58194,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
-			"likeCount": 1276
+			"likeCount": 1279
 		},
 		"title": "[2/2] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Pre-Show | 15.07.2016",
 		"series": [],
@@ -4634,10 +4636,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 264,
-			"viewCount": 125081,
+			"viewCount": 125650,
 			"favoriteCount": 0,
 			"dislikeCount": 54,
-			"likeCount": 2782
+			"likeCount": 2785
 		},
 		"title": "[1/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Die Kapit\u00e4ne | 15.07.2016",
 		"series": [],
@@ -4660,10 +4662,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 83375,
+			"viewCount": 83774,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 1727
+			"likeCount": 1731
 		},
 		"title": "[2/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Schwarze Magie | 15.07.2016",
 		"series": [],
@@ -4686,10 +4688,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 95442,
+			"viewCount": 95900,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
-			"likeCount": 1883
+			"likeCount": 1887
 		},
 		"title": "[3/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Krieg auf See | 15.07.2016",
 		"series": [],
@@ -4712,10 +4714,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 152,
-			"viewCount": 101893,
+			"viewCount": 102351,
 			"favoriteCount": 0,
-			"dislikeCount": 49,
-			"likeCount": 1800
+			"dislikeCount": 50,
+			"likeCount": 1807
 		},
 		"title": "[4/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Das Rezept | 15.07.2016",
 		"series": [],
@@ -4738,10 +4740,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 256,
-			"viewCount": 95361,
+			"viewCount": 95786,
 			"favoriteCount": 0,
 			"dislikeCount": 84,
-			"likeCount": 1823
+			"likeCount": 1829
 		},
 		"title": "[5/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Seepferdchen | 15.07.2016",
 		"series": [],
@@ -4764,10 +4766,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 246,
-			"viewCount": 93285,
+			"viewCount": 93731,
 			"favoriteCount": 0,
 			"dislikeCount": 58,
-			"likeCount": 1829
+			"likeCount": 1841
 		},
 		"title": "[6/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Der Dorfk\u00f6nig | 15.07.2016",
 		"series": [],
@@ -4789,11 +4791,11 @@
 	{
 		"aired": 1468576800,
 		"stats": {
-			"commentCount": 353,
-			"viewCount": 111403,
+			"commentCount": 354,
+			"viewCount": 111908,
 			"favoriteCount": 0,
 			"dislikeCount": 103,
-			"likeCount": 2558
+			"likeCount": 2563
 		},
 		"title": "[7/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Das R\u00f8p-Battle | 15.07.2016",
 		"series": [],
@@ -4816,10 +4818,10 @@
 		"aired": 1468576800,
 		"stats": {
 			"commentCount": 552,
-			"viewCount": 92663,
+			"viewCount": 93086,
 			"favoriteCount": 0,
 			"dislikeCount": 253,
-			"likeCount": 2797
+			"likeCount": 2799
 		},
 		"title": "[8/8] Pen & Paper B.E.A.R.D.S. | Akt 3: Von Unterg\u00e4ngern & Aufsteigern | Krieg! | 15.07.2016",
 		"series": [],
@@ -4842,7 +4844,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 60,
-			"viewCount": 18275,
+			"viewCount": 18278,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 685
@@ -4862,7 +4864,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 8887,
+			"viewCount": 8903,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 214
@@ -4886,7 +4888,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 6864,
+			"viewCount": 6882,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 158
@@ -4910,7 +4912,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 20449,
+			"viewCount": 20451,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
 			"likeCount": 549
@@ -4934,7 +4936,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 8373,
+			"viewCount": 8397,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 188
@@ -4958,7 +4960,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9485,
+			"viewCount": 9484,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 243
@@ -4982,7 +4984,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 7801,
+			"viewCount": 7803,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 221
@@ -5006,7 +5008,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 6450,
+			"viewCount": 6451,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 184
@@ -5030,7 +5032,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 18293,
+			"viewCount": 18310,
 			"favoriteCount": 0,
 			"dislikeCount": 68,
 			"likeCount": 669
@@ -5052,7 +5054,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 140,
-			"viewCount": 29296,
+			"viewCount": 29315,
 			"favoriteCount": 0,
 			"dislikeCount": 104,
 			"likeCount": 609
@@ -5079,7 +5081,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 60,
-			"viewCount": 12998,
+			"viewCount": 13008,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 259
@@ -5106,7 +5108,7 @@
 		"aired": 1468836000,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 12026,
+			"viewCount": 12037,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 269
@@ -5133,7 +5135,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 240,
-			"viewCount": 45398,
+			"viewCount": 45538,
 			"favoriteCount": 0,
 			"dislikeCount": 34,
 			"likeCount": 3058
@@ -5151,7 +5153,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 15968,
+			"viewCount": 15969,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 477
@@ -5171,7 +5173,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 3669,
+			"viewCount": 3684,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 68
@@ -5196,7 +5198,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 1434,
+			"viewCount": 1450,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 44
@@ -5221,7 +5223,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 1628,
+			"viewCount": 1641,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 44
@@ -5246,7 +5248,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 11019,
+			"viewCount": 11021,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 287
@@ -5270,7 +5272,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 6034,
+			"viewCount": 6037,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 155
@@ -5294,7 +5296,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 4822,
+			"viewCount": 4823,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 143
@@ -5318,7 +5320,7 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 4496,
+			"viewCount": 4500,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 164
@@ -5342,7 +5344,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 148,
-			"viewCount": 30659,
+			"viewCount": 30665,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 910
@@ -5365,10 +5367,10 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 271,
-			"viewCount": 45571,
+			"viewCount": 45648,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
-			"likeCount": 1131
+			"likeCount": 1133
 		},
 		"title": "[1/2] Chat Duell Staffel 2 mit Colin | Team Wrestling-Beans gegen Team Spielverlagerung | 19.07.2016",
 		"series": [],
@@ -5390,10 +5392,10 @@
 		"aired": 1468922400,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 28855,
+			"viewCount": 28895,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
-			"likeCount": 800
+			"likeCount": 801
 		},
 		"title": "[2/2] Chat Duell Staffel 2 mit Colin | Team Wrestling-Beans gegen Team Spielverlagerung | 19.07.2016",
 		"series": [],
@@ -5415,7 +5417,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 1716,
+			"viewCount": 1717,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 55
@@ -5465,7 +5467,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 991,
+			"viewCount": 994,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 41
@@ -5489,8 +5491,8 @@
 	{
 		"aired": 1469008800,
 		"stats": {
-			"commentCount": 4,
-			"viewCount": 1801,
+			"commentCount": 5,
+			"viewCount": 1803,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 80
@@ -5515,7 +5517,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 11537,
+			"viewCount": 11541,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 311
@@ -5539,7 +5541,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 185,
-			"viewCount": 42816,
+			"viewCount": 42824,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 2765
@@ -5557,7 +5559,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 18490,
+			"viewCount": 18492,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 590
@@ -5577,7 +5579,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 8023,
+			"viewCount": 8026,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 209
@@ -5625,7 +5627,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 4816,
+			"viewCount": 4817,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 168
@@ -5649,7 +5651,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 39319,
+			"viewCount": 39325,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 1036
@@ -5672,7 +5674,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 109,
-			"viewCount": 22616,
+			"viewCount": 22631,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 693
@@ -5695,7 +5697,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 17730,
+			"viewCount": 17761,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 676
@@ -5718,7 +5720,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 95,
-			"viewCount": 22166,
+			"viewCount": 22180,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 863
@@ -5740,7 +5742,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 6795,
+			"viewCount": 6802,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 164
@@ -5765,7 +5767,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4984,
+			"viewCount": 4992,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 132
@@ -5790,7 +5792,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 20914,
+			"viewCount": 20926,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 1076
@@ -5815,7 +5817,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 98,
-			"viewCount": 30255,
+			"viewCount": 30273,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 747
@@ -5839,7 +5841,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 68,
-			"viewCount": 28177,
+			"viewCount": 28183,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 627
@@ -5863,7 +5865,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 116,
-			"viewCount": 23795,
+			"viewCount": 23804,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 611
@@ -5887,10 +5889,10 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 14723,
+			"viewCount": 14727,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 481
+			"likeCount": 482
 		},
 		"title": "[4/4] Kino+ | Verlosung Manhattan - 1. Staffel, Tschick,Star Trek - Gewinnspiel | 21.07.2016",
 		"series": [],
@@ -5911,7 +5913,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 14325,
+			"viewCount": 14326,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 505
@@ -5931,7 +5933,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 14613,
+			"viewCount": 14615,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 423
@@ -5955,7 +5957,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 8868,
+			"viewCount": 8871,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 223
@@ -5979,7 +5981,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 8659,
+			"viewCount": 8662,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 196
@@ -6003,7 +6005,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 5062,
+			"viewCount": 5064,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 164
@@ -6027,10 +6029,10 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 10804,
+			"viewCount": 10824,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 385
+			"likeCount": 386
 		},
 		"title": "[37] Buch Klub mit Bell & Simon | Ein ganzes halbes Jahr, The Dinosaur Lords, Watchmen | 21.07.2016",
 		"series": [],
@@ -6050,7 +6052,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 12823,
+			"viewCount": 12832,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 495
@@ -6072,7 +6074,7 @@
 		"aired": 1468404000,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4867,
+			"viewCount": 4871,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 201
@@ -6094,11 +6096,11 @@
 	{
 		"aired": 1469095200,
 		"stats": {
-			"commentCount": 233,
-			"viewCount": 30049,
+			"commentCount": 234,
+			"viewCount": 30243,
 			"favoriteCount": 0,
 			"dislikeCount": 47,
-			"likeCount": 1376
+			"likeCount": 1379
 		},
 		"title": "[2] Social Eating mit Gino | Chicken Tikka Masala mit Naan & Halva: Indisches Essen | 21.07.2016",
 		"series": [],
@@ -6117,7 +6119,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4369,
+			"viewCount": 4372,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 139
@@ -6142,7 +6144,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 3396,
+			"viewCount": 3397,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 107
@@ -6167,7 +6169,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3452,
+			"viewCount": 3454,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 109
@@ -6192,7 +6194,7 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 3909,
+			"viewCount": 3911,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 109
@@ -6217,10 +6219,10 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 10864,
+			"viewCount": 10887,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 293
+			"likeCount": 294
 		},
 		"title": "[19] Resident Evil Code: Veronica X mit Simon und Gregor | After Dark | 21.07.2016",
 		"series": [
@@ -6242,10 +6244,10 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 9867,
+			"viewCount": 9890,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 230
+			"likeCount": 231
 		},
 		"title": "[20] Resident Evil Code: Veronica X mit Simon und Gregor | After Dark | 21.07.2016",
 		"series": [
@@ -6267,10 +6269,10 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9638,
+			"viewCount": 9655,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 245
+			"likeCount": 246
 		},
 		"title": "[21] Resident Evil Code: Veronica X mit Simon und Gregor | After Dark | 21.07.2016",
 		"series": [
@@ -6312,7 +6314,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 94,
-			"viewCount": 16979,
+			"viewCount": 17016,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 331
@@ -6337,7 +6339,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 13371,
+			"viewCount": 13398,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
 			"likeCount": 271
@@ -6362,7 +6364,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 81,
-			"viewCount": 16958,
+			"viewCount": 16995,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 382
@@ -6387,10 +6389,10 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 121,
-			"viewCount": 36437,
+			"viewCount": 36484,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
-			"likeCount": 1014
+			"likeCount": 1016
 		},
 		"title": "[1/3] Let's Play Tony Hawk's Pro Skater 2 mit Krogmann, Hannes, Ben und Schr\u00f6ck | 20.07.2016",
 		"series": [],
@@ -6412,7 +6414,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 16167,
+			"viewCount": 16189,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 564
@@ -6437,7 +6439,7 @@
 		"aired": 1469008800,
 		"stats": {
 			"commentCount": 66,
-			"viewCount": 14543,
+			"viewCount": 14562,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 641
@@ -6462,7 +6464,7 @@
 		"aired": 1468663200,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 14585,
+			"viewCount": 14599,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 282
@@ -6485,7 +6487,7 @@
 		"aired": 1468663200,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 5955,
+			"viewCount": 5963,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 126
@@ -6508,7 +6510,7 @@
 		"aired": 1469268000,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 13718,
+			"viewCount": 13727,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 270
@@ -6531,7 +6533,7 @@
 		"aired": 1469268000,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 9718,
+			"viewCount": 9723,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 242
@@ -6554,10 +6556,10 @@
 		"aired": 1469354400,
 		"stats": {
 			"commentCount": 262,
-			"viewCount": 51176,
+			"viewCount": 51243,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
-			"likeCount": 1407
+			"likeCount": 1408
 		},
 		"title": "[1/2] Almost Daily #246 mit Simon, Schr\u00f6ck, Sofia und Florentin | Thema: Serien | 24.07.2016",
 		"series": [],
@@ -6579,10 +6581,10 @@
 		"aired": 1469354400,
 		"stats": {
 			"commentCount": 254,
-			"viewCount": 33983,
+			"viewCount": 34031,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 1129
+			"likeCount": 1131
 		},
 		"title": "[2/2] Almost Daily #246 mit Simon, Schr\u00f6ck, Sofia und Florentin | Thema: Serien | 24.07.2016",
 		"series": [],
@@ -6604,7 +6606,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 18089,
+			"viewCount": 18098,
 			"favoriteCount": 0,
 			"dislikeCount": 62,
 			"likeCount": 846
@@ -6625,11 +6627,11 @@
 	{
 		"aired": 1469181600,
 		"stats": {
-			"commentCount": 73,
-			"viewCount": 13438,
+			"commentCount": 77,
+			"viewCount": 13553,
 			"favoriteCount": 0,
-			"dislikeCount": 38,
-			"likeCount": 263
+			"dislikeCount": 39,
+			"likeCount": 266
 		},
 		"title": "[1/4] Team Limited Counter-Strike:Global Offensive mit Flo, Max, Ren\u00e9, Oli und Jens | 22.07.2016",
 		"series": [],
@@ -6652,10 +6654,10 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 6247,
+			"viewCount": 6276,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 154
+			"likeCount": 155
 		},
 		"title": "[2/4] Team Limited Counter-Strike:Global Offensive mit Flo, Max, Ren\u00e9, Oli und Jens | 22.07.2016",
 		"series": [],
@@ -6678,7 +6680,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4554,
+			"viewCount": 4580,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 118
@@ -6704,7 +6706,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 4208,
+			"viewCount": 4233,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 109
@@ -6730,7 +6732,7 @@
 		"aired": 1468663200,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 8240,
+			"viewCount": 8245,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 333
@@ -6753,7 +6755,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 68,
-			"viewCount": 13730,
+			"viewCount": 13740,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 430
@@ -6775,7 +6777,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 7598,
+			"viewCount": 7601,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 226
@@ -6797,7 +6799,7 @@
 		"aired": 1469181600,
 		"stats": {
 			"commentCount": 101,
-			"viewCount": 30535,
+			"viewCount": 30599,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 956
@@ -6823,7 +6825,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 18202,
+			"viewCount": 18205,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 740
@@ -6843,10 +6845,10 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 8370,
+			"viewCount": 8384,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 205
+			"likeCount": 206
 		},
 		"title": "[21] Dead Space mit Simon | Radioaktive B\u00e4llchen | After Dark | 25.07.2016",
 		"series": [
@@ -6867,7 +6869,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 6369,
+			"viewCount": 6385,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 158
@@ -6891,7 +6893,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 6992,
+			"viewCount": 7014,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 176
@@ -6915,7 +6917,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 13451,
+			"viewCount": 13453,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 382
@@ -6937,7 +6939,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 11180,
+			"viewCount": 11191,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 337
@@ -6961,7 +6963,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 6363,
+			"viewCount": 6365,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 198
@@ -6985,7 +6987,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 5969,
+			"viewCount": 5971,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 174
@@ -7009,7 +7011,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 4305,
+			"viewCount": 4307,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 160
@@ -7033,10 +7035,10 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 213,
-			"viewCount": 20098,
+			"viewCount": 20115,
 			"favoriteCount": 0,
 			"dislikeCount": 226,
-			"likeCount": 324
+			"likeCount": 325
 		},
 		"title": "[1/3] Ranked #3 | League Of Legends mit Sofia, Bell, Marco, Viet und Jens | 25.07.2016",
 		"series": [],
@@ -7059,7 +7061,7 @@
 		"aired": 1469440800,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 7376,
+			"viewCount": 7384,
 			"favoriteCount": 0,
 			"dislikeCount": 121,
 			"likeCount": 138
@@ -7111,7 +7113,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 16018,
+			"viewCount": 16017,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 497
@@ -7131,7 +7133,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 16047,
+			"viewCount": 16057,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 505
@@ -7156,10 +7158,10 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 12352,
+			"viewCount": 12366,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 293
+			"likeCount": 294
 		},
 		"title": "[2/4] PSN-Special und Teddy Together | Game+ Daily mit Simon | 26.07.2016",
 		"series": [],
@@ -7181,7 +7183,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 9645,
+			"viewCount": 9652,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 276
@@ -7206,7 +7208,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 7293,
+			"viewCount": 7301,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 208
@@ -7231,10 +7233,10 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3710,
+			"viewCount": 3729,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 74
+			"likeCount": 75
 		},
 		"title": "[20] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 26.07.2016",
 		"series": [
@@ -7256,7 +7258,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 1404,
+			"viewCount": 1415,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 39
@@ -7281,10 +7283,10 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 1582,
+			"viewCount": 1595,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 41
+			"likeCount": 42
 		},
 		"title": "[22] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 26.07.2016",
 		"series": [
@@ -7306,7 +7308,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 340,
-			"viewCount": 95383,
+			"viewCount": 95802,
 			"favoriteCount": 0,
 			"dislikeCount": 44,
 			"likeCount": 2825
@@ -7329,7 +7331,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 6925,
+			"viewCount": 6931,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 246
@@ -7354,7 +7356,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5741,
+			"viewCount": 5749,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 155
@@ -7379,7 +7381,7 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 5639,
+			"viewCount": 5647,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 169
@@ -7404,10 +7406,10 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 428,
-			"viewCount": 49803,
+			"viewCount": 49893,
 			"favoriteCount": 0,
 			"dislikeCount": 521,
-			"likeCount": 1286
+			"likeCount": 1288
 		},
 		"title": "[1/2] Chat Duell Staffel 2 mit Nils | Team Raketenbrause gegen Team Viva Con Agua | 26.07.2016",
 		"series": [],
@@ -7430,10 +7432,10 @@
 		"aired": 1469527200,
 		"stats": {
 			"commentCount": 181,
-			"viewCount": 34319,
+			"viewCount": 34378,
 			"favoriteCount": 0,
 			"dislikeCount": 147,
-			"likeCount": 1000
+			"likeCount": 1004
 		},
 		"title": "[2/2] Chat Duell Staffel 2 mit Nils | Team Raketenbrause gegen Team Viva Con Agua | 26.07.2016",
 		"series": [],
@@ -7456,10 +7458,10 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 113,
-			"viewCount": 26224,
+			"viewCount": 26261,
 			"favoriteCount": 0,
 			"dislikeCount": 84,
-			"likeCount": 695
+			"likeCount": 696
 		},
 		"title": "[1/2] Almost Plaily #20 | Montagsmaler mit Florentin, Andreas und Stefan Titze | 27.07.2016",
 		"series": [],
@@ -7479,10 +7481,10 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 10527,
+			"viewCount": 10557,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 354
+			"likeCount": 355
 		},
 		"title": "[2/2] Almost Plaily #20 | Montagsmaler mit Florentin, Andreas und Stefan Titze | 27.07.2016",
 		"series": [],
@@ -7502,7 +7504,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 17416,
+			"viewCount": 17418,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 573
@@ -7522,10 +7524,10 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 241,
-			"viewCount": 38571,
+			"viewCount": 38642,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
-			"likeCount": 1769
+			"likeCount": 1772
 		},
 		"title": "#MoinMoin mit Nils | Nils' gr\u00f6\u00dfter Hater, RTL Nitro & Eduard Laser vs He-Man | 28.07.2016",
 		"series": [],
@@ -7545,7 +7547,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 12513,
+			"viewCount": 12516,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 386
@@ -7571,7 +7573,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 9552,
+			"viewCount": 9557,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 235
@@ -7597,7 +7599,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 8999,
+			"viewCount": 9004,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 213
@@ -7623,7 +7625,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 5806,
+			"viewCount": 5811,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 190
@@ -7649,7 +7651,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 96,
-			"viewCount": 29035,
+			"viewCount": 29056,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 991
@@ -7672,10 +7674,10 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 146,
-			"viewCount": 33795,
+			"viewCount": 34867,
 			"favoriteCount": 0,
-			"dislikeCount": 41,
-			"likeCount": 703
+			"dislikeCount": 43,
+			"likeCount": 707
 		},
 		"title": "[2/3] Stand-Up Comedian Felix Lobrecht zu Gast, Oli P. muss es wissen | Bohn Jour | 27.07.2016",
 		"series": [],
@@ -7695,7 +7697,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 57,
-			"viewCount": 15365,
+			"viewCount": 15437,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 479
@@ -7718,7 +7720,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 9908,
+			"viewCount": 9912,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 236
@@ -7736,7 +7738,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5045,
+			"viewCount": 5047,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 165
@@ -7754,7 +7756,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 5451,
+			"viewCount": 5455,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 213
@@ -7772,7 +7774,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 14565,
+			"viewCount": 14568,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 560
@@ -7792,7 +7794,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 69,
-			"viewCount": 15553,
+			"viewCount": 15565,
 			"favoriteCount": 0,
 			"dislikeCount": 37,
 			"likeCount": 618
@@ -7817,10 +7819,10 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 90,
-			"viewCount": 30775,
+			"viewCount": 30786,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 842
+			"likeCount": 843
 		},
 		"title": "[1/4] Kino+ | Trainspotting - Neue Helden, Batman-Filme | 28.07.2016",
 		"series": [],
@@ -7841,7 +7843,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 42336,
+			"viewCount": 42494,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 801
@@ -7865,7 +7867,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 103,
-			"viewCount": 29525,
+			"viewCount": 29536,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 662
@@ -7890,7 +7892,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 57,
-			"viewCount": 21998,
+			"viewCount": 22005,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 569
@@ -7915,7 +7917,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 31476,
+			"viewCount": 31523,
 			"favoriteCount": 0,
 			"dislikeCount": 36,
 			"likeCount": 558
@@ -7940,7 +7942,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 13003,
+			"viewCount": 13022,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 342
@@ -7965,7 +7967,7 @@
 		"aired": 1469613600,
 		"stats": {
 			"commentCount": 112,
-			"viewCount": 30668,
+			"viewCount": 30732,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 777
@@ -7990,10 +7992,10 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 4463,
+			"viewCount": 4465,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 148
+			"likeCount": 149
 		},
 		"title": "[100] King's Field IV mit Colin und Dennis H. | Classix | 28.07.2016",
 		"series": [
@@ -8015,7 +8017,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 2994,
+			"viewCount": 2999,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 114
@@ -8040,10 +8042,10 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3216,
+			"viewCount": 3217,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 119
+			"likeCount": 120
 		},
 		"title": "[102] King's Field IV mit Colin und Dennis H. | Classix | 28.07.2016",
 		"series": [
@@ -8065,7 +8067,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 3459,
+			"viewCount": 3464,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 117
@@ -8090,10 +8092,10 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 37468,
+			"viewCount": 37692,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
-			"likeCount": 1244
+			"likeCount": 1247
 		},
 		"title": "[3] Social Eating mit Budi | Mikrowellenessen: Currywurst & Kartoffelsuppe | 28.07.2016",
 		"series": [],
@@ -8112,10 +8114,10 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 243,
-			"viewCount": 41199,
+			"viewCount": 41276,
 			"favoriteCount": 0,
 			"dislikeCount": 186,
-			"likeCount": 1636
+			"likeCount": 1637
 		},
 		"title": "#MoinMoin mit Simon | MoinMoin-Ception mit Nils | 29.07.2016",
 		"series": [],
@@ -8134,7 +8136,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 72,
-			"viewCount": 17895,
+			"viewCount": 17899,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 442
@@ -8159,7 +8161,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 10837,
+			"viewCount": 10839,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 218
@@ -8184,7 +8186,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 9542,
+			"viewCount": 9547,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 211
@@ -8209,7 +8211,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 5887,
+			"viewCount": 5890,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 178
@@ -8234,10 +8236,10 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 109,
-			"viewCount": 18190,
+			"viewCount": 18208,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
-			"likeCount": 472
+			"likeCount": 473
 		},
 		"title": "[38] Buch Klub mit Simon & Sofia | Doctor Sleep & Siddhartha | 28.07.2016",
 		"series": [],
@@ -8257,7 +8259,7 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 18994,
+			"viewCount": 19021,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 636
@@ -8281,7 +8283,7 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 11408,
+			"viewCount": 11427,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 362
@@ -8305,7 +8307,7 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 9350,
+			"viewCount": 9361,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 329
@@ -8329,10 +8331,10 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 50,
-			"viewCount": 10141,
+			"viewCount": 10152,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 396
+			"likeCount": 397
 		},
 		"title": "[4/4] Let's Play Halo 5: Guardians mit Budi, Simon & Mental | 29.07.2016",
 		"series": [],
@@ -8353,7 +8355,7 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 14881,
+			"viewCount": 14927,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
 			"likeCount": 301
@@ -8378,7 +8380,7 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 12706,
+			"viewCount": 12738,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 237
@@ -8403,7 +8405,7 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 11805,
+			"viewCount": 11830,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 232
@@ -8428,10 +8430,10 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 12324,
+			"viewCount": 12354,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 266
+			"likeCount": 267
 		},
 		"title": "[96] Dark Souls III mit Etienne und Colin | Knallhart Durchgenommen | 29.07.2016",
 		"series": [
@@ -8453,10 +8455,10 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 10983,
+			"viewCount": 11002,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 275
+			"likeCount": 276
 		},
 		"title": "[22] Resident Evil Code: Veronica X mit Simon und Fabian | After Dark | 28.07.2016",
 		"series": [
@@ -8478,7 +8480,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 9082,
+			"viewCount": 9106,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 236
@@ -8504,7 +8506,7 @@
 		"aired": 1469700000,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 9799,
+			"viewCount": 9821,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 251
@@ -8530,10 +8532,10 @@
 		"aired": 1469786400,
 		"stats": {
 			"commentCount": 131,
-			"viewCount": 34277,
+			"viewCount": 34325,
 			"favoriteCount": 0,
 			"dislikeCount": 69,
-			"likeCount": 1416
+			"likeCount": 1418
 		},
 		"title": "Verflixxte Klixx #13 mit Lars Paulsen und Florentin Will | 29.07.2016",
 		"series": [],
@@ -8553,7 +8555,7 @@
 		"aired": 1469959200,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 14232,
+			"viewCount": 14276,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 285
@@ -8578,10 +8580,10 @@
 		"aired": 1469959200,
 		"stats": {
 			"commentCount": 88,
-			"viewCount": 18273,
+			"viewCount": 18361,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 383
+			"likeCount": 384
 		},
 		"title": "[98] Dark Souls III mit Etienne und Colin | Knallhart Durchgenommen | 31.07.2016",
 		"series": [
@@ -8603,10 +8605,10 @@
 		"aired": 1469959200,
 		"stats": {
 			"commentCount": 101,
-			"viewCount": 37575,
+			"viewCount": 37620,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
-			"likeCount": 941
+			"likeCount": 942
 		},
 		"title": "[1/2] Almost Daily #247 mit Simon, Uke, Gregor und Dennis H. | Thema: Comics | 31.07.2016",
 		"series": [],
@@ -8628,7 +8630,7 @@
 		"aired": 1469959200,
 		"stats": {
 			"commentCount": 143,
-			"viewCount": 22958,
+			"viewCount": 22988,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 777

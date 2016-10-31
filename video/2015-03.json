@@ -1,9 +1,45 @@
 [
 	{
+		"aired": null,
+		"stats": {
+			"commentCount": 145,
+			"viewCount": 30711,
+			"favoriteCount": 0,
+			"dislikeCount": 12,
+			"likeCount": 661
+		},
+		"title": "54 72 61 75 65 72",
+		"series": [],
+		"length": 15,
+		"hosts": [],
+		"published": 1425340800,
+		"id": "3Xpqz0wRh5A",
+		"channel": "Rocket Beans TV",
+		"shows": []
+	},
+	{
+		"aired": null,
+		"stats": {
+			"commentCount": 21,
+			"viewCount": 3578,
+			"favoriteCount": 0,
+			"dislikeCount": 1,
+			"likeCount": 203
+		},
+		"title": "Schr\u00f6cks Fernsehgarten | 03.03.2015",
+		"series": [],
+		"length": 681,
+		"hosts": [],
+		"published": 1425364201,
+		"id": "jlxYZf7dVGY",
+		"channel": "Rocket Beans TV",
+		"shows": []
+	},
+	{
 		"aired": 1425380400,
 		"stats": {
 			"commentCount": 325,
-			"viewCount": 30590,
+			"viewCount": 30596,
 			"favoriteCount": 0,
 			"dislikeCount": 119,
 			"likeCount": 1880
@@ -25,7 +61,7 @@
 		"aired": 1425294000,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 29237,
+			"viewCount": 29243,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 879
@@ -48,7 +84,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 12144,
+			"viewCount": 12160,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 238
@@ -71,7 +107,7 @@
 		"aired": 1425294000,
 		"stats": {
 			"commentCount": 75,
-			"viewCount": 17553,
+			"viewCount": 17559,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 587
@@ -94,7 +130,7 @@
 		"aired": 1425294000,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 15678,
+			"viewCount": 15680,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 579
@@ -117,7 +153,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 73,
-			"viewCount": 427135,
+			"viewCount": 429110,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1413
@@ -135,7 +171,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 324,
-			"viewCount": 81139,
+			"viewCount": 81150,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 3549
@@ -175,7 +211,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 7545,
+			"viewCount": 7553,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 225
@@ -198,7 +234,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 6992,
+			"viewCount": 7000,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 244
@@ -223,7 +259,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5304,
+			"viewCount": 5306,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 150
@@ -246,7 +282,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 4397,
+			"viewCount": 4400,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 147
@@ -269,7 +305,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 4252,
+			"viewCount": 4254,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 183
@@ -292,7 +328,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 5680,
+			"viewCount": 5684,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 160
@@ -315,7 +351,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 95,
-			"viewCount": 26521,
+			"viewCount": 26523,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 1096
@@ -337,10 +373,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 313,
-			"viewCount": 83898,
+			"viewCount": 83944,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 2525
+			"likeCount": 2526
 		},
 		"title": "Almost Plaily #140 | Montagsmaler #9",
 		"series": [],
@@ -362,7 +398,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 12575,
+			"viewCount": 12588,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 281
@@ -385,7 +421,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4363,
+			"viewCount": 4365,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 122
@@ -431,7 +467,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 2950,
+			"viewCount": 2952,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 111
@@ -476,7 +512,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9602,
+			"viewCount": 9606,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 292
@@ -499,7 +535,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 7672,
+			"viewCount": 7679,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 216
@@ -522,7 +558,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 8944,
+			"viewCount": 8948,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 237
@@ -545,10 +581,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 43469,
+			"viewCount": 43693,
 			"favoriteCount": 0,
-			"dislikeCount": 5,
-			"likeCount": 668
+			"dislikeCount": 6,
+			"likeCount": 670
 		},
 		"title": "Civilization V | Zocken mit Bohnen | #1",
 		"series": [
@@ -571,7 +607,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 18086,
+			"viewCount": 18134,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 305
@@ -597,7 +633,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 20892,
+			"viewCount": 20942,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 323
@@ -623,7 +659,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 21101,
+			"viewCount": 21148,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 361
@@ -649,7 +685,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 19086,
+			"viewCount": 19128,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 331
@@ -675,7 +711,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 12890,
+			"viewCount": 12920,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 281
@@ -701,7 +737,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 13069,
+			"viewCount": 13101,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 231
@@ -727,10 +763,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 11792,
+			"viewCount": 11818,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 214
+			"likeCount": 215
 		},
 		"title": "Civilization V | Zocken mit Bohnen | #9",
 		"series": [
@@ -753,10 +789,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 13773,
+			"viewCount": 13807,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 246
+			"likeCount": 247
 		},
 		"title": "Civilization V | Zocken mit Bohnen | #10",
 		"series": [
@@ -779,7 +815,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 20682,
+			"viewCount": 20733,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 388
@@ -805,10 +841,10 @@
 		"aired": 1425553200,
 		"stats": {
 			"commentCount": 142,
-			"viewCount": 33836,
+			"viewCount": 33839,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 1538
+			"likeCount": 1537
 		},
 		"title": "#MoinMoin mit Budi | 05.03.2015",
 		"series": [],
@@ -827,7 +863,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 6747,
+			"viewCount": 6759,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 160
@@ -852,7 +888,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 5303,
+			"viewCount": 5316,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 141
@@ -877,7 +913,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 6785,
+			"viewCount": 6795,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 162
@@ -902,7 +938,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 473,
-			"viewCount": 71064,
+			"viewCount": 71087,
 			"favoriteCount": 0,
 			"dislikeCount": 48,
 			"likeCount": 1724
@@ -927,7 +963,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 357,
-			"viewCount": 84667,
+			"viewCount": 84693,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 4682
@@ -945,7 +981,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 17569,
+			"viewCount": 17581,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 346
@@ -972,7 +1008,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 10744,
+			"viewCount": 10753,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 199
@@ -999,7 +1035,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 8223,
+			"viewCount": 8229,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 165
@@ -1026,7 +1062,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 9613,
+			"viewCount": 9621,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 187
@@ -1052,7 +1088,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 7425,
+			"viewCount": 7431,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 162
@@ -1078,17 +1114,17 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 124,
-			"viewCount": 40159,
+			"viewCount": 40167,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 1154
+			"likeCount": 1155
 		},
 		"title": "Kino+ #49 (1/2) | Still Alice | Seventh Son | Project Almanac | Focus | Chappie",
 		"series": [],
 		"length": 2760,
 		"hosts": [
 			"Schr\u00f6ck",
-			"Andi"
+			"Andreas B"
 		],
 		"published": 1425589200,
 		"id": "WX7PBW4Oc6M",
@@ -1101,7 +1137,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 6758,
+			"viewCount": 6763,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 161
@@ -1127,7 +1163,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 80,
-			"viewCount": 26803,
+			"viewCount": 26810,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 860
@@ -1137,7 +1173,7 @@
 		"length": 2055,
 		"hosts": [
 			"Schr\u00f6ck",
-			"Andi"
+			"Andreas B"
 		],
 		"published": 1425591001,
 		"id": "jfFLNNIWE24",
@@ -1150,7 +1186,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 7360,
+			"viewCount": 7365,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 184
@@ -1198,7 +1234,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 11994,
+			"viewCount": 12004,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 283
@@ -1221,7 +1257,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 6327,
+			"viewCount": 6334,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 158
@@ -1244,7 +1280,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 5424,
+			"viewCount": 5431,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 128
@@ -1267,7 +1303,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 4735,
+			"viewCount": 4738,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 127
@@ -1290,7 +1326,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 380,
-			"viewCount": 68760,
+			"viewCount": 68768,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 3703
@@ -1330,7 +1366,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 71,
-			"viewCount": 28444,
+			"viewCount": 28448,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 626
@@ -1348,7 +1384,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 30115,
+			"viewCount": 30128,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 732
@@ -1372,7 +1408,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 25772,
+			"viewCount": 25782,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 641
@@ -1396,7 +1432,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 161,
-			"viewCount": 30071,
+			"viewCount": 30079,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 818
@@ -1464,7 +1500,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 98,
-			"viewCount": 39105,
+			"viewCount": 39113,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1124
@@ -1487,7 +1523,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 27752,
+			"viewCount": 27758,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 807
@@ -1510,7 +1546,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 94,
-			"viewCount": 27967,
+			"viewCount": 27978,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1177
@@ -1555,7 +1591,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 20610,
+			"viewCount": 20624,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 503
@@ -1580,7 +1616,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 10423,
+			"viewCount": 10434,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 305
@@ -1605,7 +1641,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8840,
+			"viewCount": 8845,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 222
@@ -1630,7 +1666,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 8636,
+			"viewCount": 8641,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 256
@@ -1655,7 +1691,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 8115,
+			"viewCount": 8121,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 235
@@ -1680,7 +1716,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 10807,
+			"viewCount": 10811,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 321
@@ -1705,10 +1741,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 358,
-			"viewCount": 76054,
+			"viewCount": 76083,
 			"favoriteCount": 0,
 			"dislikeCount": 53,
-			"likeCount": 1969
+			"likeCount": 1971
 		},
 		"title": "Almost Daily #141 | Wrestling",
 		"series": [],
@@ -1729,7 +1765,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 3562,
+			"viewCount": 3564,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 84
@@ -1754,7 +1790,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 2158,
+			"viewCount": 2160,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 79
@@ -1804,7 +1840,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 13422,
+			"viewCount": 13480,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 404
@@ -1827,7 +1863,7 @@
 		"aired": 1425380400,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 7969,
+			"viewCount": 7971,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 180
@@ -1877,7 +1913,7 @@
 		"aired": 1425380400,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 5208,
+			"viewCount": 5209,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 121
@@ -1902,7 +1938,7 @@
 		"aired": 1425380400,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5560,
+			"viewCount": 5562,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 140
@@ -1971,7 +2007,7 @@
 		"aired": 1425553200,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 18113,
+			"viewCount": 18136,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 381
@@ -1995,7 +2031,7 @@
 		"aired": 1425553200,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 10575,
+			"viewCount": 10583,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 242
@@ -2019,10 +2055,10 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 13096,
+			"viewCount": 13126,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 307
+			"likeCount": 308
 		},
 		"title": "Civilization V | Zocken mit Bohnen | #11 | 06.03.2015",
 		"series": [
@@ -2045,10 +2081,10 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 11188,
+			"viewCount": 11215,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 227
+			"likeCount": 228
 		},
 		"title": "Civilization V | Zocken mit Bohnen | #12 | 06.03.2015",
 		"series": [
@@ -2071,10 +2107,10 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 10311,
+			"viewCount": 10341,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 224
+			"likeCount": 225
 		},
 		"title": "Civilization V | Zocken mit Bohnen | #13 | 06.03.2015",
 		"series": [
@@ -2097,10 +2133,10 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 12613,
+			"viewCount": 12640,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 281
+			"likeCount": 282
 		},
 		"title": "Civilization V | Zocken mit Bohnen | #14 | 06.03.2015",
 		"series": [
@@ -2145,7 +2181,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 6784,
+			"viewCount": 6787,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 196
@@ -2169,7 +2205,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 5582,
+			"viewCount": 5592,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 188
@@ -2194,7 +2230,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 5560,
+			"viewCount": 5566,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 222
@@ -2219,7 +2255,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 6597,
+			"viewCount": 6603,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 211
@@ -2244,7 +2280,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 184,
-			"viewCount": 28377,
+			"viewCount": 28378,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1050
@@ -2267,7 +2303,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 21696,
+			"viewCount": 21702,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 623
@@ -2290,7 +2326,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 16283,
+			"viewCount": 16284,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 454
@@ -2313,7 +2349,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 13925,
+			"viewCount": 13928,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 470
@@ -2336,7 +2372,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 11080,
+			"viewCount": 11083,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 278
@@ -2359,7 +2395,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 7731,
+			"viewCount": 7733,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 202
@@ -2382,7 +2418,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 7202,
+			"viewCount": 7204,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 187
@@ -2404,7 +2440,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 7882,
+			"viewCount": 7883,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 203
@@ -2448,7 +2484,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 181,
-			"viewCount": 38359,
+			"viewCount": 38365,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 1511
@@ -2470,7 +2506,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 10882,
+			"viewCount": 10888,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 223
@@ -2516,7 +2552,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 2887,
+			"viewCount": 2889,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 82
@@ -2561,7 +2597,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 144,
-			"viewCount": 31648,
+			"viewCount": 31652,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1299
@@ -2584,7 +2620,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 10431,
+			"viewCount": 10446,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 278
@@ -2608,7 +2644,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 10295,
+			"viewCount": 10302,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 265
@@ -2632,7 +2668,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 72,
-			"viewCount": 18635,
+			"viewCount": 18636,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 922
@@ -2650,7 +2686,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 252,
-			"viewCount": 56131,
+			"viewCount": 56147,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
 			"likeCount": 3196
@@ -2673,10 +2709,10 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 265,
-			"viewCount": 72699,
+			"viewCount": 72729,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 1860
+			"likeCount": 1861
 		},
 		"title": "NerdQuiz | Halbfinale #1 | 10.03.2015",
 		"series": [],
@@ -2698,7 +2734,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 264,
-			"viewCount": 98029,
+			"viewCount": 98062,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 3768
@@ -2709,7 +2745,7 @@
 		"hosts": [
 			"Schr\u00f6ck",
 			"Eddy",
-			"Andi"
+			"Andreas B"
 		],
 		"published": 1426194000,
 		"id": "EqKodtbGY_I",
@@ -2722,7 +2758,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 244,
-			"viewCount": 74897,
+			"viewCount": 74930,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 2750
@@ -2733,7 +2769,7 @@
 		"hosts": [
 			"Schr\u00f6ck",
 			"Eddy",
-			"Andi"
+			"Andreas B"
 		],
 		"published": 1426195800,
 		"id": "6koLt0kIZDg",
@@ -2768,7 +2804,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 26038,
+			"viewCount": 26049,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 763
@@ -2792,7 +2828,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 24358,
+			"viewCount": 24370,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 609
@@ -2816,7 +2852,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 30037,
+			"viewCount": 30052,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 734
@@ -2842,7 +2878,7 @@
 			"commentCount": 128,
 			"viewCount": 21828,
 			"favoriteCount": 0,
-			"dislikeCount": 17,
+			"dislikeCount": 18,
 			"likeCount": 914
 		},
 		"title": "#MoinMoin mit Gunnar und Ian | 13.03.2015",
@@ -2863,7 +2899,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 267,
-			"viewCount": 26469,
+			"viewCount": 26478,
 			"favoriteCount": 0,
 			"dislikeCount": 31,
 			"likeCount": 1119
@@ -2885,7 +2921,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5400,
+			"viewCount": 5405,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 141
@@ -2910,7 +2946,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 3989,
+			"viewCount": 3993,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 102
@@ -2935,7 +2971,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 4134,
+			"viewCount": 4137,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 109
@@ -2982,7 +3018,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 9226,
+			"viewCount": 9232,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 291
@@ -3007,7 +3043,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 7320,
+			"viewCount": 7324,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 254
@@ -3032,7 +3068,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 11060,
+			"viewCount": 11070,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 284
@@ -3079,10 +3115,10 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 271,
-			"viewCount": 49473,
+			"viewCount": 49517,
 			"favoriteCount": 0,
 			"dislikeCount": 348,
-			"likeCount": 1485
+			"likeCount": 1486
 		},
 		"title": "Almost Plaily #142 | Stadt, Land, Fluss #3 | Re-Upload vom 10.03.2015",
 		"series": [],
@@ -3103,10 +3139,10 @@
 		"aired": 1426244400,
 		"stats": {
 			"commentCount": 122,
-			"viewCount": 168525,
+			"viewCount": 168867,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 2635
+			"likeCount": 2639
 		},
 		"title": "Pen & Paper | T.E.A.R.5. | Pre-Show #1 | 13.03.2015",
 		"series": [],
@@ -3129,10 +3165,10 @@
 		"aired": 1426244400,
 		"stats": {
 			"commentCount": 72,
-			"viewCount": 89945,
+			"viewCount": 90208,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 1674
+			"likeCount": 1675
 		},
 		"title": "Pen & Paper | T.E.A.R.5. | Pre-Show #2 | 13.03.2015",
 		"series": [],
@@ -3155,10 +3191,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 154,
-			"viewCount": 191390,
+			"viewCount": 191982,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 3241
+			"likeCount": 3245
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 1 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3181,10 +3217,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 112,
-			"viewCount": 157495,
+			"viewCount": 157988,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 2503
+			"likeCount": 2507
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 2 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3207,10 +3243,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 179,
-			"viewCount": 157555,
+			"viewCount": 158040,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 2555
+			"likeCount": 2558
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 3 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3233,10 +3269,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 101,
-			"viewCount": 157935,
+			"viewCount": 158429,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 2583
+			"likeCount": 2586
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 4 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3259,10 +3295,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 128,
-			"viewCount": 156295,
+			"viewCount": 156801,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 2543
+			"likeCount": 2546
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 5 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3284,11 +3320,11 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 380,
-			"viewCount": 156230,
+			"commentCount": 381,
+			"viewCount": 156673,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 4985
+			"likeCount": 4988
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 7 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3311,10 +3347,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 193,
-			"viewCount": 161505,
+			"viewCount": 161952,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
-			"likeCount": 2895
+			"likeCount": 2899
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 6 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3337,10 +3373,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 262,
-			"viewCount": 106993,
+			"viewCount": 107230,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 3323
+			"likeCount": 3327
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Was w\u00e4re wenn?!",
 		"series": [],
@@ -3363,10 +3399,10 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 12859,
+			"viewCount": 12868,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 277
+			"likeCount": 278
 		},
 		"title": "Command & Conquer: Tiberian Sun | Classix | #1 | 12.03.2015",
 		"series": [],
@@ -3386,7 +3422,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 7986,
+			"viewCount": 7990,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 182
@@ -3409,7 +3445,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 7222,
+			"viewCount": 7227,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 177
@@ -3432,7 +3468,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 7907,
+			"viewCount": 7913,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 208
@@ -3455,7 +3491,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 51,
-			"viewCount": 10030,
+			"viewCount": 10039,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 318
@@ -3550,7 +3586,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 1676,
+			"viewCount": 1677,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 73
@@ -3575,7 +3611,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 2251,
+			"viewCount": 2252,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 79
@@ -3600,7 +3636,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 540,
-			"viewCount": 67866,
+			"viewCount": 67907,
 			"favoriteCount": 0,
 			"dislikeCount": 145,
 			"likeCount": 3314
@@ -3624,7 +3660,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 132,
-			"viewCount": 40359,
+			"viewCount": 40371,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 1348
@@ -3647,7 +3683,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 30704,
+			"viewCount": 30711,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 1011
@@ -3670,7 +3706,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 22830,
+			"viewCount": 22837,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 819
@@ -3693,7 +3729,7 @@
 		"aired": 1425553200,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 5581,
+			"viewCount": 5585,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 133
@@ -3719,7 +3755,7 @@
 		"aired": 1425553200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 4218,
+			"viewCount": 4219,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 121
@@ -3745,7 +3781,7 @@
 		"aired": 1425553200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5190,
+			"viewCount": 5191,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 141
@@ -3771,7 +3807,7 @@
 		"aired": 1422010800,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 22174,
+			"viewCount": 22251,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 311
@@ -3795,7 +3831,7 @@
 		"aired": 1422010800,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 14057,
+			"viewCount": 14121,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 233
@@ -3819,7 +3855,7 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 8544,
+			"viewCount": 8577,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 164
@@ -3843,10 +3879,10 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 8810,
+			"viewCount": 8847,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 155
+			"likeCount": 156
 		},
 		"title": "Resident Evil: Remastered | After Dark | #4 | 13.02.2015",
 		"series": [
@@ -3867,7 +3903,7 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 8653,
+			"viewCount": 8687,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 157
@@ -3891,7 +3927,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 8227,
+			"viewCount": 8253,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 163
@@ -3915,7 +3951,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 8332,
+			"viewCount": 8362,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 185
@@ -3962,7 +3998,7 @@
 		"aired": 1424775600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 12017,
+			"viewCount": 12019,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 260
@@ -3987,7 +4023,7 @@
 		"aired": 1424775600,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 5704,
+			"viewCount": 5705,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 154
@@ -4012,7 +4048,7 @@
 		"aired": 1424775600,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4708,
+			"viewCount": 4709,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 131
@@ -4062,7 +4098,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 3792,
+			"viewCount": 3793,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 124
@@ -4087,7 +4123,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 3327,
+			"viewCount": 3329,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 104
@@ -4112,7 +4148,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 3738,
+			"viewCount": 3739,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 109
@@ -4137,7 +4173,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 198,
-			"viewCount": 33343,
+			"viewCount": 33348,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 1339
@@ -4177,10 +4213,10 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 20252,
+			"viewCount": 20265,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 503
+			"likeCount": 504
 		},
 		"title": "Retro Klub | #7 | 12.03.2015",
 		"series": [],
@@ -4222,7 +4258,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 13222,
+			"viewCount": 13224,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 403
@@ -4245,7 +4281,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 4706,
+			"viewCount": 4707,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 195
@@ -4290,7 +4326,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 111,
-			"viewCount": 38499,
+			"viewCount": 38504,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 1137
@@ -4312,7 +4348,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 18534,
+			"viewCount": 18536,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 665
@@ -4334,7 +4370,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 17758,
+			"viewCount": 17764,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 594
@@ -4356,7 +4392,7 @@
 		"aired": 1426244400,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 11277,
+			"viewCount": 11282,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 304
@@ -4402,7 +4438,7 @@
 		"aired": 1426244400,
 		"stats": {
 			"commentCount": 128,
-			"viewCount": 11852,
+			"viewCount": 11857,
 			"favoriteCount": 0,
 			"dislikeCount": 77,
 			"likeCount": 302
@@ -4425,7 +4461,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 12301,
+			"viewCount": 12305,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 286
@@ -4449,7 +4485,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4688,
+			"viewCount": 4690,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 151
@@ -4495,10 +4531,10 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 8838,
+			"viewCount": 8866,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 182
+			"likeCount": 183
 		},
 		"title": "Resident Evil: Remastered | After Dark | #6 | 13.02.2015",
 		"series": [],
@@ -4538,7 +4574,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 154,
-			"viewCount": 36636,
+			"viewCount": 36640,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1281
@@ -4560,7 +4596,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 73,
-			"viewCount": 16366,
+			"viewCount": 16374,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 394
@@ -4583,7 +4619,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 9557,
+			"viewCount": 9563,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 231
@@ -4606,7 +4642,7 @@
 		"aired": 1424948400,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 8431,
+			"viewCount": 8438,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 193
@@ -4631,7 +4667,7 @@
 		"aired": 1424948400,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 2348,
+			"viewCount": 2349,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 84
@@ -4656,7 +4692,7 @@
 		"aired": 1424948400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2001,
+			"viewCount": 2002,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 65
@@ -4707,7 +4743,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 165,
-			"viewCount": 52646,
+			"viewCount": 52657,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1782
@@ -4756,7 +4792,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 159,
-			"viewCount": 48669,
+			"viewCount": 48679,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1645
@@ -4779,7 +4815,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 150,
-			"viewCount": 43555,
+			"viewCount": 43566,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 1808
@@ -4980,7 +5016,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 3899,
+			"viewCount": 3900,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 114
@@ -5005,7 +5041,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 8644,
+			"viewCount": 8649,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 204
@@ -5028,7 +5064,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3453,
+			"viewCount": 3454,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 114
@@ -5053,7 +5089,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4152,
+			"viewCount": 4154,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 121
@@ -5078,7 +5114,7 @@
 		"aired": 1422529200,
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 31798,
+			"viewCount": 31799,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 800
@@ -5122,10 +5158,10 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 235,
-			"viewCount": 82396,
+			"viewCount": 82450,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 2140
+			"likeCount": 2141
 		},
 		"title": "NerdQuiz | Halbfinale #2 | 17.03.2015",
 		"series": [],
@@ -5147,7 +5183,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 181,
-			"viewCount": 45721,
+			"viewCount": 45733,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 1212
@@ -5170,10 +5206,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 33443,
+			"viewCount": 33456,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 984
+			"likeCount": 983
 		},
 		"title": "Kino+ #51 (2/2) | Memo Jeftic (Celluleute) | Zuschauereinsendungen | Asiatisches Kino",
 		"series": [],
@@ -5193,10 +5229,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 314,
-			"viewCount": 60895,
+			"viewCount": 60920,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
-			"likeCount": 3306
+			"likeCount": 3307
 		},
 		"title": "SVEA",
 		"series": [],
@@ -5233,7 +5269,7 @@
 		"aired": 1422529200,
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 32863,
+			"viewCount": 32868,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 925
@@ -5256,7 +5292,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 120,
-			"viewCount": 32732,
+			"viewCount": 32733,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 1070
@@ -5301,7 +5337,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 103,
-			"viewCount": 29459,
+			"viewCount": 29476,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 757
@@ -5323,7 +5359,7 @@
 		"aired": 1426935600,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 3979,
+			"viewCount": 3980,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 199
@@ -5345,7 +5381,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 13722,
+			"viewCount": 13733,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 386
@@ -5368,7 +5404,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 7357,
+			"viewCount": 7363,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 248
@@ -5457,7 +5493,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 232,
-			"viewCount": 33139,
+			"viewCount": 33168,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1160
@@ -5481,7 +5517,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 9807,
+			"viewCount": 9818,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 260
@@ -5504,7 +5540,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 144,
-			"viewCount": 28794,
+			"viewCount": 28809,
 			"favoriteCount": 0,
 			"dislikeCount": 45,
 			"likeCount": 757
@@ -5548,7 +5584,7 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 11221,
+			"viewCount": 11228,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 286
@@ -5573,7 +5609,7 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 4797,
+			"viewCount": 4804,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 148
@@ -5598,7 +5634,7 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4089,
+			"viewCount": 4094,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 132
@@ -5623,7 +5659,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 1369,
-			"viewCount": 97481,
+			"viewCount": 97531,
 			"favoriteCount": 0,
 			"dislikeCount": 77,
 			"likeCount": 2550
@@ -5669,7 +5705,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 191,
-			"viewCount": 55640,
+			"viewCount": 55650,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 2771
@@ -5692,7 +5728,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 4764,
+			"viewCount": 4770,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 124
@@ -5715,7 +5751,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 4637,
+			"viewCount": 4639,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 109
@@ -5760,7 +5796,7 @@
 		"aired": 1427108400,
 		"stats": {
 			"commentCount": 122,
-			"viewCount": 34878,
+			"viewCount": 34881,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1213
@@ -5782,7 +5818,7 @@
 		"aired": 1424689200,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 14316,
+			"viewCount": 14323,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 322
@@ -5804,7 +5840,7 @@
 		"aired": 1424689200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 6944,
+			"viewCount": 6951,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 177
@@ -5848,7 +5884,7 @@
 		"aired": 1424689200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5772,
+			"viewCount": 5774,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 154
@@ -5892,7 +5928,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 166,
-			"viewCount": 23815,
+			"viewCount": 23816,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1103
@@ -5914,7 +5950,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 125,
-			"viewCount": 31057,
+			"viewCount": 31068,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1437
@@ -5939,7 +5975,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 204,
-			"viewCount": 27425,
+			"viewCount": 27429,
 			"favoriteCount": 0,
 			"dislikeCount": 46,
 			"likeCount": 1429
@@ -6005,10 +6041,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 771,
-			"viewCount": 115179,
+			"viewCount": 115413,
 			"favoriteCount": 0,
 			"dislikeCount": 91,
-			"likeCount": 2658
+			"likeCount": 2661
 		},
 		"title": "Almost Plaily #144 | Wer bin ich? #6",
 		"series": [],
@@ -6030,7 +6066,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 183,
-			"viewCount": 40006,
+			"viewCount": 40007,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 1825
@@ -6070,7 +6106,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 9406,
+			"viewCount": 9411,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 239
@@ -6093,7 +6129,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 6012,
+			"viewCount": 6014,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 177
@@ -6116,7 +6152,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 7364,
+			"viewCount": 7366,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 163
@@ -6139,7 +6175,7 @@
 		"aired": 1427367600,
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 25734,
+			"viewCount": 25737,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 978
@@ -6161,7 +6197,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 7811,
+			"viewCount": 7812,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 202
@@ -6184,10 +6220,10 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 335,
-			"viewCount": 108800,
+			"viewCount": 108923,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
-			"likeCount": 2883
+			"likeCount": 2886
 		},
 		"title": "NerdQuiz | FINALE | 24.03.2015",
 		"series": [],
@@ -6209,7 +6245,7 @@
 		"aired": 1427108400,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 6003,
+			"viewCount": 6008,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 153
@@ -6275,7 +6311,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 132,
-			"viewCount": 50798,
+			"viewCount": 50813,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 1143
@@ -6299,7 +6335,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 98,
-			"viewCount": 41656,
+			"viewCount": 41666,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 1144
@@ -6323,7 +6359,7 @@
 		"aired": 1427108400,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 7038,
+			"viewCount": 7040,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 199
@@ -6345,7 +6381,7 @@
 		"aired": 1427108400,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4839,
+			"viewCount": 4840,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 127
@@ -6411,7 +6447,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 11202,
+			"viewCount": 11205,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 287
@@ -6434,7 +6470,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 11000,
+			"viewCount": 11004,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 234
@@ -6457,7 +6493,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 12155,
+			"viewCount": 12162,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 267
@@ -6480,7 +6516,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 138,
-			"viewCount": 30233,
+			"viewCount": 30236,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1409
@@ -6503,7 +6539,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 173,
-			"viewCount": 29216,
+			"viewCount": 29218,
 			"favoriteCount": 0,
 			"dislikeCount": 52,
 			"likeCount": 970
@@ -6524,10 +6560,10 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 24264,
+			"viewCount": 24276,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 790
+			"likeCount": 791
 		},
 		"title": "StarCraft 2 | Straight To Gold | #21 | 25.03.2015",
 		"series": [],
@@ -6548,10 +6584,10 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 20865,
+			"viewCount": 20875,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 504
+			"likeCount": 505
 		},
 		"title": "StarCraft 2 | Straight To Gold | #22 | 25.03.2015",
 		"series": [],
@@ -6572,10 +6608,10 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 20898,
+			"viewCount": 20911,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 505
+			"likeCount": 506
 		},
 		"title": "StarCraft 2 | Straight To Gold | #23 | 25.03.2015",
 		"series": [],
@@ -6596,7 +6632,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 20625,
+			"viewCount": 20635,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 546
@@ -6642,7 +6678,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 129,
-			"viewCount": 46436,
+			"viewCount": 46466,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
 			"likeCount": 1189
@@ -6666,7 +6702,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 31234,
+			"viewCount": 31249,
 			"favoriteCount": 0,
 			"dislikeCount": 36,
 			"likeCount": 962
@@ -6690,7 +6726,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 110,
-			"viewCount": 38735,
+			"viewCount": 38766,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 1407
@@ -6713,7 +6749,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 36637,
+			"viewCount": 36646,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 1102
@@ -6736,7 +6772,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 72,
-			"viewCount": 30400,
+			"viewCount": 30416,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 921
@@ -6759,10 +6795,10 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 23259,
+			"viewCount": 23267,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 872
+			"likeCount": 873
 		},
 		"title": "Bohn Jour #12 | (3/3) | 25.03.2015",
 		"series": [],
@@ -6782,10 +6818,10 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 57785,
+			"viewCount": 57957,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 614
+			"likeCount": 618
 		},
 		"title": "RimWorld | Zocken mit Bohnen | #1 | 19.03.2015",
 		"series": [
@@ -6807,9 +6843,9 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 21784,
+			"viewCount": 21836,
 			"favoriteCount": 0,
-			"dislikeCount": 6,
+			"dislikeCount": 7,
 			"likeCount": 345
 		},
 		"title": "RimWorld | Zocken mit Bohnen | #2 | 19.03.2015",
@@ -6832,7 +6868,7 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 20563,
+			"viewCount": 20611,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 364
@@ -6929,7 +6965,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 1318,
+			"viewCount": 1319,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 48
@@ -6954,10 +6990,10 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 234,
-			"viewCount": 131012,
+			"viewCount": 131230,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
-			"likeCount": 2150
+			"likeCount": 2152
 		},
 		"title": "Bloodborne mit Dennis R. und Etienne | Knallhart Durchgenommen | #1 | 25.03.2015",
 		"series": [
@@ -6979,7 +7015,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 188,
-			"viewCount": 81893,
+			"viewCount": 82042,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
 			"likeCount": 1592
@@ -7004,10 +7040,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 440,
-			"viewCount": 109539,
+			"viewCount": 109730,
 			"favoriteCount": 0,
 			"dislikeCount": 31,
-			"likeCount": 3164
+			"likeCount": 3167
 		},
 		"title": "Almost Daily #146 | Was geht ab? #5",
 		"series": [],
@@ -7028,7 +7064,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 311,
-			"viewCount": 24025,
+			"viewCount": 24029,
 			"favoriteCount": 0,
 			"dislikeCount": 143,
 			"likeCount": 1115
@@ -7050,7 +7086,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5300,
+			"viewCount": 5301,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 147
@@ -7073,7 +7109,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 3659,
+			"viewCount": 3661,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 116
@@ -7096,7 +7132,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 4373,
+			"viewCount": 4376,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 129
@@ -7119,7 +7155,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 631,
-			"viewCount": 137736,
+			"viewCount": 137811,
 			"favoriteCount": 0,
 			"dislikeCount": 62,
 			"likeCount": 4597
@@ -7164,7 +7200,7 @@
 		"aired": 1427367600,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 11565,
+			"viewCount": 11586,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 284
@@ -7186,7 +7222,7 @@
 		"aired": 1427367600,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 5601,
+			"viewCount": 5609,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 180
@@ -7208,7 +7244,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 101,
-			"viewCount": 28705,
+			"viewCount": 28707,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 1024
@@ -7230,7 +7266,7 @@
 		"aired": 1427623200,
 		"stats": {
 			"commentCount": 82,
-			"viewCount": 34819,
+			"viewCount": 34835,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1127
@@ -7276,7 +7312,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 8445,
+			"viewCount": 8448,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 189
@@ -7299,7 +7335,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 7483,
+			"viewCount": 7485,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 172
@@ -7367,7 +7403,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 50088,
+			"viewCount": 50122,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 683
@@ -7393,7 +7429,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 22845,
+			"viewCount": 22864,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 406
@@ -7419,7 +7455,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 22712,
+			"viewCount": 22724,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 465
@@ -7445,7 +7481,7 @@
 		"aired": 1427796000,
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 20967,
+			"viewCount": 20968,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 751
@@ -7468,7 +7504,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 174,
-			"viewCount": 75154,
+			"viewCount": 75177,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
 			"likeCount": 2866
@@ -7491,7 +7527,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 75,
-			"viewCount": 38790,
+			"viewCount": 38803,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1366
@@ -7514,7 +7550,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 31527,
+			"viewCount": 31537,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1247
@@ -7537,7 +7573,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 10496,
+			"viewCount": 10498,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 217

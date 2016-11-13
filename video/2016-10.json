@@ -3,133 +3,140 @@
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 95,
-			"viewCount": 46224,
+			"viewCount": 46356,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
-			"likeCount": 1271
+			"likeCount": 1273
 		},
 		"title": "[1/6] Vorstellung der Spieler | Rocket Beans TV-Sommerfest | 30.09.2016",
 		"series": [],
+		"event": true,
 		"length": 1109,
 		"hosts": [],
 		"published": 1475421259,
 		"id": "UaH3zKBmWCo",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Sommerfest 2016"
+			"Sommerfest 2016"
 		]
 	},
 	{
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 105,
-			"viewCount": 42225,
+			"viewCount": 42362,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 1052
+			"likeCount": 1055
 		},
 		"title": "[2/6] Pferderennen & Blinder Picasso | Rocket Beans TV-Sommerfest | 30.09.2016",
 		"series": [],
+		"event": true,
 		"length": 3302,
 		"hosts": [],
 		"published": 1475421266,
 		"id": "WaZi0wELlxw",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Sommerfest 2016"
+			"Sommerfest 2016"
 		]
 	},
 	{
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 29248,
+			"viewCount": 29349,
 			"favoriteCount": 0,
-			"dislikeCount": 10,
-			"likeCount": 768
+			"dislikeCount": 11,
+			"likeCount": 770
 		},
 		"title": "[3/6] Crash-Cars | Rocket Beans TV-Sommerfest | 30.09.2016",
 		"series": [],
+		"event": true,
 		"length": 1417,
 		"hosts": [],
 		"published": 1475421269,
 		"id": "i6MJdo5Vb2I",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Sommerfest 2016"
+			"Sommerfest 2016"
 		]
 	},
 	{
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 96,
-			"viewCount": 29475,
+			"viewCount": 29578,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 794
+			"likeCount": 797
 		},
 		"title": "[4/6] Zerplatzte Tr\u00e4ume & Dosenparade | Rocket Beans TV-Sommerfest | 30.09.2016",
 		"series": [],
+		"event": true,
 		"length": 2212,
 		"hosts": [],
 		"published": 1475421274,
 		"id": "3wMLevd20ko",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Sommerfest 2016"
+			"Sommerfest 2016"
 		]
 	},
 	{
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 75,
-			"viewCount": 28743,
+			"viewCount": 28856,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 770
+			"likeCount": 773
 		},
 		"title": "[5/6] Real Life Baloon Battle & Tischtennis| Rocket Beans TV-Sommerfest | 30.09.2016",
 		"series": [],
+		"event": true,
 		"length": 2272,
 		"hosts": [],
 		"published": 1475421277,
 		"id": "Ju2uCUohJ9M",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Sommerfest 2016"
+			"Sommerfest 2016"
 		]
 	},
 	{
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 20152,
+			"viewCount": 20208,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 731
+			"likeCount": 736
 		},
 		"title": "[6/6] Siegerehrung | Rocket Beans TV-Sommerfest | 30.09.2016",
 		"series": [],
+		"event": true,
 		"length": 460,
 		"hosts": [],
 		"published": 1475421283,
 		"id": "gdEpMgSk-7E",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Sommerfest 2016"
+			"Sommerfest 2016"
 		]
 	},
 	{
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 16819,
+			"viewCount": 16881,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 668
+			"likeCount": 670
 		},
 		"title": "#MoinMoin mit Hannes | Meine Reise in die USA, Urlaubsgeschichten, Kampf gegen B\u00e4ren | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2822,
 		"hosts": [
 			"Hannes"
@@ -145,13 +152,14 @@
 		"aired": 1475402400,
 		"stats": {
 			"commentCount": 102,
-			"viewCount": 35074,
+			"viewCount": 35405,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
-			"likeCount": 1170
+			"likeCount": 1180
 		},
 		"title": "[1/2] Almost Daily #257 | Thema: Ver\u00e4nderungen | 02.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1313,
 		"hosts": [
 			"Budi",
@@ -170,13 +178,14 @@
 		"aired": 1475402400,
 		"stats": {
 			"commentCount": 176,
-			"viewCount": 25743,
+			"viewCount": 25968,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 1094
+			"likeCount": 1102
 		},
 		"title": "[2/2] Almost Daily #257 | Thema: Ver\u00e4nderungen | 02.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2271,
 		"hosts": [
 			"Budi",
@@ -195,15 +204,16 @@
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 3631,
+			"viewCount": 3677,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 109
+			"likeCount": 110
 		},
 		"title": "[55] Let's Play Salt and Sanctuary mit Etienne und Colin | 30.09.2016",
 		"series": [
 			"Salt and Sanctuary"
 		],
+		"event": false,
 		"length": 1789,
 		"hosts": [
 			"Colin",
@@ -220,15 +230,16 @@
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 3040,
+			"viewCount": 3100,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 121
+			"likeCount": 123
 		},
 		"title": "[56] Let's Play Salt and Sanctuary mit Etienne und Colin | 30.09.2016",
 		"series": [
 			"Salt and Sanctuary"
 		],
+		"event": false,
 		"length": 1316,
 		"hosts": [
 			"Colin",
@@ -245,13 +256,14 @@
 		"aired": 1475316000,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 14431,
+			"viewCount": 14611,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 370
+			"likeCount": 371
 		},
 		"title": "Super Castlevania IV mit Gregor & Sia | Speedrundale | 01.10.2016",
 		"series": [],
+		"event": false,
 		"length": 4086,
 		"hosts": [
 			"Sia",
@@ -268,15 +280,16 @@
 		"aired": 1475229600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4424,
+			"viewCount": 4502,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 129
+			"likeCount": 130
 		},
 		"title": "[3] Let's Play Inside mit Nils | Ein anderer Planet?! | 30.09.2016",
 		"series": [
 			"Inside"
 		],
+		"event": false,
 		"length": 2742,
 		"hosts": [
 			"Nils"
@@ -292,13 +305,14 @@
 		"aired": 1475316000,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 10492,
+			"viewCount": 10641,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 319
+			"likeCount": 321
 		},
 		"title": "[1/2] Retrobox-Rundschau, NES Mini-Classic Edition | Retro Klub mit Gregor | 31.09.2016",
 		"series": [],
+		"event": false,
 		"length": 1714,
 		"hosts": [
 			"Gregor"
@@ -314,13 +328,14 @@
 		"aired": 1475316000,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 5681,
+			"viewCount": 5765,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 212
+			"likeCount": 213
 		},
 		"title": "[2/2] NES bis Playstation, Fan-\u00dcbersetzungnen, Shocktober | Retro Klub mit Gregor | 31.09.2016",
 		"series": [],
+		"event": false,
 		"length": 1753,
 		"hosts": [
 			"Gregor"
@@ -336,7 +351,7 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 814,
+			"viewCount": 848,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 44
@@ -345,6 +360,7 @@
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1620,
 		"hosts": [
 			"Bell",
@@ -361,15 +377,16 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 2134,
+			"viewCount": 2177,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 49
+			"likeCount": 50
 		},
 		"title": "[34] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 05.10.2016",
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1633,
 		"hosts": [
 			"Bell",
@@ -386,7 +403,7 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 711,
+			"viewCount": 735,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 36
@@ -395,6 +412,7 @@
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1671,
 		"hosts": [
 			"Bell",
@@ -411,15 +429,16 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 982,
+			"viewCount": 1008,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 40
+			"likeCount": 41
 		},
 		"title": "[37] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 05.10.2016",
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1502,
 		"hosts": [
 			"Bell",
@@ -436,7 +455,7 @@
 		"aired": 1475488800,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3693,
+			"viewCount": 3738,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 121
@@ -445,6 +464,7 @@
 		"series": [
 			"Inside"
 		],
+		"event": false,
 		"length": 2698,
 		"hosts": [
 			"Nils"
@@ -459,16 +479,17 @@
 	{
 		"aired": 1475488800,
 		"stats": {
-			"commentCount": 28,
-			"viewCount": 3564,
+			"commentCount": 29,
+			"viewCount": 3631,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 153
+			"likeCount": 155
 		},
 		"title": "[5] Let's Play Inside mit Nils | Das beste Vieh ever! | 03.10.2016",
 		"series": [
 			"Inside"
 		],
+		"event": false,
 		"length": 2918,
 		"hosts": [
 			"Nils"
@@ -484,13 +505,14 @@
 		"aired": 1475143200,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 11381,
+			"viewCount": 11518,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 336
+			"likeCount": 340
 		},
 		"title": "[1/2] Wir M\u00fcssen Reden Staffel 2 mit Gunnar & Andreas | Thema: USA | 29.09.2016",
 		"series": [],
+		"event": false,
 		"length": 2099,
 		"hosts": [
 			"Andreas L",
@@ -507,13 +529,14 @@
 		"aired": 1475143200,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 6559,
+			"viewCount": 6641,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 245
+			"likeCount": 248
 		},
 		"title": "[2/2] Wir M\u00fcssen Reden Staffel 2 mit Gunnar & Andreas | Thema: USA | 29.09.2016",
 		"series": [],
+		"event": false,
 		"length": 3384,
 		"hosts": [
 			"Andreas L",
@@ -530,13 +553,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 14108,
+			"viewCount": 14139,
 			"favoriteCount": 0,
 			"dislikeCount": 59,
-			"likeCount": 604
+			"likeCount": 605
 		},
 		"title": "Knallhart nachgeforscht: Die Asiatenfrage | News vom 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 31,
 		"hosts": [],
 		"published": 1475607425,
@@ -550,13 +574,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 7111,
+			"viewCount": 7137,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 180
+			"likeCount": 182
 		},
 		"title": "[1/4] Osiris: New Dawn & Cluster Truck | Game+ Daily mit Simon | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1798,
 		"hosts": [
 			"Simon",
@@ -574,13 +599,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 4181,
+			"viewCount": 4200,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 109
+			"likeCount": 111
 		},
 		"title": "[2/4] Osiris: New Dawn & Everspace | Game+ Daily mit Simon | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1676,
 		"hosts": [
 			"Simon",
@@ -598,13 +624,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 3844,
+			"viewCount": 3875,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 127
+			"likeCount": 130
 		},
 		"title": "[3/4] Osiris: New Dawn, Everspace & Honey Rose | Game Plus Daily mit Simon | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2578,
 		"hosts": [
 			"Simon",
@@ -622,13 +649,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 2630,
+			"viewCount": 2642,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 108
+			"likeCount": 110
 		},
 		"title": "[4/4] Beef der Woche: Ralley X | Game Plus Daily mit Simon | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 716,
 		"hosts": [
 			"Simon",
@@ -646,13 +674,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 21708,
+			"viewCount": 22222,
 			"favoriteCount": 0,
 			"dislikeCount": 34,
-			"likeCount": 617
+			"likeCount": 626
 		},
 		"title": "#MoinMoin mit Alwin | Skype-Call mit Hauke, B.E.A.R.D.S. 4 - Zeichnungen | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2819,
 		"hosts": [
 			"Alwin",
@@ -669,13 +698,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 86,
-			"viewCount": 18428,
+			"viewCount": 18505,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 535
+			"likeCount": 536
 		},
 		"title": "[1/2] Bundesliga Spieltagsanalyse - 6. Spieltag | Bohndesliga-Fu\u00dfball bei Rocket Beans | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3299,
 		"hosts": [
 			"Nils",
@@ -694,13 +724,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 12489,
+			"viewCount": 12523,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 399
+			"likeCount": 400
 		},
 		"title": "[2/2] Bundesliga Spieltagsanalyse - 6. Spieltag | Bohndesliga-Fu\u00dfball bei Rocket Beans | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3343,
 		"hosts": [
 			"Nils",
@@ -718,14 +749,15 @@
 	{
 		"aired": 1475575200,
 		"stats": {
-			"commentCount": 124,
-			"viewCount": 32919,
+			"commentCount": 125,
+			"viewCount": 33424,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
-			"likeCount": 880
+			"likeCount": 889
 		},
 		"title": "[1/2] Chat Duell Staffel 2 mit Nils Team Beanzilla gegen Team Hoaxilla | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2290,
 		"hosts": [
 			"Nils",
@@ -743,14 +775,15 @@
 	{
 		"aired": 1475575200,
 		"stats": {
-			"commentCount": 80,
-			"viewCount": 23271,
+			"commentCount": 81,
+			"viewCount": 23616,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 774
+			"likeCount": 781
 		},
 		"title": "[2/2] Chat Duell Staffel 2 mit Nils Team Beanzilla gegen Team Hoaxilla | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2576,
 		"hosts": [
 			"Nils",
@@ -769,15 +802,16 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 2355,
+			"viewCount": 2413,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 82
+			"likeCount": 86
 		},
 		"title": "[30] Let's Play Terranigma mit Gregor | Seesterne und Drachen | Classix | 04.10.2016",
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1618,
 		"hosts": [
 			"Gregor"
@@ -793,15 +827,16 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 1546,
+			"viewCount": 1610,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 63
+			"likeCount": 64
 		},
 		"title": "[31] Let's Play Terranigma mit Gregor | Katzenvideos auf YouTube | Classix | 04.10.2016",
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1537,
 		"hosts": [
 			"Gregor"
@@ -817,7 +852,7 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 1806,
+			"viewCount": 1879,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 61
@@ -826,6 +861,7 @@
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1547,
 		"hosts": [
 			"Gregor"
@@ -841,7 +877,7 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 1453,
+			"viewCount": 1514,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 63
@@ -850,6 +886,7 @@
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 815,
 		"hosts": [
 			"Gregor"
@@ -865,13 +902,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 5298,
+			"viewCount": 5369,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 150
 		},
 		"title": "[1] Destiny: Das Erwachen der Eisernen Lords mit Budi | Gjallarhorns Power | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2243,
 		"hosts": [
 			"Budi"
@@ -887,13 +925,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 1830,
+			"viewCount": 1857,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 66
 		},
 		"title": "[2] Destiny: Das Erwachen der Eisernen Lords mit Budi | Geduld beim Iron Lord | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1102,
 		"hosts": [
 			"Budi"
@@ -909,13 +948,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 4926,
+			"viewCount": 4940,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 328
+			"likeCount": 329
 		},
 		"title": "Gears Of War 4: Entwicklerbesuch in Vancouver | RBTV On Tour | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 792,
 		"hosts": [
 			"Dennis R"
@@ -931,13 +971,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 9777,
+			"viewCount": 9826,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 255
+			"likeCount": 257
 		},
 		"title": "[1/3] Let's Play Star Wars: Battlefront mit Simon | Oh Schei\u00dfe, Luke Skywalker | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1932,
 		"hosts": [
 			"Simon"
@@ -953,13 +994,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 4918,
+			"viewCount": 4941,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 125
+			"likeCount": 126
 		},
 		"title": "[2/3] Let's Play Star Wars: Battlefront mit Simon | Der schnelle Tod | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1893,
 		"hosts": [
 			"Simon"
@@ -975,13 +1017,14 @@
 		"aired": 1474711200,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 3264,
+			"viewCount": 3280,
 			"favoriteCount": 0,
 			"dislikeCount": 31,
-			"likeCount": 129
+			"likeCount": 131
 		},
 		"title": "Reeperbahnfestival 2016: Interview mit Blondage | Festivalsommer | 24.09.2016",
 		"series": [],
+		"event": true,
 		"length": 917,
 		"hosts": [
 			"Lars"
@@ -990,20 +1033,21 @@
 		"id": "8P1S38dftTs",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1474711200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 2140,
+			"viewCount": 2144,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 89
 		},
 		"title": "Reeperbahnfestival 2016: Interview mit Chinah | Festivalsommer | 24.09.2016",
 		"series": [],
+		"event": true,
 		"length": 592,
 		"hosts": [
 			"Lars"
@@ -1012,20 +1056,21 @@
 		"id": "4JOP94PchIc",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1474711200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 2079,
+			"viewCount": 2117,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 84
+			"likeCount": 85
 		},
 		"title": "Reeperbahnfestival 2016: Interview mit Communions | Festivalsommer | 24.09.2016",
 		"series": [],
+		"event": true,
 		"length": 782,
 		"hosts": [
 			"Lars"
@@ -1034,20 +1079,21 @@
 		"id": "KuollXe03Zw",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1474711200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 1611,
+			"viewCount": 1623,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 86
+			"likeCount": 87
 		},
 		"title": "Reeperbahnfestival 2016: Interview mit IAMJJ | Festivalsommer | 24.09.2016",
 		"series": [],
+		"event": true,
 		"length": 726,
 		"hosts": [
 			"Lars"
@@ -1056,20 +1102,21 @@
 		"id": "yWsmrtPGSZ8",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 9734,
+			"viewCount": 9763,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 249
 		},
 		"title": "[1/4] CoD: Modern Warfare Remastered & GTA Online Bikers | Game+ Daily mit Budi | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1798,
 		"hosts": [
 			"Budi",
@@ -1088,13 +1135,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 5315,
+			"viewCount": 5325,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 132
 		},
 		"title": "[2/4] CoD: Modern Warfare Remastered & GTA Online Bikers | Game+ Daily mit Budi | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1676,
 		"hosts": [
 			"Budi",
@@ -1113,13 +1161,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4449,
+			"viewCount": 4465,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 118
 		},
 		"title": "[3/4] CoD: Modern Warfare Remastered & GTA Online Bikers | Game+ Daily mit Budi | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2578,
 		"hosts": [
 			"Budi",
@@ -1138,13 +1187,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 3052,
+			"viewCount": 3057,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 106
 		},
 		"title": "[4/4] Beef der Woche: Ralley X | Game Plus Daily mit Budi | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 716,
 		"hosts": [
 			"Budi",
@@ -1163,13 +1213,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 85,
-			"viewCount": 23729,
+			"viewCount": 24056,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 799
+			"likeCount": 806
 		},
 		"title": "[1/2] Almost Plaily #28 | Superfight mit Simon, Gunnar und Gino | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1666,
 		"hosts": [
 			"Simon",
@@ -1187,13 +1238,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 15634,
+			"viewCount": 15873,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 606
+			"likeCount": 610
 		},
 		"title": "[2/2] Almost Plaily #28 | Superfight mit Simon, Gunnar und Gino | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1646,
 		"hosts": [
 			"Simon",
@@ -1211,13 +1263,14 @@
 		"aired": 1475575200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2519,
+			"viewCount": 2532,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 70
 		},
 		"title": "[3/3] Let's Play Star Wars: Battlefront mit Simon | X-Wing vs Tie Fighter | 04.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1906,
 		"hosts": [
 			"Simon"
@@ -1233,13 +1286,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 6315,
+			"viewCount": 6368,
 			"favoriteCount": 0,
-			"dislikeCount": 54,
-			"likeCount": 205
+			"dislikeCount": 55,
+			"likeCount": 207
 		},
 		"title": "#MoinMoin mit Budi & Paul P\u00f6tsch | World Of Wolfram, Schauspielererfahrungen | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2821,
 		"hosts": [
 			"Budi"
@@ -1255,13 +1309,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 14376,
+			"viewCount": 14457,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 445
+			"likeCount": 446
 		},
 		"title": "[1/3] Gunnar und Uke auf der Maker Faire, Snapchat,  | Bohn Jour | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1676,
 		"hosts": [
 			"Eddy",
@@ -1278,13 +1333,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 9697,
+			"viewCount": 9761,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 342
+			"likeCount": 346
 		},
 		"title": "[2/3] Florentin Will: Der Gewinnertyp des Sommerfests, RC-Car-Kampf | Bohn Jour | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2269,
 		"hosts": [
 			"Eddy",
@@ -1301,13 +1357,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 6503,
+			"viewCount": 6563,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 261
+			"likeCount": 263
 		},
 		"title": "[3/3] Roboterfu\u00dfball auf der Maker Faire, B.E.A.R.D.S. bei den Rocketminers | Bohn Jour | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1624,
 		"hosts": [
 			"Eddy",
@@ -1324,13 +1381,14 @@
 		"aired": 1475056800,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 5757,
+			"viewCount": 5788,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 133
 		},
 		"title": "Let's Play Thirty Flights Of Loving & Gravity Bone mit Nasti | Kastenk\u00f6ppe | 28.09.2016",
 		"series": [],
+		"event": false,
 		"length": 1616,
 		"hosts": [
 			"Nasti"
@@ -1345,14 +1403,15 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 74,
-			"viewCount": 41355,
+			"commentCount": 75,
+			"viewCount": 42086,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 1584
+			"likeCount": 1598
 		},
 		"title": "Charaktervorstellung: Lasse Bluten (Etienne Gard\u00e9) | Pen & Paper B.E.A.R.D.S. | RBTV",
 		"series": [],
+		"event": false,
 		"length": 186,
 		"hosts": [],
 		"published": 1475778241,
@@ -1364,13 +1423,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 33903,
+			"viewCount": 34479,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 1198
+			"likeCount": 1210
 		},
 		"title": "Charaktervorstellung: Steppken Pislmick (Simon Kr\u00e4tschmer) | Pen & Paper B.E.A.R.D.S. | RBTV",
 		"series": [],
+		"event": false,
 		"length": 112,
 		"hosts": [],
 		"published": 1475778735,
@@ -1382,13 +1442,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 11654,
+			"viewCount": 11671,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 465
+			"likeCount": 466
 		},
 		"title": "Die Suche nach dem perfekten Kissen, Britney Spears wieder schwanger | News vom 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 453,
 		"hosts": [],
 		"published": 1475780290,
@@ -1402,13 +1463,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 32363,
+			"viewCount": 32630,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 1192
+			"likeCount": 1199
 		},
 		"title": "[1/3] Kino+ mit Steven G\u00e4tjen | L'Odyss\u00e9e, Westworld, Narcos, Billig oder will ich? | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1403,
 		"hosts": [
 			"Eddy",
@@ -1424,14 +1486,15 @@
 	{
 		"aired": 1475748000,
 		"stats": {
-			"commentCount": 72,
-			"viewCount": 32539,
+			"commentCount": 74,
+			"viewCount": 32796,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 852
+			"likeCount": 859
 		},
 		"title": "[2/3] Kino+ mit Steven G\u00e4tjen | Blair Witch, Sausage Party, Insel der besonderen Kinder | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2669,
 		"hosts": [
 			"Eddy",
@@ -1448,13 +1511,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 16935,
+			"viewCount": 17109,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 597
+			"likeCount": 600
 		},
 		"title": "[35] Robo-Bingo - Mensch gegen Maschine | Weekly Wahnsinn | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 400,
 		"hosts": [
 			"Budi",
@@ -1473,13 +1537,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 85,
-			"viewCount": 37850,
+			"viewCount": 38418,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 1512
+			"likeCount": 1527
 		},
 		"title": "Charaktervorstellung: Geronima R\u00f6dnarok (Nils Bomhoff) | Pen & Paper B.E.A.R.D.S. | RBTV",
 		"series": [],
+		"event": false,
 		"length": 144,
 		"hosts": [],
 		"published": 1475783337,
@@ -1491,13 +1556,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 70,
-			"viewCount": 31576,
+			"viewCount": 31878,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 995
+			"likeCount": 1005
 		},
 		"title": "[3/3] Kino+ mit Steven G\u00e4tjen | G\u00e4tjens gro\u00dfes Kino auf ZDF, ,Alte M\u00e4nner in Hollywood | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3554,
 		"hosts": [
 			"Eddy",
@@ -1514,13 +1580,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 5364,
+			"viewCount": 5365,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 185
 		},
 		"title": "Wochenhighlights KW 41 | Fifa17 bei Ranked, 20 Jahre Tomb Raider, Gears of War 4",
 		"series": [],
+		"event": false,
 		"length": 70,
 		"hosts": [],
 		"published": 1475832317,
@@ -1531,16 +1598,17 @@
 	{
 		"aired": 1475661600,
 		"stats": {
-			"commentCount": 25,
-			"viewCount": 7248,
+			"commentCount": 26,
+			"viewCount": 7631,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 277
+			"likeCount": 287
 		},
 		"title": "[74] Let's Play Gothic 2 mit Michael und Krogmann | Die Truhenknacker | 05.10.2016",
 		"series": [
 			"Gothic 2"
 		],
+		"event": false,
 		"length": 2720,
 		"hosts": [
 			"Michael K",
@@ -1557,15 +1625,16 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 64,
-			"viewCount": 8851,
+			"viewCount": 9397,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 263
+			"likeCount": 269
 		},
 		"title": "[75] Let's Play Gothic 2 mit Michael und Krogmann | Energie f\u00fcr den Kampf! | 05.10.2016",
 		"series": [
 			"Gothic 2"
 		],
+		"event": false,
 		"length": 4618,
 		"hosts": [
 			"Michael K",
@@ -1582,13 +1651,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 7133,
+			"viewCount": 7156,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
-			"likeCount": 259
+			"likeCount": 262
 		},
 		"title": "#MoinMoin mit Gregor | Nudelmuseum in Sachsen, Griechisches SocialEating, Orlando Bloom | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2816,
 		"hosts": [
 			"Gregor"
@@ -1603,14 +1673,15 @@
 	{
 		"aired": 1475748000,
 		"stats": {
-			"commentCount": 260,
-			"viewCount": 20259,
+			"commentCount": 261,
+			"viewCount": 20625,
 			"favoriteCount": 0,
-			"dislikeCount": 262,
-			"likeCount": 1145
+			"dislikeCount": 264,
+			"likeCount": 1159
 		},
 		"title": "[11] Social Eating mit Dean | Fleisch, Obst und Gem\u00fcse | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1605,
 		"hosts": [],
 		"published": 1475846209,
@@ -1624,13 +1695,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 12828,
+			"viewCount": 12861,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 483
+			"likeCount": 485
 		},
 		"title": "Etienne der Basketballkorb, Wurm im Ohr, Behind the Beans | News vom 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 365,
 		"hosts": [],
 		"published": 1475851871,
@@ -1643,14 +1715,15 @@
 	{
 		"aired": 1475748000,
 		"stats": {
-			"commentCount": 29,
-			"viewCount": 9401,
+			"commentCount": 30,
+			"viewCount": 9443,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 255
 		},
 		"title": "[1/4] Civilization VI & Paper Mario Color Splash | Game+ Daily mit Simon | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1798,
 		"hosts": [
 			"Simon",
@@ -1669,13 +1742,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 5980,
+			"viewCount": 6008,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 159
+			"likeCount": 160
 		},
 		"title": "[2/4] Civilization VI & Paper Mario Color Splash | Game+ Daily mit Simon | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1678,
 		"hosts": [
 			"Simon",
@@ -1694,13 +1768,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 5801,
+			"viewCount": 5826,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 167
+			"likeCount": 168
 		},
 		"title": "[3/4] Civilization VI & Paper Mario Color Splash | Game+ Daily mit Simon | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2578,
 		"hosts": [
 			"Simon",
@@ -1719,13 +1794,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 3642,
+			"viewCount": 3665,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 128
+			"likeCount": 129
 		},
 		"title": "[4/4] Beef der Woche: Ralley X | Game Plus Daily mit Simon | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 720,
 		"hosts": [
 			"Simon",
@@ -1744,15 +1820,16 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 18003,
+			"viewCount": 18314,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 507
+			"likeCount": 510
 		},
 		"title": "OCULUS RIFT #1: Arachnophobia, Kittypocalypse, Abe VR & Baskhead mit Simon & Dennis | 06.10.2016",
 		"series": [
 			"Oculus Rift"
 		],
+		"event": false,
 		"length": 1742,
 		"hosts": [
 			"Simon",
@@ -1768,16 +1845,17 @@
 	{
 		"aired": 1475748000,
 		"stats": {
-			"commentCount": 8,
-			"viewCount": 3663,
+			"commentCount": 12,
+			"viewCount": 3816,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 88
+			"likeCount": 90
 		},
 		"title": "[10] Let's Play Fallout 4: Nuka-World mit Nils | Mit Stimpack durch die Feinde | 06.10.2016",
 		"series": [
 			"Fallout 4"
 		],
+		"event": false,
 		"length": 1641,
 		"hosts": [
 			"Nils"
@@ -1792,16 +1870,17 @@
 	{
 		"aired": 1475748000,
 		"stats": {
-			"commentCount": 7,
-			"viewCount": 2348,
+			"commentCount": 8,
+			"viewCount": 2473,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 59
+			"likeCount": 62
 		},
 		"title": "[11] Let's Play Fallout 4: Nuka-World mit Nils | Selbstmordhund | 06.10.2016",
 		"series": [
 			"Fallout 4"
 		],
+		"event": false,
 		"length": 1656,
 		"hosts": [
 			"Nils"
@@ -1817,15 +1896,16 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 2117,
+			"viewCount": 2236,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 51
+			"likeCount": 52
 		},
 		"title": "[12] Let's Play Fallout 4: Nuka-World mit Nils | Sniper-Profi | 06.10.2016",
 		"series": [
 			"Fallout 4"
 		],
+		"event": false,
 		"length": 1566,
 		"hosts": [
 			"Nils"
@@ -1841,15 +1921,16 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2270,
+			"viewCount": 2402,
 			"favoriteCount": 0,
-			"dislikeCount": 1,
-			"likeCount": 59
+			"dislikeCount": 2,
+			"likeCount": 60
 		},
 		"title": "[13] Let's Play Fallout 4: Nuka-World mit Nils | Kampf gegen die Maschinen | 06.10.2016",
 		"series": [
 			"Fallout 4"
 		],
+		"event": false,
 		"length": 1692,
 		"hosts": [
 			"Nils"
@@ -1865,15 +1946,16 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 11420,
+			"viewCount": 11567,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 334
+			"likeCount": 335
 		},
 		"title": "OCULUS RIFT #2: Lucky's Tale, Apollo 11 VR Experience mit Nils & Dennis | 07.10.2016",
 		"series": [
 			"Oculus Rift"
 		],
+		"event": false,
 		"length": 1673,
 		"hosts": [
 			"Nils",
@@ -1890,13 +1972,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 10752,
+			"viewCount": 10896,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 331
+			"likeCount": 334
 		},
 		"title": "[1/3] Wir M\u00fcssen Reden Staffel 2 mit Gunnar & Michael | Thema: Internet | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1695,
 		"hosts": [
 			"Gunnar",
@@ -1913,13 +1996,14 @@
 		"aired": 1475748000,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 6266,
+			"viewCount": 6357,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 220
+			"likeCount": 223
 		},
 		"title": "[2/3] Wir M\u00fcssen Reden Staffel 2 mit Gunnar & Michael | Thema: Internet | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1711,
 		"hosts": [
 			"Gunnar",
@@ -1935,14 +2019,15 @@
 	{
 		"aired": 1475748000,
 		"stats": {
-			"commentCount": 14,
-			"viewCount": 5197,
+			"commentCount": 15,
+			"viewCount": 5285,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 207
+			"likeCount": 210
 		},
 		"title": "[3/3] Wir M\u00fcssen Reden Staffel 2 mit Gunnar & Michael | Thema: Internet | 06.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1553,
 		"hosts": [
 			"Gunnar",
@@ -1959,15 +2044,16 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 16818,
+			"viewCount": 17147,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 358
+			"likeCount": 364
 		},
 		"title": "[1] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | Die passende Waffe | 07.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1621,
 		"hosts": [
 			"Simon",
@@ -1984,15 +2070,16 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 7258,
+			"viewCount": 7483,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 160
+			"likeCount": 166
 		},
 		"title": "[2] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | Die Sturmfront | 07.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1628,
 		"hosts": [
 			"Simon",
@@ -2009,13 +2096,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 74,
-			"viewCount": 13617,
+			"viewCount": 13650,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 707
+			"likeCount": 709
 		},
 		"title": "Der gr\u00f6\u00dfte Vogeldungfleck der Welt, \u00c4xte, Wikinger & B\u00e4rte, Dungeon Keeper | News vom 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 530,
 		"hosts": [],
 		"published": 1475868423,
@@ -2028,16 +2116,17 @@
 	{
 		"aired": 1475834400,
 		"stats": {
-			"commentCount": 1,
-			"viewCount": 5609,
+			"commentCount": 2,
+			"viewCount": 5750,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 125
+			"likeCount": 130
 		},
 		"title": "[3] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | Geb\u00e4rmutter | 07.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1370,
 		"hosts": [
 			"Simon",
@@ -2054,15 +2143,16 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 5211,
+			"viewCount": 5326,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 118
+			"likeCount": 124
 		},
 		"title": "[4] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 07.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1768,
 		"hosts": [
 			"Simon",
@@ -2078,14 +2168,15 @@
 	{
 		"aired": 1475834400,
 		"stats": {
-			"commentCount": 172,
-			"viewCount": 59029,
+			"commentCount": 178,
+			"viewCount": 60655,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 1918
+			"likeCount": 1944
 		},
 		"title": "Pen & Paper B.E.A.R.D.S. | Akt 4: Die Wahrheit am Boden des Kessels | Pre-Show | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1686,
 		"hosts": [
 			"Budi",
@@ -2104,14 +2195,15 @@
 	{
 		"aired": 1475834400,
 		"stats": {
-			"commentCount": 151,
-			"viewCount": 109922,
+			"commentCount": 153,
+			"viewCount": 113684,
 			"favoriteCount": 0,
-			"dislikeCount": 17,
-			"likeCount": 2359
+			"dislikeCount": 18,
+			"likeCount": 2404
 		},
 		"title": "[1/5] Pen & Paper B.E.A.R.D.S. | Akt 4: Die Wahrheit am Boden des Kessels | Hasenwarge | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3099,
 		"hosts": [
 			"Budi",
@@ -2131,13 +2223,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 72408,
+			"viewCount": 74842,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 1603
+			"likeCount": 1629
 		},
 		"title": "[2/5] Pen & Paper B.E.A.R.D.S. | Akt 4: Die Wahrheit am Boden des Kessels | Nachtlager | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1210,
 		"hosts": [
 			"Budi",
@@ -2157,13 +2250,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 84,
-			"viewCount": 83177,
+			"viewCount": 86007,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 1672
+			"likeCount": 1701
 		},
 		"title": "[3/5] Pen & Paper B.E.A.R.D.S. | Akt 4: Die Wahrheit am Boden des Kessels | Baumhexe | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2147,
 		"hosts": [
 			"Budi",
@@ -2183,13 +2277,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 110,
-			"viewCount": 83032,
+			"viewCount": 85967,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 1715
+			"likeCount": 1745
 		},
 		"title": "[4/5] Pen & Paper B.E.A.R.D.S. | Akt 4: Die Wahrheit am Boden des Kessels | Zaubertee | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3475,
 		"hosts": [
 			"Budi",
@@ -2208,14 +2303,15 @@
 	{
 		"aired": 1475834400,
 		"stats": {
-			"commentCount": 186,
-			"viewCount": 70806,
+			"commentCount": 188,
+			"viewCount": 73483,
 			"favoriteCount": 0,
-			"dislikeCount": 7,
-			"likeCount": 2492
+			"dislikeCount": 8,
+			"likeCount": 2556
 		},
 		"title": "[5/5] Pen & Paper B.E.A.R.D.S. | Akt 4: Die Wahrheit am Boden des Kessels | R\u00fcckkehr | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2748,
 		"hosts": [
 			"Budi",
@@ -2234,14 +2330,15 @@
 	{
 		"aired": 1475834400,
 		"stats": {
-			"commentCount": 173,
-			"viewCount": 58648,
+			"commentCount": 178,
+			"viewCount": 60457,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 2057
+			"likeCount": 2091
 		},
 		"title": "Pen & Paper B.E.A.R.D.S. | Akt 4: Die Wahrheit am Boden des Kessels | Was w\u00e4re wenn | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1891,
 		"hosts": [
 			"Budi",
@@ -2261,13 +2358,14 @@
 		"aired": 1475920800,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 16648,
+			"viewCount": 16793,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 429
+			"likeCount": 430
 		},
 		"title": "Super Castlevania IV mit Gregor & Sia | Speedrundale | 08.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3038,
 		"hosts": [
 			"Sia",
@@ -2284,15 +2382,16 @@
 		"aired": 1475920800,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 5985,
+			"viewCount": 6081,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 130
+			"likeCount": 136
 		},
 		"title": "[5] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 08.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1766,
 		"hosts": [
 			"Simon",
@@ -2309,15 +2408,16 @@
 		"aired": 1475920800,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 3771,
+			"viewCount": 3873,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 98
+			"likeCount": 105
 		},
 		"title": "[6] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 08.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1621,
 		"hosts": [
 			"Simon",
@@ -2333,16 +2433,17 @@
 	{
 		"aired": 1475920800,
 		"stats": {
-			"commentCount": 11,
-			"viewCount": 3995,
+			"commentCount": 13,
+			"viewCount": 4086,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 88
+			"likeCount": 94
 		},
 		"title": "[7] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 08.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1613,
 		"hosts": [
 			"Simon",
@@ -2359,15 +2460,16 @@
 		"aired": 1475920800,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 5569,
+			"viewCount": 5650,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 120
+			"likeCount": 124
 		},
 		"title": "[8] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 08.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1669,
 		"hosts": [
 			"Simon",
@@ -2384,13 +2486,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 13532,
+			"viewCount": 13660,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
-			"likeCount": 355
+			"likeCount": 357
 		},
 		"title": "[1/3] Team Limited Counter-Strike:Global Offensive mit Etienne, Nils, Ben, Oli und Ren\u00e9 | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2017,
 		"hosts": [
 			"Oli",
@@ -2410,13 +2513,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 8854,
+			"viewCount": 8945,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 208
+			"likeCount": 211
 		},
 		"title": "[2/3] Team Limited Counter-Strike:Global Offensive mit Etienne, Nils, Ben, Oli und Ren\u00e9 | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2031,
 		"hosts": [
 			"Oli",
@@ -2436,13 +2540,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 8242,
+			"viewCount": 8337,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 208
+			"likeCount": 212
 		},
 		"title": "[3/3] Team Limited Counter-Strike:Global Offensive mit Etienne, Nils, Ben, Oli und Ren\u00e9 | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3229,
 		"hosts": [
 			"Oli",
@@ -2462,13 +2567,14 @@
 		"aired": 1476007200,
 		"stats": {
 			"commentCount": 194,
-			"viewCount": 53742,
+			"viewCount": 54447,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
-			"likeCount": 1527
+			"likeCount": 1545
 		},
 		"title": "[1/2] Almost Daily #258 | Thema: Cybersex und der Sinn des Lebens | 09.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1750,
 		"hosts": [
 			"Eddy",
@@ -2485,14 +2591,15 @@
 	{
 		"aired": 1476007200,
 		"stats": {
-			"commentCount": 196,
-			"viewCount": 34763,
+			"commentCount": 198,
+			"viewCount": 35186,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
-			"likeCount": 1309
+			"likeCount": 1325
 		},
 		"title": "[2/2] Almost Daily #258 | Thema: Cybersex und der Sinn des Lebens | 09.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1743,
 		"hosts": [
 			"Eddy",
@@ -2510,13 +2617,14 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 2144,
+			"viewCount": 2176,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 76
 		},
 		"title": "[3] Destiny: Das Erwachen der Eisernen Lords mit Budi | Der Spinnenpanzer | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1757,
 		"hosts": [
 			"Budi"
@@ -2532,13 +2640,14 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 122,
-			"viewCount": 23200,
+			"viewCount": 23375,
 			"favoriteCount": 0,
-			"dislikeCount": 30,
-			"likeCount": 1110
+			"dislikeCount": 31,
+			"likeCount": 1114
 		},
 		"title": "#MoinMoin mit Lars, Krogmann & Anja | Fr\u00fchst\u00fcck mit Geschichten am Elbstrand | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 4450,
 		"hosts": [
 			"Lars",
@@ -2555,13 +2664,14 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 1065,
+			"viewCount": 1088,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 44
+			"likeCount": 45
 		},
 		"title": "[4] Destiny: Das Erwachen der Eisernen Lords mit Budi | Die Looth\u00f6hle | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1682,
 		"hosts": [
 			"Budi"
@@ -2577,13 +2687,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 14477,
+			"viewCount": 14621,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 360
+			"likeCount": 364
 		},
 		"title": "[1/6] Plastikbecher auf der Reeperbahn | Kiezgeschichten mit Krogi & Sofia | Rocket Beans TV",
 		"series": [],
+		"event": true,
 		"length": 188,
 		"hosts": [
 			"Sofia",
@@ -2593,20 +2704,21 @@
 		"id": "C7bygIp1iM0",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 9876,
+			"viewCount": 9959,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 293
+			"likeCount": 294
 		},
 		"title": "[2/6] Jobvorschlag: T\u00e4nzerin im K\u00e4fig | Kiezgeschichten mit Krogi & Sofia | Rocket Beans TV",
 		"series": [],
+		"event": true,
 		"length": 170,
 		"hosts": [
 			"Sofia",
@@ -2616,20 +2728,21 @@
 		"id": "zY-V0ft8nD8",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 7316,
+			"viewCount": 7385,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 227
+			"likeCount": 228
 		},
 		"title": "[3/6] Brennende Theken in der Pyjama Bar | Kiezgeschichten mit Krogi & Sofia | Rocket Beans TV",
 		"series": [],
+		"event": true,
 		"length": 151,
 		"hosts": [
 			"Sofia",
@@ -2639,20 +2752,21 @@
 		"id": "MHPR13Va1HE",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 9371,
+			"viewCount": 9441,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
-			"likeCount": 246
+			"likeCount": 247
 		},
 		"title": "[4/6] Astra-Gl\u00fccksrad & Burger am Smoker Grill | Kiezgeschichten mit Krogi & Sofia | Rocket Beans TV",
 		"series": [],
+		"event": true,
 		"length": 241,
 		"hosts": [
 			"Sofia",
@@ -2662,20 +2776,21 @@
 		"id": "nzpefJa-4NQ",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 8674,
+			"viewCount": 8742,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 268
+			"likeCount": 269
 		},
 		"title": "[5/6] Mexikaner in der Hans Albers Klause | Kiezgeschichten mit Krogi & Sofia | Rocket Beans TV",
 		"series": [],
+		"event": true,
 		"length": 208,
 		"hosts": [
 			"Sofia",
@@ -2685,20 +2800,21 @@
 		"id": "cKb4qLOHKKU",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 10033,
+			"viewCount": 10105,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 402
+			"likeCount": 404
 		},
 		"title": "[6/6] Dunkle Urinspuren & Sofia als Wingman | Kiezgeschichten mit Krogi & Sofia | Rocket Beans TV",
 		"series": [],
+		"event": true,
 		"length": 276,
 		"hosts": [
 			"Sofia",
@@ -2708,20 +2824,21 @@
 		"id": "TwXZKU8s0KQ",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1473501600,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 4038,
+			"viewCount": 4052,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 235
+			"likeCount": 236
 		},
 		"title": "[96] Gino+ | Bauchatmung mit Lars | 10.09.2016",
 		"series": [],
+		"event": false,
 		"length": 441,
 		"hosts": [
 			"Lars",
@@ -2738,13 +2855,14 @@
 		"aired": 1473847200,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 4751,
+			"viewCount": 4766,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 237
+			"likeCount": 241
 		},
 		"title": "[97] Gino+ | Skorpion-Mobilisierung mit Viet | 14.09.2016",
 		"series": [],
+		"event": false,
 		"length": 247,
 		"hosts": [
 			"Gino",
@@ -2761,13 +2879,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 8132,
+			"viewCount": 8217,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 169
+			"likeCount": 170
 		},
 		"title": "[1] Let's Play Mafia 3 mit Gregor und Micha | Massaker in der Brennkammer | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1723,
 		"hosts": [
 			"Gregor",
@@ -2784,13 +2903,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4374,
+			"viewCount": 4422,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 79
+			"likeCount": 80
 		},
 		"title": "[2] Let's Play Mafia 3 mit Gregor und Micha | Gumbo f\u00fcr aggressive Haitianer | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1914,
 		"hosts": [
 			"Gregor",
@@ -2807,13 +2927,14 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3418,
+			"viewCount": 3462,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 68
+			"likeCount": 70
 		},
 		"title": "[3] Let's Play Mafia 3 mit Gregor und Micha | Befreiung der Sklaven | 07.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1421,
 		"hosts": [
 			"Gregor",
@@ -2830,13 +2951,14 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 13211,
+			"viewCount": 13272,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 328
+			"likeCount": 331
 		},
 		"title": "[1/4] Mafia 3, Viking Squad & Lichtspeer | Game+ Daily mit Etienne | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1799,
 		"hosts": [
 			"Eddy",
@@ -2855,13 +2977,14 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 17896,
+			"viewCount": 17919,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 647
+			"likeCount": 648
 		},
 		"title": "Hell's Angel's-Leader bei den Rocket Beans, Dennis der Eroberer, Power Rangers | News vom 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 315,
 		"hosts": [],
 		"published": 1476123325,
@@ -2875,13 +2998,14 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 7921,
+			"viewCount": 7960,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 194
+			"likeCount": 196
 		},
 		"title": "[2/4] Mafia 3, Viking Squad & Lichtspeer | Game+ Daily mit Etienne | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1677,
 		"hosts": [
 			"Eddy",
@@ -2900,13 +3024,14 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4355,
+			"viewCount": 4375,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 126
+			"likeCount": 129
 		},
 		"title": "[4/4] Beef der Woche: Kung-Fu Master | Game+ Daily mit Etienne | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 717,
 		"hosts": [
 			"Eddy",
@@ -2924,14 +3049,15 @@
 	{
 		"aired": 1476093600,
 		"stats": {
-			"commentCount": 9,
-			"viewCount": 6211,
+			"commentCount": 10,
+			"viewCount": 6250,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 159
+			"likeCount": 161
 		},
 		"title": "[3/4] Mafia 3, Viking Squad & Lichtspeer | Game+ Daily mit Etienne | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2579,
 		"hosts": [
 			"Eddy",
@@ -2950,13 +3076,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 7091,
+			"viewCount": 7122,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 336
+			"likeCount": 339
 		},
 		"title": "#MoinMoin mit Hannes & Felix | Songs mit der Community schreiben | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2817,
 		"hosts": [
 			"Felix",
@@ -2973,55 +3100,58 @@
 		"aired": 1474711200,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 2240,
+			"viewCount": 2297,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 98
+			"likeCount": 99
 		},
 		"title": "Reeperbahnfestival 2016: Chinah LIVE-Konzert | Festivalsommer | 24.09.2016",
 		"series": [],
+		"event": true,
 		"length": 883,
 		"hosts": [],
 		"published": 1476192444,
 		"id": "Ev2OJR_ZNqA",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1474711200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 2056,
+			"viewCount": 2086,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 87
 		},
 		"title": "Reeperbahnfestival 2016: Blondage LIVE-Konzert | Festivalsommer | 24.09.2016",
 		"series": [],
+		"event": true,
 		"length": 995,
 		"hosts": [],
 		"published": 1476192580,
 		"id": "pfIuojn8rbI",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 12412,
+			"viewCount": 13089,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 275
+			"likeCount": 285
 		},
 		"title": "[7] Let's Play Civilization VI mit Dennis | 10.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1585,
 		"hosts": [
 			"Dennis R"
@@ -3037,15 +3167,16 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 9575,
+			"viewCount": 10197,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 187
+			"likeCount": 194
 		},
 		"title": "[8] Let's Play Civilization VI mit Dennis | 10.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1580,
 		"hosts": [
 			"Dennis R"
@@ -3061,15 +3192,16 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 8624,
+			"viewCount": 9215,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 162
+			"likeCount": 172
 		},
 		"title": "[9] Let's Play Civilization VI mit Dennis | 10.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1552,
 		"hosts": [
 			"Dennis R"
@@ -3085,15 +3217,16 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 9772,
+			"viewCount": 10350,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 234
+			"likeCount": 243
 		},
 		"title": "[10] Let's Play Civilization VI mit Dennis | 10.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1720,
 		"hosts": [
 			"Dennis R"
@@ -3109,15 +3242,16 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 4041,
+			"viewCount": 4123,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 96
+			"likeCount": 101
 		},
 		"title": "[9] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 10.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1621,
 		"hosts": [
 			"Simon",
@@ -3134,15 +3268,16 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 2863,
+			"viewCount": 2926,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 83
+			"likeCount": 87
 		},
 		"title": "[10] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 10.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1515,
 		"hosts": [
 			"Simon",
@@ -3159,15 +3294,16 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2703,
+			"viewCount": 2778,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 70
+			"likeCount": 74
 		},
 		"title": "[11] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 10.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1555,
 		"hosts": [
 			"Simon",
@@ -3184,15 +3320,16 @@
 		"aired": 1476093600,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 2487,
+			"viewCount": 2553,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 73
+			"likeCount": 76
 		},
 		"title": "[12] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 10.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 836,
 		"hosts": [
 			"Simon",
@@ -3208,14 +3345,15 @@
 	{
 		"aired": 1476093600,
 		"stats": {
-			"commentCount": 84,
-			"viewCount": 24160,
+			"commentCount": 78,
+			"viewCount": 25545,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
-			"likeCount": 643
+			"likeCount": 658
 		},
 		"title": "[1/3] FIFA 17 Pro Clubs #1 mit Nils, Etienne, Gunnar, Timo & Marco | Ranked | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2533,
 		"hosts": [
 			"Timo B",
@@ -3234,14 +3372,15 @@
 	{
 		"aired": 1476093600,
 		"stats": {
-			"commentCount": 24,
-			"viewCount": 11256,
+			"commentCount": 25,
+			"viewCount": 11642,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 344
+			"likeCount": 351
 		},
 		"title": "[2/3] FIFA 17 Pro Clubs #1 mit Nils, Etienne, Gunnar, Timo & Marco | Ranked | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2103,
 		"hosts": [
 			"Timo B",
@@ -3260,14 +3399,15 @@
 	{
 		"aired": 1476093600,
 		"stats": {
-			"commentCount": 57,
-			"viewCount": 13012,
+			"commentCount": 59,
+			"viewCount": 13429,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 379
+			"likeCount": 387
 		},
 		"title": "[3/3] FIFA 17 Pro Clubs #1 mit Nils, Etienne, Gunnar, Timo & Marco | Ranked | 10.10.2016",
 		"series": [],
+		"event": false,
 		"length": 5202,
 		"hosts": [
 			"Timo B",
@@ -3287,13 +3427,14 @@
 		"aired": 1474970400,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 5521,
+			"viewCount": 5669,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 138
+			"likeCount": 142
 		},
 		"title": "[1/4] Let's Play Virginia mit Simon | ICH BIN FBI-AGENT! | 27.09.2016",
 		"series": [],
+		"event": false,
 		"length": 1773,
 		"hosts": [
 			"Simon"
@@ -3309,13 +3450,14 @@
 		"aired": 1474970400,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 2723,
+			"viewCount": 2802,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 74
+			"likeCount": 76
 		},
 		"title": "[2/4] Let's Play Virginia mit Simon | Ein Verschwindevogel | 27.09.2016",
 		"series": [],
+		"event": false,
 		"length": 2049,
 		"hosts": [
 			"Simon"
@@ -3331,13 +3473,14 @@
 		"aired": 1474970400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2314,
+			"viewCount": 2378,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 74
+			"likeCount": 77
 		},
 		"title": "[3/4] Let's Play Virginia mit Simon | Ein seltsamer Einkauf | 27.09.2016",
 		"series": [],
+		"event": false,
 		"length": 1849,
 		"hosts": [
 			"Simon"
@@ -3353,13 +3496,14 @@
 		"aired": 1474970400,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 1914,
+			"viewCount": 1968,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 86
+			"likeCount": 91
 		},
 		"title": "[4/4] Let's Play Virginia mit Simon | Der Patient | 27.09.2016",
 		"series": [],
+		"event": false,
 		"length": 2135,
 		"hosts": [
 			"Simon"
@@ -3375,13 +3519,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 19125,
+			"viewCount": 19160,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 764
+			"likeCount": 765
 		},
 		"title": "Seuche bei RBTV,  Sony VR-Games, No Man's Sky Blamage: Hello Games dicht? | News vom 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 293,
 		"hosts": [],
 		"published": 1476214095,
@@ -3395,15 +3540,16 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 12676,
+			"viewCount": 12890,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
-			"likeCount": 427
+			"likeCount": 429
 		},
 		"title": "[1] Let's Play Don't Starve Together mit Florentin & Andreas | Der Feind des Maulwurfs | 11.10.2016",
 		"series": [
 			"Don't Starve Together"
 		],
+		"event": false,
 		"length": 1824,
 		"hosts": [
 			"Andreas L",
@@ -3420,13 +3566,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 84,
-			"viewCount": 6786,
+			"viewCount": 6884,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
-			"likeCount": 329
+			"likeCount": 331
 		},
 		"title": "#MoinMoin mit Alwin | Comic- und Mangaspecial | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2811,
 		"hosts": [
 			"Alwin"
@@ -3442,13 +3589,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 4730,
+			"viewCount": 4787,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 147
+			"likeCount": 150
 		},
 		"title": "[1/4] Shadow Warrior 2 & Space Rift | Game+ Daily mit Nils | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1801,
 		"hosts": [
 			"Simon",
@@ -3467,13 +3615,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 2669,
+			"viewCount": 2697,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 97
 		},
 		"title": "[2/4] Shadow Warrior 2 & Space Rift | Game+ Daily mit Nils | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1677,
 		"hosts": [
 			"Simon",
@@ -3492,13 +3641,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 2573,
+			"viewCount": 2610,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 111
 		},
 		"title": "[3/4] Shadow Warrior 2 & Space Rift | Game+ Daily mit Nils | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2576,
 		"hosts": [
 			"Simon",
@@ -3517,13 +3667,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 1830,
+			"viewCount": 1857,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 107
+			"likeCount": 108
 		},
 		"title": "[4/4] Beef der Woche: Kung-Fu Master | Game+ Daily mit Nils | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 701,
 		"hosts": [
 			"Nils",
@@ -3542,13 +3693,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 115,
-			"viewCount": 14702,
+			"viewCount": 14801,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 541
+			"likeCount": 542
 		},
 		"title": "Q&A #27 mit Timo & Steffen | Zusammerarbeit mit der Community, Samstagabend, YouTube | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2620,
 		"hosts": [
 			"Steffen",
@@ -3564,14 +3716,15 @@
 	{
 		"aired": 1476180000,
 		"stats": {
-			"commentCount": 78,
-			"viewCount": 26025,
+			"commentCount": 80,
+			"viewCount": 26658,
 			"favoriteCount": 0,
-			"dislikeCount": 10,
-			"likeCount": 639
+			"dislikeCount": 11,
+			"likeCount": 645
 		},
 		"title": "[1/5] 20 Jahre Tomb Raider | Die gro\u00dfe Geburtstagsparty bei Rocket Beans TV | 11.10.2016",
 		"series": [],
+		"event": true,
 		"length": 2100,
 		"hosts": [
 			"Gregor",
@@ -3581,20 +3734,21 @@
 		"id": "cxAuLuCF1NA",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] 20 Jahre Tomb Raider"
+			"20 Jahre Tomb Raider"
 		]
 	},
 	{
 		"aired": 1476180000,
 		"stats": {
-			"commentCount": 48,
-			"viewCount": 11914,
+			"commentCount": 49,
+			"viewCount": 12205,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 343
+			"likeCount": 347
 		},
 		"title": "[2/5] 20 Jahre Tomb Raider | Die gro\u00dfe Geburtstagsparty bei Rocket Beans TV | 11.10.2016",
 		"series": [],
+		"event": true,
 		"length": 1367,
 		"hosts": [
 			"Gregor",
@@ -3604,20 +3758,21 @@
 		"id": "TxO7Cdh-Mx4",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] 20 Jahre Tomb Raider"
+			"20 Jahre Tomb Raider"
 		]
 	},
 	{
 		"aired": 1476180000,
 		"stats": {
-			"commentCount": 28,
-			"viewCount": 11110,
+			"commentCount": 30,
+			"viewCount": 11380,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 325
+			"likeCount": 328
 		},
 		"title": "[3/5] 20 Jahre Tomb Raider | Die gro\u00dfe Geburtstagsparty bei Rocket Beans TV | 11.10.2016",
 		"series": [],
+		"event": true,
 		"length": 1789,
 		"hosts": [
 			"Gregor",
@@ -3627,20 +3782,21 @@
 		"id": "UYPK9gapfoU",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] 20 Jahre Tomb Raider"
+			"20 Jahre Tomb Raider"
 		]
 	},
 	{
 		"aired": 1476180000,
 		"stats": {
-			"commentCount": 31,
-			"viewCount": 9347,
+			"commentCount": 32,
+			"viewCount": 9544,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 302
+			"likeCount": 304
 		},
 		"title": "[4/5] 20 Jahre Tomb Raider | Die gro\u00dfe Geburtstagsparty bei Rocket Beans TV | 11.10.2016",
 		"series": [],
+		"event": true,
 		"length": 1842,
 		"hosts": [
 			"Gregor",
@@ -3650,20 +3806,21 @@
 		"id": "yL2urnCv0BY",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] 20 Jahre Tomb Raider"
+			"20 Jahre Tomb Raider"
 		]
 	},
 	{
 		"aired": 1476180000,
 		"stats": {
-			"commentCount": 61,
-			"viewCount": 11776,
+			"commentCount": 64,
+			"viewCount": 12051,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 371
+			"likeCount": 373
 		},
 		"title": "[5/5] 20 Jahre Tomb Raider | Die gro\u00dfe Geburtstagsparty bei Rocket Beans TV | 11.10.2016",
 		"series": [],
+		"event": true,
 		"length": 3120,
 		"hosts": [
 			"Gregor",
@@ -3673,14 +3830,14 @@
 		"id": "19mmkQtnE4Y",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] 20 Jahre Tomb Raider"
+			"20 Jahre Tomb Raider"
 		]
 	},
 	{
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 4920,
+			"viewCount": 5007,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 168
@@ -3689,6 +3846,7 @@
 		"series": [
 			"Don't Starve Together"
 		],
+		"event": false,
 		"length": 1633,
 		"hosts": [
 			"Andreas L",
@@ -3705,13 +3863,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 11355,
+			"viewCount": 11625,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 301
+			"likeCount": 305
 		},
 		"title": "[1/4] The Bunker mit Simon & Gunnar | Zweilight Zone | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 953,
 		"hosts": [
 			"Simon",
@@ -3728,13 +3887,14 @@
 		"aired": 1476180000,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 6183,
+			"viewCount": 6368,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 190
+			"likeCount": 191
 		},
 		"title": "[2/4] The Bunker mit Simon & Gunnar | Zweilight Zone | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2027,
 		"hosts": [
 			"Simon",
@@ -3750,14 +3910,15 @@
 	{
 		"aired": 1476180000,
 		"stats": {
-			"commentCount": 12,
-			"viewCount": 5037,
+			"commentCount": 13,
+			"viewCount": 5199,
 			"favoriteCount": 0,
-			"dislikeCount": 1,
-			"likeCount": 151
+			"dislikeCount": 3,
+			"likeCount": 152
 		},
 		"title": "[3/4] The Bunker mit Simon & Gunnar | Zweilight Zone | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2297,
 		"hosts": [
 			"Simon",
@@ -3773,14 +3934,15 @@
 	{
 		"aired": 1476180000,
 		"stats": {
-			"commentCount": 21,
-			"viewCount": 4390,
+			"commentCount": 22,
+			"viewCount": 4512,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 163
+			"likeCount": 165
 		},
 		"title": "[4/4] The Bunker mit Simon & Gunnar | Zweilight Zone | 11.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1927,
 		"hosts": [
 			"Simon",
@@ -3797,13 +3959,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 7429,
+			"viewCount": 7485,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 194
+			"likeCount": 195
 		},
 		"title": "[1/4] WWE 2K17 & Aragami | Game+ Daily mit Simon | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1797,
 		"hosts": [
 			"Simon",
@@ -3821,13 +3984,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4329,
+			"viewCount": 4362,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 124
+			"likeCount": 125
 		},
 		"title": "[2/4] WWE 2K17 & Aragami | Game+ Daily mit Simon | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1678,
 		"hosts": [
 			"Simon",
@@ -3844,14 +4008,15 @@
 	{
 		"aired": 1476266400,
 		"stats": {
-			"commentCount": 212,
-			"viewCount": 22671,
+			"commentCount": 213,
+			"viewCount": 22906,
 			"favoriteCount": 0,
 			"dislikeCount": 115,
-			"likeCount": 826
+			"likeCount": 828
 		},
 		"title": "\u00dcberraschungen im Chat, Traurigster Film, Cuphead verschoben, Drachenlord | News vom 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 721,
 		"hosts": [],
 		"published": 1476299881,
@@ -3865,13 +4030,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3908,
+			"viewCount": 3949,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 110
+			"likeCount": 112
 		},
 		"title": "[3/4] WWE 2K17 & Aragami | Game+ Daily mit Simon | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2574,
 		"hosts": [
 			"Simon",
@@ -3889,13 +4055,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 2588,
+			"viewCount": 2612,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 100
+			"likeCount": 102
 		},
 		"title": "[4/4] Beef der Woche: Kung-Fu Master | Game+ Daily mit Simon | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 719,
 		"hosts": [
 			"Simon",
@@ -3913,13 +4080,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 123,
-			"viewCount": 14898,
+			"viewCount": 15142,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 897
+			"likeCount": 901
 		},
 		"title": "Final Fantasy XV: Blut, \u00c4xte und Drohnen in der Wildnis  | Rocket Beans On Tour",
 		"series": [],
+		"event": false,
 		"length": 1170,
 		"hosts": [
 			"Colin",
@@ -3936,13 +4104,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 8570,
+			"viewCount": 8613,
 			"favoriteCount": 0,
 			"dislikeCount": 48,
 			"likeCount": 312
 		},
 		"title": "#MoinMoin mit Ren\u00e9 & Flo | Bakterienherd RBTV, Jugends\u00fcnden, Pazifisten-Flo | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2814,
 		"hosts": [
 			"Flo",
@@ -3959,13 +4128,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 12376,
+			"viewCount": 12465,
 			"favoriteCount": 0,
-			"dislikeCount": 34,
-			"likeCount": 457
+			"dislikeCount": 35,
+			"likeCount": 461
 		},
 		"title": "[1/3] Kot oder Liebe (Hausband), Abklatschweltmeisterschaft #1 | Bohn Jour | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1526,
 		"hosts": [
 			"Simon",
@@ -3982,13 +4152,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 7013,
+			"viewCount": 7089,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 262
+			"likeCount": 266
 		},
 		"title": "[2/3] Papillon Rising aus der Zukunft, Abklatschweltmeisterschaft #2 | Bohn Jour | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1618,
 		"hosts": [
 			"Simon",
@@ -4004,14 +4175,15 @@
 	{
 		"aired": 1476266400,
 		"stats": {
-			"commentCount": 33,
-			"viewCount": 8352,
+			"commentCount": 34,
+			"viewCount": 8504,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 276
+			"likeCount": 281
 		},
 		"title": "[3/3] 80er Singstar mit Lisa, Papillon Rising LIVE | Bohn Jour | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1635,
 		"hosts": [
 			"Simon",
@@ -4028,15 +4200,16 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 8920,
+			"viewCount": 9445,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 210
+			"likeCount": 218
 		},
 		"title": "[11] Let's Play Civilization VI mit Dennis | 12.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1515,
 		"hosts": [
 			"Dennis R"
@@ -4052,15 +4225,16 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 8210,
+			"viewCount": 8724,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 180
+			"likeCount": 189
 		},
 		"title": "[12] Let's Play Civilization VI mit Dennis | 12.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1585,
 		"hosts": [
 			"Dennis R"
@@ -4076,15 +4250,16 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 7504,
+			"viewCount": 8015,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 168
+			"likeCount": 173
 		},
 		"title": "[13] Let's Play Civilization VI mit Dennis | 12.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1775,
 		"hosts": [
 			"Dennis R"
@@ -4100,15 +4275,16 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 8045,
+			"viewCount": 8525,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 192
+			"likeCount": 197
 		},
 		"title": "[14] Let's Play Civilization VI mit Dennis | 12.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1615,
 		"hosts": [
 			"Dennis R"
@@ -4124,13 +4300,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 101,
-			"viewCount": 24650,
+			"viewCount": 25043,
 			"favoriteCount": 0,
 			"dislikeCount": 95,
-			"likeCount": 682
+			"likeCount": 688
 		},
 		"title": "[1/2] Almost Plaily #29 | Privacy mit Dennis, Krogmann, Flo, Gunnar und Gino | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1516,
 		"hosts": [
 			"Flo",
@@ -4150,13 +4327,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 13479,
+			"viewCount": 13721,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 545
+			"likeCount": 554
 		},
 		"title": "[2/2] Almost Plaily #29 | Privacy mit Dennis, Krogmann, Flo, Gunnar und Gino | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1560,
 		"hosts": [
 			"Flo",
@@ -4176,15 +4354,16 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 3565,
+			"viewCount": 3655,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 84
+			"likeCount": 88
 		},
 		"title": "[13] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 12.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1686,
 		"hosts": [
 			"Simon",
@@ -4200,16 +4379,17 @@
 	{
 		"aired": 1476266400,
 		"stats": {
-			"commentCount": 2,
-			"viewCount": 2301,
+			"commentCount": 3,
+			"viewCount": 2375,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 68
+			"likeCount": 71
 		},
 		"title": "[14] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 12.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1293,
 		"hosts": [
 			"Simon",
@@ -4226,15 +4406,16 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 2552,
+			"viewCount": 2639,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 71
+			"likeCount": 75
 		},
 		"title": "[15] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 12.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1882,
 		"hosts": [
 			"Simon",
@@ -4251,13 +4432,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 309,
-			"viewCount": 100746,
+			"viewCount": 102754,
 			"favoriteCount": 0,
-			"dislikeCount": 174,
-			"likeCount": 2282
+			"dislikeCount": 175,
+			"likeCount": 2292
 		},
 		"title": "ROGUE ONE: A STAR WARS STORY Teaser Trailer #2 | Rocket Beans Reaction Video | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 776,
 		"hosts": [],
 		"published": 1476383105,
@@ -4269,15 +4451,16 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2800,
+			"viewCount": 2885,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 74
+			"likeCount": 78
 		},
 		"title": "[16] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 12.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1759,
 		"hosts": [
 			"Simon",
@@ -4294,13 +4477,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 26754,
+			"viewCount": 26946,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 848
+			"likeCount": 853
 		},
 		"title": "[1/3] Kino+ | Star Wars-Poster, Billig oder will ich - Kung Fu Yoga | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 961,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4317,13 +4501,14 @@
 		"aired": 1476266400,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 12181,
+			"viewCount": 12363,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 570
+			"likeCount": 575
 		},
 		"title": "[36] Eiskalt Erraten - Eine Frage des gute Geschmacks | Weekly Wahnsinn | 12.10.2016",
 		"series": [],
+		"event": false,
 		"length": 446,
 		"hosts": [
 			"Gino",
@@ -4342,15 +4527,16 @@
 		"aired": 1475834400,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 12166,
+			"viewCount": 12325,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 384
+			"likeCount": 385
 		},
 		"title": "OCULUS RIFT #3: Baskhead, Invasion & No Limits 2 mit Etienne & Dennis | 07.10.2016",
 		"series": [
 			"Oculus Rift"
 		],
+		"event": false,
 		"length": 1776,
 		"hosts": [
 			"Eddy"
@@ -4366,13 +4552,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 14877,
+			"viewCount": 14910,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 515
 		},
 		"title": "Geheimnisse zum King Kong-Film, World Of Warcraft, Harambe vs Capcom | News vom 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 677,
 		"hosts": [],
 		"published": 1476387896,
@@ -4385,14 +4572,15 @@
 	{
 		"aired": 1476352800,
 		"stats": {
-			"commentCount": 103,
-			"viewCount": 29569,
+			"commentCount": 97,
+			"viewCount": 29801,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 768
+			"likeCount": 771
 		},
 		"title": "[2/3] Kino+ | Inferno, American Honey, Swiss Army Man, Die Welt der Wunderlichs | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2758,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4409,13 +4597,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 64,
-			"viewCount": 21454,
+			"viewCount": 21635,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
-			"likeCount": 630
+			"likeCount": 637
 		},
 		"title": "[3/3] Kino+ |  Oliver Rihs zu Gast, Affenk\u00f6nig, Predator, Evil Dead | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 4049,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4432,13 +4621,14 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 125,
-			"viewCount": 24958,
+			"viewCount": 25125,
 			"favoriteCount": 0,
-			"dislikeCount": 71,
-			"likeCount": 890
+			"dislikeCount": 72,
+			"likeCount": 891
 		},
 		"title": "#MoinMoin mit Florentin | N\u00fcsschen, Entropie, Gewurschtel in Wikipedia | 14.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2819,
 		"hosts": [
 			"Florentin"
@@ -4454,13 +4644,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 57,
-			"viewCount": 15413,
+			"viewCount": 15850,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 339
+			"likeCount": 346
 		},
 		"title": "[1/4] Playstation VR: The Playroom | Game+ Daily | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1797,
 		"hosts": [
 			"Simon",
@@ -4478,13 +4669,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 13713,
+			"viewCount": 14030,
 			"favoriteCount": 0,
-			"dislikeCount": 9,
-			"likeCount": 224
+			"dislikeCount": 10,
+			"likeCount": 227
 		},
 		"title": "[2/4] Playstation VR: Until Dawn Rush of Blood, Batman Arkham VR  | Game+ Daily | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1678,
 		"hosts": [
 			"Simon",
@@ -4501,14 +4693,15 @@
 	{
 		"aired": 1476352800,
 		"stats": {
-			"commentCount": 67,
-			"viewCount": 25187,
+			"commentCount": 69,
+			"viewCount": 26479,
 			"favoriteCount": 0,
-			"dislikeCount": 14,
-			"likeCount": 270
+			"dislikeCount": 15,
+			"likeCount": 275
 		},
 		"title": "[3/4] Playstation VR: Driveclub, Resident Evil 7, Battlezone, VR Worlds | Game+ Daily | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2578,
 		"hosts": [
 			"Simon",
@@ -4526,13 +4719,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 7392,
+			"viewCount": 7506,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 140
+			"likeCount": 146
 		},
 		"title": "[4/4] Beef der Woche: Kung-Fu Master | Game+ Daily | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 717,
 		"hosts": [
 			"Simon",
@@ -4550,13 +4744,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 8913,
+			"viewCount": 8967,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 264
 		},
 		"title": "Chat Duell - Team MMA, Gunnar & Schr\u00f6ck auf der RESISTOPIA, Tour de France | Wochenhighlights KW 42",
 		"series": [],
+		"event": false,
 		"length": 85,
 		"hosts": [],
 		"published": 1476449457,
@@ -4568,15 +4763,16 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 10767,
+			"viewCount": 10934,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 276
+			"likeCount": 278
 		},
 		"title": "OCULUS RIFT #4: No Limits 2, Klepto, Radial-G mit Etienne & Dennis | 14.10.2016",
 		"series": [
 			"Oculus Rift"
 		],
+		"event": false,
 		"length": 1648,
 		"hosts": [
 			"Eddy"
@@ -4591,14 +4787,15 @@
 	{
 		"aired": 1476352800,
 		"stats": {
-			"commentCount": 79,
-			"viewCount": 18306,
+			"commentCount": 80,
+			"viewCount": 18810,
 			"favoriteCount": 0,
 			"dislikeCount": 51,
-			"likeCount": 700
+			"likeCount": 712
 		},
 		"title": "[12] Social Eating mit Lars | Antipasti-Orgasmi | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1661,
 		"hosts": [
 			"Lars"
@@ -4614,13 +4811,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 64,
-			"viewCount": 20388,
+			"viewCount": 20807,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 701
+			"likeCount": 710
 		},
 		"title": "[1/3] Wir M\u00fcssen Reden Staffel 2 mit Gunnar, Simon & Ingo | Thema: Game One | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1710,
 		"hosts": [
 			"Simon",
@@ -4637,13 +4835,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 13236,
+			"viewCount": 13502,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 481
+			"likeCount": 486
 		},
 		"title": "[2/3] Wir M\u00fcssen Reden Staffel 2 mit Gunnar, Simon & Ingo | Thema: Game One | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1547,
 		"hosts": [
 			"Simon",
@@ -4660,13 +4859,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 11592,
+			"viewCount": 11814,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 524
+			"likeCount": 531
 		},
 		"title": "[3/3] Wir M\u00fcssen Reden Staffel 2 mit Gunnar, Simon & Ingo | Thema: Game One | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1503,
 		"hosts": [
 			"Simon",
@@ -4683,13 +4883,14 @@
 		"aired": 1475056800,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 17167,
+			"viewCount": 17298,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
-			"likeCount": 616
+			"likeCount": 620
 		},
 		"title": "[34] Tierkaraoke - Musikstunde im Zoo | Weekly Wahnsinn | 28.09.2016",
 		"series": [],
+		"event": false,
 		"length": 464,
 		"hosts": [
 			"Gino",
@@ -4708,13 +4909,14 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 15298,
+			"viewCount": 15321,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 708
+			"likeCount": 709
 		},
 		"title": "R\u00fcckkehr von Verflixxte Klixx, Beans On Rei\u00dfzahn, Playstation 4 - Schn\u00e4ppchen | News vom 14.10.2016",
 		"series": [],
+		"event": false,
 		"length": 512,
 		"hosts": [],
 		"published": 1476468001,
@@ -4727,14 +4929,15 @@
 	{
 		"aired": 1476352800,
 		"stats": {
-			"commentCount": 20,
-			"viewCount": 10108,
+			"commentCount": 21,
+			"viewCount": 10456,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 188
+			"likeCount": 194
 		},
 		"title": "[1/4] Let's Play Syndrome mit Simon | Crawling in my mind | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2115,
 		"hosts": [
 			"Simon"
@@ -4750,13 +4953,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 3596,
+			"viewCount": 3736,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 97
+			"likeCount": 101
 		},
 		"title": "[2/4] Let's Play Syndrome mit Simon | Wohin genau? | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1846,
 		"hosts": [
 			"Simon"
@@ -4772,13 +4976,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 2448,
+			"viewCount": 2551,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 69
+			"likeCount": 70
 		},
 		"title": "[4/4] Let's Play Syndrome mit Simon | Renn zum Fahrstuhl! | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 626,
 		"hosts": [
 			"Simon"
@@ -4794,13 +4999,14 @@
 		"aired": 1476352800,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 2988,
+			"viewCount": 3108,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 72
+			"likeCount": 76
 		},
 		"title": "[3/4] Let's Play Syndrome mit Simon | Der Angsthase | 13.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1890,
 		"hosts": [
 			"Simon"
@@ -4816,13 +5022,14 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 119,
-			"viewCount": 13096,
+			"viewCount": 13308,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
-			"likeCount": 731
+			"likeCount": 736
 		},
 		"title": "[39] Buch Klub mit Bell & Markus Heitz | Die Zwerge & Die Legenden der Albae | 14.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2700,
 		"hosts": [
 			"Bell"
@@ -4838,13 +5045,14 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 14826,
+			"viewCount": 15004,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 449
+			"likeCount": 456
 		},
 		"title": "[1/2] Top 20 der Horrorgame-Geheimtipps: Pl\u00e4tze 20 - 16 | Retro Klub mit Gregor | 14.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1660,
 		"hosts": [
 			"Gregor"
@@ -4860,13 +5068,14 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 9424,
+			"viewCount": 9555,
 			"favoriteCount": 0,
-			"dislikeCount": 2,
-			"likeCount": 324
+			"dislikeCount": 3,
+			"likeCount": 330
 		},
 		"title": "[2/2] Top 20 der Horrorgame-Geheimtipps: Pl\u00e4tze 15 - 11 | Retro Klub mit Gregor | 14.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1828,
 		"hosts": [
 			"Gregor"
@@ -4882,15 +5091,16 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 4456,
+			"viewCount": 4546,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 107
+			"likeCount": 113
 		},
 		"title": "[17] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 14.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1522,
 		"hosts": [
 			"Simon",
@@ -4907,15 +5117,16 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 3161,
+			"viewCount": 3238,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 83
+			"likeCount": 87
 		},
 		"title": "[18] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 14.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1661,
 		"hosts": [
 			"Simon",
@@ -4932,15 +5143,16 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 2928,
+			"viewCount": 3021,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 75
+			"likeCount": 79
 		},
 		"title": "[19] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 14.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1274,
 		"hosts": [
 			"Simon",
@@ -4957,15 +5169,16 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 3496,
+			"viewCount": 3570,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 89
+			"likeCount": 94
 		},
 		"title": "[20] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 14.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 804,
 		"hosts": [
 			"Simon",
@@ -4982,13 +5195,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 12820,
+			"viewCount": 12970,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 732
+			"likeCount": 739
 		},
 		"title": "Tomb Raider (History) | Lara Croft wird 20: Rocket Beans TV gratuliert zum Geburtstag!",
 		"series": [],
+		"event": false,
 		"length": 720,
 		"hosts": [],
 		"published": 1476525603,
@@ -5000,13 +5214,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 11916,
+			"viewCount": 11981,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
-			"likeCount": 535
+			"likeCount": 536
 		},
 		"title": "20 Jahre TOMB RAIDER | Gl\u00fcckw\u00fcnsche an  LARA CROFT | Rocket Beans TV",
 		"series": [],
+		"event": false,
 		"length": 478,
 		"hosts": [],
 		"published": 1476527401,
@@ -5018,13 +5233,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 31859,
+			"viewCount": 31971,
 			"favoriteCount": 0,
 			"dislikeCount": 237,
-			"likeCount": 1187
+			"likeCount": 1189
 		},
 		"title": "[1/2] Billiger Abklatsch | Die Abklatschweltmeisterschaft bei Rocket Beans TV",
 		"series": [],
+		"event": false,
 		"length": 387,
 		"hosts": [],
 		"published": 1476536401,
@@ -5036,13 +5252,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 14365,
+			"viewCount": 14406,
 			"favoriteCount": 0,
 			"dislikeCount": 55,
-			"likeCount": 871
+			"likeCount": 872
 		},
 		"title": "[2/2] Billiger Abklatsch | Die Abklatschweltmeisterschaft bei Rocket Beans TV",
 		"series": [],
+		"event": false,
 		"length": 396,
 		"hosts": [],
 		"published": 1476538200,
@@ -5054,13 +5271,14 @@
 		"aired": 1476525600,
 		"stats": {
 			"commentCount": 66,
-			"viewCount": 19491,
+			"viewCount": 19767,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 523
+			"likeCount": 528
 		},
 		"title": "Sonic The Hedgehog mit Gregor & Sia | Speedrundale | 15.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2307,
 		"hosts": [
 			"Sia",
@@ -5077,13 +5295,14 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 92,
-			"viewCount": 14123,
+			"viewCount": 14358,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 450
+			"likeCount": 454
 		},
 		"title": "[1/2] Team Limited Counter-Strike:Global Offensive mit Flo, Max, Ben, Oli und Ren\u00e9 | 14.10.2016",
 		"series": [],
+		"event": false,
 		"length": 5086,
 		"hosts": [
 			"Oli",
@@ -5103,13 +5322,14 @@
 		"aired": 1476439200,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 8131,
+			"viewCount": 8254,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 275
+			"likeCount": 279
 		},
 		"title": "[2/2] Team Limited Counter-Strike:Global Offensive mit Flo, Max, Ben, Oli und Ren\u00e9 | 14.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2415,
 		"hosts": [
 			"Oli",
@@ -5129,13 +5349,14 @@
 		"aired": 1476612000,
 		"stats": {
 			"commentCount": 240,
-			"viewCount": 47004,
+			"viewCount": 47964,
 			"favoriteCount": 0,
-			"dislikeCount": 42,
-			"likeCount": 1654
+			"dislikeCount": 43,
+			"likeCount": 1672
 		},
 		"title": "[1/2] Almost Daily #259 | Thema: Steinzeit, Alkohol vor der Kamera | 16.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1618,
 		"hosts": [
 			"Simon",
@@ -5152,14 +5373,15 @@
 	{
 		"aired": 1476612000,
 		"stats": {
-			"commentCount": 135,
-			"viewCount": 34316,
+			"commentCount": 136,
+			"viewCount": 34923,
 			"favoriteCount": 0,
-			"dislikeCount": 11,
-			"likeCount": 1561
+			"dislikeCount": 12,
+			"likeCount": 1579
 		},
 		"title": "[2/2] Almost Daily #259 | Thema: Die schlimmsten Nebenjobs, Kluge Wale | 16.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1715,
 		"hosts": [
 			"Simon",
@@ -5177,13 +5399,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 101,
-			"viewCount": 17133,
+			"viewCount": 17207,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
-			"likeCount": 622
+			"likeCount": 623
 		},
 		"title": "#MoinMoin mit Anne & Gregor | Formel 1 | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2818,
 		"hosts": [
 			"Gregor"
@@ -5199,13 +5422,14 @@
 		"aired": 1474106400,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 11567,
+			"viewCount": 11632,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 708
+			"likeCount": 712
 		},
 		"title": "[98] Gino+ | Richtig Liegen/Schlafen mit Mental | 17.09.2016",
 		"series": [],
+		"event": false,
 		"length": 622,
 		"hosts": [
 			"Gino",
@@ -5222,13 +5446,14 @@
 		"aired": 1475661600,
 		"stats": {
 			"commentCount": 135,
-			"viewCount": 28315,
+			"viewCount": 28513,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 955
+			"likeCount": 962
 		},
 		"title": "[99] Gino+ | Die letzte Folge | 05.10.2016",
 		"series": [],
+		"event": false,
 		"length": 396,
 		"hosts": [
 			"Gino",
@@ -5245,13 +5470,14 @@
 		"aired": 1476612000,
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 11177,
+			"viewCount": 11785,
 			"favoriteCount": 0,
-			"dislikeCount": 124,
-			"likeCount": 297
+			"dislikeCount": 127,
+			"likeCount": 306
 		},
 		"title": "[1/2] Let's Play PlayStation VR Worlds & Ocean Descent mit Lars, Sofia und Florentin  | 16.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1698,
 		"hosts": [
 			"Florentin",
@@ -5269,13 +5495,14 @@
 		"aired": 1476612000,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 7026,
+			"viewCount": 7238,
 			"favoriteCount": 0,
-			"dislikeCount": 73,
-			"likeCount": 190
+			"dislikeCount": 74,
+			"likeCount": 196
 		},
 		"title": "[2/2] Let's Play Resident Evil 7, The London Heist mit Lars, Sofia und Florentin  | 16.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1667,
 		"hosts": [
 			"Florentin",
@@ -5293,13 +5520,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 8593,
+			"viewCount": 8645,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 248
+			"likeCount": 250
 		},
 		"title": "[1/4] Dragon Quest Builders & WRC 6 | Game+ Daily | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1798,
 		"hosts": [
 			"Simon",
@@ -5317,13 +5545,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 50,
-			"viewCount": 15580,
+			"viewCount": 15617,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
-			"likeCount": 560
+			"likeCount": 561
 		},
 		"title": "Kevin Hart-Filme, Red Dead Redemption 2?, Vogel des Jahres, Beans On Rei\u00dfzahn  | News vom 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 479,
 		"hosts": [],
 		"published": 1476729779,
@@ -5337,13 +5566,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4348,
+			"viewCount": 4389,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 121
+			"likeCount": 124
 		},
 		"title": "[2/4] Dragon Quest Builders & WRC 6 | Game+ Daily | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1677,
 		"hosts": [
 			"Simon",
@@ -5361,13 +5591,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 4076,
+			"viewCount": 4117,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 125
+			"likeCount": 127
 		},
 		"title": "[3/4] Dragon Quest Builders & WRC 6 | Game+ Daily | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2576,
 		"hosts": [
 			"Simon",
@@ -5385,13 +5616,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 2427,
+			"viewCount": 2452,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 107
+			"likeCount": 108
 		},
 		"title": "[4/4] Beef der Woche: Shinobi | Game+ Daily | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 688,
 		"hosts": [
 			"Simon",
@@ -5409,13 +5641,14 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 9227,
+			"viewCount": 9285,
 			"favoriteCount": 0,
 			"dislikeCount": 72,
 			"likeCount": 422
 		},
 		"title": "#MoinMoin mit Andreas | Geschichten aus Amerika | 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2826,
 		"hosts": [
 			"Andreas L"
@@ -5431,13 +5664,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 16214,
+			"viewCount": 16323,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 548
 		},
 		"title": "[1/2] Bundesliga Spieltagsanalyse - 7. Spieltag | Bohndesliga-Fu\u00dfball bei Rocket Beans | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2780,
 		"hosts": [
 			"Eddy",
@@ -5454,13 +5688,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 10445,
+			"viewCount": 10527,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 385
+			"likeCount": 389
 		},
 		"title": "[2/2] Bundesliga Spieltagsanalyse - 7. Spieltag | Bohndesliga-Fu\u00dfball bei Rocket Beans | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3163,
 		"hosts": [
 			"Eddy",
@@ -5477,13 +5712,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 12927,
+			"viewCount": 13240,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 342
+			"likeCount": 347
 		},
 		"title": "[1/3] FIFA 17 Pro Clubs #2 mit Nils, Etienne, Lars, Timo & Marco | Ranked | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2365,
 		"hosts": [
 			"Timo B",
@@ -5503,13 +5739,14 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 8909,
+			"viewCount": 9158,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 252
+			"likeCount": 256
 		},
 		"title": "[2/3] FIFA 17 Pro Clubs #2 mit Nils, Etienne, Lars, Timo & Marco | Ranked | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2901,
 		"hosts": [
 			"Timo B",
@@ -5528,14 +5765,15 @@
 	{
 		"aired": 1476698400,
 		"stats": {
-			"commentCount": 23,
-			"viewCount": 8505,
+			"commentCount": 24,
+			"viewCount": 8767,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 273
+			"likeCount": 280
 		},
 		"title": "[3/3] FIFA 17 Pro Clubs #2 mit Nils, Etienne, Lars, Timo & Marco | Ranked | 17.10.2016",
 		"series": [],
+		"event": false,
 		"length": 5295,
 		"hosts": [
 			"Timo B",
@@ -5555,13 +5793,14 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 7910,
+			"viewCount": 8014,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 313
+			"likeCount": 317
 		},
 		"title": "[1/2] R-Type - Reihe | Retro Klub mit Colin | 21.07.2016",
 		"series": [],
+		"event": false,
 		"length": 1494,
 		"hosts": [
 			"Colin"
@@ -5577,13 +5816,14 @@
 		"aired": 1469095200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3406,
+			"viewCount": 3474,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 154
+			"likeCount": 159
 		},
 		"title": "[2/2] Irem-Games: Moon Patrol, Kung-Fu Master, Image Fight | Retro Klub mit Colin | 21.07.2016",
 		"series": [],
+		"event": false,
 		"length": 1232,
 		"hosts": [
 			"Colin"
@@ -5599,15 +5839,16 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 9208,
+			"viewCount": 9720,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 227
+			"likeCount": 234
 		},
 		"title": "[15] Let's Play Civilization VI mit Dennis | 17.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1637,
 		"hosts": [
 			"Dennis R"
@@ -5623,15 +5864,16 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 6915,
+			"viewCount": 7388,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 163
+			"likeCount": 169
 		},
 		"title": "[16] Let's Play Civilization VI mit Dennis | 17.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1604,
 		"hosts": [
 			"Dennis R"
@@ -5647,15 +5889,16 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 7036,
+			"viewCount": 7474,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 153
+			"likeCount": 161
 		},
 		"title": "[17] Let's Play Civilization VI mit Dennis | 17.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1580,
 		"hosts": [
 			"Dennis R"
@@ -5671,15 +5914,16 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8317,
+			"viewCount": 8847,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 197
+			"likeCount": 203
 		},
 		"title": "[18] Let's Play Civilization VI mit Dennis | 17.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1811,
 		"hosts": [
 			"Dennis R"
@@ -5695,13 +5939,14 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 12641,
+			"viewCount": 12676,
 			"favoriteCount": 0,
 			"dislikeCount": 57,
-			"likeCount": 413
+			"likeCount": 414
 		},
 		"title": "Red Dead Redemption 2 | News vom 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 90,
 		"hosts": [],
 		"published": 1476814126,
@@ -5715,13 +5960,14 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 9306,
+			"viewCount": 9384,
 			"favoriteCount": 0,
 			"dislikeCount": 38,
-			"likeCount": 237
+			"likeCount": 239
 		},
 		"title": "[1/4] Battlefield 1, Manual Samuel & Play-Festival | Game+ Daily mit Sofia | 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1801,
 		"hosts": [
 			"Sofia",
@@ -5739,13 +5985,14 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4419,
+			"viewCount": 4464,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 134
+			"likeCount": 135
 		},
 		"title": "[2/4] Battlefield 1, Manual Samuel & Play-Festival | Game+ Daily mit Sofia | 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1678,
 		"hosts": [
 			"Sofia",
@@ -5763,13 +6010,14 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 4441,
+			"viewCount": 4494,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 139
+			"likeCount": 143
 		},
 		"title": "[3/4] Battlefield 1, Manual Samuel & Play-Festival | Game+ Daily mit Sofia | 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2575,
 		"hosts": [
 			"Sofia",
@@ -5787,13 +6035,14 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 2550,
+			"viewCount": 2570,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 117
+			"likeCount": 119
 		},
 		"title": "[4/4] Beef der Woche: Shinobi | Game+ Daily | 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 691,
 		"hosts": [
 			"Sofia",
@@ -5811,15 +6060,16 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 48,
-			"viewCount": 11360,
+			"viewCount": 11672,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 301
+			"likeCount": 308
 		},
 		"title": "[4] Let's Play Metroid Prime mit Etienne | Raketenwerfer | 17.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1570,
 		"hosts": [
 			"Eddy"
@@ -5835,15 +6085,16 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 5787,
+			"viewCount": 6074,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 151
+			"likeCount": 158
 		},
 		"title": "[5] Let's Play Metroid Prime mit Etienne | Jurassic Park-Musik?| 17.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1583,
 		"hosts": [
 			"Eddy"
@@ -5858,16 +6109,17 @@
 	{
 		"aired": 1476698400,
 		"stats": {
-			"commentCount": 10,
-			"viewCount": 5217,
+			"commentCount": 12,
+			"viewCount": 5497,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 147
+			"likeCount": 158
 		},
 		"title": "[6] Let's Play Metroid Prime mit Etienne | Elefanten bei RBTV | 17.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1587,
 		"hosts": [
 			"Eddy"
@@ -5883,15 +6135,16 @@
 		"aired": 1476698400,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 5182,
+			"viewCount": 5485,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 156
+			"likeCount": 161
 		},
 		"title": "[7] Let's Play Metroid Prime mit Etienne | Magmor - Der Place To Be | 17.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1618,
 		"hosts": [
 			"Eddy"
@@ -5906,14 +6159,15 @@
 	{
 		"aired": 1476871200,
 		"stats": {
-			"commentCount": 244,
-			"viewCount": 28087,
+			"commentCount": 245,
+			"viewCount": 28642,
 			"favoriteCount": 0,
-			"dislikeCount": 36,
-			"likeCount": 1400
+			"dislikeCount": 37,
+			"likeCount": 1409
 		},
 		"title": "#MoinMoin mit Chris & Wolf | Chrolf-Reunion, Bauchn\u00e4bel & Radio Nukular On Tour | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3713,
 		"hosts": [],
 		"published": 1476882013,
@@ -5926,14 +6180,15 @@
 	{
 		"aired": 1476784800,
 		"stats": {
-			"commentCount": 161,
-			"viewCount": 25567,
+			"commentCount": 164,
+			"viewCount": 26073,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 782
+			"likeCount": 792
 		},
 		"title": "[1/2] Chat Duell Staffel 2 mit Lars Team AMM gegen Team MMA | 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1998,
 		"hosts": [
 			"Lars",
@@ -5951,14 +6206,15 @@
 	{
 		"aired": 1476784800,
 		"stats": {
-			"commentCount": 117,
-			"viewCount": 17897,
+			"commentCount": 119,
+			"viewCount": 18370,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 728
+			"likeCount": 739
 		},
 		"title": "[2/2] Chat Duell Staffel 2 mit Lars Team AMM gegen Team MMA | 18.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2839,
 		"hosts": [
 			"Lars",
@@ -5977,7 +6233,7 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 2527,
+			"viewCount": 2619,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 87
@@ -5986,6 +6242,7 @@
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1605,
 		"hosts": [
 			"Gregor"
@@ -6001,15 +6258,16 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 1403,
+			"viewCount": 1501,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 56
+			"likeCount": 57
 		},
 		"title": "[35] Let's Play Terranigma mit Gregor | Aufmerksame W\u00e4chter | Classix | 18.10.2016",
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1513,
 		"hosts": [
 			"Gregor"
@@ -6025,15 +6283,16 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 1698,
+			"viewCount": 1794,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 59
+			"likeCount": 60
 		},
 		"title": "[36] Let's Play Terranigma mit Gregor | Befreie die Prinzessin! | Classix | 18.10.2016",
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1557,
 		"hosts": [
 			"Gregor"
@@ -6049,15 +6308,16 @@
 		"aired": 1476784800,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 1926,
+			"viewCount": 2045,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 73
+			"likeCount": 76
 		},
 		"title": "[37] Let's Play Terranigma mit Gregor | Kamera & Wein | Classix | 18.10.2016",
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1692,
 		"hosts": [
 			"Gregor"
@@ -6072,14 +6332,15 @@
 	{
 		"aired": 1476871200,
 		"stats": {
-			"commentCount": 218,
-			"viewCount": 36476,
+			"commentCount": 219,
+			"viewCount": 37430,
 			"favoriteCount": 0,
 			"dislikeCount": 62,
-			"likeCount": 1112
+			"likeCount": 1132
 		},
 		"title": "[1/2] Almost Plaily #30 | Klartext mit Etienne, Simon, Gregor und Sofia | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1622,
 		"hosts": [
 			"Eddy",
@@ -6098,13 +6359,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 12318,
+			"viewCount": 12588,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 527
+			"likeCount": 534
 		},
 		"title": "[2/2] Almost Plaily #30 | Klartext mit Etienne, Simon, Gregor und Sofia | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1542,
 		"hosts": [
 			"Eddy",
@@ -6123,13 +6385,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 8068,
+			"viewCount": 8153,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 222
+			"likeCount": 226
 		},
 		"title": "[1/4] Batman: Return to Arkham & Detektivgame-Roundup | Game+ Daily mit Simon | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1799,
 		"hosts": [
 			"Simon",
@@ -6147,13 +6410,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 14232,
+			"viewCount": 14295,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
-			"likeCount": 523
+			"likeCount": 525
 		},
 		"title": "Halloween Sale, Selbstmord durch Internetmobbing, Ist Lars Gott? | News vom 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 482,
 		"hosts": [],
 		"published": 1476900000,
@@ -6167,13 +6431,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 4440,
+			"viewCount": 4501,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 128
+			"likeCount": 131
 		},
 		"title": "[2/4] Batman: Return to Arkham & Detektivgame-Roundup | Game+ Daily mit Simon | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1679,
 		"hosts": [
 			"Simon",
@@ -6191,13 +6456,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 9131,
+			"viewCount": 9280,
 			"favoriteCount": 0,
 			"dislikeCount": 51,
-			"likeCount": 493
+			"likeCount": 496
 		},
 		"title": "Sziget Festival - The Island of Freedom | Musik, Farben & die Stempeljagd | Festivalsommer",
 		"series": [],
+		"event": true,
 		"length": 1262,
 		"hosts": [
 			"Sofia",
@@ -6207,20 +6473,21 @@
 		"id": "kkBA489ikw4",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Festival Sommer 2016"
+			"Festival Sommer 2016"
 		]
 	},
 	{
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 3766,
+			"viewCount": 3829,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 117
+			"likeCount": 119
 		},
 		"title": "[3/4] Batman: Return to Arkham & Detektivgame-Roundup | Game+ Daily mit Simon | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2579,
 		"hosts": [
 			"Simon",
@@ -6238,13 +6505,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2082,
+			"viewCount": 2113,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 109
+			"likeCount": 111
 		},
 		"title": "[4/4] Beef der Woche: Shinobi | Game+ Daily | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 718,
 		"hosts": [
 			"Simon",
@@ -6262,13 +6530,14 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 11483,
+			"viewCount": 11603,
 			"favoriteCount": 0,
 			"dislikeCount": 36,
 			"likeCount": 275
 		},
 		"title": "#MoinMoin mit Sofia | PLAY 16 - Das Creative Gaming Festival in Hamburg | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2824,
 		"hosts": [
 			"Sofia"
@@ -6284,13 +6553,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 177,
-			"viewCount": 16973,
+			"viewCount": 17198,
 			"favoriteCount": 0,
 			"dislikeCount": 54,
-			"likeCount": 748
+			"likeCount": 756
 		},
 		"title": "[1/3] Die Geschichte der Hausband, Rayk Anders: Eure Dummheit kotzt mich an | Bohn Jour | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2512,
 		"hosts": [
 			"Eddy",
@@ -6307,13 +6577,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 31,
-			"viewCount": 12242,
+			"viewCount": 12419,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 455
+			"likeCount": 461
 		},
 		"title": "[2/3] Wahrheit oder L\u00fcge - Spiel mit Daniel Dildodieb | Bohn Jour | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1549,
 		"hosts": [
 			"Eddy",
@@ -6330,13 +6601,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 8610,
+			"viewCount": 8749,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 395
+			"likeCount": 403
 		},
 		"title": "[3/3] Poki von Daedelic, Red Dead Rocketminers, Bergmann Pokinsson | Bohn Jour | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1488,
 		"hosts": [
 			"Eddy",
@@ -6353,13 +6625,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 13183,
+			"viewCount": 13471,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 274
+			"likeCount": 280
 		},
 		"title": "[1/2] Ranked Spezial | Battlefield 1 mit Simon, Olli, Ren\u00e9, Steffen & Dima | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2057,
 		"hosts": [
 			"Dima",
@@ -6379,13 +6652,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 5000,
+			"viewCount": 5168,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 130
+			"likeCount": 135
 		},
 		"title": "[2/2] Ranked Spezial | Battlefield 1 mit Simon, Olli, Ren\u00e9, Steffen & Dima | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3047,
 		"hosts": [
 			"Dima",
@@ -6405,15 +6679,16 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 2435,
+			"viewCount": 2479,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 61
+			"likeCount": 60
 		},
 		"title": "[38] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 19.10.2016",
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1463,
 		"hosts": [
 			"Bell",
@@ -6430,15 +6705,16 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 823,
+			"viewCount": 871,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 35
+			"likeCount": 36
 		},
 		"title": "[39] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 19.10.2016",
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1569,
 		"hosts": [
 			"Bell",
@@ -6455,15 +6731,16 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 799,
+			"viewCount": 847,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 29
+			"likeCount": 31
 		},
 		"title": "[40] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 19.10.2016",
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1547,
 		"hosts": [
 			"Bell",
@@ -6480,15 +6757,16 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 1294,
+			"viewCount": 1343,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 37
+			"likeCount": 39
 		},
 		"title": "[41] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 19.10.2016",
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1695,
 		"hosts": [
 			"Bell",
@@ -6504,14 +6782,15 @@
 	{
 		"aired": 1476957600,
 		"stats": {
-			"commentCount": 37,
-			"viewCount": 13142,
+			"commentCount": 39,
+			"viewCount": 13215,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 414
+			"likeCount": 415
 		},
 		"title": "Red Dead Redemption 2, Nintendo Switch, Ginos Gym | News vom 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 335,
 		"hosts": [],
 		"published": 1476986401,
@@ -6525,13 +6804,14 @@
 		"aired": 1476871200,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 11352,
+			"viewCount": 11601,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 501
+			"likeCount": 504
 		},
 		"title": "[37] Bottle Battle - Von der Flasche ins Glas | Weekly Wahnsinn | 19.10.2016",
 		"series": [],
+		"event": false,
 		"length": 286,
 		"hosts": [
 			"Simon",
@@ -6550,13 +6830,14 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 93,
-			"viewCount": 31458,
+			"viewCount": 31865,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 926
+			"likeCount": 934
 		},
 		"title": "[1/3] Kino+ | John Wick 2, Guardians Of The Galaxy 2, Don't Breathe | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1592,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6573,13 +6854,14 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 79,
-			"viewCount": 29004,
+			"viewCount": 29482,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 756
+			"likeCount": 762
 		},
 		"title": "[2/3] Kino+ | Schneider vs Bax, Trolls, Bridget Jones's Baby, Das kalte Herz | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2953,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6596,13 +6878,14 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 146,
-			"viewCount": 23963,
+			"viewCount": 24290,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 727
+			"likeCount": 733
 		},
 		"title": "[3/3] Kino+ | YouTube Red-Serien, Silence, The Irishman, Terror, Mulan | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2481,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6618,14 +6901,15 @@
 	{
 		"aired": 1476957600,
 		"stats": {
-			"commentCount": 289,
-			"viewCount": 33039,
+			"commentCount": 292,
+			"viewCount": 35422,
 			"favoriteCount": 0,
 			"dislikeCount": 76,
-			"likeCount": 618
+			"likeCount": 633
 		},
 		"title": "[1/4] Nintendo Switch | Game+ Daily mit Budi | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1796,
 		"hosts": [
 			"Budi",
@@ -6643,13 +6927,14 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 11389,
+			"viewCount": 11608,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 269
+			"likeCount": 274
 		},
 		"title": "[2/4] Red Dead Redemption 2, Rez Infinite | Game+ Daily mit Budi | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1674,
 		"hosts": [
 			"Budi",
@@ -6667,13 +6952,14 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 6720,
+			"viewCount": 6833,
 			"favoriteCount": 0,
-			"dislikeCount": 8,
-			"likeCount": 206
+			"dislikeCount": 9,
+			"likeCount": 209
 		},
 		"title": "[3/4] Kung Fu Master Beef, Terra Battle, Alto's Adventure | Game+ Daily mit Budi | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2569,
 		"hosts": [
 			"Budi",
@@ -6691,13 +6977,14 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 3691,
+			"viewCount": 3755,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 136
+			"likeCount": 138
 		},
 		"title": "[4/4] Beef der Woche: Shinobi | Game+ Daily mit Budi | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 689,
 		"hosts": [
 			"Budi",
@@ -6715,15 +7002,16 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 6017,
+			"viewCount": 6122,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
-			"likeCount": 155
+			"likeCount": 157
 		},
 		"title": "[3] Let's Play Don't Starve Together mit Florentin & Andreas | I Like The Flowers | 20.10.2016",
 		"series": [
 			"Don't Starve Together"
 		],
+		"event": false,
 		"length": 1640,
 		"hosts": [
 			"Andreas L",
@@ -6740,15 +7028,16 @@
 		"aired": 1476957600,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 3515,
+			"viewCount": 3586,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 119
+			"likeCount": 123
 		},
 		"title": "[4] Let's Play Don't Starve Together mit Florentin & Andreas | Das Finden der Karte | 20.10.2016",
 		"series": [
 			"Don't Starve Together"
 		],
+		"event": false,
 		"length": 1626,
 		"hosts": [
 			"Andreas L",
@@ -6764,14 +7053,15 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 89,
-			"viewCount": 20743,
+			"commentCount": 90,
+			"viewCount": 21171,
 			"favoriteCount": 0,
-			"dislikeCount": 33,
-			"likeCount": 764
+			"dislikeCount": 34,
+			"likeCount": 768
 		},
 		"title": "#MoinMoin mit Florentin | Filme im Mittelalter, Autor werden, Tamme Hanken | 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3863,
 		"hosts": [
 			"Florentin"
@@ -6786,14 +7076,15 @@
 	{
 		"aired": 1476957600,
 		"stats": {
-			"commentCount": 294,
-			"viewCount": 47586,
+			"commentCount": 295,
+			"viewCount": 50296,
 			"favoriteCount": 0,
 			"dislikeCount": 38,
-			"likeCount": 1528
+			"likeCount": 1565
 		},
 		"title": "[13] Social Eating mit Simon | K\u00e4sefondue | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1534,
 		"hosts": [
 			"Simon"
@@ -6808,14 +7099,15 @@
 	{
 		"aired": 1476957600,
 		"stats": {
-			"commentCount": 234,
-			"viewCount": 31738,
+			"commentCount": 236,
+			"viewCount": 32591,
 			"favoriteCount": 0,
 			"dislikeCount": 54,
-			"likeCount": 1776
+			"likeCount": 1804
 		},
 		"title": "Ginos Gym | Grundumsatz, Leistungsumsatz, Kalorien, Di\u00e4t, Gino+ | 20.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1772,
 		"hosts": [
 			"Gino",
@@ -6831,14 +7123,15 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 150,
-			"viewCount": 27648,
+			"commentCount": 160,
+			"viewCount": 29491,
 			"favoriteCount": 0,
-			"dislikeCount": 64,
-			"likeCount": 1917
+			"dislikeCount": 66,
+			"likeCount": 2001
 		},
 		"title": "Resistopia der Film | The Resistance | Rocket Beans TV [HD][eng sub]",
 		"series": [],
+		"event": false,
 		"length": 1211,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -6846,19 +7139,22 @@
 		"published": 1477065760,
 		"id": "Y7N2GmUjdTo",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Rocket Beans on tour"
+		]
 	},
 	{
 		"aired": 1477044000,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 14953,
+			"viewCount": 15012,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 616
+			"likeCount": 617
 		},
 		"title": "Esport-Show auf YouTube Red, Star Trek Brigde Crew verschoben, Axt-Reparatur | News vom 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 616,
 		"hosts": [],
 		"published": 1477072802,
@@ -6872,13 +7168,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 18735,
+			"viewCount": 18933,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 865
+			"likeCount": 869
 		},
 		"title": "CALL OF DUTY: Modern Warfare Remastered mit Simon und Schr\u00f6ck | Knallhart Durchgenommen | TEASER",
 		"series": [],
+		"event": false,
 		"length": 45,
 		"hosts": [],
 		"published": 1477074600,
@@ -6889,14 +7186,15 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 61,
-			"viewCount": 14489,
+			"commentCount": 54,
+			"viewCount": 14732,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 406
+			"likeCount": 409
 		},
 		"title": "[1/2] Top 20 der Horrorgame-Geheimtipps: Pl\u00e4tze 10 - 6 | Retro Klub mit Gregor | 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1570,
 		"hosts": [
 			"Gregor"
@@ -6911,14 +7209,15 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 53,
-			"viewCount": 10169,
+			"commentCount": 54,
+			"viewCount": 10411,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 306
+			"likeCount": 312
 		},
 		"title": "[2/2] Top 20 der Horrorgame-Geheimtipps: Pl\u00e4tze 5 - 1 | Retro Klub mit Gregor | 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1698,
 		"hosts": [
 			"Gregor"
@@ -6933,16 +7232,17 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 49,
-			"viewCount": 26923,
+			"commentCount": 53,
+			"viewCount": 29875,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 767
+			"likeCount": 802
 		},
 		"title": "CALL OF DUTY: Modern Warfare Remastered mit Simon und Schr\u00f6ck | #1 | 21.10.2016",
 		"series": [
 			"Call of Duty 4: Modern Warfare"
 		],
+		"event": false,
 		"length": 1843,
 		"hosts": [
 			"Simon",
@@ -6958,16 +7258,17 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 14,
-			"viewCount": 16734,
+			"commentCount": 15,
+			"viewCount": 18415,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 423
+			"likeCount": 437
 		},
 		"title": "CALL OF DUTY: Modern Warfare Remastered mit Simon und Schr\u00f6ck | #2 | 21.10.2016",
 		"series": [
 			"Call of Duty 4: Modern Warfare"
 		],
+		"event": false,
 		"length": 1575,
 		"hosts": [
 			"Simon",
@@ -6983,16 +7284,17 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 37,
-			"viewCount": 14136,
+			"commentCount": 39,
+			"viewCount": 15558,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 349
+			"likeCount": 368
 		},
 		"title": "CALL OF DUTY: Modern Warfare Remastered mit Simon und Schr\u00f6ck | #3 | 21.10.2016",
 		"series": [
 			"Call of Duty 4: Modern Warfare"
 		],
+		"event": false,
 		"length": 1691,
 		"hosts": [
 			"Simon",
@@ -7008,16 +7310,17 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 48,
-			"viewCount": 13464,
+			"commentCount": 53,
+			"viewCount": 15174,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 455
+			"likeCount": 484
 		},
 		"title": "CALL OF DUTY: Modern Warfare Remastered mit Simon und Schr\u00f6ck | #4 | 21.10.2016",
 		"series": [
 			"Call of Duty 4: Modern Warfare"
 		],
+		"event": false,
 		"length": 1769,
 		"hosts": [
 			"Simon",
@@ -7034,13 +7337,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 14063,
+			"viewCount": 14097,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
-			"likeCount": 517
+			"likeCount": 519
 		},
 		"title": "Beans On Rei\u00dfzahn, Skyrim-Event, Telekollektiv: Der Nachtmahr | Wochenteaser KW 43",
 		"series": [],
+		"event": false,
 		"length": 129,
 		"hosts": [],
 		"published": 1477137607,
@@ -7052,13 +7356,14 @@
 		"aired": 1477044000,
 		"stats": {
 			"commentCount": 75,
-			"viewCount": 16042,
+			"viewCount": 16512,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 426
+			"likeCount": 429
 		},
 		"title": "[1/2] Team Limited Counter-Strike:Global Offensive mit Etienne, Flo, Ben, Olli und Ren\u00e9 | 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3896,
 		"hosts": [
 			"Oli",
@@ -7078,13 +7383,14 @@
 		"aired": 1477044000,
 		"stats": {
 			"commentCount": 50,
-			"viewCount": 11163,
+			"viewCount": 11461,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 278
+			"likeCount": 284
 		},
 		"title": "[2/2] Team Limited Counter-Strike:Global Offensive mit Etienne, Flo, Ben, Olli und Ren\u00e9 | 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3948,
 		"hosts": [
 			"Oli",
@@ -7104,13 +7410,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 20363,
+			"viewCount": 20619,
 			"favoriteCount": 0,
 			"dislikeCount": 117,
-			"likeCount": 1622
+			"likeCount": 1630
 		},
 		"title": "DIE HAUSBAND: Es singt das Niveau | Rocket Beans TV",
 		"series": [],
+		"event": false,
 		"length": 444,
 		"hosts": [],
 		"published": 1477144800,
@@ -7121,14 +7428,15 @@
 	{
 		"aired": 1477130400,
 		"stats": {
-			"commentCount": 43,
-			"viewCount": 21993,
+			"commentCount": 44,
+			"viewCount": 22663,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 618
+			"likeCount": 628
 		},
 		"title": "Mega Man 9 Speedrun mit Marcel, Gregor, Sia & Simon | Speedrundale | 22.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3049,
 		"hosts": [
 			"Sia",
@@ -7146,13 +7454,14 @@
 		"aired": 1477216800,
 		"stats": {
 			"commentCount": 153,
-			"viewCount": 47173,
+			"viewCount": 48401,
 			"favoriteCount": 0,
-			"dislikeCount": 29,
-			"likeCount": 1402
+			"dislikeCount": 30,
+			"likeCount": 1431
 		},
 		"title": "[1/2] Almost Daily #260 | Thema: Winter Is Coming | 23.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1652,
 		"hosts": [
 			"Eddy",
@@ -7169,14 +7478,15 @@
 	{
 		"aired": 1477216800,
 		"stats": {
-			"commentCount": 245,
-			"viewCount": 31078,
+			"commentCount": 246,
+			"viewCount": 31960,
 			"favoriteCount": 0,
-			"dislikeCount": 24,
-			"likeCount": 1115
+			"dislikeCount": 25,
+			"likeCount": 1145
 		},
 		"title": "[2/2] Almost Daily #260 | Thema: Winter Is Coming | 23.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1715,
 		"hosts": [
 			"Eddy",
@@ -7194,13 +7504,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 14157,
+			"viewCount": 14278,
 			"favoriteCount": 0,
 			"dislikeCount": 60,
-			"likeCount": 387
+			"likeCount": 388
 		},
 		"title": "#MoinMoin mit Nasti und Bell | Schminken f\u00fcr Halloween | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2814,
 		"hosts": [
 			"Bell",
@@ -7217,15 +7528,16 @@
 		"aired": 1477044000,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3115,
+			"viewCount": 3237,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 89
+			"likeCount": 96
 		},
 		"title": "[21] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 21.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1682,
 		"hosts": [
 			"Simon",
@@ -7242,15 +7554,16 @@
 		"aired": 1477044000,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 1841,
+			"viewCount": 1946,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 63
+			"likeCount": 68
 		},
 		"title": "[22] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 21.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 1455,
 		"hosts": [
 			"Simon",
@@ -7267,15 +7580,16 @@
 		"aired": 1477044000,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 2308,
+			"viewCount": 2467,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 80
+			"likeCount": 87
 		},
 		"title": "[23] Knallhart Durchgenommen Gears Of War 4 mit Simon und Schr\u00f6ck | 21.10.2016",
 		"series": [
 			"Gears of War 4"
 		],
+		"event": false,
 		"length": 2956,
 		"hosts": [
 			"Simon",
@@ -7291,14 +7605,15 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 29,
-			"viewCount": 8541,
+			"commentCount": 30,
+			"viewCount": 8726,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
-			"likeCount": 307
+			"likeCount": 317
 		},
 		"title": "[1/2] Let's Tour De France 2016 mit Gino & Andreas | Der richtige Einsatz des Gels | 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1597,
 		"hosts": [
 			"Andreas L",
@@ -7314,14 +7629,15 @@
 	{
 		"aired": 1477044000,
 		"stats": {
-			"commentCount": 23,
-			"viewCount": 3601,
+			"commentCount": 26,
+			"viewCount": 3686,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 230
+			"likeCount": 237
 		},
 		"title": "[2/2] Let's Tour De France 2016 mit Gino & Andreas | Treten oder Lutschen? | 21.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1740,
 		"hosts": [
 			"Andreas L",
@@ -7338,7 +7654,7 @@
 		"aired": 1475056800,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 1663,
+			"viewCount": 1726,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 42
@@ -7347,6 +7663,7 @@
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1524,
 		"hosts": [
 			"Bell",
@@ -7363,13 +7680,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 84,
-			"viewCount": 14784,
+			"viewCount": 14857,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
-			"likeCount": 778
+			"likeCount": 781
 		},
 		"title": "Der Nachtmahr auf RBTV, Neue Folge ABXO, 100\u20ac in den M\u00fcll, Nils' Mega-Witz | News vom 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 600,
 		"hosts": [],
 		"published": 1477332001,
@@ -7383,13 +7701,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 6308,
+			"viewCount": 6384,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 178
+			"likeCount": 182
 		},
 		"title": "[1/4] Battlerite & Unloved | Game+ Daily mit Gregor | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1800,
 		"hosts": [
 			"Gregor",
@@ -7407,13 +7726,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3441,
+			"viewCount": 3490,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 83
+			"likeCount": 86
 		},
 		"title": "[2/4] Battlerite & Unloved | Game+ Daily mit Gregor | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1678,
 		"hosts": [
 			"Gregor",
@@ -7431,7 +7751,7 @@
 		"aired": 1475056800,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 570,
+			"viewCount": 605,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 30
@@ -7440,6 +7760,7 @@
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1651,
 		"hosts": [
 			"Bell",
@@ -7456,13 +7777,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 105,
-			"viewCount": 27140,
+			"viewCount": 27260,
 			"favoriteCount": 0,
 			"dislikeCount": 31,
-			"likeCount": 1066
+			"likeCount": 1067
 		},
 		"title": "OPERATION KLIEMANNSLAND | Teaser",
 		"series": [],
+		"event": false,
 		"length": 34,
 		"hosts": [],
 		"published": 1477334977,
@@ -7474,7 +7796,7 @@
 		"aired": 1475056800,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 512,
+			"viewCount": 548,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 29
@@ -7483,6 +7805,7 @@
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1583,
 		"hosts": [
 			"Bell",
@@ -7499,13 +7822,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 3125,
+			"viewCount": 3177,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 99
+			"likeCount": 103
 		},
 		"title": "[3/4] Battlerite & Unloved | Game+ Daily mit Gregor | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2577,
 		"hosts": [
 			"Gregor",
@@ -7523,15 +7847,16 @@
 		"aired": 1475056800,
 		"stats": {
 			"commentCount": 0,
-			"viewCount": 797,
+			"viewCount": 845,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 33
+			"likeCount": 34
 		},
 		"title": "[33] Let's Play Vampire: The Masquerade - Bloodlines mit Nasti und Bell | 28.09.2016",
 		"series": [
 			"Vampire: The Masquerade - Bloodlines"
 		],
+		"event": false,
 		"length": 1588,
 		"hosts": [
 			"Bell",
@@ -7548,13 +7873,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 3097,
+			"viewCount": 3135,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 103
+			"likeCount": 106
 		},
 		"title": "[4/4] Beef der Woche: Blood Bros. | Game+ Daily mit Gregor | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 692,
 		"hosts": [
 			"Gregor",
@@ -7572,13 +7898,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 70,
-			"viewCount": 12615,
+			"viewCount": 12807,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 592
+			"likeCount": 602
 		},
 		"title": "#MoinMoin mit Schr\u00f6ck | SHITT: Die besten Gruselfilme | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2829,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -7594,13 +7921,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 16439,
+			"viewCount": 16799,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 491
+			"likeCount": 496
 		},
 		"title": "[1/2] Bundesliga Spieltagsanalyse - 8. Spieltag | Bohndesliga-Fu\u00dfball bei Rocket Beans | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2763,
 		"hosts": [
 			"Nils",
@@ -7619,13 +7947,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 11710,
+			"viewCount": 12105,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 416
+			"likeCount": 419
 		},
 		"title": "[2/2] Bundesliga Spieltagsanalyse - 8. Spieltag | Bohndesliga-Fu\u00dfball bei Rocket Beans | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3277,
 		"hosts": [
 			"Nils",
@@ -7643,14 +7972,15 @@
 	{
 		"aired": 1477303200,
 		"stats": {
-			"commentCount": 32,
-			"viewCount": 10174,
+			"commentCount": 33,
+			"viewCount": 10581,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 236
+			"likeCount": 246
 		},
 		"title": "[1/4] FIFA 17 Pro Clubs #3 mit Nils, Etienne, Gunnar, Timo & Marco | Ranked | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2537,
 		"hosts": [
 			"Timo B",
@@ -7669,14 +7999,15 @@
 	{
 		"aired": 1477303200,
 		"stats": {
-			"commentCount": 17,
-			"viewCount": 6365,
+			"commentCount": 15,
+			"viewCount": 6631,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 170
+			"likeCount": 174
 		},
 		"title": "[2/4] FIFA 17 Pro Clubs #3 mit Nils, Etienne, Gunnar, Timo & Marco | Ranked | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2070,
 		"hosts": [
 			"Timo B",
@@ -7696,13 +8027,14 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 6206,
+			"viewCount": 6475,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 174
+			"likeCount": 179
 		},
 		"title": "[3/4] FIFA 17 Pro Clubs #3 mit Nils, Etienne, Gunnar, Timo & Marco | Ranked | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3057,
 		"hosts": [
 			"Timo B",
@@ -7721,14 +8053,15 @@
 	{
 		"aired": 1477303200,
 		"stats": {
-			"commentCount": 20,
-			"viewCount": 5054,
+			"commentCount": 21,
+			"viewCount": 5318,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 186
+			"likeCount": 193
 		},
 		"title": "[4/4] FIFA 17 Pro Clubs #3 mit Nils, Etienne, Gunnar, Timo & Marco | Ranked | 24.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2089,
 		"hosts": [
 			"Timo B",
@@ -7748,13 +8081,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 11929,
+			"viewCount": 12102,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 641
+			"likeCount": 645
 		},
 		"title": "MORD IM DORF | Beans On Rei\u00dfzahn | Teaser",
 		"series": [],
+		"event": false,
 		"length": 95,
 		"hosts": [],
 		"published": 1477412304,
@@ -7766,13 +8100,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 10375,
+			"viewCount": 10500,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 261
+			"likeCount": 264
 		},
 		"title": "[1/4] RunGunJumpGun & Dragon Quest Builders | Game+ Daily mit Etienne | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1796,
 		"hosts": [
 			"Eddy",
@@ -7791,13 +8126,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 5444,
+			"viewCount": 5542,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 143
+			"likeCount": 146
 		},
 		"title": "[2/4] A Quiver Of Crows & World Of Final Fantasy | Game+ Daily mit Etienne | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1676,
 		"hosts": [
 			"Eddy",
@@ -7816,13 +8152,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 5001,
+			"viewCount": 5134,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 150
+			"likeCount": 153
 		},
 		"title": "[3/4] News & World Of Final Fantasy | Game+ Daily mit Etienne | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2575,
 		"hosts": [
 			"Eddy",
@@ -7841,13 +8178,14 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 8167,
+			"viewCount": 8241,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 409
+			"likeCount": 410
 		},
 		"title": "COUNTER-STRIKE: GLOBAL OFFENSIVE | Team Limited | Teaser",
 		"series": [],
+		"event": false,
 		"length": 31,
 		"hosts": [],
 		"published": 1477485573,
@@ -7858,14 +8196,15 @@
 	{
 		"aired": 1477476000,
 		"stats": {
-			"commentCount": 339,
-			"viewCount": 48175,
+			"commentCount": 346,
+			"viewCount": 53300,
 			"favoriteCount": 0,
-			"dislikeCount": 28,
-			"likeCount": 1490
+			"dislikeCount": 30,
+			"likeCount": 1548
 		},
 		"title": "#MoinMoin mit Simon | Die Zukunft von RBTV, Die gro\u00dfe Content-Evaluation | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 4953,
 		"hosts": [
 			"Simon"
@@ -7881,15 +8220,16 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 5950,
+			"viewCount": 6307,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 186
+			"likeCount": 193
 		},
 		"title": "[8] Let's Play Metroid Prime mit Etienne | Runeninschriften | 25.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1842,
 		"hosts": [
 			"Eddy"
@@ -7905,15 +8245,16 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 3563,
+			"viewCount": 3875,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 129
+			"likeCount": 134
 		},
 		"title": "[9] Let's Play Metroid Prime mit Etienne | Die Verbrennungsdrohne | 25.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1701,
 		"hosts": [
 			"Eddy"
@@ -7929,15 +8270,16 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 3533,
+			"viewCount": 3872,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 134
+			"likeCount": 142
 		},
 		"title": "[10] Let's Play Metroid Prime mit Etienne | Der Ursprung der Vergiftung | 25.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1777,
 		"hosts": [
 			"Eddy"
@@ -7953,15 +8295,16 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 3886,
+			"viewCount": 4199,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 141
+			"likeCount": 145
 		},
 		"title": "[11] Let's Play Metroid Prime mit Etienne | Psycho-Mucke? | 25.10.2016",
 		"series": [
 			"Metroid Prime"
 		],
+		"event": false,
 		"length": 1260,
 		"hosts": [
 			"Eddy"
@@ -7977,13 +8320,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 7210,
+			"viewCount": 7298,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
-			"likeCount": 233
+			"likeCount": 236
 		},
 		"title": "Beans On Rei\u00dfzahn, Der Nachtmahr, Pro Clubs | News vom 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 104,
 		"hosts": [],
 		"published": 1477489710,
@@ -7997,13 +8341,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 1598,
+			"viewCount": 1669,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 80
+			"likeCount": 84
 		},
 		"title": "[4/4] Beef der Woche: Blood Bros. | Game+ Daily mit Etienne | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 693,
 		"hosts": [
 			"Eddy",
@@ -8022,13 +8367,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 56,
-			"viewCount": 11645,
+			"viewCount": 11962,
 			"favoriteCount": 0,
-			"dislikeCount": 21,
-			"likeCount": 383
+			"dislikeCount": 22,
+			"likeCount": 389
 		},
 		"title": "Q&A #28 mit Timo & Steffen | Zusammerarbeit mit der Community, Samstagabend, YouTube | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3509,
 		"hosts": [
 			"Timo B",
@@ -8044,14 +8390,15 @@
 	{
 		"aired": 1477389600,
 		"stats": {
-			"commentCount": 131,
-			"viewCount": 37296,
+			"commentCount": 134,
+			"viewCount": 38939,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
-			"likeCount": 1034
+			"likeCount": 1069
 		},
 		"title": "[1/3] Beans On Rei\u00dfzahn | Werw\u00f6lfe bei Rocket Beans TV | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3194,
 		"hosts": [
 			"Uke",
@@ -8075,13 +8422,14 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 23571,
+			"viewCount": 24632,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 659
+			"likeCount": 690
 		},
 		"title": "[2/3] Beans On Rei\u00dfzahn | Werw\u00f6lfe bei Rocket Beans TV | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2475,
 		"hosts": [
 			"Uke",
@@ -8104,14 +8452,15 @@
 	{
 		"aired": 1477389600,
 		"stats": {
-			"commentCount": 57,
-			"viewCount": 19220,
+			"commentCount": 58,
+			"viewCount": 20041,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 711
+			"likeCount": 741
 		},
 		"title": "[3/3] Beans On Rei\u00dfzahn | Werw\u00f6lfe bei Rocket Beans TV | 25.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1769,
 		"hosts": [
 			"Uke",
@@ -8135,13 +8484,14 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 9582,
+			"viewCount": 9757,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 243
+			"likeCount": 249
 		},
 		"title": "[1/4] Gwent & Landwirtschafts-Simulator 17 | Game+ Daily mit Nils | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1764,
 		"hosts": [
 			"Nils",
@@ -8159,14 +8509,15 @@
 	{
 		"aired": 1477476000,
 		"stats": {
-			"commentCount": 16,
-			"viewCount": 5472,
+			"commentCount": 17,
+			"viewCount": 5610,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 126
+			"likeCount": 131
 		},
 		"title": "[2/4] Gwent & Landwirtschafts-Simulator 17 | Game+ Daily mit Nils | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1677,
 		"hosts": [
 			"Alwin",
@@ -8185,13 +8536,14 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 95,
-			"viewCount": 17645,
+			"viewCount": 17896,
 			"favoriteCount": 0,
-			"dislikeCount": 37,
-			"likeCount": 712
+			"dislikeCount": 38,
+			"likeCount": 718
 		},
 		"title": "Pizzabelag des Tages, Evolve Entwickler K.O., Steve-O im Jugendzimmer? | News vom 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 531,
 		"hosts": [],
 		"published": 1477507874,
@@ -8205,13 +8557,14 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 6072,
+			"viewCount": 6219,
 			"favoriteCount": 0,
-			"dislikeCount": 7,
-			"likeCount": 136
+			"dislikeCount": 8,
+			"likeCount": 140
 		},
 		"title": "[3/4] Gwent & Landwirtschafts-Simulator 17 | Game+ Daily mit Nils | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2576,
 		"hosts": [
 			"Nils",
@@ -8230,13 +8583,14 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 2974,
+			"viewCount": 3036,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 102
+			"likeCount": 105
 		},
 		"title": "[4/4] Beef der Woche: Blood Bros. | Game+ Daily mit Nils | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 689,
 		"hosts": [
 			"Nils",
@@ -8255,15 +8609,16 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 1637,
+			"viewCount": 1752,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 63
+			"likeCount": 65
 		},
 		"title": "[38] Let's Play Terranigma mit Gregor | Kost\u00fcme von Madame Netty | Classix | 25.10.2016",
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 912,
 		"hosts": [
 			"Gregor"
@@ -8279,15 +8634,16 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 1393,
+			"viewCount": 1542,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 52
+			"likeCount": 53
 		},
 		"title": "[39] Let's Play Terranigma mit Gregor | Immobilienh\u00e4ndler | Classix | 25.10.2016",
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1935,
 		"hosts": [
 			"Gregor"
@@ -8303,7 +8659,7 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 1336,
+			"viewCount": 1526,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 43
@@ -8312,6 +8668,7 @@
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1589,
 		"hosts": [
 			"Gregor"
@@ -8327,7 +8684,7 @@
 		"aired": 1477389600,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 1466,
+			"viewCount": 1627,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 48
@@ -8336,6 +8693,7 @@
 		"series": [
 			"Terranigma"
 		],
+		"event": false,
 		"length": 1727,
 		"hosts": [
 			"Gregor"
@@ -8350,14 +8708,15 @@
 	{
 		"aired": 1477476000,
 		"stats": {
-			"commentCount": 106,
-			"viewCount": 20187,
+			"commentCount": 107,
+			"viewCount": 21405,
 			"favoriteCount": 0,
-			"dislikeCount": 24,
-			"likeCount": 805
+			"dislikeCount": 25,
+			"likeCount": 835
 		},
 		"title": "Almost Plaily #31 | AtmosFear mit Gunnar, Dennis, Flo & Gino | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 4309,
 		"hosts": [
 			"Flo",
@@ -8376,13 +8735,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 73,
-			"viewCount": 13240,
+			"viewCount": 13539,
 			"favoriteCount": 0,
-			"dislikeCount": 36,
-			"likeCount": 547
+			"dislikeCount": 37,
+			"likeCount": 559
 		},
 		"title": "#MoinMoin mit Lars | Comedypreis, Einbruch ins Kliemannsland, Der Fall von Amanda Knox | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2838,
 		"hosts": [
 			"Lars"
@@ -8398,13 +8758,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 5119,
+			"viewCount": 5309,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
-			"likeCount": 325
+			"likeCount": 332
 		},
 		"title": "[40] Buch Klub mit Bell & Markus Heitz | W\u00e9dora - Staub und Blut  | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1703,
 		"hosts": [
 			"Bell"
@@ -8420,15 +8781,16 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 4774,
+			"viewCount": 5458,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 95
+			"likeCount": 106
 		},
 		"title": "[20] Let's Play Civilization VI mit Dennis | 24.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1656,
 		"hosts": [
 			"Dennis R"
@@ -8444,15 +8806,16 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 4630,
+			"viewCount": 5220,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 100
+			"likeCount": 114
 		},
 		"title": "[19] Let's Play Civilization VI mit Dennis | 24.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1703,
 		"hosts": [
 			"Dennis R"
@@ -8468,15 +8831,16 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 4235,
+			"viewCount": 4773,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 103
+			"likeCount": 110
 		},
 		"title": "[21] Let's Play Civilization VI mit Dennis | 24.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1305,
 		"hosts": [
 			"Dennis R"
@@ -8492,15 +8856,16 @@
 		"aired": 1477303200,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 5062,
+			"viewCount": 5684,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 98
+			"likeCount": 106
 		},
 		"title": "[22] Let's Play Civilization VI mit Dennis | 24.10.2016",
 		"series": [
 			"Civilization VI"
 		],
+		"event": false,
 		"length": 1149,
 		"hosts": [
 			"Dennis R"
@@ -8515,14 +8880,15 @@
 	{
 		"aired": 1477476000,
 		"stats": {
-			"commentCount": 81,
-			"viewCount": 20963,
+			"commentCount": 83,
+			"viewCount": 22079,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
-			"likeCount": 707
+			"likeCount": 723
 		},
 		"title": "[1/3] Katjana Gerz von Gute Arbeit Originals, Mission Kliemannsland | Bohn Jour | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2831,
 		"hosts": [
 			"Simon",
@@ -8539,13 +8905,14 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 16233,
+			"viewCount": 16973,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 541
+			"likeCount": 558
 		},
 		"title": "[2/3] Fantasiesprache mit dem Google \u00dcbersetzer, RBTV Highlights | Bohn Jour | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1252,
 		"hosts": [
 			"Simon",
@@ -8561,14 +8928,15 @@
 	{
 		"aired": 1477476000,
 		"stats": {
-			"commentCount": 69,
-			"viewCount": 16611,
+			"commentCount": 72,
+			"viewCount": 19469,
 			"favoriteCount": 0,
-			"dislikeCount": 7,
-			"likeCount": 574
+			"dislikeCount": 10,
+			"likeCount": 607
 		},
 		"title": "[3/3] Mission Kliemannsland: Das Finale, Goldroger Live | Bohn Jour | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1525,
 		"hosts": [
 			"Simon",
@@ -8585,13 +8953,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 57,
-			"viewCount": 15277,
+			"viewCount": 15444,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 611
+			"likeCount": 615
 		},
 		"title": "Neue Third Party PS4-Controller, Nintendo Switch, B.E.A.R.D.S. 5 Leak | News vom 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 655,
 		"hosts": [],
 		"published": 1477591201,
@@ -8605,13 +8974,14 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 64,
-			"viewCount": 14232,
+			"viewCount": 14850,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
-			"likeCount": 612
+			"likeCount": 625
 		},
 		"title": "[38] Game Of Drohns - Drohnen gegen Pyramiden | Weekly Wahnsinn | 26.10.2016",
 		"series": [],
+		"event": false,
 		"length": 554,
 		"hosts": [
 			"Simon",
@@ -8629,14 +8999,15 @@
 	{
 		"aired": 1477562400,
 		"stats": {
-			"commentCount": 110,
-			"viewCount": 27996,
+			"commentCount": 111,
+			"viewCount": 28957,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 776
+			"likeCount": 792
 		},
 		"title": "[1/4] Kino+ | Westworld, Bad Moms, People Of Earth | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1061,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -8652,14 +9023,15 @@
 	{
 		"aired": 1477562400,
 		"stats": {
-			"commentCount": 98,
-			"viewCount": 28477,
+			"commentCount": 101,
+			"viewCount": 29832,
 			"favoriteCount": 0,
-			"dislikeCount": 9,
-			"likeCount": 654
+			"dislikeCount": 11,
+			"likeCount": 684
 		},
 		"title": "[2/4] Kino+ | Doctor Strange, Oasis: Supersonic, St\u00f6rche, 31, Girl on the Train | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2586,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -8676,13 +9048,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 81,
-			"viewCount": 17667,
+			"viewCount": 18426,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 448
+			"likeCount": 478
 		},
 		"title": "[3/4] Kino+ mit Matthias Starte, Ludwig Trepte & Saskia Rosendahl | Nirgendwo | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2698,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -8698,14 +9071,15 @@
 	{
 		"aired": 1477562400,
 		"stats": {
-			"commentCount": 59,
-			"viewCount": 13140,
+			"commentCount": 62,
+			"viewCount": 13768,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 436
+			"likeCount": 468
 		},
 		"title": "[4/4] Kino+ mit Matthias Starte, Ludwig Trepte & Saskia Rosendahl | Logan | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1076,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -8721,14 +9095,15 @@
 	{
 		"aired": 1477648800,
 		"stats": {
-			"commentCount": 32,
-			"viewCount": 10354,
+			"commentCount": 33,
+			"viewCount": 10531,
 			"favoriteCount": 0,
-			"dislikeCount": 8,
-			"likeCount": 312
+			"dislikeCount": 9,
+			"likeCount": 317
 		},
 		"title": "#MoinMoin mit Fabian, Krogmann & Micha | Charaktererstellung in Skyrim | 28.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2813,
 		"hosts": [
 			"Fabian",
@@ -8746,13 +9121,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 12460,
+			"viewCount": 12817,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 297
+			"likeCount": 306
 		},
 		"title": "[1/4] Dark Souls III: Ashes of Ariandel, & Pok\u00e9mon Sonne & Mond | Game+ Daily | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1801,
 		"hosts": [
 			"Simon",
@@ -8770,13 +9146,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 7633,
+			"viewCount": 7887,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 177
+			"likeCount": 185
 		},
 		"title": "[2/4] Dark Souls III: Ashes of Ariandel, & Pok\u00e9mon Sonne & Mond | Game+ Daily | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1678,
 		"hosts": [
 			"Simon",
@@ -8794,13 +9171,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 7265,
+			"viewCount": 7519,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 167
+			"likeCount": 177
 		},
 		"title": "[3/4] Dark Souls III: Ashes of Ariandel, Mobile+ & Pok\u00e9mon Sonne & Mond | Game+ Daily | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2580,
 		"hosts": [
 			"Simon",
@@ -8818,13 +9196,14 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 3330,
+			"viewCount": 3421,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 116
+			"likeCount": 125
 		},
 		"title": "[4/4] Beef der Woche: Blood Bros. | Game+ Daily | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 694,
 		"hosts": [
 			"Simon",
@@ -8841,14 +9220,15 @@
 	{
 		"aired": 1477562400,
 		"stats": {
-			"commentCount": 1006,
-			"viewCount": 53113,
+			"commentCount": 1014,
+			"viewCount": 57117,
 			"favoriteCount": 0,
-			"dislikeCount": 627,
-			"likeCount": 2709
+			"dislikeCount": 641,
+			"likeCount": 2789
 		},
 		"title": "[14] Social Eating mit Etienne | Blutwurst & Kippe | 27.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1757,
 		"hosts": [
 			"Eddy"
@@ -8863,16 +9243,17 @@
 	{
 		"aired": 1477476000,
 		"stats": {
-			"commentCount": 13,
-			"viewCount": 4001,
+			"commentCount": 14,
+			"viewCount": 4333,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 127
+			"likeCount": 134
 		},
 		"title": "[09] Batman: The Telltale Series mit Simon | Im Krankenhaus | After Dark | 26.10.2016",
 		"series": [
 			"Batman: The Telltale Series"
 		],
+		"event": false,
 		"length": 1274,
 		"hosts": [
 			"Simon"
@@ -8888,15 +9269,16 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 3251,
+			"viewCount": 3594,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 115
+			"likeCount": 123
 		},
 		"title": "[10] Batman: The Telltale Series mit Simon | Fortschritt durch Technik | After Dark | 26.10.2016",
 		"series": [
 			"Batman: The Telltale Series"
 		],
+		"event": false,
 		"length": 1802,
 		"hosts": [
 			"Simon"
@@ -8912,15 +9294,16 @@
 		"aired": 1477476000,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 2894,
+			"viewCount": 3222,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 102
+			"likeCount": 111
 		},
 		"title": "[11] Batman: The Telltale Series mit Simon | Verstand verloren?| After Dark | 26.10.2016",
 		"series": [
 			"Batman: The Telltale Series"
 		],
+		"event": false,
 		"length": 1449,
 		"hosts": [
 			"Simon"
@@ -8935,16 +9318,17 @@
 	{
 		"aired": 1477476000,
 		"stats": {
-			"commentCount": 41,
-			"viewCount": 4113,
+			"commentCount": 44,
+			"viewCount": 4569,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 142
+			"likeCount": 159
 		},
 		"title": "[12] Batman: The Telltale Series mit Simon | Abgew\u00e4hlt | After Dark | 26.10.2016",
 		"series": [
 			"Batman: The Telltale Series"
 		],
+		"event": false,
 		"length": 3355,
 		"hosts": [
 			"Simon"
@@ -8960,7 +9344,7 @@
 		"aired": 1477562400,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 3558,
+			"viewCount": 3779,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 84
@@ -8969,6 +9353,7 @@
 		"series": [
 			"Fallout 4"
 		],
+		"event": false,
 		"length": 1559,
 		"hosts": [
 			"Nils"
@@ -8983,16 +9368,17 @@
 	{
 		"aired": 1477562400,
 		"stats": {
-			"commentCount": 1,
-			"viewCount": 2580,
+			"commentCount": 0,
+			"viewCount": 2754,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 61
+			"likeCount": 65
 		},
 		"title": "[15] Let's Play Fallout 4: Nuka-World mit Nils | Tolle Power R\u00fcstung | 27.10.2016",
 		"series": [
 			"Fallout 4"
 		],
+		"event": false,
 		"length": 1508,
 		"hosts": [
 			"Nils"
@@ -9007,16 +9393,17 @@
 	{
 		"aired": 1477562400,
 		"stats": {
-			"commentCount": 6,
-			"viewCount": 2477,
+			"commentCount": 9,
+			"viewCount": 2784,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 55
+			"likeCount": 60
 		},
 		"title": "[16] Let's Play Fallout 4: Nuka-World mit Nils | Angepisste Skorpione | 27.10.2016",
 		"series": [
 			"Fallout 4"
 		],
+		"event": false,
 		"length": 3539,
 		"hosts": [
 			"Nils"
@@ -9032,15 +9419,16 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 11030,
+			"viewCount": 11726,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 256
+			"likeCount": 265
 		},
 		"title": "TITANFALL 2 #001 | Der Grundwehrdienst | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1574,
 		"hosts": [
 			"Simon"
@@ -9056,15 +9444,16 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 6881,
+			"viewCount": 7384,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 143
+			"likeCount": 149
 		},
 		"title": "TITANFALL 2 #002 | Zerst\u00f6rungsw\u00fctiges Monstrum | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1576,
 		"hosts": [
 			"Simon"
@@ -9079,16 +9468,17 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 9,
-			"viewCount": 5493,
+			"commentCount": 8,
+			"viewCount": 5916,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 127
+			"likeCount": 133
 		},
 		"title": "TITANFALL 2 #003 | Ich und mein Robo-Freund | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1687,
 		"hosts": [
 			"Simon"
@@ -9104,13 +9494,14 @@
 		"aired": 1477648800,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 17548,
+			"viewCount": 17716,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 525
+			"likeCount": 530
 		},
 		"title": "The First Tree = Journey?, The Divison f\u00fcr 15\u20ac,  Kampf gegen Wespen | News vom 28.10.2016",
 		"series": [],
+		"event": false,
 		"length": 423,
 		"hosts": [],
 		"published": 1477683832,
@@ -9124,13 +9515,14 @@
 		"aired": 1477735200,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 14413,
+			"viewCount": 14937,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 369
+			"likeCount": 374
 		},
 		"title": "Castlevania 1 Training mit Marcel, Gregor & Sia | Speedrundale | 29.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2062,
 		"hosts": [
 			"Sia",
@@ -9146,14 +9538,15 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 28,
-			"viewCount": 21604,
+			"commentCount": 29,
+			"viewCount": 25581,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
-			"likeCount": 868
+			"likeCount": 912
 		},
 		"title": "Operation Kliemannsland #1 | Das Trojanische Pferd",
 		"series": [],
+		"event": false,
 		"length": 312,
 		"hosts": [],
 		"published": 1477834369,
@@ -9164,14 +9557,15 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 62,
-			"viewCount": 19742,
+			"commentCount": 68,
+			"viewCount": 27027,
 			"favoriteCount": 0,
-			"dislikeCount": 20,
-			"likeCount": 797
+			"dislikeCount": 30,
+			"likeCount": 879
 		},
 		"title": "Operation Kliemannsland #2 | Panik im Haus",
 		"series": [],
+		"event": false,
 		"length": 584,
 		"hosts": [],
 		"published": 1477834374,
@@ -9182,14 +9576,15 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 128,
-			"viewCount": 27599,
+			"commentCount": 137,
+			"viewCount": 33828,
 			"favoriteCount": 0,
-			"dislikeCount": 18,
-			"likeCount": 732
+			"dislikeCount": 20,
+			"likeCount": 788
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #001 | Die Geburt von Lord Whiskas | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 3548,
 		"hosts": [
 			"Michael R",
@@ -9199,20 +9594,21 @@
 		"id": "moH7oRI4XaY",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 28,
-			"viewCount": 12630,
+			"commentCount": 31,
+			"viewCount": 15381,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 286
+			"likeCount": 318
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #002 | Magier oder Bogensch\u00fctze? | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2141,
 		"hosts": [
 			"Michael R",
@@ -9222,20 +9618,21 @@
 		"id": "Xu1MiJIor8M",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 12918,
+			"viewCount": 15720,
 			"favoriteCount": 0,
-			"dislikeCount": 5,
-			"likeCount": 326
+			"dislikeCount": 6,
+			"likeCount": 367
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #003 | Das H\u00fchnchen muss brennen | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2272,
 		"hosts": [
 			"Michael R",
@@ -9245,20 +9642,21 @@
 		"id": "lJVxfC0zCNk",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 8692,
+			"viewCount": 10605,
 			"favoriteCount": 0,
-			"dislikeCount": 1,
-			"likeCount": 228
+			"dislikeCount": 2,
+			"likeCount": 259
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #004 | Der erste Schrei | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 1533,
 		"hosts": [
 			"Michael R",
@@ -9268,20 +9666,21 @@
 		"id": "hCCParOSWMg",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 11,
-			"viewCount": 8129,
+			"commentCount": 15,
+			"viewCount": 9906,
 			"favoriteCount": 0,
-			"dislikeCount": 0,
-			"likeCount": 218
+			"dislikeCount": 1,
+			"likeCount": 250
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #005 | Feuerball Junge! | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2769,
 		"hosts": [
 			"Michael R",
@@ -9291,20 +9690,21 @@
 		"id": "r3dDnLbCMlM",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 7645,
+			"viewCount": 9610,
 			"favoriteCount": 0,
-			"dislikeCount": 2,
-			"likeCount": 196
+			"dislikeCount": 3,
+			"likeCount": 229
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #006 | Sven der brennende Barde | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 3131,
 		"hosts": [
 			"Michael R",
@@ -9314,20 +9714,21 @@
 		"id": "Rk_jqASquIU",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 18,
-			"viewCount": 9015,
+			"commentCount": 19,
+			"viewCount": 10751,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 233
+			"likeCount": 271
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #007 | Hoch zu Ross | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2559,
 		"hosts": [
 			"Michael R",
@@ -9337,20 +9738,21 @@
 		"id": "j6MtJV6uHWE",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 8,
-			"viewCount": 6147,
+			"commentCount": 10,
+			"viewCount": 8064,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 195
+			"likeCount": 238
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #008 | Verliebt in Fastred | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2449,
 		"hosts": [
 			"Michael R",
@@ -9360,20 +9762,21 @@
 		"id": "lkw8SsYOsV4",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5406,
+			"viewCount": 7149,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 148
+			"likeCount": 193
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #009 | Von den Graub\u00e4rten lernen | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2370,
 		"hosts": [
 			"Michael R",
@@ -9383,20 +9786,21 @@
 		"id": "4SMUgrEGO0E",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 8,
-			"viewCount": 7372,
+			"commentCount": 12,
+			"viewCount": 9112,
 			"favoriteCount": 0,
-			"dislikeCount": 5,
-			"likeCount": 176
+			"dislikeCount": 6,
+			"likeCount": 208
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #010 | Magier, Solstheim oder H\u00e4uschen bauen | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2541,
 		"hosts": [
 			"Michael R",
@@ -9406,20 +9810,21 @@
 		"id": "SsMh-D_dB3c",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 5,
-			"viewCount": 5600,
+			"commentCount": 8,
+			"viewCount": 7309,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 147
+			"likeCount": 180
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #011 | Das Geheimnis von Lord Whiskas | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 1834,
 		"hosts": [
 			"Michael R",
@@ -9429,20 +9834,21 @@
 		"id": "Em0wTKNnrL0",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 16,
-			"viewCount": 5385,
+			"commentCount": 19,
+			"viewCount": 7510,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 160
+			"likeCount": 202
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #012 | Lydia die Spalterin | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 3162,
 		"hosts": [
 			"Michael R",
@@ -9452,20 +9858,21 @@
 		"id": "Kw6agC7S5ek",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 8,
-			"viewCount": 6418,
+			"commentCount": 10,
+			"viewCount": 9146,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 156
+			"likeCount": 196
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #013 | Auf der Hirsch-Pirsch | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 3943,
 		"hosts": [
 			"Michael R",
@@ -9475,20 +9882,21 @@
 		"id": "YDK8mL9w19M",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 4,
-			"viewCount": 4576,
+			"commentCount": 6,
+			"viewCount": 6858,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 126
+			"likeCount": 159
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #014 | Der Eisstachel | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 4645,
 		"hosts": [
 			"Michael R",
@@ -9498,20 +9906,21 @@
 		"id": "gcottV-rtQc",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 10,
-			"viewCount": 4511,
+			"commentCount": 17,
+			"viewCount": 6734,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 140
+			"likeCount": 179
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #015 | Von Riesen & Mammuts | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 4457,
 		"hosts": [
 			"Michael R",
@@ -9521,20 +9930,21 @@
 		"id": "d9XKwT0byxs",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 5,
-			"viewCount": 3662,
+			"commentCount": 12,
+			"viewCount": 5408,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 110
+			"likeCount": 146
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #016 | Das Zauberschwert | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 3021,
 		"hosts": [
 			"Michael R",
@@ -9544,20 +9954,21 @@
 		"id": "3CDg89Qubbk",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 13,
-			"viewCount": 3365,
+			"commentCount": 14,
+			"viewCount": 5037,
 			"favoriteCount": 0,
-			"dislikeCount": 2,
-			"likeCount": 107
+			"dislikeCount": 3,
+			"likeCount": 134
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #017 | Der Drache am See | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 2714,
 		"hosts": [
 			"Michael R",
@@ -9567,20 +9978,21 @@
 		"id": "Z6xRC2AwXB0",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 3057,
+			"viewCount": 4706,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 101
+			"likeCount": 132
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #018 | Der Miezekatzen-Henker | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 3653,
 		"hosts": [
 			"Michael R",
@@ -9590,20 +10002,21 @@
 		"id": "jyaPZVEx2UA",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 14,
-			"viewCount": 3215,
+			"commentCount": 15,
+			"viewCount": 4919,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 96
+			"likeCount": 124
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #019 | Fr\u00fchst\u00fcck & Drachenblut | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 3754,
 		"hosts": [
 			"Michael R",
@@ -9613,20 +10026,21 @@
 		"id": "nOqBPTIrd6w",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 27,
-			"viewCount": 5867,
+			"commentCount": 34,
+			"viewCount": 8199,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 177
+			"likeCount": 242
 		},
 		"title": "THE ELDER SCROLLS V: SKYRIM #020 | Das Ende des Abenteuers | Skyrim 24 Stunden-Event",
 		"series": [],
+		"event": true,
 		"length": 4245,
 		"hosts": [
 			"Michael R",
@@ -9636,20 +10050,21 @@
 		"id": "MujpvmzRSKs",
 		"channel": "Rocket Beans TV Let's Play",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": 1477648800,
 		"stats": {
-			"commentCount": 54,
-			"viewCount": 14585,
+			"commentCount": 56,
+			"viewCount": 17133,
 			"favoriteCount": 0,
-			"dislikeCount": 5,
-			"likeCount": 496
+			"dislikeCount": 6,
+			"likeCount": 535
 		},
 		"title": "The Elder Scrolls - Special | Retro Klub mit Gregor | 28.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2713,
 		"hosts": [
 			"Gregor"
@@ -9664,14 +10079,15 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 620,
-			"viewCount": 35005,
+			"commentCount": 628,
+			"viewCount": 40522,
 			"favoriteCount": 0,
-			"dislikeCount": 51,
-			"likeCount": 976
+			"dislikeCount": 53,
+			"likeCount": 1045
 		},
 		"title": "Skyrim - Expertentalk mit Dennis, Wolf, Steffen, Elli von Artcore Cosplay & Kai Schober von Bethesda",
 		"series": [],
+		"event": true,
 		"length": 3829,
 		"hosts": [
 			"Steffen",
@@ -9681,20 +10097,21 @@
 		"id": "Wyq2EOx-sxA",
 		"channel": "Rocket Beans TV",
 		"shows": [
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": 1477648800,
 		"stats": {
-			"commentCount": 37,
-			"viewCount": 10424,
+			"commentCount": 38,
+			"viewCount": 11197,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
-			"likeCount": 425
+			"likeCount": 452
 		},
 		"title": "[41] Buch Klub mit Bell & Simon | Skyrim-Bibliothek , Die H\u00f6llenstadt, Der Seelenlord  | 28.10.2016",
 		"series": [],
+		"event": true,
 		"length": 1656,
 		"hosts": [
 			"Simon",
@@ -9705,20 +10122,21 @@
 		"channel": "Rocket Beans TV",
 		"shows": [
 			"Buch Klub",
-			"[Event] Skyrim 24h"
+			"Skyrim 24h"
 		]
 	},
 	{
 		"aired": 1477648800,
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 10667,
+			"viewCount": 11032,
 			"favoriteCount": 0,
-			"dislikeCount": 24,
-			"likeCount": 463
+			"dislikeCount": 25,
+			"likeCount": 470
 		},
 		"title": "[101] Gino+ | Schwerter richtig f\u00fchren mit Andreas | 28.10.2016",
 		"series": [],
+		"event": false,
 		"length": 305,
 		"hosts": [
 			"Gino",
@@ -9734,20 +10152,21 @@
 	{
 		"aired": 1477911600,
 		"stats": {
-			"commentCount": 119,
-			"viewCount": 12979,
+			"commentCount": 121,
+			"viewCount": 13355,
 			"favoriteCount": 0,
 			"dislikeCount": 60,
-			"likeCount": 405
+			"likeCount": 414
 		},
 		"title": "#MoinMoin mit Alwin, Bell, Miri und Lisa | K\u00fcrbisgesichter schnitzen | 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2829,
 		"hosts": [
 			"Alwin",
 			"Bell",
-			"Lisa",
-			"Miriam"
+			"Miriam",
+			"Lisa D"
 		],
 		"published": 1477916355,
 		"id": "iebdz464KHM",
@@ -9759,16 +10178,17 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 8,
-			"viewCount": 3515,
+			"commentCount": 11,
+			"viewCount": 4112,
 			"favoriteCount": 0,
-			"dislikeCount": 9,
-			"likeCount": 87
+			"dislikeCount": 10,
+			"likeCount": 95
 		},
 		"title": "TITANFALL 2 #004 | Der Speedrunner | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1786,
 		"hosts": [
 			"Simon"
@@ -9783,16 +10203,17 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 5,
-			"viewCount": 2080,
+			"commentCount": 6,
+			"viewCount": 2445,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 58
+			"likeCount": 62
 		},
 		"title": "TITANFALL 2 #005 | Trampolin-Man | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1502,
 		"hosts": [
 			"Simon"
@@ -9808,15 +10229,16 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 1937,
+			"viewCount": 2381,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 42
+			"likeCount": 47
 		},
 		"title": "TITANFALL 2 #006 | Kanonenfutter | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1453,
 		"hosts": [
 			"Simon"
@@ -9832,15 +10254,16 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 1627,
+			"viewCount": 2032,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 44
+			"likeCount": 50
 		},
 		"title": "TITANFALL 2 #007 | Nuklear-Explosionen & Wieselflinke Aktionen | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1592,
 		"hosts": [
 			"Simon"
@@ -9855,16 +10278,17 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 3,
-			"viewCount": 1789,
+			"commentCount": 4,
+			"viewCount": 2180,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 41
+			"likeCount": 50
 		},
 		"title": "TITANFALL 2 #009 | Der Brust-Laserstrahl | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1662,
 		"hosts": [
 			"Simon"
@@ -9880,15 +10304,16 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 2238,
+			"viewCount": 2673,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 49
+			"likeCount": 56
 		},
 		"title": "TITANFALL 2 #008 | Sozialer Zwang der Gilde | Let's Play Titanfall 2 mit Simon",
 		"series": [
 			"Titanfall 2"
 		],
+		"event": false,
 		"length": 1423,
 		"hosts": [
 			"Simon"
@@ -9903,14 +10328,15 @@
 	{
 		"aired": 1477825200,
 		"stats": {
-			"commentCount": 153,
-			"viewCount": 37030,
+			"commentCount": 163,
+			"viewCount": 43867,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
-			"likeCount": 1145
+			"likeCount": 1240
 		},
 		"title": "[1/2] Almost Daily #261 | Thema: Gruselgeschichten | 30.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1916,
 		"hosts": [
 			"Eddy",
@@ -9927,14 +10353,15 @@
 	{
 		"aired": 1477825200,
 		"stats": {
-			"commentCount": 60,
-			"viewCount": 19843,
+			"commentCount": 63,
+			"viewCount": 23270,
 			"favoriteCount": 0,
-			"dislikeCount": 20,
-			"likeCount": 790
+			"dislikeCount": 21,
+			"likeCount": 865
 		},
 		"title": "[2/2] Almost Daily #261 | Thema: Gruselgeschichten | 30.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1462,
 		"hosts": [
 			"Eddy",
@@ -9951,14 +10378,15 @@
 	{
 		"aired": 1477911600,
 		"stats": {
-			"commentCount": 15,
-			"viewCount": 7963,
+			"commentCount": 16,
+			"viewCount": 8839,
 			"favoriteCount": 0,
-			"dislikeCount": 4,
-			"likeCount": 269
+			"dislikeCount": 5,
+			"likeCount": 286
 		},
 		"title": "[1/2] Let's Play Hide and Shriek mit Dennis und Nasti | 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1283,
 		"hosts": [
 			"Nasti",
@@ -9975,13 +10403,14 @@
 		"aired": 1477911600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 2909,
+			"viewCount": 3258,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 110
+			"likeCount": 116
 		},
 		"title": "[2/2] Let's Play Hide and Shriek mit Max und Olli | 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2249,
 		"hosts": [
 			"Max",
@@ -9997,14 +10426,15 @@
 	{
 		"aired": 1477825200,
 		"stats": {
-			"commentCount": 90,
-			"viewCount": 12501,
+			"commentCount": 91,
+			"viewCount": 13730,
 			"favoriteCount": 0,
-			"dislikeCount": 12,
-			"likeCount": 326
+			"dislikeCount": 13,
+			"likeCount": 345
 		},
 		"title": "[1/3] Team Limited Counter-Strike:Global Offensive mit Etienne, Max, Ben, Olli und Ren\u00e9 | 30.10.2016",
 		"series": [],
+		"event": false,
 		"length": 3661,
 		"hosts": [
 			"Eddy",
@@ -10023,14 +10453,15 @@
 	{
 		"aired": 1477825200,
 		"stats": {
-			"commentCount": 27,
-			"viewCount": 6470,
+			"commentCount": 29,
+			"viewCount": 7267,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 182
+			"likeCount": 198
 		},
 		"title": "[2/3] Team Limited Counter-Strike:Global Offensive mit Etienne, Max, Ben, Olli und Ren\u00e9 | 30.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1813,
 		"hosts": [
 			"Eddy",
@@ -10049,14 +10480,15 @@
 	{
 		"aired": 1477825200,
 		"stats": {
-			"commentCount": 29,
-			"viewCount": 5963,
+			"commentCount": 31,
+			"viewCount": 6873,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
-			"likeCount": 192
+			"likeCount": 210
 		},
 		"title": "[3/3] Team Limited Counter-Strike:Global Offensive mit Etienne, Max, Ben, Olli und Ren\u00e9 | 30.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2157,
 		"hosts": [
 			"Eddy",
@@ -10076,13 +10508,14 @@
 		"aired": 1477911600,
 		"stats": {
 			"commentCount": 63,
-			"viewCount": 16007,
+			"viewCount": 16381,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
-			"likeCount": 650
+			"likeCount": 659
 		},
 		"title": "Kliemannsland-Special, S\u00fc\u00dfes f\u00fcr Anne, Beste Oma der Welt, Sich selber Googeln | News vom 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 442,
 		"hosts": [],
 		"published": 1477940402,
@@ -10096,13 +10529,14 @@
 		"aired": 1477911600,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 8533,
+			"viewCount": 8914,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
-			"likeCount": 236
+			"likeCount": 248
 		},
 		"title": "[1/4] World of Warships & Titanfall 2 | Game+ Daily | 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1798,
 		"hosts": [
 			"Nils",
@@ -10122,13 +10556,14 @@
 		"aired": 1477911600,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 4600,
+			"viewCount": 4890,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 114
+			"likeCount": 120
 		},
 		"title": "[2/4] World of Warships & Titanfall 2 | Game+ Daily | 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 1677,
 		"hosts": [
 			"Nils",
@@ -10148,13 +10583,14 @@
 		"aired": 1477911600,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 3977,
+			"viewCount": 4259,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
-			"likeCount": 113
+			"likeCount": 119
 		},
 		"title": "[3/4] World of Warships & Titanfall 2 | Game+ Daily | 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 2576,
 		"hosts": [
 			"Nils",
@@ -10174,13 +10610,14 @@
 		"aired": 1477911600,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 2254,
+			"viewCount": 2393,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
-			"likeCount": 104
+			"likeCount": 109
 		},
 		"title": "[4/4] Beef der Woche: Captain Commando | Game+ Daily | 31.10.2016",
 		"series": [],
+		"event": false,
 		"length": 693,
 		"hosts": [
 			"Nils",

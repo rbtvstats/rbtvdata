@@ -18,7 +18,7 @@
 		"shows": []
 	},
 	{
-		"aired": null,
+		"aired": 1425380400,
 		"stats": {
 			"commentCount": 21,
 			"viewCount": 3578,
@@ -29,11 +29,15 @@
 		"title": "Schr\u00f6cks Fernsehgarten | 03.03.2015",
 		"series": [],
 		"length": 681,
-		"hosts": [],
+		"hosts": [
+			"Schr\u00f6ck"
+		],
 		"published": 1425364201,
 		"id": "jlxYZf7dVGY",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Schr\u00f6cks Fernsehgarten"
+		]
 	},
 	{
 		"aired": 1425380400,
@@ -60,8 +64,8 @@
 	{
 		"aired": 1425294000,
 		"stats": {
-			"commentCount": 64,
-			"viewCount": 29259,
+			"commentCount": 65,
+			"viewCount": 29263,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 880
@@ -84,7 +88,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 12230,
+			"viewCount": 12233,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 238
@@ -130,7 +134,7 @@
 		"aired": 1425294000,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 15694,
+			"viewCount": 15696,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 580
@@ -153,7 +157,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 73,
-			"viewCount": 435473,
+			"viewCount": 435779,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1415
@@ -259,7 +263,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 5320,
+			"viewCount": 5322,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 150
@@ -328,7 +332,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 5710,
+			"viewCount": 5714,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 160
@@ -351,7 +355,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 95,
-			"viewCount": 26527,
+			"viewCount": 26529,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 1096
@@ -373,10 +377,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 313,
-			"viewCount": 84046,
+			"viewCount": 84051,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
-			"likeCount": 2527
+			"likeCount": 2528
 		},
 		"title": "Almost Plaily #140 | Montagsmaler #9",
 		"series": [],
@@ -581,7 +585,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 44128,
+			"viewCount": 44139,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 671
@@ -607,7 +611,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 18283,
+			"viewCount": 18288,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 305
@@ -633,7 +637,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 21091,
+			"viewCount": 21098,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 327
@@ -659,7 +663,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 21298,
+			"viewCount": 21306,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 363
@@ -685,7 +689,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 19266,
+			"viewCount": 19273,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 333
@@ -711,7 +715,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 13006,
+			"viewCount": 13011,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 283
@@ -737,7 +741,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 13198,
+			"viewCount": 13205,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 233
@@ -763,7 +767,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 11900,
+			"viewCount": 11905,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 217
@@ -789,7 +793,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 13896,
+			"viewCount": 13905,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 249
@@ -815,7 +819,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 20879,
+			"viewCount": 20884,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 392
@@ -863,7 +867,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 6779,
+			"viewCount": 6782,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 161
@@ -888,7 +892,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 5337,
+			"viewCount": 5338,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 141
@@ -913,7 +917,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 6816,
+			"viewCount": 6818,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 162
@@ -938,10 +942,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 473,
-			"viewCount": 71212,
+			"viewCount": 71218,
 			"favoriteCount": 0,
 			"dislikeCount": 48,
-			"likeCount": 1724
+			"likeCount": 1725
 		},
 		"title": "NerdQuiz | 03.03.",
 		"series": [],
@@ -963,7 +967,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 359,
-			"viewCount": 84830,
+			"viewCount": 84840,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 4683
@@ -981,7 +985,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 17608,
+			"viewCount": 17610,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 347
@@ -1062,7 +1066,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 9628,
+			"viewCount": 9630,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 187
@@ -1114,7 +1118,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 124,
-			"viewCount": 40223,
+			"viewCount": 40229,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1156
@@ -1163,7 +1167,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 80,
-			"viewCount": 26844,
+			"viewCount": 26846,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 861
@@ -1234,7 +1238,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 12033,
+			"viewCount": 12037,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 283
@@ -1257,7 +1261,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 6359,
+			"viewCount": 6361,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 158
@@ -1326,7 +1330,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 380,
-			"viewCount": 68794,
+			"viewCount": 68796,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 3703
@@ -1344,7 +1348,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 136,
-			"viewCount": 37928,
+			"viewCount": 37930,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1422
@@ -1384,7 +1388,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 30172,
+			"viewCount": 30175,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 733
@@ -1456,7 +1460,7 @@
 		"aired": 1425726000,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 4070,
+			"viewCount": 4072,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 193
@@ -1500,7 +1504,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 98,
-			"viewCount": 39151,
+			"viewCount": 39153,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1124
@@ -1546,7 +1550,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 94,
-			"viewCount": 27998,
+			"viewCount": 28000,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1178
@@ -1591,7 +1595,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 20679,
+			"viewCount": 20688,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 504
@@ -1616,10 +1620,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 10451,
+			"viewCount": 10459,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 305
+			"likeCount": 306
 		},
 		"title": "Classix | Battletoads in Battlemaniacs | #3",
 		"series": [
@@ -1641,7 +1645,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 8868,
+			"viewCount": 8874,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 222
@@ -1666,7 +1670,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 8654,
+			"viewCount": 8660,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 256
@@ -1691,10 +1695,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 8133,
+			"viewCount": 8135,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
-			"likeCount": 235
+			"likeCount": 236
 		},
 		"title": "Classix | Battletoads in Battlemaniacs | #5",
 		"series": [
@@ -1716,7 +1720,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 10824,
+			"viewCount": 10829,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 321
@@ -1741,10 +1745,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 358,
-			"viewCount": 76176,
+			"viewCount": 76181,
 			"favoriteCount": 0,
 			"dislikeCount": 53,
-			"likeCount": 1971
+			"likeCount": 1973
 		},
 		"title": "Almost Daily #141 | Wrestling",
 		"series": [],
@@ -1790,7 +1794,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 1,
-			"viewCount": 2162,
+			"viewCount": 2164,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 79
@@ -1815,7 +1819,7 @@
 		"aired": 1425466800,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 2502,
+			"viewCount": 2504,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 78
@@ -1840,7 +1844,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 37,
-			"viewCount": 13498,
+			"viewCount": 13500,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 404
@@ -1888,7 +1892,7 @@
 		"aired": 1425380400,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 5717,
+			"viewCount": 5718,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 135
@@ -2006,8 +2010,8 @@
 	{
 		"aired": 1425553200,
 		"stats": {
-			"commentCount": 35,
-			"viewCount": 18221,
+			"commentCount": 34,
+			"viewCount": 18223,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 381
@@ -2031,7 +2035,7 @@
 		"aired": 1425553200,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 10637,
+			"viewCount": 10639,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 242
@@ -2055,7 +2059,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 13204,
+			"viewCount": 13210,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 311
@@ -2081,7 +2085,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 11289,
+			"viewCount": 11293,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 230
@@ -2133,7 +2137,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 12705,
+			"viewCount": 12707,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 284
@@ -2303,7 +2307,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 52,
-			"viewCount": 21711,
+			"viewCount": 21713,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 624
@@ -2326,7 +2330,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 34,
-			"viewCount": 16295,
+			"viewCount": 16298,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 454
@@ -2349,7 +2353,7 @@
 		"aired": 1425898800,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 13939,
+			"viewCount": 13941,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 471
@@ -2372,7 +2376,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 11086,
+			"viewCount": 11087,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 278
@@ -2620,7 +2624,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 19,
-			"viewCount": 10499,
+			"viewCount": 10508,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 278
@@ -2644,7 +2648,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 10348,
+			"viewCount": 10353,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 266
@@ -2686,10 +2690,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 252,
-			"viewCount": 56195,
+			"viewCount": 56235,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
-			"likeCount": 3196
+			"likeCount": 3197
 		},
 		"title": "Gadget Inspectors | MASH Machine",
 		"series": [],
@@ -2709,10 +2713,10 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 265,
-			"viewCount": 72872,
+			"viewCount": 72876,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
-			"likeCount": 1861
+			"likeCount": 1862
 		},
 		"title": "NerdQuiz | Halbfinale #1 | 10.03.2015",
 		"series": [],
@@ -2734,7 +2738,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 264,
-			"viewCount": 98198,
+			"viewCount": 98207,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 3769
@@ -2758,7 +2762,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 244,
-			"viewCount": 75025,
+			"viewCount": 75030,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 2754
@@ -2852,7 +2856,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 30098,
+			"viewCount": 30100,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 734
@@ -3018,7 +3022,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 9246,
+			"viewCount": 9250,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 292
@@ -3043,7 +3047,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 7336,
+			"viewCount": 7341,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 255
@@ -3068,7 +3072,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 25,
-			"viewCount": 11088,
+			"viewCount": 11092,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 285
@@ -3093,7 +3097,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 58,
-			"viewCount": 9249,
+			"viewCount": 9250,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 477
@@ -3115,10 +3119,10 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 271,
-			"viewCount": 49618,
+			"viewCount": 49620,
 			"favoriteCount": 0,
 			"dislikeCount": 348,
-			"likeCount": 1488
+			"likeCount": 1489
 		},
 		"title": "Almost Plaily #142 | Stadt, Land, Fluss #3 | Re-Upload vom 10.03.2015",
 		"series": [],
@@ -3139,7 +3143,7 @@
 		"aired": 1426244400,
 		"stats": {
 			"commentCount": 122,
-			"viewCount": 169823,
+			"viewCount": 169860,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 2650
@@ -3165,10 +3169,10 @@
 		"aired": 1426244400,
 		"stats": {
 			"commentCount": 72,
-			"viewCount": 90979,
+			"viewCount": 91005,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
-			"likeCount": 1682
+			"likeCount": 1683
 		},
 		"title": "Pen & Paper | T.E.A.R.5. | Pre-Show #2 | 13.03.2015",
 		"series": [],
@@ -3191,7 +3195,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 154,
-			"viewCount": 193678,
+			"viewCount": 193744,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 3258
@@ -3217,7 +3221,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 112,
-			"viewCount": 159439,
+			"viewCount": 159513,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 2514
@@ -3243,10 +3247,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 179,
-			"viewCount": 159517,
+			"viewCount": 159588,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
-			"likeCount": 2565
+			"likeCount": 2567
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 3 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3269,7 +3273,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 101,
-			"viewCount": 159867,
+			"viewCount": 159938,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 2598
@@ -3295,7 +3299,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 129,
-			"viewCount": 158187,
+			"viewCount": 158270,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 2554
@@ -3320,8 +3324,8 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 383,
-			"viewCount": 157952,
+			"commentCount": 382,
+			"viewCount": 158034,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 5002
@@ -3346,11 +3350,11 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 193,
-			"viewCount": 163313,
+			"commentCount": 192,
+			"viewCount": 163402,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
-			"likeCount": 2909
+			"likeCount": 2910
 		},
 		"title": "Pen & Paper | T.E.A.R.S. | #5 | Part 6 | Das gro\u00dfe Finale",
 		"series": [],
@@ -3373,7 +3377,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 262,
-			"viewCount": 107950,
+			"viewCount": 107985,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 3338
@@ -3399,7 +3403,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 49,
-			"viewCount": 12918,
+			"viewCount": 12922,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 278
@@ -3536,7 +3540,7 @@
 		"aired": 1426071600,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 2623,
+			"viewCount": 2626,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 89
@@ -3636,7 +3640,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 540,
-			"viewCount": 68004,
+			"viewCount": 68006,
 			"favoriteCount": 0,
 			"dislikeCount": 145,
 			"likeCount": 3314
@@ -3660,7 +3664,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 132,
-			"viewCount": 40405,
+			"viewCount": 40407,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 1348
@@ -3683,7 +3687,7 @@
 		"aired": 1426158000,
 		"stats": {
 			"commentCount": 59,
-			"viewCount": 30740,
+			"viewCount": 30742,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 1011
@@ -3705,7 +3709,7 @@
 	{
 		"aired": 1426158000,
 		"stats": {
-			"commentCount": 59,
+			"commentCount": 56,
 			"viewCount": 22856,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
@@ -3807,7 +3811,7 @@
 		"aired": 1422010800,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 22496,
+			"viewCount": 22509,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 312
@@ -3831,7 +3835,7 @@
 		"aired": 1422010800,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 14277,
+			"viewCount": 14283,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 235
@@ -3855,7 +3859,7 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 8678,
+			"viewCount": 8687,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 165
@@ -3879,7 +3883,7 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 8957,
+			"viewCount": 8962,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 158
@@ -3903,7 +3907,7 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 8780,
+			"viewCount": 8787,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 158
@@ -3927,7 +3931,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 8325,
+			"viewCount": 8330,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 165
@@ -3951,7 +3955,7 @@
 		"aired": 1425639600,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 8439,
+			"viewCount": 8441,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 187
@@ -3998,7 +4002,7 @@
 		"aired": 1424775600,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 12028,
+			"viewCount": 12032,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 260
@@ -4326,7 +4330,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 111,
-			"viewCount": 38526,
+			"viewCount": 38530,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 1137
@@ -4348,7 +4352,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 18542,
+			"viewCount": 18546,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 665
@@ -4370,7 +4374,7 @@
 		"aired": 1426503600,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 17771,
+			"viewCount": 17773,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 594
@@ -4438,9 +4442,9 @@
 		"aired": 1426244400,
 		"stats": {
 			"commentCount": 129,
-			"viewCount": 11904,
+			"viewCount": 11942,
 			"favoriteCount": 0,
-			"dislikeCount": 78,
+			"dislikeCount": 79,
 			"likeCount": 303
 		},
 		"title": "Fifa 15 | Road To Division One | #22 | 13.03.2015",
@@ -4531,7 +4535,7 @@
 		"aired": 1423825200,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 8944,
+			"viewCount": 8950,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 184
@@ -5158,7 +5162,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 235,
-			"viewCount": 82638,
+			"viewCount": 82642,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 2141
@@ -5183,7 +5187,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 181,
-			"viewCount": 45796,
+			"viewCount": 45802,
 			"favoriteCount": 0,
 			"dislikeCount": 17,
 			"likeCount": 1214
@@ -5206,7 +5210,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 33513,
+			"viewCount": 33518,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 984
@@ -5229,7 +5233,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 314,
-			"viewCount": 60982,
+			"viewCount": 60984,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 3310
@@ -5337,7 +5341,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 103,
-			"viewCount": 29507,
+			"viewCount": 29508,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 757
@@ -5381,7 +5385,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 41,
-			"viewCount": 13751,
+			"viewCount": 13753,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 388
@@ -5427,7 +5431,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 6213,
+			"viewCount": 6216,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 265
@@ -5493,7 +5497,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 232,
-			"viewCount": 33245,
+			"viewCount": 33254,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 1164
@@ -5540,7 +5544,7 @@
 		"aired": 1426676400,
 		"stats": {
 			"commentCount": 144,
-			"viewCount": 28845,
+			"viewCount": 28847,
 			"favoriteCount": 0,
 			"dislikeCount": 45,
 			"likeCount": 757
@@ -5659,7 +5663,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 1370,
-			"viewCount": 97664,
+			"viewCount": 97671,
 			"favoriteCount": 0,
 			"dislikeCount": 77,
 			"likeCount": 2550
@@ -5705,7 +5709,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 191,
-			"viewCount": 55688,
+			"viewCount": 55713,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 2771
@@ -5818,7 +5822,7 @@
 		"aired": 1424689200,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 14340,
+			"viewCount": 14346,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 322
@@ -5840,7 +5844,7 @@
 		"aired": 1424689200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 6955,
+			"viewCount": 6957,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 177
@@ -5862,7 +5866,7 @@
 		"aired": 1424689200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 6114,
+			"viewCount": 6119,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 156
@@ -5884,7 +5888,7 @@
 		"aired": 1424689200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 5776,
+			"viewCount": 5778,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 154
@@ -6041,7 +6045,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 771,
-			"viewCount": 116251,
+			"viewCount": 116309,
 			"favoriteCount": 0,
 			"dislikeCount": 91,
 			"likeCount": 2669
@@ -6197,7 +6201,7 @@
 		"aired": 1425985200,
 		"stats": {
 			"commentCount": 30,
-			"viewCount": 7820,
+			"viewCount": 7822,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 202
@@ -6220,7 +6224,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 335,
-			"viewCount": 109344,
+			"viewCount": 109360,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 2888
@@ -6311,7 +6315,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 132,
-			"viewCount": 50869,
+			"viewCount": 50874,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 1145
@@ -6335,7 +6339,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 99,
-			"viewCount": 41736,
+			"viewCount": 41738,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 1145
@@ -6359,7 +6363,7 @@
 		"aired": 1427108400,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 7041,
+			"viewCount": 7044,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 199
@@ -6403,7 +6407,7 @@
 		"aired": 1427108400,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 5180,
+			"viewCount": 5183,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 159
@@ -6608,7 +6612,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 20931,
+			"viewCount": 20934,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 506
@@ -6632,7 +6636,7 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 20656,
+			"viewCount": 20658,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 548
@@ -6678,10 +6682,10 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 129,
-			"viewCount": 46522,
+			"viewCount": 46526,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
-			"likeCount": 1191
+			"likeCount": 1192
 		},
 		"title": "Almost Daily | Live | mit Sebastian Nu\u00df (3sat, ZDF) | #1 | 17.03.2015",
 		"series": [],
@@ -6702,7 +6706,7 @@
 		"aired": 1426590000,
 		"stats": {
 			"commentCount": 83,
-			"viewCount": 31280,
+			"viewCount": 31282,
 			"favoriteCount": 0,
 			"dislikeCount": 36,
 			"likeCount": 963
@@ -6726,7 +6730,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 110,
-			"viewCount": 38789,
+			"viewCount": 38791,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 1407
@@ -6818,7 +6822,7 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 42,
-			"viewCount": 58498,
+			"viewCount": 58522,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 621
@@ -6843,7 +6847,7 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 21997,
+			"viewCount": 22018,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 347
@@ -6868,7 +6872,7 @@
 		"aired": 1426762800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 20716,
+			"viewCount": 20723,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 365
@@ -6990,10 +6994,10 @@
 		"aired": 1427281200,
 		"stats": {
 			"commentCount": 235,
-			"viewCount": 132168,
+			"viewCount": 132219,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
-			"likeCount": 2155
+			"likeCount": 2157
 		},
 		"title": "Bloodborne mit Dennis R. und Etienne | Knallhart Durchgenommen | #1 | 25.03.2015",
 		"series": [
@@ -7015,7 +7019,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 188,
-			"viewCount": 82523,
+			"viewCount": 82557,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
 			"likeCount": 1591
@@ -7040,10 +7044,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 440,
-			"viewCount": 110322,
+			"viewCount": 110352,
 			"favoriteCount": 0,
 			"dislikeCount": 31,
-			"likeCount": 3173
+			"likeCount": 3175
 		},
 		"title": "Almost Daily #146 | Was geht ab? #5",
 		"series": [],
@@ -7155,7 +7159,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 631,
-			"viewCount": 137969,
+			"viewCount": 137976,
 			"favoriteCount": 0,
 			"dislikeCount": 62,
 			"likeCount": 4598
@@ -7200,7 +7204,7 @@
 		"aired": 1427367600,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 11649,
+			"viewCount": 11651,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 285
@@ -7266,7 +7270,7 @@
 		"aired": 1427623200,
 		"stats": {
 			"commentCount": 82,
-			"viewCount": 34850,
+			"viewCount": 34853,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1127
@@ -7403,7 +7407,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 50237,
+			"viewCount": 50244,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 683
@@ -7429,7 +7433,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 22907,
+			"viewCount": 22909,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 406
@@ -7481,7 +7485,7 @@
 		"aired": 1427796000,
 		"stats": {
 			"commentCount": 61,
-			"viewCount": 20970,
+			"viewCount": 20971,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 751
@@ -7504,7 +7508,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 174,
-			"viewCount": 75271,
+			"viewCount": 75278,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
 			"likeCount": 2867
@@ -7527,7 +7531,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 75,
-			"viewCount": 38843,
+			"viewCount": 38847,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1367
@@ -7550,7 +7554,7 @@
 		"aired": 1427709600,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 31563,
+			"viewCount": 31567,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1248

@@ -27,7 +27,7 @@
 		"aired": 1433152800,
 		"stats": {
 			"commentCount": 100,
-			"viewCount": 18279,
+			"viewCount": 18281,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 625
@@ -72,7 +72,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 99,
-			"viewCount": 40808,
+			"viewCount": 40830,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 778
@@ -96,7 +96,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 33561,
+			"viewCount": 33573,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 610
@@ -166,7 +166,7 @@
 		"aired": 1432980000,
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 35062,
+			"viewCount": 35085,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 732
@@ -189,7 +189,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 168,
-			"viewCount": 43517,
+			"viewCount": 43525,
 			"favoriteCount": 0,
 			"dislikeCount": 35,
 			"likeCount": 1132
@@ -197,11 +197,15 @@
 		"title": "Road to Final Fantasy XIV: Heavensward #1 - Das MMO-Tagebuch",
 		"series": [],
 		"length": 1018,
-		"hosts": [],
+		"hosts": [
+			"Gregor"
+		],
 		"published": 1433188800,
 		"id": "9lHZdxit4bI",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
 		"aired": 1432634400,
@@ -344,8 +348,8 @@
 	{
 		"aired": 1432461600,
 		"stats": {
-			"commentCount": 409,
-			"viewCount": 193089,
+			"commentCount": 408,
+			"viewCount": 193147,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 4776
@@ -370,7 +374,7 @@
 		"aired": 1432461600,
 		"stats": {
 			"commentCount": 516,
-			"viewCount": 154822,
+			"viewCount": 154872,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 4027
@@ -646,7 +650,7 @@
 		"aired": 1433325600,
 		"stats": {
 			"commentCount": 102,
-			"viewCount": 29082,
+			"viewCount": 29084,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 1115
@@ -668,7 +672,7 @@
 		"aired": 1433239200,
 		"stats": {
 			"commentCount": 149,
-			"viewCount": 52237,
+			"viewCount": 52239,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 1269
@@ -693,7 +697,7 @@
 		"aired": 1433239200,
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 33926,
+			"viewCount": 33928,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1129
@@ -718,7 +722,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 116,
-			"viewCount": 61760,
+			"viewCount": 61762,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 1476
@@ -736,7 +740,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 481,
-			"viewCount": 104288,
+			"viewCount": 104293,
 			"favoriteCount": 0,
 			"dislikeCount": 37,
 			"likeCount": 4067
@@ -915,7 +919,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 700,
-			"viewCount": 149277,
+			"viewCount": 149287,
 			"favoriteCount": 0,
 			"dislikeCount": 35,
 			"likeCount": 6867
@@ -940,7 +944,7 @@
 		"aired": 1433325600,
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 19954,
+			"viewCount": 19968,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 401
@@ -965,7 +969,7 @@
 		"aired": 1433325600,
 		"stats": {
 			"commentCount": 35,
-			"viewCount": 17962,
+			"viewCount": 17965,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 356
@@ -1030,7 +1034,7 @@
 		"aired": 1433325600,
 		"stats": {
 			"commentCount": 53,
-			"viewCount": 31457,
+			"viewCount": 31459,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 944
@@ -1053,7 +1057,7 @@
 		"aired": 1433325600,
 		"stats": {
 			"commentCount": 110,
-			"viewCount": 36163,
+			"viewCount": 36165,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 1188
@@ -1076,7 +1080,7 @@
 		"aired": 1433325600,
 		"stats": {
 			"commentCount": 111,
-			"viewCount": 28057,
+			"viewCount": 28060,
 			"favoriteCount": 0,
 			"dislikeCount": 43,
 			"likeCount": 922
@@ -1099,7 +1103,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 161,
-			"viewCount": 25278,
+			"viewCount": 25280,
 			"favoriteCount": 0,
 			"dislikeCount": 56,
 			"likeCount": 722
@@ -1124,7 +1128,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 335,
-			"viewCount": 33699,
+			"viewCount": 33701,
 			"favoriteCount": 0,
 			"dislikeCount": 258,
 			"likeCount": 895
@@ -1149,7 +1153,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 212,
-			"viewCount": 34370,
+			"viewCount": 34372,
 			"favoriteCount": 0,
 			"dislikeCount": 73,
 			"likeCount": 942
@@ -1172,7 +1176,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 31062,
+			"viewCount": 31070,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
 			"likeCount": 767
@@ -1258,7 +1262,7 @@
 		"aired": 1433325600,
 		"stats": {
 			"commentCount": 154,
-			"viewCount": 63386,
+			"viewCount": 63393,
 			"favoriteCount": 0,
 			"dislikeCount": 24,
 			"likeCount": 1885
@@ -1442,7 +1446,7 @@
 		"aired": 1433498400,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 20885,
+			"viewCount": 20893,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 358
@@ -1467,7 +1471,7 @@
 		"aired": 1433498400,
 		"stats": {
 			"commentCount": 67,
-			"viewCount": 18161,
+			"viewCount": 18163,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 387
@@ -1534,7 +1538,7 @@
 		"aired": 1433239200,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 7219,
+			"viewCount": 7221,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 199
@@ -1558,7 +1562,7 @@
 		"aired": 1433239200,
 		"stats": {
 			"commentCount": 23,
-			"viewCount": 6611,
+			"viewCount": 6613,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 178
@@ -1582,7 +1586,7 @@
 		"aired": 1433239200,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 7956,
+			"viewCount": 7958,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 229
@@ -1807,10 +1811,10 @@
 		"aired": 1433584800,
 		"stats": {
 			"commentCount": 337,
-			"viewCount": 119102,
+			"viewCount": 119136,
 			"favoriteCount": 0,
 			"dislikeCount": 25,
-			"likeCount": 3412
+			"likeCount": 3413
 		},
 		"title": "Almost Daily #165 | Mein fr\u00fcheres Ich | Part 1 | 06.06.2015",
 		"series": [],
@@ -1832,10 +1836,10 @@
 		"aired": 1433584800,
 		"stats": {
 			"commentCount": 192,
-			"viewCount": 76969,
+			"viewCount": 76989,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
-			"likeCount": 2895
+			"likeCount": 2896
 		},
 		"title": "Almost Daily #165 | Mein fr\u00fcheres Ich | Part 2 | 06.06.2015",
 		"series": [],
@@ -2050,7 +2054,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 40231,
+			"viewCount": 40257,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 852
@@ -2074,7 +2078,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 28391,
+			"viewCount": 28403,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 635
@@ -2210,7 +2214,7 @@
 		"aired": 1433584800,
 		"stats": {
 			"commentCount": 100,
-			"viewCount": 32177,
+			"viewCount": 32202,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 814
@@ -2233,7 +2237,7 @@
 		"aired": 1433584800,
 		"stats": {
 			"commentCount": 89,
-			"viewCount": 22532,
+			"viewCount": 22551,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 752
@@ -2264,11 +2268,15 @@
 		"title": "Road to Final Fantasy XIV: Heavensward #2 - Das MMO-Tagebuch",
 		"series": [],
 		"length": 906,
-		"hosts": [],
+		"hosts": [
+			"Gregor"
+		],
 		"published": 1433793601,
 		"id": "ormccUTJbJI",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
 		"aired": 1433152800,
@@ -2344,7 +2352,7 @@
 		"aired": 1433757600,
 		"stats": {
 			"commentCount": 147,
-			"viewCount": 35268,
+			"viewCount": 35272,
 			"favoriteCount": 0,
 			"dislikeCount": 46,
 			"likeCount": 1159
@@ -2413,7 +2421,7 @@
 		"aired": 1433671200,
 		"stats": {
 			"commentCount": 710,
-			"viewCount": 215219,
+			"viewCount": 215303,
 			"favoriteCount": 0,
 			"dislikeCount": 53,
 			"likeCount": 5895
@@ -2507,7 +2515,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 94,
-			"viewCount": 44867,
+			"viewCount": 44872,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 1213
@@ -2530,7 +2538,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 21265,
+			"viewCount": 21269,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 620
@@ -2553,7 +2561,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 22153,
+			"viewCount": 22155,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 548
@@ -2576,7 +2584,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 15884,
+			"viewCount": 15886,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 425
@@ -2599,7 +2607,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 19694,
+			"viewCount": 19696,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 448
@@ -2622,7 +2630,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 20489,
+			"viewCount": 20491,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 667
@@ -2715,7 +2723,7 @@
 		"aired": 1433844000,
 		"stats": {
 			"commentCount": 264,
-			"viewCount": 45615,
+			"viewCount": 45626,
 			"favoriteCount": 0,
 			"dislikeCount": 167,
 			"likeCount": 1190
@@ -2740,7 +2748,7 @@
 		"aired": 1433844000,
 		"stats": {
 			"commentCount": 91,
-			"viewCount": 17601,
+			"viewCount": 17605,
 			"favoriteCount": 0,
 			"dislikeCount": 52,
 			"likeCount": 596
@@ -2765,7 +2773,7 @@
 		"aired": 1433844000,
 		"stats": {
 			"commentCount": 96,
-			"viewCount": 32631,
+			"viewCount": 32632,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 1056
@@ -2788,7 +2796,7 @@
 		"aired": 1433844000,
 		"stats": {
 			"commentCount": 54,
-			"viewCount": 26389,
+			"viewCount": 26390,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 832
@@ -2811,7 +2819,7 @@
 		"aired": 1433844000,
 		"stats": {
 			"commentCount": 62,
-			"viewCount": 18824,
+			"viewCount": 18829,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 818
@@ -2834,7 +2842,7 @@
 		"aired": 1433844000,
 		"stats": {
 			"commentCount": 69,
-			"viewCount": 17872,
+			"viewCount": 17874,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 774
@@ -2879,7 +2887,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 111,
-			"viewCount": 54418,
+			"viewCount": 54421,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 1470
@@ -3028,7 +3036,7 @@
 		"aired": 1433930400,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 18550,
+			"viewCount": 18552,
 			"favoriteCount": 0,
 			"dislikeCount": 19,
 			"likeCount": 358
@@ -3053,7 +3061,7 @@
 		"aired": 1433930400,
 		"stats": {
 			"commentCount": 33,
-			"viewCount": 15525,
+			"viewCount": 15530,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 333
@@ -3100,7 +3108,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 100,
-			"viewCount": 31552,
+			"viewCount": 31570,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 1241
@@ -3140,7 +3148,7 @@
 		"aired": 1433930400,
 		"stats": {
 			"commentCount": 201,
-			"viewCount": 41138,
+			"viewCount": 41142,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 1217
@@ -3163,7 +3171,7 @@
 		"aired": 1433930400,
 		"stats": {
 			"commentCount": 141,
-			"viewCount": 43516,
+			"viewCount": 43522,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
 			"likeCount": 1295
@@ -3186,7 +3194,7 @@
 		"aired": 1433930400,
 		"stats": {
 			"commentCount": 108,
-			"viewCount": 28524,
+			"viewCount": 28526,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 1100
@@ -3209,10 +3217,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 208,
-			"viewCount": 45728,
+			"viewCount": 45731,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
-			"likeCount": 1010
+			"likeCount": 1011
 		},
 		"title": "Kino+ #61 | Part 2 | Sky Sharks Gewinnspiel | Mad Max: Fury Road Besprechung",
 		"series": [],
@@ -3424,7 +3432,7 @@
 		"aired": 1434103200,
 		"stats": {
 			"commentCount": 117,
-			"viewCount": 39260,
+			"viewCount": 39262,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1358
@@ -3470,7 +3478,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 82,
-			"viewCount": 36242,
+			"viewCount": 36244,
 			"favoriteCount": 0,
 			"dislikeCount": 45,
 			"likeCount": 1173
@@ -3511,7 +3519,7 @@
 		"aired": 1434016800,
 		"stats": {
 			"commentCount": 28,
-			"viewCount": 16282,
+			"viewCount": 16284,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 431
@@ -3628,7 +3636,7 @@
 		"aired": 1434016800,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 4446,
+			"viewCount": 4448,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 127
@@ -3676,7 +3684,7 @@
 		"aired": 1433930400,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 19505,
+			"viewCount": 19507,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 381
@@ -3701,7 +3709,7 @@
 		"aired": 1433930400,
 		"stats": {
 			"commentCount": 40,
-			"viewCount": 17451,
+			"viewCount": 17457,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 336
@@ -3726,7 +3734,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 76,
-			"viewCount": 21054,
+			"viewCount": 21056,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 381
@@ -3751,7 +3759,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 24,
-			"viewCount": 7221,
+			"viewCount": 7223,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 154
@@ -3776,7 +3784,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 6077,
+			"viewCount": 6079,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 120
@@ -3801,7 +3809,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 6716,
+			"viewCount": 6718,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 141
@@ -3826,7 +3834,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 60,
-			"viewCount": 41204,
+			"viewCount": 41221,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 560
@@ -3851,10 +3859,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 15738,
+			"viewCount": 15740,
 			"favoriteCount": 0,
-			"dislikeCount": 4,
-			"likeCount": 420
+			"dislikeCount": 5,
+			"likeCount": 421
 		},
 		"title": "King's Field IV | Classix | #2 | 05.06.15",
 		"series": [
@@ -3876,7 +3884,7 @@
 		"aired": 1434189600,
 		"stats": {
 			"commentCount": 151,
-			"viewCount": 66425,
+			"viewCount": 66441,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
 			"likeCount": 2123
@@ -3899,7 +3907,7 @@
 		"aired": 1434189600,
 		"stats": {
 			"commentCount": 150,
-			"viewCount": 46751,
+			"viewCount": 46758,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 2060
@@ -3922,7 +3930,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 167,
-			"viewCount": 53502,
+			"viewCount": 53526,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 3044
@@ -3945,7 +3953,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 86,
-			"viewCount": 38321,
+			"viewCount": 38341,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 809
@@ -3970,7 +3978,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 31289,
+			"viewCount": 31305,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 675
@@ -4041,7 +4049,7 @@
 		"aired": 1434189600,
 		"stats": {
 			"commentCount": 72,
-			"viewCount": 36996,
+			"viewCount": 36998,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 954
@@ -4095,11 +4103,15 @@
 		"title": "Road to Final Fantasy XIV: Heavensward #3 - Das MMO-Tagebuch",
 		"series": [],
 		"length": 809,
-		"hosts": [],
+		"hosts": [
+			"Gregor"
+		],
 		"published": 1434398401,
 		"id": "10sjKmkICW4",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
 		"aired": null,
@@ -4201,7 +4213,7 @@
 		"aired": 1434448800,
 		"stats": {
 			"commentCount": 70,
-			"viewCount": 15250,
+			"viewCount": 15251,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 541
@@ -4224,7 +4236,7 @@
 		"aired": 1434276000,
 		"stats": {
 			"commentCount": 314,
-			"viewCount": 157430,
+			"viewCount": 157475,
 			"favoriteCount": 0,
 			"dislikeCount": 148,
 			"likeCount": 3460
@@ -4321,7 +4333,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 12851,
+			"viewCount": 12855,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 332
@@ -4384,7 +4396,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 110,
-			"viewCount": 31307,
+			"viewCount": 31309,
 			"favoriteCount": 0,
 			"dislikeCount": 50,
 			"likeCount": 648
@@ -4428,7 +4440,7 @@
 		"aired": 1433757600,
 		"stats": {
 			"commentCount": 77,
-			"viewCount": 21375,
+			"viewCount": 21403,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 398
@@ -4452,7 +4464,7 @@
 		"aired": 1433757600,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 10746,
+			"viewCount": 10759,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 275
@@ -4518,7 +4530,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 9164,
+			"viewCount": 9165,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 274
@@ -4586,10 +4598,10 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 571,
-			"viewCount": 52323,
+			"viewCount": 52326,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
-			"likeCount": 1370
+			"likeCount": 1371
 		},
 		"title": "Kino+ Spezial | Game of Thrones Talkrunde | Folge 10 - Staffel 5",
 		"series": [],
@@ -4680,7 +4692,7 @@
 		"aired": 1434448800,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 9328,
+			"viewCount": 9329,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 214
@@ -4791,7 +4803,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 18707,
+			"viewCount": 18708,
 			"favoriteCount": 0,
 			"dislikeCount": 10,
 			"likeCount": 516
@@ -5742,7 +5754,7 @@
 		"aired": 1434708000,
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 24102,
+			"viewCount": 24106,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 719
@@ -5835,7 +5847,7 @@
 		"aired": 1434621600,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 23018,
+			"viewCount": 23020,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 685
@@ -5858,7 +5870,7 @@
 		"aired": 1434621600,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 19896,
+			"viewCount": 19898,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 576
@@ -5882,7 +5894,7 @@
 		"aired": 1434621600,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 19686,
+			"viewCount": 19688,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 607
@@ -5942,8 +5954,8 @@
 	{
 		"aired": 1434621600,
 		"stats": {
-			"commentCount": 37,
-			"viewCount": 17433,
+			"commentCount": 36,
+			"viewCount": 17435,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 581
@@ -5967,7 +5979,7 @@
 		"aired": 1434708000,
 		"stats": {
 			"commentCount": 237,
-			"viewCount": 39627,
+			"viewCount": 39629,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 1788
@@ -5989,7 +6001,7 @@
 		"aired": 1434708000,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 15574,
+			"viewCount": 15576,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 720
@@ -6011,7 +6023,7 @@
 		"aired": 1434708000,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 13542,
+			"viewCount": 13545,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 617
@@ -6179,7 +6191,7 @@
 		"aired": 1434621600,
 		"stats": {
 			"commentCount": 177,
-			"viewCount": 92742,
+			"viewCount": 92752,
 			"favoriteCount": 0,
 			"dislikeCount": 27,
 			"likeCount": 1841
@@ -6203,7 +6215,7 @@
 		"aired": 1434621600,
 		"stats": {
 			"commentCount": 80,
-			"viewCount": 66574,
+			"viewCount": 66578,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1438
@@ -6250,7 +6262,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 82,
-			"viewCount": 36695,
+			"viewCount": 36707,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 805
@@ -6273,7 +6285,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 27560,
+			"viewCount": 27567,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 673
@@ -6296,7 +6308,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 43,
-			"viewCount": 24660,
+			"viewCount": 24662,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 563
@@ -6332,7 +6344,7 @@
 		"aired": 1434967200,
 		"stats": {
 			"commentCount": 128,
-			"viewCount": 16000,
+			"viewCount": 16003,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 753
@@ -6494,7 +6506,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 51,
-			"viewCount": 19486,
+			"viewCount": 19488,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 541
@@ -6517,7 +6529,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 14054,
+			"viewCount": 14056,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 369
@@ -6563,7 +6575,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 12657,
+			"viewCount": 12659,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 334
@@ -6586,7 +6598,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 13506,
+			"viewCount": 13508,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 322
@@ -6609,7 +6621,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 10737,
+			"viewCount": 10739,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 268
@@ -6678,7 +6690,7 @@
 		"aired": 1434967200,
 		"stats": {
 			"commentCount": 127,
-			"viewCount": 27686,
+			"viewCount": 27688,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 900
@@ -6747,7 +6759,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 7071,
+			"viewCount": 7072,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 153
@@ -6860,7 +6872,7 @@
 		]
 	},
 	{
-		"aired": null,
+		"aired": 1434967200,
 		"stats": {
 			"commentCount": 28,
 			"viewCount": 10783,
@@ -6877,10 +6889,12 @@
 		"published": 1435149000,
 		"id": "bW5ccMFiZDE",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
-		"aired": null,
+		"aired": 1434967200,
 		"stats": {
 			"commentCount": 6,
 			"viewCount": 4529,
@@ -6897,10 +6911,12 @@
 		"published": 1435150800,
 		"id": "5q79kyKZ6II",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
-		"aired": null,
+		"aired": 1434967200,
 		"stats": {
 			"commentCount": 3,
 			"viewCount": 3540,
@@ -6917,10 +6933,12 @@
 		"published": 1435152600,
 		"id": "SVeMjCEKNa4",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
-		"aired": null,
+		"aired": 1434967200,
 		"stats": {
 			"commentCount": 3,
 			"viewCount": 4065,
@@ -6937,7 +6955,9 @@
 		"published": 1435154400,
 		"id": "bGX1wbqoxWU",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
 		"aired": 1435140000,
@@ -6965,7 +6985,7 @@
 		"aired": 1435053600,
 		"stats": {
 			"commentCount": 114,
-			"viewCount": 47714,
+			"viewCount": 47720,
 			"favoriteCount": 0,
 			"dislikeCount": 41,
 			"likeCount": 1335
@@ -6990,7 +7010,7 @@
 		"aired": 1435053600,
 		"stats": {
 			"commentCount": 104,
-			"viewCount": 32322,
+			"viewCount": 32326,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1279
@@ -7182,7 +7202,7 @@
 		"aired": 1435053600,
 		"stats": {
 			"commentCount": 36,
-			"viewCount": 15628,
+			"viewCount": 15629,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 578
@@ -7274,7 +7294,7 @@
 		"aired": 1435226400,
 		"stats": {
 			"commentCount": 86,
-			"viewCount": 25827,
+			"viewCount": 25829,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 887
@@ -7342,10 +7362,10 @@
 		"aired": 1435053600,
 		"stats": {
 			"commentCount": 70,
-			"viewCount": 37992,
+			"viewCount": 37996,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
-			"likeCount": 1126
+			"likeCount": 1125
 		},
 		"title": "[1/3] Bohn Jour #24 | mit T\u00e4towierungen, der Beans Hochzeit und Poetry Slam | 23.06.2015",
 		"series": [],
@@ -7365,7 +7385,7 @@
 		"aired": 1435226400,
 		"stats": {
 			"commentCount": 143,
-			"viewCount": 44405,
+			"viewCount": 44409,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 1027
@@ -7388,7 +7408,7 @@
 		"aired": 1435226400,
 		"stats": {
 			"commentCount": 132,
-			"viewCount": 30624,
+			"viewCount": 30626,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 807
@@ -7411,7 +7431,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 309,
-			"viewCount": 59621,
+			"viewCount": 59628,
 			"favoriteCount": 0,
 			"dislikeCount": 142,
 			"likeCount": 2907
@@ -7454,7 +7474,7 @@
 		"aired": 1435053600,
 		"stats": {
 			"commentCount": 27,
-			"viewCount": 13957,
+			"viewCount": 13959,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 291
@@ -7570,7 +7590,7 @@
 		"aired": 1435140000,
 		"stats": {
 			"commentCount": 29,
-			"viewCount": 10370,
+			"viewCount": 10372,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 230
@@ -7674,7 +7694,7 @@
 		"aired": 1435312800,
 		"stats": {
 			"commentCount": 18,
-			"viewCount": 15666,
+			"viewCount": 15670,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 291
@@ -7699,7 +7719,7 @@
 		"aired": 1435312800,
 		"stats": {
 			"commentCount": 47,
-			"viewCount": 14378,
+			"viewCount": 14383,
 			"favoriteCount": 0,
 			"dislikeCount": 15,
 			"likeCount": 295
@@ -7774,7 +7794,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 32,
-			"viewCount": 12892,
+			"viewCount": 12894,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 361
@@ -7798,7 +7818,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 9814,
+			"viewCount": 9816,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 254
@@ -7823,7 +7843,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 10165,
+			"viewCount": 10167,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 242
@@ -7847,7 +7867,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 22,
-			"viewCount": 8489,
+			"viewCount": 8491,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 253
@@ -7897,7 +7917,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 8918,
+			"viewCount": 8920,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 246
@@ -7922,7 +7942,7 @@
 		"aired": 1432807200,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 12179,
+			"viewCount": 12180,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 352
@@ -7945,7 +7965,7 @@
 		"aired": 1432807200,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 8616,
+			"viewCount": 8618,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 213
@@ -7968,7 +7988,7 @@
 		"aired": 1435399200,
 		"stats": {
 			"commentCount": 230,
-			"viewCount": 93728,
+			"viewCount": 93736,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 2618
@@ -7992,7 +8012,7 @@
 		"aired": 1435399200,
 		"stats": {
 			"commentCount": 423,
-			"viewCount": 64088,
+			"viewCount": 64097,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 3157
@@ -8086,7 +8106,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 87,
-			"viewCount": 35722,
+			"viewCount": 35735,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 723
@@ -8109,7 +8129,7 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 27313,
+			"viewCount": 27327,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 575
@@ -8132,7 +8152,7 @@
 		"aired": 1435572000,
 		"stats": {
 			"commentCount": 510,
-			"viewCount": 75890,
+			"viewCount": 75922,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 3801
@@ -8262,11 +8282,15 @@
 		"title": "Road to Final Fantasy XIV: Heavensward #4 - Das MMO-Tagebuch",
 		"series": [],
 		"length": 1024,
-		"hosts": [],
+		"hosts": [
+			"Gregor"
+		],
 		"published": 1435604401,
 		"id": "yyJxd9mmYks",
 		"channel": "Rocket Beans TV",
-		"shows": []
+		"shows": [
+			"Road to Final Fantasy XIV: Heavensward"
+		]
 	},
 	{
 		"aired": 1435658400,
@@ -8433,7 +8457,7 @@
 		"aired": 1435658400,
 		"stats": {
 			"commentCount": 50,
-			"viewCount": 18484,
+			"viewCount": 18488,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 408
@@ -8455,7 +8479,7 @@
 		"aired": 1435658400,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 9541,
+			"viewCount": 9543,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 199
@@ -8477,7 +8501,7 @@
 		"aired": 1435658400,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 7936,
+			"viewCount": 7939,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 172

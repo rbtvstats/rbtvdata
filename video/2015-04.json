@@ -10,7 +10,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 464,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -33,7 +32,6 @@
 		},
 		"title": "Beans vs Mario | Deathcounter",
 		"series": [],
-		"event": false,
 		"length": 1944,
 		"hosts": [],
 		"published": 1427877566,
@@ -45,14 +43,13 @@
 		"aired": 1427882400,
 		"stats": {
 			"commentCount": 151,
-			"viewCount": 38421,
+			"viewCount": 38424,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 1273
 		},
 		"title": "#MoinMoin mit Etienne | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2628,
 		"hosts": [
 			"Eddy"
@@ -68,14 +65,13 @@
 		"aired": 1427367600,
 		"stats": {
 			"commentCount": 367,
-			"viewCount": 74289,
+			"viewCount": 74291,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 3503
 		},
 		"title": "Philosofa | #1 | 26.03.2015",
 		"series": [],
-		"event": false,
 		"length": 3360,
 		"hosts": [
 			"Simon",
@@ -92,7 +88,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9448,
+			"viewCount": 9453,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 178
@@ -101,7 +97,6 @@
 		"series": [
 			"Resident Evil"
 		],
-		"event": false,
 		"length": 2225,
 		"hosts": [
 			"Simon"
@@ -120,13 +115,12 @@
 			"viewCount": 7377,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
-			"likeCount": 143
+			"likeCount": 144
 		},
 		"title": "Resident Evil: Remastered | After Dark | #10 | 24.03.2015",
 		"series": [
 			"Resident Evil"
 		],
-		"event": false,
 		"length": 1451,
 		"hosts": [
 			"Simon"
@@ -151,7 +145,6 @@
 		"series": [
 			"Resident Evil"
 		],
-		"event": false,
 		"length": 1841,
 		"hosts": [
 			"Simon"
@@ -167,7 +160,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 6426,
+			"viewCount": 6429,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 136
@@ -176,7 +169,6 @@
 		"series": [
 			"Resident Evil"
 		],
-		"event": false,
 		"length": 1348,
 		"hosts": [
 			"Simon"
@@ -192,7 +184,7 @@
 		"aired": 1427194800,
 		"stats": {
 			"commentCount": 4,
-			"viewCount": 7246,
+			"viewCount": 7250,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 155
@@ -201,7 +193,6 @@
 		"series": [
 			"Resident Evil"
 		],
-		"event": false,
 		"length": 1364,
 		"hosts": [
 			"Simon"
@@ -224,7 +215,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 579,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -240,7 +230,7 @@
 		"aired": 1427882400,
 		"stats": {
 			"commentCount": 199,
-			"viewCount": 78481,
+			"viewCount": 78490,
 			"favoriteCount": 0,
 			"dislikeCount": 44,
 			"likeCount": 1338
@@ -249,7 +239,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 3771,
 		"hosts": [
 			"Dennis R",
@@ -273,7 +262,6 @@
 		},
 		"title": "#MoinMoin mit Dennis H. | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2417,
 		"hosts": [
 			"Dennis H"
@@ -296,7 +284,6 @@
 		},
 		"title": "Bohn Jour #13 | (1/3) | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1233,
 		"hosts": [
 			"Nils",
@@ -320,7 +307,6 @@
 		},
 		"title": "Bohn Jour #13 | (2/3) | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1994,
 		"hosts": [
 			"Nils",
@@ -344,7 +330,6 @@
 		},
 		"title": "Bohn Jour #13 | (3/3) | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2917,
 		"hosts": [
 			"Nils",
@@ -368,7 +353,6 @@
 		},
 		"title": "Kino+ #53 (1/2) | Fast & Furios 7 | Everything Will Be Fine | Mara und die Feuerbringer",
 		"series": [],
-		"event": false,
 		"length": 3239,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -392,7 +376,6 @@
 		},
 		"title": "Kino+ #53 (2/2) | Hausaufgabe: Breakfast Club | Maggie | Spectre",
 		"series": [],
-		"event": false,
 		"length": 2861,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -416,7 +399,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 03.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1922,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -439,7 +421,6 @@
 		},
 		"title": "StarCraft II: Legacy of the Void | Zocken mit Bohnen | #1 | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1623,
 		"hosts": [
 			"Budi",
@@ -464,7 +445,6 @@
 		},
 		"title": "StarCraft II: Legacy of the Void | Zocken mit Bohnen | #2 | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1702,
 		"hosts": [
 			"Budi",
@@ -489,7 +469,6 @@
 		},
 		"title": "StarCraft II: Legacy of the Void | Zocken mit Bohnen | #3 | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1641,
 		"hosts": [
 			"Budi",
@@ -514,7 +493,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #25 | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1348,
 		"hosts": [
 			"Budi",
@@ -539,7 +517,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #26 | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1475,
 		"hosts": [
 			"Budi",
@@ -564,7 +541,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #27 | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1547,
 		"hosts": [
 			"Budi",
@@ -589,7 +565,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #28 | 01.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1647,
 		"hosts": [
 			"Budi",
@@ -614,7 +589,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 04.04.2015",
 		"series": [],
-		"event": false,
 		"length": 972,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -630,7 +604,7 @@
 		"aired": 1428055200,
 		"stats": {
 			"commentCount": 237,
-			"viewCount": 72458,
+			"viewCount": 72462,
 			"favoriteCount": 0,
 			"dislikeCount": 26,
 			"likeCount": 1232
@@ -639,7 +613,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 3747,
 		"hosts": [
 			"Dennis R",
@@ -663,7 +636,6 @@
 		},
 		"title": "Kino+ | Community Einsendungen | #1 | 14.05.2015",
 		"series": [],
-		"event": false,
 		"length": 1644,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -680,7 +652,7 @@
 		"aired": 1427882400,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 9275,
+			"viewCount": 9279,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 210
@@ -689,7 +661,6 @@
 		"series": [
 			"Resident Evil"
 		],
-		"event": false,
 		"length": 1957,
 		"hosts": [
 			"Simon"
@@ -705,7 +676,7 @@
 		"aired": 1427882400,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 9543,
+			"viewCount": 9545,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 212
@@ -714,7 +685,6 @@
 		"series": [
 			"Resident Evil"
 		],
-		"event": false,
 		"length": 2076,
 		"hosts": [
 			"Simon"
@@ -737,7 +707,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 05.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1274,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -753,7 +722,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 20633,
+			"viewCount": 20635,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 361
@@ -762,7 +731,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1467,
 		"hosts": [
 			"Dennis R"
@@ -779,7 +747,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 15306,
+			"viewCount": 15308,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 262
@@ -788,7 +756,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1241,
 		"hosts": [
 			"Dennis R"
@@ -805,7 +772,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 14819,
+			"viewCount": 14821,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 272
@@ -814,7 +781,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1137,
 		"hosts": [
 			"Dennis R"
@@ -831,7 +797,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 17387,
+			"viewCount": 17389,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 337
@@ -840,7 +806,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1579,
 		"hosts": [
 			"Dennis R"
@@ -857,14 +822,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 484,
-			"viewCount": 117007,
+			"viewCount": 117020,
 			"favoriteCount": 0,
 			"dislikeCount": 67,
 			"likeCount": 3215
 		},
 		"title": "Almost Daily #147 | Fakten und \u00dcberraschungen",
 		"series": [],
-		"event": false,
 		"length": 2928,
 		"hosts": [
 			"Eddy",
@@ -889,7 +853,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 06.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1300,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -905,14 +868,13 @@
 		"aired": 1423134000,
 		"stats": {
 			"commentCount": 44,
-			"viewCount": 28179,
+			"viewCount": 28182,
 			"favoriteCount": 0,
 			"dislikeCount": 14,
 			"likeCount": 630
 		},
 		"title": "Papers, Please | Zocken mit Bohnen | #1 | 05.02.2015",
 		"series": [],
-		"event": false,
 		"length": 2633,
 		"hosts": [
 			"Dennis R"
@@ -929,14 +891,13 @@
 		"aired": 1423134000,
 		"stats": {
 			"commentCount": 17,
-			"viewCount": 14581,
+			"viewCount": 14584,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 373
 		},
 		"title": "Papers, Please | Zocken mit Bohnen | #2 | 05.02.2015",
 		"series": [],
-		"event": false,
 		"length": 2602,
 		"hosts": [
 			"Dennis R",
@@ -954,14 +915,13 @@
 		"aired": 1423134000,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 14763,
+			"viewCount": 14765,
 			"favoriteCount": 0,
 			"dislikeCount": 6,
 			"likeCount": 432
 		},
 		"title": "Papers, Please | Zocken mit Bohnen | #3 | 05.02.2015",
 		"series": [],
-		"event": false,
 		"length": 2637,
 		"hosts": [
 			"Dennis R",
@@ -986,7 +946,6 @@
 		},
 		"title": "Retro Klub | #8 (1/2) | 27.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1908,
 		"hosts": [
 			"Gregor"
@@ -1009,7 +968,6 @@
 		},
 		"title": "Retro Klub | #8 (2/2) | 27.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1618,
 		"hosts": [
 			"Gregor"
@@ -1032,7 +990,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 485,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -1055,7 +1012,6 @@
 		},
 		"title": "#MoinMoin mit Etienne | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2521,
 		"hosts": [
 			"Eddy"
@@ -1071,14 +1027,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 171,
-			"viewCount": 59418,
+			"viewCount": 59431,
 			"favoriteCount": 0,
 			"dislikeCount": 22,
 			"likeCount": 2882
 		},
 		"title": "Gadget Inspectors | UP! mini 3D Drucker",
 		"series": [],
-		"event": false,
 		"length": 695,
 		"hosts": [
 			"Simon",
@@ -1095,14 +1050,13 @@
 		"aired": 1427968800,
 		"stats": {
 			"commentCount": 70,
-			"viewCount": 18040,
+			"viewCount": 18042,
 			"favoriteCount": 0,
 			"dislikeCount": 49,
 			"likeCount": 372
 		},
 		"title": "Star Citizen | Zocken mit Bohnen | #1 | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1284,
 		"hosts": [
 			"Johannes",
@@ -1127,7 +1081,6 @@
 		},
 		"title": "Star Citizen | Zocken mit Bohnen | #2 | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2456,
 		"hosts": [
 			"Johannes",
@@ -1152,7 +1105,6 @@
 		},
 		"title": "Star Citizen | Zocken mit Bohnen | #3 | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1740,
 		"hosts": [
 			"Johannes",
@@ -1177,7 +1129,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 504,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -1200,7 +1151,6 @@
 		},
 		"title": "Pillars of Eternity | Zocken mit Bohnen | #1 | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2027,
 		"hosts": [
 			"Johannes"
@@ -1224,7 +1174,6 @@
 		},
 		"title": "Pillars of Eternity | Zocken mit Bohnen | #2 | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1609,
 		"hosts": [
 			"Johannes"
@@ -1241,14 +1190,13 @@
 		"aired": 1427968800,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 3835,
+			"viewCount": 3837,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 84
 		},
 		"title": "Pillars of Eternity | Zocken mit Bohnen | #3 | 02.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2578,
 		"hosts": [
 			"Johannes"
@@ -1272,7 +1220,6 @@
 		},
 		"title": "#MoinMoin mit Nils | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2419,
 		"hosts": [
 			"Nils"
@@ -1295,7 +1242,6 @@
 		},
 		"title": "Almost Plaily #148 | Montagsmaler #10",
 		"series": [],
-		"event": false,
 		"length": 2090,
 		"hosts": [
 			"Eddy",
@@ -1321,7 +1267,6 @@
 		},
 		"title": "Dosenbeatz #2 | feat. Die H\u00fcbschen | 11.04.2015 um 22:00 Uhr | Teaser",
 		"series": [],
-		"event": false,
 		"length": 86,
 		"hosts": [],
 		"published": 1428520453,
@@ -1340,7 +1285,6 @@
 		},
 		"title": "The Vanishing of Ethan Carter | After Dark | #1 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1975,
 		"hosts": [
 			"Hauke"
@@ -1363,7 +1307,6 @@
 		},
 		"title": "The Vanishing of Ethan Carter | After Dark | #2 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1638,
 		"hosts": [
 			"Hauke"
@@ -1386,7 +1329,6 @@
 		},
 		"title": "The Vanishing of Ethan Carter | After Dark | #3 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1577,
 		"hosts": [
 			"Hauke"
@@ -1409,7 +1351,6 @@
 		},
 		"title": "The Vanishing of Ethan Carter | After Dark | #4 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1811,
 		"hosts": [
 			"Hauke"
@@ -1432,7 +1373,6 @@
 		},
 		"title": "The Vanishing of Ethan Carter | After Dark | #5 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1343,
 		"hosts": [
 			"Hauke"
@@ -1455,7 +1395,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 09.04.2015",
 		"series": [],
-		"event": false,
 		"length": 482,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -1471,7 +1410,7 @@
 		"aired": 1428487200,
 		"stats": {
 			"commentCount": 130,
-			"viewCount": 71459,
+			"viewCount": 71465,
 			"favoriteCount": 0,
 			"dislikeCount": 23,
 			"likeCount": 1035
@@ -1480,7 +1419,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 3856,
 		"hosts": [
 			"Dennis R",
@@ -1504,7 +1442,6 @@
 		},
 		"title": "#MoinMoin mit Tim und Sofia | 09.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2352,
 		"hosts": [
 			"Tim H",
@@ -1528,7 +1465,6 @@
 		},
 		"title": "Bohn Jour #14 | feat. Marvin Wassen | (1/3) | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2284,
 		"hosts": [
 			"Eddy",
@@ -1552,7 +1488,6 @@
 		},
 		"title": "Bohn Jour #14 | feat. Marvin Wassen | (2/3) | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1969,
 		"hosts": [
 			"Eddy",
@@ -1576,7 +1511,6 @@
 		},
 		"title": "Bohn Jour #14 | feat. Marvin Wassen | (3/3) | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1010,
 		"hosts": [
 			"Eddy",
@@ -1593,14 +1527,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 86,
-			"viewCount": 44139,
+			"viewCount": 44142,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 1203
 		},
 		"title": "Kino+ #54 (1/2) | Halbe Br\u00fcder | Der Kaufhaus Cop 2 | Die Coopers \u2013 Schlimmer geht immer",
 		"series": [],
-		"event": false,
 		"length": 3279,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1625,7 +1558,6 @@
 		},
 		"title": "Kino+ #54 (2/2) | Hausaufgabe: Strange Days | Warum ist Fast & Furious  so erfolgreich?",
 		"series": [],
-		"event": false,
 		"length": 3463,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -1650,7 +1582,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 10.04.2015",
 		"series": [],
-		"event": false,
 		"length": 539,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -1675,7 +1606,6 @@
 		"series": [
 			"The Book of Unwritten Tales 2"
 		],
-		"event": false,
 		"length": 1405,
 		"hosts": [
 			"Sofia",
@@ -1701,7 +1631,6 @@
 		"series": [
 			"The Book of Unwritten Tales 2"
 		],
-		"event": false,
 		"length": 1708,
 		"hosts": [
 			"Sofia",
@@ -1727,7 +1656,6 @@
 		"series": [
 			"The Book of Unwritten Tales 2"
 		],
-		"event": false,
 		"length": 1085,
 		"hosts": [
 			"Sofia",
@@ -1751,7 +1679,6 @@
 		},
 		"title": "#MoinMoin mit Gunnar und Max | 10.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2440,
 		"hosts": [
 			"Gunnar",
@@ -1775,7 +1702,6 @@
 		},
 		"title": "Retro Klub | #9 (1/2) | 03.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1595,
 		"hosts": [
 			"Hannes",
@@ -1799,7 +1725,6 @@
 		},
 		"title": "Retro Klub | #9 (2/2) | 03.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1723,
 		"hosts": [
 			"Hannes",
@@ -1823,7 +1748,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #29 | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2295,
 		"hosts": [
 			"Niklas"
@@ -1839,14 +1763,13 @@
 		"aired": 1428487200,
 		"stats": {
 			"commentCount": 15,
-			"viewCount": 15635,
+			"viewCount": 15637,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 350
 		},
 		"title": "StarCraft II | Straight To Gold | #30 | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1645,
 		"hosts": [
 			"Niklas"
@@ -1869,7 +1792,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #31 | 08.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1566,
 		"hosts": [
 			"Niklas"
@@ -1892,7 +1814,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 11.04.2015",
 		"series": [],
-		"event": false,
 		"length": 613,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -1908,14 +1829,13 @@
 		"aired": 1428660000,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 63251,
+			"viewCount": 63256,
 			"favoriteCount": 0,
 			"dislikeCount": 28,
 			"likeCount": 1015
 		},
 		"title": "Bloodborne mit Dennis R. und Etienne | Knallhart Durchgenommen | #6 | 10.04.2015",
 		"series": [],
-		"event": false,
 		"length": 3874,
 		"hosts": [
 			"Dennis R",
@@ -1932,14 +1852,13 @@
 		"aired": 1423738800,
 		"stats": {
 			"commentCount": 26,
-			"viewCount": 11332,
+			"viewCount": 11334,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 247
 		},
 		"title": "Das Ende von Mass Effect 3 | !SPOILER! | #1 | 12.02.2015",
 		"series": [],
-		"event": false,
 		"length": 1571,
 		"hosts": [
 			"Nils",
@@ -1963,7 +1882,6 @@
 		},
 		"title": "Das Ende von Mass Effect 3 | !SPOILER! | #2 | 12.02.2015",
 		"series": [],
-		"event": false,
 		"length": 1643,
 		"hosts": [
 			"Nils",
@@ -1987,7 +1905,6 @@
 		},
 		"title": "Das Ende von Mass Effect 3 | !SPOILER! | #3 | 12.02.2015",
 		"series": [],
-		"event": false,
 		"length": 2986,
 		"hosts": [
 			"Nils",
@@ -2011,7 +1928,6 @@
 		},
 		"title": "Das Ende von Mass Effect 3 | !SPOILER! | #4 | 12.02.2015",
 		"series": [],
-		"event": false,
 		"length": 1392,
 		"hosts": [
 			"Nils",
@@ -2035,7 +1951,6 @@
 		},
 		"title": "Das Ende von Mass Effect 3 | !SPOILER! | #5 | 19.02.2015",
 		"series": [],
-		"event": false,
 		"length": 1720,
 		"hosts": [
 			"Nils"
@@ -2058,7 +1973,6 @@
 		},
 		"title": "Das Ende von Mass Effect 3 | !SPOILER! | #6 | 19.02.2015",
 		"series": [],
-		"event": false,
 		"length": 1976,
 		"hosts": [
 			"Nils"
@@ -2081,7 +1995,6 @@
 		},
 		"title": "Das Ende von Mass Effect 3 | !SPOILER! | #7 | 19.02.2015",
 		"series": [],
-		"event": false,
 		"length": 3013,
 		"hosts": [
 			"Nils"
@@ -2104,7 +2017,6 @@
 		},
 		"title": "Marvel's Daredevil Premiere in L.A. | Rocket Beans Screentrips | Pilotfolge",
 		"series": [],
-		"event": false,
 		"length": 952,
 		"hosts": [
 			"Hauke"
@@ -2129,7 +2041,6 @@
 		"series": [
 			"The Order: 1886"
 		],
-		"event": false,
 		"length": 1790,
 		"hosts": [
 			"Simon",
@@ -2156,7 +2067,6 @@
 		"series": [
 			"The Order: 1886"
 		],
-		"event": false,
 		"length": 1737,
 		"hosts": [
 			"Simon",
@@ -2183,7 +2093,6 @@
 		"series": [
 			"The Order: 1886"
 		],
-		"event": false,
 		"length": 1010,
 		"hosts": [
 			"Simon",
@@ -2208,7 +2117,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 12.04.2015",
 		"series": [],
-		"event": false,
 		"length": 665,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -2231,7 +2139,6 @@
 		},
 		"title": "World of Warcraft | Zocken mit Bohnen | #1 | 31.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1887,
 		"hosts": [
 			"Nils"
@@ -2255,7 +2162,6 @@
 		},
 		"title": "World of Warcraft | Zocken mit Bohnen | #2 | 31.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1598,
 		"hosts": [
 			"Nils"
@@ -2279,7 +2185,6 @@
 		},
 		"title": "World of Warcraft | Zocken mit Bohnen | #3 | 31.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1948,
 		"hosts": [
 			"Nils"
@@ -2303,7 +2208,6 @@
 		},
 		"title": "World of Warcraft | Zocken mit Bohnen | #4 | 31.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1642,
 		"hosts": [
 			"Nils"
@@ -2327,7 +2231,6 @@
 		},
 		"title": "World of Warcraft | Zocken mit Bohnen | #5 | 31.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1894,
 		"hosts": [
 			"Nils"
@@ -2351,7 +2254,6 @@
 		},
 		"title": "World of Warcraft | Zocken mit Bohnen | #6 | 31.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1567,
 		"hosts": [
 			"Nils"
@@ -2375,7 +2277,6 @@
 		},
 		"title": "GAME plus | #2 | Enderal (Skyrim Mod), VR - Gut oder schlecht?, EVE: Valkyrie",
 		"series": [],
-		"event": false,
 		"length": 5331,
 		"hosts": [
 			"Dennis R",
@@ -2399,7 +2300,6 @@
 		},
 		"title": "Besiege | Zocken mit Bohnen | #1 | 25.02.2015",
 		"series": [],
-		"event": false,
 		"length": 2195,
 		"hosts": [
 			"Hannes",
@@ -2424,7 +2324,6 @@
 		},
 		"title": "Besiege | Zocken mit Bohnen | #2 | 25.02.2015",
 		"series": [],
-		"event": false,
 		"length": 762,
 		"hosts": [
 			"Hannes",
@@ -2449,7 +2348,6 @@
 		},
 		"title": "Besiege | Zocken mit Bohnen | #3 | 04.03.2015",
 		"series": [],
-		"event": false,
 		"length": 3036,
 		"hosts": [
 			"Hannes",
@@ -2474,7 +2372,6 @@
 		},
 		"title": "Besiege | Zocken mit Bohnen | #4 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1654,
 		"hosts": [
 			"Hannes",
@@ -2499,7 +2396,6 @@
 		},
 		"title": "Besiege | Zocken mit Bohnen | #5 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1053,
 		"hosts": [
 			"Hannes",
@@ -2524,7 +2420,6 @@
 		},
 		"title": "Besiege | Zocken mit Bohnen | #6 | 07.04.2015",
 		"series": [],
-		"event": false,
 		"length": 967,
 		"hosts": [
 			"Hannes",
@@ -2549,7 +2444,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 494,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -2565,7 +2459,7 @@
 		"aired": 1425812400,
 		"stats": {
 			"commentCount": 9,
-			"viewCount": 10154,
+			"viewCount": 10157,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 234
@@ -2574,7 +2468,6 @@
 		"series": [
 			"Civilization V"
 		],
-		"event": false,
 		"length": 1227,
 		"hosts": [
 			"Nils",
@@ -2592,7 +2485,7 @@
 		"aired": 1425812400,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 8905,
+			"viewCount": 8909,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 189
@@ -2601,7 +2494,6 @@
 		"series": [
 			"Civilization V"
 		],
-		"event": false,
 		"length": 1975,
 		"hosts": [
 			"Nils",
@@ -2619,14 +2511,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 484,
-			"viewCount": 169913,
+			"viewCount": 169938,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 3884
 		},
 		"title": "Almost Daily #149 | Macken",
 		"series": [],
-		"event": false,
 		"length": 3381,
 		"hosts": [
 			"Simon",
@@ -2644,7 +2535,7 @@
 		"aired": 1425812400,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 8484,
+			"viewCount": 8486,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 198
@@ -2653,7 +2544,6 @@
 		"series": [
 			"Civilization V"
 		],
-		"event": false,
 		"length": 1659,
 		"hosts": [
 			"Nils",
@@ -2678,7 +2568,6 @@
 		},
 		"title": "#MoinMoin mit Nils | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2614,
 		"hosts": [
 			"Nils"
@@ -2701,7 +2590,6 @@
 		},
 		"title": "Fifa 15 | Road To Division One  | #30 | 10.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1115,
 		"hosts": [
 			"Nils"
@@ -2724,7 +2612,6 @@
 		},
 		"title": "Fifa 15 | Road To Division One  | #31 | 10.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2239,
 		"hosts": [
 			"Nils"
@@ -2747,7 +2634,6 @@
 		},
 		"title": "Fifa 15 | Road To Division One  | #32 | 10.04.2015",
 		"series": [],
-		"event": false,
 		"length": 3388,
 		"hosts": [
 			"Nils"
@@ -2770,7 +2656,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 14.04.2015",
 		"series": [],
-		"event": false,
 		"length": 593,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -2795,7 +2680,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 920,
 		"hosts": [
 			"Dennis R"
@@ -2812,7 +2696,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 12759,
+			"viewCount": 12761,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 217
@@ -2821,7 +2705,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1741,
 		"hosts": [
 			"Dennis R"
@@ -2838,7 +2721,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 2,
-			"viewCount": 12745,
+			"viewCount": 12749,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 219
@@ -2847,7 +2730,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1618,
 		"hosts": [
 			"Dennis R"
@@ -2864,7 +2746,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 14,
-			"viewCount": 11859,
+			"viewCount": 11862,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 207
@@ -2873,7 +2755,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1375,
 		"hosts": [
 			"Dennis R"
@@ -2890,7 +2771,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 10,
-			"viewCount": 11858,
+			"viewCount": 11860,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 210
@@ -2899,7 +2780,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1723,
 		"hosts": [
 			"Dennis R"
@@ -2923,7 +2803,6 @@
 		},
 		"title": "#MoinMoin mit Alwin und Annabell | 14.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2348,
 		"hosts": [
 			"Alwin",
@@ -2940,7 +2819,7 @@
 		"aired": 1427454000,
 		"stats": {
 			"commentCount": 13,
-			"viewCount": 12794,
+			"viewCount": 12796,
 			"favoriteCount": 0,
 			"dislikeCount": 0,
 			"likeCount": 248
@@ -2949,7 +2828,6 @@
 		"series": [
 			"RimWorld"
 		],
-		"event": false,
 		"length": 1554,
 		"hosts": [
 			"Dennis R"
@@ -2966,14 +2844,13 @@
 		"aired": 1428919200,
 		"stats": {
 			"commentCount": 66,
-			"viewCount": 23979,
+			"viewCount": 23981,
 			"favoriteCount": 0,
 			"dislikeCount": 9,
 			"likeCount": 631
 		},
 		"title": "Wir m\u00fcssen reden | feat. Dennis Richtarski | #1 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1552,
 		"hosts": [
 			"Gunnar",
@@ -2997,7 +2874,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Dennis Richtarski | #2 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1371,
 		"hosts": [
 			"Gunnar",
@@ -3021,7 +2897,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Dennis Richtarski | #3 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1575,
 		"hosts": [
 			"Gunnar",
@@ -3045,7 +2920,6 @@
 		},
 		"title": "Evolve | Community Beef | #1 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2228,
 		"hosts": [
 			"Dennis R"
@@ -3068,7 +2942,6 @@
 		},
 		"title": "Evolve | Community Beef | #2 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2417,
 		"hosts": [
 			"Dennis R"
@@ -3091,7 +2964,6 @@
 		},
 		"title": "Evolve | Community Beef | #3 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2694,
 		"hosts": [
 			"Dennis R"
@@ -3114,7 +2986,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 658,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -3130,7 +3001,7 @@
 		"aired": 1428919200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 8137,
+			"viewCount": 8141,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 191
@@ -3139,7 +3010,6 @@
 		"series": [
 			"Civilization V"
 		],
-		"event": false,
 		"length": 1892,
 		"hosts": [
 			"Dennis R",
@@ -3166,7 +3036,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1467,
 		"hosts": [
 			"Eddy",
@@ -3183,7 +3052,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 10107,
+			"viewCount": 10111,
 			"favoriteCount": 0,
 			"dislikeCount": 5,
 			"likeCount": 203
@@ -3192,7 +3061,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1732,
 		"hosts": [
 			"Budi",
@@ -3209,7 +3077,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 7,
-			"viewCount": 7757,
+			"viewCount": 7759,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 156
@@ -3218,7 +3086,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1532,
 		"hosts": [
 			"Budi",
@@ -3245,7 +3112,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 2254,
 		"hosts": [
 			"Dennis R",
@@ -3262,7 +3128,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 5,
-			"viewCount": 7037,
+			"viewCount": 7040,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 153
@@ -3271,7 +3137,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1934,
 		"hosts": [
 			"Dennis R",
@@ -3288,7 +3153,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 6501,
+			"viewCount": 6503,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 136
@@ -3297,7 +3162,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1914,
 		"hosts": [
 			"Eddy",
@@ -3315,7 +3179,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 6,
-			"viewCount": 6834,
+			"viewCount": 6836,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 133
@@ -3324,7 +3188,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1792,
 		"hosts": [
 			"Yannic",
@@ -3350,7 +3213,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1503,
 		"hosts": [
 			"Dennis R",
@@ -3367,7 +3229,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 6130,
+			"viewCount": 6132,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 114
@@ -3376,7 +3238,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 2705,
 		"hosts": [
 			"Yannic",
@@ -3403,7 +3264,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 2067,
 		"hosts": [
 			"Yannic",
@@ -3430,7 +3290,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 626,
 		"hosts": [
 			"Yannic",
@@ -3457,7 +3316,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1782,
 		"hosts": [
 			"Dennis H",
@@ -3475,7 +3333,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 3,
-			"viewCount": 4924,
+			"viewCount": 4926,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 117
@@ -3484,7 +3342,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1978,
 		"hosts": [
 			"Simon",
@@ -3511,7 +3368,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1696,
 		"hosts": [
 			"Dennis R",
@@ -3538,7 +3394,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 831,
 		"hosts": [
 			"Gregor",
@@ -3565,7 +3420,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1702,
 		"hosts": [
 			"Gregor",
@@ -3592,7 +3446,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1745,
 		"hosts": [
 			"Yannic",
@@ -3618,7 +3471,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1703,
 		"hosts": [
 			"Simon"
@@ -3643,7 +3495,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1489,
 		"hosts": [
 			"Hannes",
@@ -3670,7 +3521,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1720,
 		"hosts": [
 			"Dennis H",
@@ -3696,7 +3546,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1217,
 		"hosts": [
 			"Simon"
@@ -3721,7 +3570,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 1338,
 		"hosts": [
 			"Tim H",
@@ -3738,7 +3586,7 @@
 		"aired": 1426849200,
 		"stats": {
 			"commentCount": 16,
-			"viewCount": 6954,
+			"viewCount": 6956,
 			"favoriteCount": 0,
 			"dislikeCount": 7,
 			"likeCount": 132
@@ -3747,7 +3595,6 @@
 		"series": [
 			"Super Mario"
 		],
-		"event": false,
 		"length": 2926,
 		"hosts": [
 			"Tim H",
@@ -3764,7 +3611,7 @@
 		"aired": 1428919200,
 		"stats": {
 			"commentCount": 11,
-			"viewCount": 9123,
+			"viewCount": 9125,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 191
@@ -3773,7 +3620,6 @@
 		"series": [
 			"Civilization V"
 		],
-		"event": false,
 		"length": 1801,
 		"hosts": [
 			"Dennis R",
@@ -3791,7 +3637,7 @@
 		"aired": 1428919200,
 		"stats": {
 			"commentCount": 12,
-			"viewCount": 9620,
+			"viewCount": 9622,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 203
@@ -3800,7 +3646,6 @@
 		"series": [
 			"Civilization V"
 		],
-		"event": false,
 		"length": 1863,
 		"hosts": [
 			"Dennis R",
@@ -3825,7 +3670,6 @@
 		},
 		"title": "#MoinMoin mit Etienne | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2355,
 		"hosts": [
 			"Eddy"
@@ -3841,14 +3685,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 450,
-			"viewCount": 134792,
+			"viewCount": 134816,
 			"favoriteCount": 0,
 			"dislikeCount": 29,
 			"likeCount": 2481
 		},
 		"title": "Almost Plaily #150 | Stadt, Land, Fluss #4",
 		"series": [],
-		"event": false,
 		"length": 2877,
 		"hosts": [
 			"Eddy",
@@ -3874,7 +3717,6 @@
 		},
 		"title": "Kino+ Spezial | Game of Thrones Talkrunde | Folge 1 - Staffel 5",
 		"series": [],
-		"event": false,
 		"length": 1957,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -3900,7 +3742,6 @@
 		},
 		"title": "Tesla Effect | After Dark | #1 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1218,
 		"hosts": [
 			"Simon"
@@ -3923,7 +3764,6 @@
 		},
 		"title": "Tesla Effect | After Dark | #2 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2386,
 		"hosts": [
 			"Simon"
@@ -3946,7 +3786,6 @@
 		},
 		"title": "Tesla Effect | After Dark | #3 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2037,
 		"hosts": [
 			"Simon"
@@ -3969,7 +3808,6 @@
 		},
 		"title": "Tesla Effect | After Dark | #4 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1704,
 		"hosts": [
 			"Simon"
@@ -3992,7 +3830,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 413,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4008,14 +3845,13 @@
 		"aired": 1429092000,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 61416,
+			"viewCount": 61424,
 			"favoriteCount": 0,
 			"dislikeCount": 21,
 			"likeCount": 899
 		},
 		"title": "Bloodborne mit Dennis R. und Etienne | Knallhart Durchgenommen | #7 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 3784,
 		"hosts": [
 			"Dennis R",
@@ -4039,7 +3875,6 @@
 		},
 		"title": "#MoinMoin mit Dennis H. und Gunnar | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2426,
 		"hosts": [
 			"Dennis H",
@@ -4063,7 +3898,6 @@
 		},
 		"title": "Bohn Jour #15 | feat. Ingo | #1 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 3083,
 		"hosts": [
 			"Simon",
@@ -4087,7 +3921,6 @@
 		},
 		"title": "Bohn Jour #15 | feat. Ingo | #2 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1880,
 		"hosts": [
 			"Simon",
@@ -4111,7 +3944,6 @@
 		},
 		"title": "Bohn Jour #15 | feat. Ingo | #3 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1548,
 		"hosts": [
 			"Simon",
@@ -4135,7 +3967,6 @@
 		},
 		"title": "Genrenale 2015 | Bonusmaterial",
 		"series": [],
-		"event": false,
 		"length": 1314,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4156,7 +3987,6 @@
 		},
 		"title": "Don't touch anything | Zocken mit Bohnen | #1 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1492,
 		"hosts": [
 			"Nils"
@@ -4180,7 +4010,6 @@
 		},
 		"title": "Don't touch anything | Zocken mit Bohnen | #2 | 13.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1647,
 		"hosts": [
 			"Nils"
@@ -4197,14 +4026,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 827,
-			"viewCount": 213101,
+			"viewCount": 213112,
 			"favoriteCount": 0,
 			"dislikeCount": 42,
 			"likeCount": 6444
 		},
 		"title": "Rocket Beans TV reagiert auf den \"Star Wars: The Force Awakens\" Teaser 2",
 		"series": [],
-		"event": false,
 		"length": 429,
 		"hosts": [
 			"Simon",
@@ -4229,7 +4057,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 17.04.2015",
 		"series": [],
-		"event": false,
 		"length": 715,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4254,7 +4081,6 @@
 		"series": [
 			"Dead Synchronicity"
 		],
-		"event": false,
 		"length": 1676,
 		"hosts": [
 			"Sofia",
@@ -4280,7 +4106,6 @@
 		"series": [
 			"Dead Synchronicity"
 		],
-		"event": false,
 		"length": 1436,
 		"hosts": [
 			"Sofia"
@@ -4303,7 +4128,6 @@
 		},
 		"title": "#MoinMoin mit Etienne | 17.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2469,
 		"hosts": [
 			"Eddy"
@@ -4319,14 +4143,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 168,
-			"viewCount": 45893,
+			"viewCount": 45896,
 			"favoriteCount": 0,
 			"dislikeCount": 20,
 			"likeCount": 1224
 		},
 		"title": "Kino+ #55 | #1 | Run All Night | Top Five | The Pyramid \u2013 Grab des Grauens",
 		"series": [],
-		"event": false,
 		"length": 3501,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4351,7 +4174,6 @@
 		},
 		"title": "Kino+ #55 | #2 | Hausaufgabe: 5 cm per Second | Age of Ultron | True Detective Season 2",
 		"series": [],
-		"event": false,
 		"length": 3626,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -4376,7 +4198,6 @@
 		},
 		"title": "Rocket Beans TV pr\u00e4sentiert: Der Superfan |  FC Porto vs. Bayern M\u00fcnchen",
 		"series": [],
-		"event": false,
 		"length": 994,
 		"hosts": [
 			"Nils"
@@ -4399,7 +4220,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #32 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1794,
 		"hosts": [
 			"Budi",
@@ -4424,7 +4244,6 @@
 		},
 		"title": "StarCraft II | Straight To Gold | #33 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2034,
 		"hosts": [
 			"Budi",
@@ -4442,14 +4261,13 @@
 		"aired": 1429092000,
 		"stats": {
 			"commentCount": 97,
-			"viewCount": 25937,
+			"viewCount": 25939,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 576
 		},
 		"title": "StarCraft II | Straight To Gold | #34 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2272,
 		"hosts": [
 			"Budi",
@@ -4474,7 +4292,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 18.04.2015",
 		"series": [],
-		"event": false,
 		"length": 717,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4497,7 +4314,6 @@
 		},
 		"title": "War for the Overworld | Zocken mit Bohnen | #1 | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1671,
 		"hosts": [
 			"Dennis R"
@@ -4521,7 +4337,6 @@
 		},
 		"title": "War for the Overworld | Zocken mit Bohnen | #2 | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1712,
 		"hosts": [
 			"Dennis R"
@@ -4545,7 +4360,6 @@
 		},
 		"title": "War for the Overworld | Zocken mit Bohnen | #3 | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1672,
 		"hosts": [
 			"Dennis R"
@@ -4569,7 +4383,6 @@
 		},
 		"title": "War for the Overworld | Zocken mit Bohnen | #4 | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1110,
 		"hosts": [
 			"Dennis R"
@@ -4593,7 +4406,6 @@
 		},
 		"title": "Nintendo - Mega Man X | Classix | #1 | 02.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1919,
 		"hosts": [
 			"Gregor"
@@ -4616,7 +4428,6 @@
 		},
 		"title": "Nintendo - Castlevania: Rondo of Blood | Classix | #2 | 02.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1432,
 		"hosts": [
 			"Gregor"
@@ -4639,7 +4450,6 @@
 		},
 		"title": "Nintendo - StarTropics | Classix | #3 | 02.03.2015",
 		"series": [],
-		"event": false,
 		"length": 1396,
 		"hosts": [
 			"Gregor"
@@ -4662,7 +4472,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 19.04.2015",
 		"series": [],
-		"event": false,
 		"length": 776,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4678,7 +4487,7 @@
 		"aired": 1429092000,
 		"stats": {
 			"commentCount": 46,
-			"viewCount": 19186,
+			"viewCount": 19188,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 501
@@ -4687,7 +4496,6 @@
 		"series": [
 			"Titan Souls"
 		],
-		"event": false,
 		"length": 1676,
 		"hosts": [
 			"Budi"
@@ -4713,7 +4521,6 @@
 		"series": [
 			"Titan Souls"
 		],
-		"event": false,
 		"length": 2327,
 		"hosts": [
 			"Budi"
@@ -4730,14 +4537,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 335,
-			"viewCount": 213953,
+			"viewCount": 213990,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
-			"likeCount": 4312
+			"likeCount": 4313
 		},
 		"title": "Almost Daily #151 | Verbotene Dinge",
 		"series": [],
-		"event": false,
 		"length": 2527,
 		"hosts": [
 			"Simon",
@@ -4762,7 +4568,6 @@
 		},
 		"title": "Industrie Skypeorama | mit Robin Kucaurek und Oliver Eberlei | #8 | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 3798,
 		"hosts": [
 			"Budi"
@@ -4785,7 +4590,6 @@
 		},
 		"title": "GAME plus | #3 | The Witcher 3: Wild Hunt, Grafikdemos, Sexszenen in Videospielen",
 		"series": [],
-		"event": false,
 		"length": 3760,
 		"hosts": [
 			"Dennis R",
@@ -4809,7 +4613,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 542,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4832,7 +4635,6 @@
 		},
 		"title": "#MoinMoin mit Nils | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2906,
 		"hosts": [
 			"Nils"
@@ -4848,14 +4650,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 131,
-			"viewCount": 50809,
+			"viewCount": 50815,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 1167
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner -06- \"Geheimnis des Adlers\" Seite 1",
 		"series": [],
-		"event": false,
 		"length": 2333,
 		"hosts": [
 			"Simon",
@@ -4873,14 +4674,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 66,
-			"viewCount": 35941,
+			"viewCount": 35945,
 			"favoriteCount": 0,
 			"dislikeCount": 4,
 			"likeCount": 925
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner -06- \"Geheimnis des Adlers\" Seite 2",
 		"series": [],
-		"event": false,
 		"length": 2010,
 		"hosts": [
 			"Simon",
@@ -4905,7 +4705,6 @@
 		},
 		"title": "Was kommen k\u00f6nnte | Pilotfolge | 18.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1209,
 		"hosts": [
 			"Simon",
@@ -4930,7 +4729,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 21.04.2015",
 		"series": [],
-		"event": false,
 		"length": 509,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -4953,7 +4751,6 @@
 		},
 		"title": "The Order: 1886 | Zocken mit Bohnen | #17 | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2149,
 		"hosts": [
 			"Simon"
@@ -4977,7 +4774,6 @@
 		},
 		"title": "The Order: 1886 | Zocken mit Bohnen | #18 | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1510,
 		"hosts": [
 			"Simon"
@@ -5001,7 +4797,6 @@
 		},
 		"title": "The Order: 1886 | Zocken mit Bohnen | #19 | 16.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1185,
 		"hosts": [
 			"Simon"
@@ -5025,7 +4820,6 @@
 		},
 		"title": "#MoinMoin mit Etienne | 21.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2071,
 		"hosts": [
 			"Eddy"
@@ -5048,7 +4842,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Gregor Kartsios | #1 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1913,
 		"hosts": [
 			"Gunnar",
@@ -5072,7 +4865,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Gregor Kartsios | #2 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1592,
 		"hosts": [
 			"Gunnar",
@@ -5096,7 +4888,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Gregor Kartsios | #3 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1279,
 		"hosts": [
 			"Gunnar",
@@ -5120,7 +4911,6 @@
 		},
 		"title": "GTA V | Community Beef | #1 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1534,
 		"hosts": [
 			"Dennis H",
@@ -5144,7 +4934,6 @@
 		},
 		"title": "GTA V | Community Beef | #2 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1051,
 		"hosts": [
 			"Dennis H",
@@ -5169,7 +4958,6 @@
 		},
 		"title": "GTA V | Community Beef | #3 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1770,
 		"hosts": [
 			"Dennis H",
@@ -5194,7 +4982,6 @@
 		},
 		"title": "GTA V | Community Beef | #4 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1999,
 		"hosts": [
 			"Dennis H",
@@ -5219,7 +5006,6 @@
 		},
 		"title": "GTA V | Community Beef | #5 | 20.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1144,
 		"hosts": [
 			"Dennis H",
@@ -5243,7 +5029,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 509,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -5266,7 +5051,6 @@
 		},
 		"title": "#MoinMoin mit Hauke und Dennis H. (Fragen und Kritik aus dem Reddit) | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2701,
 		"hosts": [
 			"Hauke",
@@ -5290,7 +5074,6 @@
 		},
 		"title": "Almost Plaily #152 | Scharade #5",
 		"series": [],
-		"event": false,
 		"length": 2839,
 		"hosts": [
 			"Eddy",
@@ -5316,7 +5099,6 @@
 		},
 		"title": "Amnesia: A Machine for Pigs | After Dark | #1 | 21.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1702,
 		"hosts": [
 			"Bell",
@@ -5340,7 +5122,6 @@
 		},
 		"title": "Amnesia: A Machine for Pigs | After Dark | #2 | 21.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1345,
 		"hosts": [
 			"Bell",
@@ -5364,7 +5145,6 @@
 		},
 		"title": "Amnesia: A Machine for Pigs | After Dark | #3 | 21.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1652,
 		"hosts": [
 			"Bell",
@@ -5388,7 +5168,6 @@
 		},
 		"title": "Amnesia: A Machine for Pigs | After Dark | #4 | 21.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1384,
 		"hosts": [
 			"Bell",
@@ -5412,7 +5191,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 23.04.2015",
 		"series": [],
-		"event": false,
 		"length": 464,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -5428,7 +5206,7 @@
 		"aired": 1429696800,
 		"stats": {
 			"commentCount": 138,
-			"viewCount": 51982,
+			"viewCount": 51988,
 			"favoriteCount": 0,
 			"dislikeCount": 13,
 			"likeCount": 789
@@ -5437,7 +5215,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 3698,
 		"hosts": [
 			"Dennis R",
@@ -5454,7 +5231,7 @@
 		"aired": 1429696800,
 		"stats": {
 			"commentCount": 65,
-			"viewCount": 48287,
+			"viewCount": 48293,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 725
@@ -5463,7 +5240,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 4017,
 		"hosts": [
 			"Dennis R",
@@ -5487,7 +5263,6 @@
 		},
 		"title": "#MoinMoin mit Johannes und Micha | 23.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2590,
 		"hosts": [
 			"Johannes",
@@ -5504,14 +5279,13 @@
 		"aired": 1429696800,
 		"stats": {
 			"commentCount": 201,
-			"viewCount": 50515,
+			"viewCount": 50517,
 			"favoriteCount": 0,
 			"dislikeCount": 16,
 			"likeCount": 1713
 		},
 		"title": "Bohn Jour #16 | mit Scotty Saxon/Nik Hellstr\u00f8m/Tomas Tulpe/Denis Rubbert | #1 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1629,
 		"hosts": [
 			"Eddy",
@@ -5535,7 +5309,6 @@
 		},
 		"title": "Bohn Jour #16 | mit Scotty Saxon/Nik Hellstr\u00f8m/Tomas Tulpe/Denis Rubbert | #2 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2189,
 		"hosts": [
 			"Eddy",
@@ -5552,14 +5325,13 @@
 		"aired": 1429696800,
 		"stats": {
 			"commentCount": 120,
-			"viewCount": 35336,
+			"viewCount": 35338,
 			"favoriteCount": 0,
 			"dislikeCount": 8,
 			"likeCount": 1146
 		},
 		"title": "Bohn Jour #16 | mit Scotty Saxon/Nik Hellstr\u00f8m/Tomas Tulpe/Denis Rubbert | #3 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1943,
 		"hosts": [
 			"Eddy",
@@ -5576,14 +5348,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 243,
-			"viewCount": 77174,
+			"viewCount": 77176,
 			"favoriteCount": 0,
 			"dislikeCount": 32,
 			"likeCount": 1431
 		},
 		"title": "Kino+ #56 | #1 | Marvel's The Avengers: Age of Ultron | Ex Machina | M\u00fchlheim - Texas",
 		"series": [],
-		"event": false,
 		"length": 3908,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5602,14 +5373,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 145,
-			"viewCount": 40837,
+			"viewCount": 40839,
 			"favoriteCount": 0,
 			"dislikeCount": 11,
 			"likeCount": 1067
 		},
 		"title": "Kino+ #56 | #2 | Hausaufgabe: Dragonslayer | Star Wars Convention | Gewinnspiel: Rurouni Kenshin",
 		"series": [],
-		"event": false,
 		"length": 3709,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5634,7 +5404,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 24.04.2015",
 		"series": [],
-		"event": false,
 		"length": 518,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -5657,7 +5426,6 @@
 		},
 		"title": "Dirty Split | Point & Chick |  | #1 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1697,
 		"hosts": [
 			"Katharina",
@@ -5681,7 +5449,6 @@
 		},
 		"title": "Dirty Split | Point & Chick |  | #2 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1390,
 		"hosts": [
 			"Katharina",
@@ -5705,7 +5472,6 @@
 		},
 		"title": "#MoinMoin mit Nils | 24.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2249,
 		"hosts": [
 			"Nils"
@@ -5728,7 +5494,6 @@
 		},
 		"title": "Rocket Beans TV pr\u00e4sentiert: Der Superfan |  AS Monaco vs. Juventus Turin",
 		"series": [],
-		"event": false,
 		"length": 1028,
 		"hosts": [
 			"Nils"
@@ -5751,7 +5516,6 @@
 		},
 		"title": "StarCraft II: Heart of the Swarm | Zocken mit Bohnen | #1 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1719,
 		"hosts": [
 			"Budi"
@@ -5775,7 +5539,6 @@
 		},
 		"title": "StarCraft II: Heart of the Swarm | Zocken mit Bohnen | #2 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2455,
 		"hosts": [
 			"Budi"
@@ -5799,7 +5562,6 @@
 		},
 		"title": "StarCraft II: Heart of the Swarm | Zocken mit Bohnen | #3 | 22.04.2015",
 		"series": [],
-		"event": false,
 		"length": 771,
 		"hosts": [
 			"Budi"
@@ -5815,7 +5577,7 @@
 	{
 		"aired": null,
 		"stats": {
-			"commentCount": 134,
+			"commentCount": 133,
 			"viewCount": 36224,
 			"favoriteCount": 0,
 			"dislikeCount": 51,
@@ -5823,7 +5585,6 @@
 		},
 		"title": "Kino+ Spezial | Game of Thrones Talkrunde | Folge 2 - Staffel 5",
 		"series": [],
-		"event": false,
 		"length": 1834,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5849,7 +5610,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 25.04.2015",
 		"series": [],
-		"event": false,
 		"length": 776,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -5865,7 +5625,7 @@
 		"aired": 1429869600,
 		"stats": {
 			"commentCount": 142,
-			"viewCount": 47765,
+			"viewCount": 47767,
 			"favoriteCount": 0,
 			"dislikeCount": 40,
 			"likeCount": 808
@@ -5874,7 +5634,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 3751,
 		"hosts": [
 			"Dennis R",
@@ -5898,7 +5657,6 @@
 		},
 		"title": "Retro Klub | #10 (1/2) | 09.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1752,
 		"hosts": [
 			"Gregor",
@@ -5922,7 +5680,6 @@
 		},
 		"title": "Retro Klub | #10 (2/2) | 09.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1859,
 		"hosts": [
 			"Gregor",
@@ -5946,7 +5703,6 @@
 		},
 		"title": "Kino+ | Community Einsendungen | #2 | 14.05.2015",
 		"series": [],
-		"event": false,
 		"length": 791,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -5963,14 +5719,13 @@
 		"aired": 1429092000,
 		"stats": {
 			"commentCount": 39,
-			"viewCount": 18886,
+			"viewCount": 18888,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 467
 		},
 		"title": "Retro Klub | Custom C64 Spezial (1/4) | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1769,
 		"hosts": [
 			"Dennis R",
@@ -5996,7 +5751,6 @@
 		"series": [
 			"Mortal Kombat X"
 		],
-		"event": false,
 		"length": 2009,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6015,7 +5769,7 @@
 		"aired": 1429696800,
 		"stats": {
 			"commentCount": 38,
-			"viewCount": 16040,
+			"viewCount": 16042,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 496
@@ -6024,7 +5778,6 @@
 		"series": [
 			"Mortal Kombat X"
 		],
-		"event": false,
 		"length": 1986,
 		"hosts": [
 			"Schr\u00f6ck",
@@ -6043,14 +5796,13 @@
 		"aired": 1429092000,
 		"stats": {
 			"commentCount": 21,
-			"viewCount": 14102,
+			"viewCount": 14105,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 324
 		},
 		"title": "Retro Klub | Custom C64 Spezial (2/4) | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1750,
 		"hosts": [
 			"Dennis R",
@@ -6067,14 +5819,13 @@
 		"aired": 1429092000,
 		"stats": {
 			"commentCount": 8,
-			"viewCount": 10652,
+			"viewCount": 10654,
 			"favoriteCount": 0,
 			"dislikeCount": 2,
 			"likeCount": 272
 		},
 		"title": "Retro Klub | Custom C64 Spezial (3/4) | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1490,
 		"hosts": [
 			"Dennis R",
@@ -6091,14 +5842,13 @@
 		"aired": 1429092000,
 		"stats": {
 			"commentCount": 20,
-			"viewCount": 9807,
+			"viewCount": 9809,
 			"favoriteCount": 0,
 			"dislikeCount": 1,
 			"likeCount": 289
 		},
 		"title": "Retro Klub | Custom C64 Spezial (4/4) | 15.04.2015",
 		"series": [],
-		"event": false,
 		"length": 686,
 		"hosts": [
 			"Dennis R",
@@ -6122,7 +5872,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 26.04.2015",
 		"series": [],
-		"event": false,
 		"length": 774,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -6147,7 +5896,6 @@
 		"series": [
 			"Cities: Skylines"
 		],
-		"event": false,
 		"length": 1647,
 		"hosts": [
 			"Eddy"
@@ -6173,7 +5921,6 @@
 		"series": [
 			"Cities: Skylines"
 		],
-		"event": false,
 		"length": 1703,
 		"hosts": [
 			"Eddy"
@@ -6199,7 +5946,6 @@
 		"series": [
 			"Cities: Skylines"
 		],
-		"event": false,
 		"length": 2022,
 		"hosts": [
 			"Eddy"
@@ -6216,14 +5962,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 552,
-			"viewCount": 205697,
+			"viewCount": 205733,
 			"favoriteCount": 0,
 			"dislikeCount": 59,
 			"likeCount": 4829
 		},
 		"title": "Almost Daily #153 | Arschl\u00f6cher",
 		"series": [],
-		"event": false,
 		"length": 3511,
 		"hosts": [
 			"Eddy",
@@ -6241,14 +5986,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 631,
-			"viewCount": 108028,
+			"viewCount": 108030,
 			"favoriteCount": 0,
 			"dislikeCount": 35,
 			"likeCount": 3868
 		},
 		"title": "GAME plus | #4 | Star Wars: Battlefront, Open World, Verschollene Perlen",
 		"series": [],
-		"event": false,
 		"length": 4836,
 		"hosts": [
 			"Dennis R",
@@ -6274,7 +6018,6 @@
 		"series": [
 			"Titan Souls"
 		],
-		"event": false,
 		"length": 1452,
 		"hosts": [
 			"Gregor"
@@ -6300,7 +6043,6 @@
 		"series": [
 			"Titan Souls"
 		],
-		"event": false,
 		"length": 1758,
 		"hosts": [
 			"Gregor"
@@ -6326,7 +6068,6 @@
 		"series": [
 			"Titan Souls"
 		],
-		"event": false,
 		"length": 1032,
 		"hosts": [
 			"Gregor"
@@ -6350,7 +6091,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 27.04.2015",
 		"series": [],
-		"event": false,
 		"length": 512,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -6375,7 +6115,6 @@
 		"series": [
 			"Titan Souls"
 		],
-		"event": false,
 		"length": 1513,
 		"hosts": [
 			"Gregor"
@@ -6399,7 +6138,6 @@
 		},
 		"title": "Was kommen k\u00f6nnte | #2 | Game Over | 25.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1466,
 		"hosts": [
 			"Simon",
@@ -6424,7 +6162,6 @@
 		},
 		"title": "Fifa 15 | Road To Division One  | #33 | 24.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1937,
 		"hosts": [
 			"Nils",
@@ -6448,7 +6185,6 @@
 		},
 		"title": "Fifa 15 | Road To Division One  | #34 | 24.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2174,
 		"hosts": [
 			"Nils",
@@ -6472,7 +6208,6 @@
 		},
 		"title": "Fifa 15 | Road To Division One  | #35 | 24.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1997,
 		"hosts": [
 			"Nils",
@@ -6489,14 +6224,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 92,
-			"viewCount": 50422,
+			"viewCount": 50428,
 			"favoriteCount": 0,
 			"dislikeCount": 3,
 			"likeCount": 1120
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner -07- Finsternis \u00fcber Westland Seite 1",
 		"series": [],
-		"event": false,
 		"length": 2398,
 		"hosts": [
 			"Dennis R",
@@ -6521,7 +6255,6 @@
 		},
 		"title": "Erwachsene M\u00e4nner h\u00f6ren Jan Tenner -07- Finsternis \u00fcber Westland Seite 2",
 		"series": [],
-		"event": false,
 		"length": 2023,
 		"hosts": [
 			"Dennis R",
@@ -6546,7 +6279,6 @@
 		},
 		"title": "#MoinMoin mit Nils | 27.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2504,
 		"hosts": [
 			"Nils"
@@ -6569,7 +6301,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 28.04.2015",
 		"series": [],
-		"event": false,
 		"length": 569,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -6592,7 +6323,6 @@
 		},
 		"title": "The Witcher 3: Wild Hunt | Rocket Beans on Tour | Johannes und Alwin in Polen",
 		"series": [],
-		"event": false,
 		"length": 2562,
 		"hosts": [
 			"Johannes",
@@ -6616,7 +6346,6 @@
 		},
 		"title": "#MoinMoin mit Hauke | 28.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2520,
 		"hosts": [
 			"Hauke"
@@ -6639,7 +6368,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Daniel Schr\u00f6ckert | #1 | 27.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1438,
 		"hosts": [
 			"Gunnar",
@@ -6663,7 +6391,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Daniel Schr\u00f6ckert | #2 | 27.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1588,
 		"hosts": [
 			"Gunnar",
@@ -6687,7 +6414,6 @@
 		},
 		"title": "Wir m\u00fcssen reden | feat. Daniel Schr\u00f6ckert | #3 | 27.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1465,
 		"hosts": [
 			"Gunnar",
@@ -6711,7 +6437,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 29.04.2015",
 		"series": [],
-		"event": false,
 		"length": 604,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -6734,7 +6459,6 @@
 		},
 		"title": "#MoinMoin mit Gregor | 29.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2645,
 		"hosts": [
 			"Gregor"
@@ -6757,7 +6481,6 @@
 		},
 		"title": "Almost Plaily #154 | Tabu #3 | Part 1",
 		"series": [],
-		"event": false,
 		"length": 1970,
 		"hosts": [
 			"Ben",
@@ -6783,7 +6506,6 @@
 		},
 		"title": "Almost Plaily #154 | Tabu #3 | Part 2",
 		"series": [],
-		"event": false,
 		"length": 1904,
 		"hosts": [
 			"Ben",
@@ -6802,14 +6524,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 399,
-			"viewCount": 150009,
+			"viewCount": 150042,
 			"favoriteCount": 0,
 			"dislikeCount": 18,
 			"likeCount": 4814
 		},
 		"title": "Royal Beef | Teaser #1 | Etienne",
 		"series": [],
-		"event": false,
 		"length": 310,
 		"hosts": [],
 		"published": 1430339401,
@@ -6828,7 +6549,6 @@
 		},
 		"title": "Schr\u00f6cks Fernsehgarten | 30.04.2015",
 		"series": [],
-		"event": false,
 		"length": 463,
 		"hosts": [
 			"Schr\u00f6ck"
@@ -6851,7 +6571,6 @@
 		},
 		"title": "Bohn Jour #17 | mit Buddy Og\u00fcn | #1 | 29.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1761,
 		"hosts": [
 			"Nils",
@@ -6875,7 +6594,6 @@
 		},
 		"title": "Bohn Jour #17 | mit Buddy Og\u00fcn | #2 | 29.04.2015",
 		"series": [],
-		"event": false,
 		"length": 3191,
 		"hosts": [
 			"Nils",
@@ -6899,7 +6617,6 @@
 		},
 		"title": "Bohn Jour #17 | mit Buddy Og\u00fcn | #3 | 29.04.2015",
 		"series": [],
-		"event": false,
 		"length": 1630,
 		"hosts": [
 			"Nils",
@@ -6923,7 +6640,6 @@
 		},
 		"title": "#MoinMoin mit Nils | 30.04.2015",
 		"series": [],
-		"event": false,
 		"length": 2553,
 		"hosts": [
 			"Nils"
@@ -6939,7 +6655,7 @@
 		"aired": 1430388000,
 		"stats": {
 			"commentCount": 50,
-			"viewCount": 34383,
+			"viewCount": 34387,
 			"favoriteCount": 0,
 			"dislikeCount": 58,
 			"likeCount": 538
@@ -6948,7 +6664,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 1765,
 		"hosts": [
 			"Dennis R"
@@ -6964,7 +6679,7 @@
 		"aired": 1430388000,
 		"stats": {
 			"commentCount": 55,
-			"viewCount": 30461,
+			"viewCount": 30467,
 			"favoriteCount": 0,
 			"dislikeCount": 30,
 			"likeCount": 463
@@ -6973,7 +6688,6 @@
 		"series": [
 			"Bloodborne"
 		],
-		"event": false,
 		"length": 2333,
 		"hosts": [
 			"Dennis R"
@@ -6989,14 +6703,13 @@
 		"aired": null,
 		"stats": {
 			"commentCount": 223,
-			"viewCount": 87773,
+			"viewCount": 87781,
 			"favoriteCount": 0,
 			"dislikeCount": 12,
 			"likeCount": 3381
 		},
 		"title": "Royal Beef | Teaser #2 | Simon",
 		"series": [],
-		"event": false,
 		"length": 257,
 		"hosts": [],
 		"published": 1430420401,

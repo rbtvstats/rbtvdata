@@ -6,6 +6,7 @@
 		"aired": null,
 		"length": 432,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -23,6 +24,9 @@
 		"aired": 1448881200,
 		"length": 1705,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Jan"
@@ -43,6 +47,9 @@
 		"aired": 1448967600,
 		"length": 2681,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Colin"
 		],
@@ -62,6 +69,9 @@
 		"aired": 1448881200,
 		"length": 2786,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Eddy"
@@ -82,6 +92,9 @@
 		"aired": 1448881200,
 		"length": 2980,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Eddy"
@@ -102,6 +115,9 @@
 		"aired": -1706878800,
 		"length": 1055,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -123,6 +139,9 @@
 		"aired": -1706878800,
 		"length": 1740,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -144,6 +163,9 @@
 		"aired": -1706878800,
 		"length": 2179,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -165,6 +187,9 @@
 		"aired": -1706878800,
 		"length": 2470,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -186,6 +211,9 @@
 		"aired": 1448881200,
 		"length": 1648,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Marco"
@@ -206,6 +234,9 @@
 		"aired": 1448881200,
 		"length": 781,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Marco"
@@ -226,6 +257,9 @@
 		"aired": 1448967600,
 		"length": 385,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -243,6 +277,9 @@
 		"aired": 1448881200,
 		"length": 1588,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia"
 		],
@@ -262,6 +299,9 @@
 		"aired": 1448881200,
 		"length": 865,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia"
 		],
@@ -281,6 +321,9 @@
 		"aired": 1448881200,
 		"length": 1941,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Schröck"
@@ -301,6 +344,9 @@
 		"aired": 1448881200,
 		"length": 1624,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Schröck"
@@ -321,6 +367,9 @@
 		"aired": 1448881200,
 		"length": 1239,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Schröck"
@@ -341,6 +390,7 @@
 		"aired": null,
 		"length": 99,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -358,6 +408,9 @@
 		"aired": 1448967600,
 		"length": 740,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Steffen",
 			"Dennis R"
@@ -380,6 +433,9 @@
 		"aired": 1448967600,
 		"length": 1665,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Steffen",
 			"Dennis R"
@@ -402,6 +458,9 @@
 		"aired": 1448967600,
 		"length": 1404,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Steffen",
 			"Dennis R"
@@ -424,6 +483,9 @@
 		"aired": 1448967600,
 		"length": 1534,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Steffen"
@@ -446,6 +508,9 @@
 		"aired": 1448967600,
 		"length": 2632,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Steffen"
@@ -468,6 +533,9 @@
 		"aired": 1448967600,
 		"length": 2128,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Bell",
 			"Nasti",
@@ -493,6 +561,9 @@
 		"aired": 1449054000,
 		"length": 2669,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Marco",
 			"Nasti"
@@ -513,6 +584,9 @@
 		"aired": 1448967600,
 		"length": 1988,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Bell",
 			"Nasti",
@@ -538,6 +612,9 @@
 		"aired": 1449054000,
 		"length": 2216,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -559,6 +636,9 @@
 		"aired": 1449054000,
 		"length": 1083,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -580,6 +660,9 @@
 		"aired": 1449054000,
 		"length": 551,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -597,6 +680,9 @@
 		"aired": 1449140400,
 		"length": 2649,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Sofia"
 		],
@@ -616,6 +702,9 @@
 		"aired": 1448967600,
 		"length": 1174,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -637,6 +726,9 @@
 		"aired": 1448967600,
 		"length": 1890,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -658,6 +750,9 @@
 		"aired": 1448967600,
 		"length": 1591,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -679,6 +774,9 @@
 		"aired": 1449054000,
 		"length": 688,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -698,6 +796,9 @@
 		"aired": 1449054000,
 		"length": 1604,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -717,6 +818,9 @@
 		"aired": 1449054000,
 		"length": 850,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -736,6 +840,9 @@
 		"aired": 1449054000,
 		"length": 635,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -758,6 +865,9 @@
 		"aired": 1449054000,
 		"length": 1602,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -780,6 +890,9 @@
 		"aired": 1449054000,
 		"length": 2111,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -800,6 +913,9 @@
 		"aired": 1449054000,
 		"length": 2946,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -820,6 +936,9 @@
 		"aired": 1449054000,
 		"length": 1601,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -842,6 +961,9 @@
 		"aired": 1449054000,
 		"length": 2400,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -862,6 +984,9 @@
 		"aired": 1449054000,
 		"length": 1618,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -884,6 +1009,9 @@
 		"aired": 1449054000,
 		"length": 636,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -904,6 +1032,9 @@
 		"aired": 1449054000,
 		"length": 907,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -926,6 +1057,9 @@
 		"aired": 1449140400,
 		"length": 583,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -943,6 +1077,9 @@
 		"aired": 1449054000,
 		"length": 788,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Ben"
@@ -965,6 +1102,9 @@
 		"aired": null,
 		"length": 323,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Rocket Beans on tour"
+		],
 		"hosts": [
 			"Fabian"
 		],
@@ -984,6 +1124,9 @@
 		"aired": 1449054000,
 		"length": 1655,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Ben"
@@ -1006,6 +1149,9 @@
 		"aired": 1449054000,
 		"length": 1774,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Ben"
@@ -1028,6 +1174,9 @@
 		"aired": 1449054000,
 		"length": 1909,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Ben"
@@ -1050,6 +1199,9 @@
 		"aired": 1449054000,
 		"length": 1424,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar"
 		],
@@ -1071,6 +1223,9 @@
 		"aired": 1449054000,
 		"length": 3042,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar"
 		],
@@ -1092,6 +1247,9 @@
 		"aired": 1449226800,
 		"length": 2776,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Tim H",
 			"Michael R"
@@ -1112,6 +1270,9 @@
 		"aired": 1449140400,
 		"length": 719,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Simon"
@@ -1134,6 +1295,9 @@
 		"aired": 1449140400,
 		"length": 1911,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Simon"
@@ -1156,6 +1320,9 @@
 		"aired": 1449140400,
 		"length": 985,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -1177,6 +1344,9 @@
 		"aired": 1449140400,
 		"length": 1731,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Simon"
@@ -1199,6 +1369,9 @@
 		"aired": 1449140400,
 		"length": 2686,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -1220,6 +1393,9 @@
 		"aired": 1449140400,
 		"length": 1452,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Simon"
@@ -1242,6 +1418,9 @@
 		"aired": 1449140400,
 		"length": 2272,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -1265,6 +1444,9 @@
 		"aired": 1449140400,
 		"length": 637,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gunnar",
 			"Simon"
@@ -1287,6 +1469,9 @@
 		"aired": 1449140400,
 		"length": 978,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -1310,6 +1495,9 @@
 		"aired": 1449226800,
 		"length": 527,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -1327,6 +1515,9 @@
 		"aired": 1449140400,
 		"length": 932,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Point & Chick"
+		],
 		"hosts": [
 			"Sofia",
 			"Madlin"
@@ -1349,6 +1540,9 @@
 		"aired": 1449140400,
 		"length": 1674,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Point & Chick"
+		],
 		"hosts": [
 			"Sofia",
 			"Madlin"
@@ -1371,6 +1565,9 @@
 		"aired": 1449140400,
 		"length": 630,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Point & Chick"
+		],
 		"hosts": [
 			"Sofia",
 			"Madlin"
@@ -1393,6 +1590,9 @@
 		"aired": 1449140400,
 		"length": 782,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1412,6 +1612,9 @@
 		"aired": 1449140400,
 		"length": 1605,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1431,6 +1634,9 @@
 		"aired": 1449140400,
 		"length": 788,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1450,6 +1656,9 @@
 		"aired": 1449140400,
 		"length": 2303,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"After Dark"
+		],
 		"hosts": [
 			"Tim H",
 			"Felix"
@@ -1470,6 +1679,9 @@
 		"aired": 1449140400,
 		"length": 1629,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"After Dark"
+		],
 		"hosts": [
 			"Tim H",
 			"Felix"
@@ -1490,6 +1702,9 @@
 		"aired": 1449140400,
 		"length": 1598,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"After Dark"
+		],
 		"hosts": [
 			"Tim H",
 			"Felix"
@@ -1510,6 +1725,9 @@
 		"aired": 1449313200,
 		"length": 1457,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Budi",
 			"Simon",
@@ -1531,6 +1749,9 @@
 		"aired": 1449313200,
 		"length": 1552,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Speedrundale"
+		],
 		"hosts": [
 			"Simon",
 			"Sia",
@@ -1552,6 +1773,9 @@
 		"aired": 1449313200,
 		"length": 1370,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Budi",
 			"Simon",
@@ -1573,6 +1797,9 @@
 		"aired": 1449313200,
 		"length": 1635,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Speedrundale"
+		],
 		"hosts": [
 			"Simon",
 			"Sia",
@@ -1594,6 +1821,9 @@
 		"aired": 1449313200,
 		"length": 1325,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Budi",
 			"Simon",
@@ -1615,6 +1845,9 @@
 		"aired": 1448708400,
 		"length": 1733,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Daily"
+		],
 		"hosts": [
 			"Eddy",
 			"Hannes",
@@ -1636,6 +1869,9 @@
 		"aired": 1448708400,
 		"length": 1795,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Daily"
+		],
 		"hosts": [
 			"Eddy",
 			"Hannes",
@@ -1657,6 +1893,9 @@
 		"aired": 1449313200,
 		"length": 1721,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Erwachsene Männer hören Jan Tenner"
+		],
 		"hosts": [
 			"Simon",
 			"Gregor"
@@ -1677,6 +1916,9 @@
 		"aired": 1449313200,
 		"length": 1877,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Erwachsene Männer hören Jan Tenner"
+		],
 		"hosts": [
 			"Simon",
 			"Gregor"
@@ -1697,6 +1939,9 @@
 		"aired": 1449313200,
 		"length": 3528,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Spiele mit Bart"
+		],
 		"hosts": [
 			"Simon",
 			"Gregor"
@@ -1717,6 +1962,9 @@
 		"aired": 1449399600,
 		"length": 2044,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Buch Klub"
+		],
 		"hosts": [
 			"Eddy",
 			"Simon",
@@ -1738,6 +1986,9 @@
 		"aired": 1449226800,
 		"length": 1069,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Nils"
 		],
@@ -1759,6 +2010,9 @@
 		"aired": 1449226800,
 		"length": 2589,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Nils"
 		],
@@ -1780,6 +2034,9 @@
 		"aired": 1449226800,
 		"length": 2171,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Nils"
 		],
@@ -1801,6 +2058,9 @@
 		"aired": 1449486000,
 		"length": 2656,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Colin"
 		],
@@ -1820,6 +2080,9 @@
 		"aired": 1449226800,
 		"length": 892,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Nils"
 		],
@@ -1841,6 +2104,9 @@
 		"aired": 1449226800,
 		"length": 1142,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1860,6 +2126,9 @@
 		"aired": 1449226800,
 		"length": 1668,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1879,6 +2148,9 @@
 		"aired": null,
 		"length": 710,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Rocket Beans on tour"
+		],
 		"hosts": [
 			"Colin",
 			"Sofia"
@@ -1899,6 +2171,9 @@
 		"aired": 1449226800,
 		"length": 1650,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1918,6 +2193,9 @@
 		"aired": 1449226800,
 		"length": 1198,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1937,6 +2215,9 @@
 		"aired": 1448622000,
 		"length": 251,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gino+"
+		],
 		"hosts": [
 			"Gino",
 			"Michael K"
@@ -1957,6 +2238,9 @@
 		"aired": 1449226800,
 		"length": 865,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -1976,6 +2260,9 @@
 		"aired": 1449226800,
 		"length": 924,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco",
 			"Hauke"
@@ -1996,6 +2283,9 @@
 		"aired": 1449226800,
 		"length": 2072,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco",
 			"Hauke"
@@ -2016,6 +2306,9 @@
 		"aired": 1449226800,
 		"length": 3787,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco",
 			"Hauke"
@@ -2036,6 +2329,9 @@
 		"aired": 1449226800,
 		"length": 1018,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -2058,6 +2354,9 @@
 		"aired": 1449399600,
 		"length": 1706,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Plaily"
+		],
 		"hosts": [
 			"Alwin",
 			"Gregor",
@@ -2079,6 +2378,9 @@
 		"aired": 1449226800,
 		"length": 1511,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -2101,6 +2403,9 @@
 		"aired": 1449399600,
 		"length": 1532,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Plaily"
+		],
 		"hosts": [
 			"Alwin",
 			"Gregor",
@@ -2122,6 +2427,9 @@
 		"aired": 1449486000,
 		"length": 645,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -2139,6 +2447,9 @@
 		"aired": 1449226800,
 		"length": 1691,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -2161,6 +2472,9 @@
 		"aired": 1449226800,
 		"length": 1119,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -2183,6 +2497,9 @@
 		"aired": 1449054000,
 		"length": 256,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gino+"
+		],
 		"hosts": [
 			"Gino",
 			"Michael R"
@@ -2203,6 +2520,9 @@
 		"aired": 1449572400,
 		"length": 2642,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -2222,6 +2542,9 @@
 		"aired": 1449486000,
 		"length": 2773,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Eddy",
@@ -2243,6 +2566,9 @@
 		"aired": -1706274000,
 		"length": 1474,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -2264,6 +2590,9 @@
 		"aired": 1449486000,
 		"length": 3029,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Eddy",
@@ -2285,6 +2614,9 @@
 		"aired": -1706274000,
 		"length": 1351,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -2306,6 +2638,9 @@
 		"aired": -1706274000,
 		"length": 1926,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -2327,6 +2662,9 @@
 		"aired": -1706274000,
 		"length": 1505,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -2348,6 +2686,9 @@
 		"aired": 1449572400,
 		"length": 449,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -2365,6 +2706,9 @@
 		"aired": -1706274000,
 		"length": 793,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -2386,6 +2730,9 @@
 		"aired": 1449226800,
 		"length": 2677,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Nils"
@@ -2408,6 +2755,9 @@
 		"aired": 1449226800,
 		"length": 1636,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Nils"
 		],
@@ -2429,6 +2779,9 @@
 		"aired": 1449226800,
 		"length": 1775,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Nils"
@@ -2451,6 +2804,9 @@
 		"aired": 1449486000,
 		"length": 1636,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Felix"
@@ -2471,6 +2827,9 @@
 		"aired": 1449486000,
 		"length": 463,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Colin"
 		],
@@ -2490,6 +2849,9 @@
 		"aired": 1449486000,
 		"length": 1768,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Felix"
@@ -2510,6 +2872,9 @@
 		"aired": 1449486000,
 		"length": 1572,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Felix"
@@ -2530,6 +2895,9 @@
 		"aired": 1449486000,
 		"length": 1522,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Colin"
 		],
@@ -2549,6 +2917,9 @@
 		"aired": 1449486000,
 		"length": 1094,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Colin"
 		],
@@ -2568,6 +2939,9 @@
 		"aired": 1449658800,
 		"length": 2627,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Sofia"
 		],
@@ -2587,6 +2961,9 @@
 		"aired": 1449486000,
 		"length": 816,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -2607,6 +2984,9 @@
 		"aired": 1449486000,
 		"length": 1585,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -2627,6 +3007,9 @@
 		"aired": 1449486000,
 		"length": 1580,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -2647,6 +3030,9 @@
 		"aired": 1449486000,
 		"length": 895,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -2667,6 +3053,7 @@
 		"aired": null,
 		"length": 56,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -2684,6 +3071,9 @@
 		"aired": 1449572400,
 		"length": 2738,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -2705,6 +3095,9 @@
 		"aired": 1449572400,
 		"length": 2677,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Simon",
 			"Eddy",
@@ -2727,6 +3120,9 @@
 		"aired": 1449572400,
 		"length": 2307,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Simon",
 			"Eddy",
@@ -2749,6 +3145,9 @@
 		"aired": 1449226800,
 		"length": 332,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gino+"
+		],
 		"hosts": [
 			"Gino",
 			"Marco"
@@ -2769,6 +3168,7 @@
 		"aired": null,
 		"length": 48,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -2786,6 +3186,9 @@
 		"aired": 1449658800,
 		"length": 516,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -2803,6 +3206,9 @@
 		"aired": 1449572400,
 		"length": 1586,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"TheraThiel"
+		],
 		"hosts": [
 			"Michael T"
 		],
@@ -2822,6 +3228,9 @@
 		"aired": 1449572400,
 		"length": 1686,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"TheraThiel"
+		],
 		"hosts": [
 			"Michael T"
 		],
@@ -2841,6 +3250,9 @@
 		"aired": 1449572400,
 		"length": 1704,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"TheraThiel"
+		],
 		"hosts": [
 			"Michael T"
 		],
@@ -2860,6 +3272,9 @@
 		"aired": 1449745200,
 		"length": 2555,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Gunnar",
 			"Michael K",
@@ -2881,6 +3296,9 @@
 		"aired": 1449399600,
 		"length": 1752,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Plaily"
+		],
 		"hosts": [
 			"Gunnar",
 			"Tim H",
@@ -2904,6 +3322,9 @@
 		"aired": 1449399600,
 		"length": 1310,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Plaily"
+		],
 		"hosts": [
 			"Gunnar",
 			"Tim H",
@@ -2927,6 +3348,9 @@
 		"aired": 1449745200,
 		"length": 540,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -2944,6 +3368,9 @@
 		"aired": 1449658800,
 		"length": 2297,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Eddy",
 			"Simon"
@@ -2964,6 +3391,9 @@
 		"aired": 1449658800,
 		"length": 2405,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Eddy",
 			"Simon"
@@ -2984,6 +3414,9 @@
 		"aired": 1449658800,
 		"length": 2411,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Eddy",
 			"Simon"
@@ -3004,6 +3437,7 @@
 		"aired": null,
 		"length": 63,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -3021,6 +3455,7 @@
 		"aired": null,
 		"length": 115,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -3038,6 +3473,7 @@
 		"aired": null,
 		"length": 65,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -3055,6 +3491,7 @@
 		"aired": null,
 		"length": 110,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -3072,6 +3509,9 @@
 		"aired": 1449831600,
 		"length": 2778,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Rene"
 		],
@@ -3091,6 +3531,9 @@
 		"aired": 1449745200,
 		"length": 930,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -3112,6 +3555,9 @@
 		"aired": 1449745200,
 		"length": 2731,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -3133,6 +3579,9 @@
 		"aired": 1449745200,
 		"length": 2729,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -3155,6 +3604,9 @@
 		"aired": 1449745200,
 		"length": 1029,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -3177,6 +3629,9 @@
 		"aired": 1449658800,
 		"length": 2285,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hauke",
 			"Jens"
@@ -3197,6 +3652,9 @@
 		"aired": 1449658800,
 		"length": 1599,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hauke",
 			"Jens"
@@ -3217,6 +3675,9 @@
 		"aired": 1449658800,
 		"length": 800,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hauke",
 			"Jens"
@@ -3237,6 +3698,9 @@
 		"aired": 1449572400,
 		"length": 1721,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -3256,6 +3720,9 @@
 		"aired": 1449572400,
 		"length": 1498,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -3275,6 +3742,9 @@
 		"aired": 1449831600,
 		"length": 359,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -3292,6 +3762,9 @@
 		"aired": 1449572400,
 		"length": 1682,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -3311,6 +3784,9 @@
 		"aired": 1449572400,
 		"length": 1746,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -3330,6 +3806,9 @@
 		"aired": 1449745200,
 		"length": 855,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R"
 		],
@@ -3349,6 +3828,9 @@
 		"aired": 1449745200,
 		"length": 1611,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R"
 		],
@@ -3368,6 +3850,9 @@
 		"aired": 1449745200,
 		"length": 1458,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R"
 		],
@@ -3387,6 +3872,9 @@
 		"aired": 1449745200,
 		"length": 1646,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R"
 		],
@@ -3406,6 +3894,9 @@
 		"aired": 1449745200,
 		"length": 864,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R"
 		],
@@ -3425,6 +3916,9 @@
 		"aired": 1449745200,
 		"length": 1642,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -3444,6 +3938,9 @@
 		"aired": 1449745200,
 		"length": 1732,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -3463,6 +3960,9 @@
 		"aired": 1449658800,
 		"length": 833,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -3485,6 +3985,9 @@
 		"aired": 1449658800,
 		"length": 1898,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -3507,6 +4010,9 @@
 		"aired": 1449658800,
 		"length": 1281,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -3529,6 +4035,9 @@
 		"aired": 1449658800,
 		"length": 1629,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -3551,6 +4060,9 @@
 		"aired": 1449658800,
 		"length": 872,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -3573,6 +4085,9 @@
 		"aired": 1449313200,
 		"length": 513,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gadget Inspectors"
+		],
 		"hosts": [
 			"Nils",
 			"Budi"
@@ -3593,6 +4108,9 @@
 		"aired": 1449918000,
 		"length": 2192,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Speedrundale"
+		],
 		"hosts": [
 			"Gregor",
 			"Sia",
@@ -3614,6 +4132,9 @@
 		"aired": 1449918000,
 		"length": 1587,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Speedrundale"
+		],
 		"hosts": [
 			"Gregor",
 			"Sia",
@@ -3635,6 +4156,9 @@
 		"aired": 1449918000,
 		"length": 1409,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Simon",
 			"Colin",
@@ -3656,6 +4180,9 @@
 		"aired": 1449918000,
 		"length": 1738,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Simon",
 			"Colin",
@@ -3677,6 +4204,9 @@
 		"aired": 1449918000,
 		"length": 1781,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Simon",
 			"Colin",
@@ -3698,6 +4228,9 @@
 		"aired": 1449918000,
 		"length": 3505,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Spiele mit Bart"
+		],
 		"hosts": [
 			"Simon",
 			"Gregor"
@@ -3718,6 +4251,9 @@
 		"aired": 1449831600,
 		"length": 1223,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3739,6 +4275,9 @@
 		"aired": 1449831600,
 		"length": 1341,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3760,6 +4299,9 @@
 		"aired": 1449831600,
 		"length": 1910,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3781,6 +4323,9 @@
 		"aired": 1449831600,
 		"length": 1109,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3802,6 +4347,9 @@
 		"aired": 1449831600,
 		"length": 766,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3823,6 +4371,9 @@
 		"aired": 1449831600,
 		"length": 2800,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3844,6 +4395,9 @@
 		"aired": 1449831600,
 		"length": 1357,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3863,6 +4417,9 @@
 		"aired": 1449831600,
 		"length": 2378,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3882,6 +4439,9 @@
 		"aired": 1450004400,
 		"length": 2015,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Buch Klub"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -3902,6 +4462,9 @@
 		"aired": 1449745200,
 		"length": 2512,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"After Dark"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3921,6 +4484,9 @@
 		"aired": 1449745200,
 		"length": 1628,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"After Dark"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3940,6 +4506,9 @@
 		"aired": 1450090800,
 		"length": 2730,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Nasti"
 		],
@@ -3959,6 +4528,9 @@
 		"aired": 1449745200,
 		"length": 848,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"After Dark"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -3978,6 +4550,9 @@
 		"aired": 1449831600,
 		"length": 848,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco"
 		],
@@ -3997,6 +4572,9 @@
 		"aired": 1449831600,
 		"length": 2110,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco"
 		],
@@ -4016,6 +4594,9 @@
 		"aired": 1449831600,
 		"length": 562,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco"
 		],
@@ -4035,6 +4616,9 @@
 		"aired": 1449831600,
 		"length": 1395,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco"
 		],
@@ -4054,6 +4638,9 @@
 		"aired": 1450004400,
 		"length": 975,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Press Select"
+		],
 		"hosts": [
 			"Gregor",
 			"Colin"
@@ -4074,6 +4661,9 @@
 		"aired": 1450004400,
 		"length": 1945,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Press Select"
+		],
 		"hosts": [
 			"Gregor",
 			"Colin"
@@ -4094,6 +4684,9 @@
 		"aired": 1450004400,
 		"length": 2035,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Press Select"
+		],
 		"hosts": [
 			"Gregor",
 			"Colin"
@@ -4114,6 +4707,9 @@
 		"aired": 1449831600,
 		"length": 777,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -4136,6 +4732,9 @@
 		"aired": 1449831600,
 		"length": 1685,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -4158,6 +4757,9 @@
 		"aired": 1450004400,
 		"length": 1053,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Press Select"
+		],
 		"hosts": [
 			"Gregor",
 			"Colin"
@@ -4178,6 +4780,9 @@
 		"aired": 1450004400,
 		"length": 1954,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Panelz"
+		],
 		"hosts": [
 			"Blitz",
 			"Tim G"
@@ -4198,6 +4803,9 @@
 		"aired": 1449831600,
 		"length": 1784,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -4220,6 +4828,9 @@
 		"aired": 1449831600,
 		"length": 1502,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -4242,6 +4853,9 @@
 		"aired": 1450090800,
 		"length": 474,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -4259,6 +4873,9 @@
 		"aired": 1449831600,
 		"length": 924,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Knallhart Durchgenommen"
+		],
 		"hosts": [
 			"Eddy",
 			"Dennis R"
@@ -4281,6 +4898,9 @@
 		"aired": 1450004400,
 		"length": 2699,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Tilt"
+		],
 		"hosts": [
 			"Colin",
 			"Dennis R"
@@ -4301,6 +4921,9 @@
 		"aired": 1450090800,
 		"length": 1725,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Nasti"
 		],
@@ -4320,6 +4943,9 @@
 		"aired": 1450090800,
 		"length": 830,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -4340,6 +4966,9 @@
 		"aired": 1450090800,
 		"length": 1486,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -4360,6 +4989,9 @@
 		"aired": 1450177200,
 		"length": 2643,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Hauke"
 		],
@@ -4379,6 +5011,9 @@
 		"aired": 1450090800,
 		"length": 1594,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -4399,6 +5034,9 @@
 		"aired": 1450090800,
 		"length": 796,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Sofia",
 			"Rene"
@@ -4419,6 +5057,9 @@
 		"aired": -1705669200,
 		"length": 1526,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -4440,6 +5081,9 @@
 		"aired": -1705669200,
 		"length": 1751,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -4461,6 +5105,9 @@
 		"aired": -1705669200,
 		"length": 1802,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -4482,6 +5129,9 @@
 		"aired": 1450090800,
 		"length": 2737,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Ralph",
@@ -4504,6 +5154,9 @@
 		"aired": 1450090800,
 		"length": 2870,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Ralph",
@@ -4526,6 +5179,9 @@
 		"aired": -1705669200,
 		"length": 1745,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -4547,6 +5203,9 @@
 		"aired": -1705669200,
 		"length": 856,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -4568,6 +5227,9 @@
 		"aired": 1450177200,
 		"length": 415,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -4585,6 +5247,9 @@
 		"aired": 1450090800,
 		"length": 1961,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Fabian"
@@ -4605,6 +5270,9 @@
 		"aired": 1450090800,
 		"length": 1561,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Fabian"
@@ -4625,6 +5293,9 @@
 		"aired": 1450090800,
 		"length": 963,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Wir müssen reden"
+		],
 		"hosts": [
 			"Gunnar",
 			"Fabian"
@@ -4645,6 +5316,9 @@
 		"aired": 1450177200,
 		"length": 887,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco",
 			"Steffen"
@@ -4665,6 +5339,9 @@
 		"aired": 1450177200,
 		"length": 1720,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco",
 			"Steffen"
@@ -4685,6 +5362,9 @@
 		"aired": 1450177200,
 		"length": 913,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Q&A"
+		],
 		"hosts": [
 			"Hauke",
 			"Tim H"
@@ -4705,6 +5385,9 @@
 		"aired": 1450177200,
 		"length": 1245,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco",
 			"Steffen"
@@ -4725,6 +5408,9 @@
 		"aired": 1450177200,
 		"length": 1609,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Q&A"
+		],
 		"hosts": [
 			"Hauke",
 			"Tim H"
@@ -4745,6 +5431,9 @@
 		"aired": 1450177200,
 		"length": 1684,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Q&A"
+		],
 		"hosts": [
 			"Hauke",
 			"Tim H"
@@ -4765,6 +5454,9 @@
 		"aired": 1450177200,
 		"length": 2577,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Marco",
 			"Steffen"
@@ -4785,6 +5477,9 @@
 		"aired": 1450177200,
 		"length": 650,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Q&A"
+		],
 		"hosts": [
 			"Hauke",
 			"Tim H"
@@ -4805,6 +5500,7 @@
 		"aired": null,
 		"length": 24,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -4822,6 +5518,9 @@
 		"aired": 1450177200,
 		"length": 657,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R",
 			"Dennis H"
@@ -4842,6 +5541,9 @@
 		"aired": 1450177200,
 		"length": 2524,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R",
 			"Dennis H"
@@ -4862,6 +5564,9 @@
 		"aired": 1450177200,
 		"length": 1762,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Michael K",
 			"Ben",
@@ -4884,6 +5589,9 @@
 		"aired": 1450177200,
 		"length": 1702,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Michael K",
 			"Ben",
@@ -4906,6 +5614,9 @@
 		"aired": 1450263600,
 		"length": 578,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -4923,6 +5634,9 @@
 		"aired": 1450263600,
 		"length": 2733,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Steffen"
 		],
@@ -4942,6 +5656,9 @@
 		"aired": null,
 		"length": 129,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gadget Inspectors"
+		],
 		"hosts": [
 			"Colin"
 		],
@@ -4961,6 +5678,9 @@
 		"aired": 1450177200,
 		"length": 1776,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -4980,6 +5700,9 @@
 		"aired": 1450177200,
 		"length": 1632,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -4999,6 +5722,9 @@
 		"aired": 1450177200,
 		"length": 734,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -5018,6 +5744,7 @@
 		"aired": null,
 		"length": 24,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -5035,6 +5762,9 @@
 		"aired": 1450350000,
 		"length": 2582,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Tim H"
 		],
@@ -5054,6 +5784,7 @@
 		"aired": 1450177200,
 		"length": 5153,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Simon",
 			"Gregor",
@@ -5075,6 +5806,9 @@
 		"aired": 1449399600,
 		"length": 1607,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Plaily"
+		],
 		"hosts": [
 			"Gunnar",
 			"Ralph",
@@ -5096,6 +5830,9 @@
 		"aired": 1449399600,
 		"length": 1834,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Almost Plaily"
+		],
 		"hosts": [
 			"Gunnar",
 			"Ralph",
@@ -5117,6 +5854,9 @@
 		"aired": 1450263600,
 		"length": 1749,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Budi",
 			"Nils"
@@ -5137,6 +5877,9 @@
 		"aired": 1450263600,
 		"length": 2390,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Florentin",
 			"Budi",
@@ -5158,6 +5901,9 @@
 		"aired": 1450263600,
 		"length": 2033,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Florentin",
 			"Budi",
@@ -5179,6 +5925,9 @@
 		"aired": 1450350000,
 		"length": 410,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -5196,6 +5945,9 @@
 		"aired": 1450263600,
 		"length": 1671,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -5218,6 +5970,9 @@
 		"aired": 1450263600,
 		"length": 1509,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -5240,6 +5995,9 @@
 		"aired": 1450263600,
 		"length": 1689,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -5262,6 +6020,9 @@
 		"aired": 1450263600,
 		"length": 1691,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hannes",
 			"Steffen"
@@ -5284,6 +6045,9 @@
 		"aired": 1450350000,
 		"length": 2189,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -5305,6 +6069,9 @@
 		"aired": 1450350000,
 		"length": 2097,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -5328,6 +6095,9 @@
 		"aired": 1450350000,
 		"length": 1514,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -5351,6 +6121,7 @@
 		"aired": 1450263600,
 		"length": 1778,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -5368,6 +6139,7 @@
 		"aired": null,
 		"length": 49,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -5385,6 +6157,9 @@
 		"aired": 1450436400,
 		"length": 413,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -5402,6 +6177,9 @@
 		"aired": 1450350000,
 		"length": 1723,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -5425,6 +6203,9 @@
 		"aired": 1450436400,
 		"length": 2673,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Bell",
 			"Nasti"
@@ -5445,6 +6226,9 @@
 		"aired": 1450350000,
 		"length": 1858,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -5464,6 +6248,9 @@
 		"aired": 1450350000,
 		"length": 1777,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -5483,6 +6270,9 @@
 		"aired": 1450350000,
 		"length": 996,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eduard",
 			"Hannes"
@@ -5503,6 +6293,9 @@
 		"aired": 1450350000,
 		"length": 1573,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eduard",
 			"Hannes"
@@ -5523,6 +6316,9 @@
 		"aired": 1450350000,
 		"length": 1484,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eduard",
 			"Hannes"
@@ -5543,6 +6339,9 @@
 		"aired": 1450350000,
 		"length": 1548,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eduard",
 			"Hannes"
@@ -5563,6 +6362,9 @@
 		"aired": 1450350000,
 		"length": 1964,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Simonster"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -5585,6 +6387,9 @@
 		"aired": 1450350000,
 		"length": 804,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eduard",
 			"Hannes"
@@ -5605,6 +6410,9 @@
 		"aired": 1450350000,
 		"length": 1641,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Simonster"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -5627,6 +6435,9 @@
 		"aired": 1450522800,
 		"length": 3205,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Speedrundale"
+		],
 		"hosts": [
 			"Simon",
 			"Sia",
@@ -5648,6 +6459,9 @@
 		"aired": 1450350000,
 		"length": 761,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Simonster"
+		],
 		"hosts": [
 			"Simon",
 			"Nils"
@@ -5670,6 +6484,9 @@
 		"aired": 1450522800,
 		"length": 1210,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Colin",
 			"Michael R",
@@ -5691,6 +6508,9 @@
 		"aired": 1450522800,
 		"length": 2272,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Colin",
 			"Michael R",
@@ -5712,6 +6532,9 @@
 		"aired": 1450522800,
 		"length": 2025,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Game+"
+		],
 		"hosts": [
 			"Colin",
 			"Michael R",
@@ -5733,6 +6556,9 @@
 		"aired": 1450522800,
 		"length": 2239,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Erwachsene Männer hören Jan Tenner"
+		],
 		"hosts": [
 			"Simon",
 			"Gregor",
@@ -5754,6 +6580,9 @@
 		"aired": 1450522800,
 		"length": 1340,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Erwachsene Männer hören Jan Tenner"
+		],
 		"hosts": [
 			"Simon",
 			"Gregor",
@@ -5775,6 +6604,9 @@
 		"aired": 1450522800,
 		"length": 3735,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Spiele mit Bart"
+		],
 		"hosts": [
 			"Simon",
 			"Gregor"
@@ -5795,6 +6627,9 @@
 		"aired": 1450436400,
 		"length": 1480,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hauke",
 			"Marco"
@@ -5815,6 +6650,9 @@
 		"aired": 1450436400,
 		"length": 1168,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hauke",
 			"Marco"
@@ -5835,6 +6673,9 @@
 		"aired": 1450436400,
 		"length": 2315,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hauke",
 			"Marco"
@@ -5855,6 +6696,9 @@
 		"aired": 1449658800,
 		"length": 273,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gino+"
+		],
 		"hosts": [
 			"Gino",
 			"Sofia"
@@ -5875,6 +6719,9 @@
 		"aired": 1450436400,
 		"length": 1142,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Hauke",
 			"Marco"
@@ -5895,6 +6742,9 @@
 		"aired": 1450609200,
 		"length": 2000,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Buch Klub"
+		],
 		"hosts": [
 			"Simon",
 			"Alwin"
@@ -5915,6 +6765,9 @@
 		"aired": null,
 		"length": 2064,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eddy",
 			"Colin"
@@ -5937,6 +6790,9 @@
 		"aired": null,
 		"length": 1688,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eddy",
 			"Colin"
@@ -5959,6 +6815,9 @@
 		"aired": null,
 		"length": 3198,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Eddy",
 			"Colin"
@@ -5981,6 +6840,9 @@
 		"aired": null,
 		"length": 1513,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -6000,6 +6862,9 @@
 		"aired": null,
 		"length": 1767,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Simon"
 		],
@@ -6019,6 +6884,9 @@
 		"aired": 1450695600,
 		"length": 2743,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Tim H"
 		],
@@ -6038,6 +6906,9 @@
 		"aired": 1450695600,
 		"length": 359,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -6055,6 +6926,9 @@
 		"aired": 1450695600,
 		"length": 2767,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Ralph",
@@ -6076,6 +6950,9 @@
 		"aired": 1450695600,
 		"length": 2953,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohndesliga"
+		],
 		"hosts": [
 			"Nils",
 			"Ralph",
@@ -6097,6 +6974,7 @@
 		"aired": null,
 		"length": 471,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -6114,6 +6992,9 @@
 		"aired": -1705064400,
 		"length": 540,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -6135,6 +7016,9 @@
 		"aired": -1705064400,
 		"length": 2112,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -6156,6 +7040,9 @@
 		"aired": -1705064400,
 		"length": 1265,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -6177,6 +7064,9 @@
 		"aired": -1705064400,
 		"length": 1698,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -6198,6 +7088,9 @@
 		"aired": -1705064400,
 		"length": 992,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Classix"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -6219,6 +7112,7 @@
 		"aired": null,
 		"length": 167,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -6236,6 +7130,9 @@
 		"aired": 1450782000,
 		"length": 4577,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"MoinMoin"
+		],
 		"hosts": [
 			"Colin"
 		],
@@ -6255,6 +7152,9 @@
 		"aired": 1450695600,
 		"length": 1637,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R"
 		],
@@ -6274,6 +7174,9 @@
 		"aired": 1450695600,
 		"length": 1646,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R"
 		],
@@ -6293,6 +7196,9 @@
 		"aired": 1450695600,
 		"length": 2196,
 		"channel": "Rocket Beans TV Let's Play",
+		"shows": [
+			"Lets Play"
+		],
 		"hosts": [
 			"Dennis R",
 			"Simon"
@@ -6313,6 +7219,9 @@
 		"aired": 1450782000,
 		"length": 367,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"News"
+		],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -6330,6 +7239,9 @@
 		"aired": 1450782000,
 		"length": 2155,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Niklas",
 			"Gregor",
@@ -6354,6 +7266,9 @@
 		"aired": 1450782000,
 		"length": 2314,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Chat Duell"
+		],
 		"hosts": [
 			"Gregor",
 			"Gunnar",
@@ -6378,6 +7293,9 @@
 		"aired": 1450782000,
 		"length": 1486,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Simon",
 			"Budi",
@@ -6400,6 +7318,9 @@
 		"aired": 1450782000,
 		"length": 1881,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Simon",
 			"Budi",
@@ -6422,6 +7343,9 @@
 		"aired": 1450782000,
 		"length": 2069,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Bohn Jour"
+		],
 		"hosts": [
 			"Simon",
 			"Budi",
@@ -6444,6 +7368,9 @@
 		"aired": 1450868400,
 		"length": 3600,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Baking Bad"
+		],
 		"hosts": [
 			"Eddy"
 		],
@@ -6463,6 +7390,9 @@
 		"aired": 1450954800,
 		"length": 1701,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gino+"
+		],
 		"hosts": [
 			"Gino"
 		],
@@ -6482,6 +7412,9 @@
 		"aired": 1450954800,
 		"length": 1636,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gino+"
+		],
 		"hosts": [
 			"Gino"
 		],
@@ -6501,6 +7434,9 @@
 		"aired": 1450954800,
 		"length": 1053,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -6523,6 +7459,9 @@
 		"aired": 1450954800,
 		"length": 2224,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -6545,6 +7484,9 @@
 		"aired": 1450954800,
 		"length": 2715,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -6567,6 +7509,9 @@
 		"aired": 1450954800,
 		"length": 1305,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -6589,6 +7534,9 @@
 		"aired": 1450782000,
 		"length": 2167,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"TheraThiel"
+		],
 		"hosts": [
 			"Michael T"
 		],
@@ -6608,6 +7556,9 @@
 		"aired": 1450782000,
 		"length": 1400,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"TheraThiel"
+		],
 		"hosts": [
 			"Michael T"
 		],
@@ -6627,6 +7578,9 @@
 		"aired": 1450782000,
 		"length": 626,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"TheraThiel"
+		],
 		"hosts": [
 			"Michael T",
 			"Dennis H"
@@ -6647,6 +7601,7 @@
 		"aired": 1451041200,
 		"length": 1489,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6669,6 +7624,7 @@
 		"aired": 1451041200,
 		"length": 1933,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6691,6 +7647,7 @@
 		"aired": 1451041200,
 		"length": 1934,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6713,6 +7670,7 @@
 		"aired": 1451041200,
 		"length": 1558,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6735,6 +7693,7 @@
 		"aired": 1451041200,
 		"length": 1177,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6757,6 +7716,7 @@
 		"aired": 1451041200,
 		"length": 1639,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6779,6 +7739,7 @@
 		"aired": 1451041200,
 		"length": 1621,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6801,6 +7762,7 @@
 		"aired": 1451041200,
 		"length": 1644,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Dennis H",
 			"Alwin",
@@ -6823,6 +7785,9 @@
 		"aired": 1451041200,
 		"length": 1700,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -6842,6 +7807,9 @@
 		"aired": 1451041200,
 		"length": 1689,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -6861,6 +7829,9 @@
 		"aired": 1451041200,
 		"length": 1649,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -6880,6 +7851,9 @@
 		"aired": 1451041200,
 		"length": 2072,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Retro Klub"
+		],
 		"hosts": [
 			"Gregor"
 		],
@@ -6899,6 +7873,9 @@
 		"aired": 1451127600,
 		"length": 468,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Gadget Inspectors"
+		],
 		"hosts": [
 			"Colin",
 			"Simon"
@@ -6919,6 +7896,7 @@
 		"aired": 1451214000,
 		"length": 3717,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -6936,6 +7914,9 @@
 		"aired": 1451214000,
 		"length": 2586,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Panelz"
+		],
 		"hosts": [
 			"Blitz",
 			"Tim G"
@@ -6956,6 +7937,7 @@
 		"aired": 1451386800,
 		"length": 2856,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [],
 		"series": [],
 		"stats": {
@@ -6973,6 +7955,7 @@
 		"aired": 1450350000,
 		"length": 1081,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Schröck"
 		],
@@ -6992,6 +7975,7 @@
 		"aired": 1451473200,
 		"length": 1840,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Gregor",
 			"Jan"
@@ -7012,6 +7996,7 @@
 		"aired": 1451473200,
 		"length": 1894,
 		"channel": "Rocket Beans TV",
+		"shows": [],
 		"hosts": [
 			"Gregor",
 			"Jan"
@@ -7032,6 +8017,9 @@
 		"aired": 1451559600,
 		"length": 1922,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -7053,6 +8041,9 @@
 		"aired": 1451559600,
 		"length": 1898,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -7074,6 +8065,9 @@
 		"aired": 1451559600,
 		"length": 1790,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",
@@ -7095,6 +8089,9 @@
 		"aired": 1451559600,
 		"length": 1765,
 		"channel": "Rocket Beans TV",
+		"shows": [
+			"Kino+ Spezial"
+		],
 		"hosts": [
 			"Schröck",
 			"Eddy",

@@ -1,0 +1,22 @@
+{
+ "hash": "cfbf813f75ae577e49470a0234103a1f",
+ "update": 1481842502,
+ "files": {
+  "channels": [
+   "channels.min.json"
+  ],
+  "videos": [
+   "videos.min.json"
+  ],
+  "hosts": [
+   "hosts.min.json"
+  ],
+  "shows": [
+   "shows.min.json"
+  ],
+  "series": [
+   "series.min.json"
+  ]
+ },
+ "size": 3011136
+}

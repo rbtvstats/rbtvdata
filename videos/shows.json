@@ -2,624 +2,728 @@
   {
     "id": "cd6c",
     "name": "1on1",
+    "event": false,
     "description": "",
     "image": "/img/shows/cd6c.jpg"
   },
   {
     "id": "c974",
-    "name": "20 Jahre Tomb Raider [E]",
+    "name": "20 Jahre Tomb Raider",
+    "event": true,
     "description": "",
     "image": "/img/shows/c974.jpg"
   },
   {
     "id": "f5d4",
     "name": "After Dark",
+    "event": false,
     "description": "",
     "image": "/img/shows/f5d4.jpg"
   },
   {
     "id": "8631",
     "name": "Almost Daily",
+    "event": false,
     "description": "",
     "image": "/img/shows/8631.jpg"
   },
   {
     "id": "e074",
     "name": "Almost Plaily",
+    "event": false,
     "description": "",
     "image": "/img/shows/e074.jpg"
   },
   {
     "id": "55e0",
-    "name": "Archon Cup [E]",
+    "name": "Archon Cup",
+    "event": true,
     "description": "",
     "image": "/img/shows/55e0.jpg"
   },
   {
     "id": "b6b6",
     "name": "Baking Bad",
+    "event": false,
     "description": "",
     "image": "/img/shows/b6b6.jpg"
   },
   {
     "id": "fd0e",
-    "name": "Beans on Ice [E]",
+    "name": "Beans on Ice",
+    "event": true,
     "description": "",
     "image": "/img/shows/fd0e.jpg"
   },
   {
     "id": "ab3e",
     "name": "Beans on Reißzahn",
+    "event": false,
     "description": "",
     "image": "/img/shows/ab3e.jpg"
   },
   {
     "id": "f929",
     "name": "Beans on Rice",
+    "event": false,
     "description": "",
     "image": "/img/shows/f929.jpg"
   },
   {
     "id": "88a8",
     "name": "Beans vs",
+    "event": false,
     "description": "",
     "image": "/img/shows/88a8.jpg"
   },
   {
     "id": "9d9d",
     "name": "Bohn Jour",
+    "event": false,
     "description": "",
     "image": "/img/shows/9d9d.jpg"
   },
   {
     "id": "8279",
     "name": "Bohndesliga",
+    "event": false,
     "description": "",
     "image": "/img/shows/8279.jpg"
   },
   {
     "id": "9694",
     "name": "Buch Klub",
+    "event": false,
     "description": "",
     "image": "/img/shows/9694.jpg"
   },
   {
     "id": "7429",
     "name": "Build Schön",
+    "event": false,
     "description": "",
     "image": "/img/shows/7429.jpg"
   },
   {
     "id": "082c",
     "name": "Call of Budi",
+    "event": false,
     "description": "",
     "image": "/img/shows/082c.jpg"
   },
   {
     "id": "5a50",
-    "name": "Call of Duty: Black Ops III Beta Launch [E]",
+    "name": "Call of Duty: Black Ops III Beta Launch",
+    "event": false,
     "description": "",
     "image": "/img/shows/5a50.jpg"
   },
   {
     "id": "9bd4",
     "name": "Chat Duell",
+    "event": false,
     "description": "",
     "image": "/img/shows/9bd4.jpg"
   },
   {
     "id": "8bd9",
     "name": "Classix",
+    "event": false,
     "description": "",
     "image": "/img/shows/8bd9.jpg"
   },
   {
     "id": "5f89",
     "name": "Community Beef",
+    "event": false,
     "description": "",
     "image": "/img/shows/5f89.jpg"
   },
   {
     "id": "c62d",
     "name": "Couch an Couch",
+    "event": false,
     "description": "",
     "image": "/img/shows/c62d.jpg"
   },
   {
     "id": "c38d",
     "name": "Creative Clash",
+    "event": false,
     "description": "",
     "image": "/img/shows/c38d.jpg"
   },
   {
     "id": "c13a",
-    "name": "Das große World of Tanks Manöver [E]",
+    "name": "Das große World of Tanks Manöver",
+    "event": true,
     "description": "",
     "image": "/img/shows/c13a.jpg"
   },
   {
     "id": "6cdb",
     "name": "Der Superfan",
+    "event": false,
     "description": "",
     "image": "/img/shows/6cdb.jpg"
   },
   {
     "id": "c8a0",
     "name": "Die Reddit Show",
+    "event": false,
     "description": "",
     "image": "/img/shows/c8a0.jpg"
   },
   {
     "id": "7589",
-    "name": "Die lange Final Fantasy-Nacht [E]",
+    "name": "Die lange Final Fantasy-Nacht",
+    "event": true,
     "description": "",
     "image": "/img/shows/7589.jpg"
   },
   {
     "id": "6a09",
-    "name": "Dreamhack 2016 [E]",
+    "name": "Dreamhack 2016",
+    "event": true,
     "description": "",
     "image": "/img/shows/6a09.jpg"
   },
   {
     "id": "bc4b",
-    "name": "E3 2015 [E]",
+    "name": "E3 2015",
+    "event": true,
     "description": "",
     "image": "/img/shows/bc4b.jpg"
   },
   {
     "id": "7c77",
-    "name": "E3 2016 [E]",
+    "name": "E3 2016",
+    "event": true,
     "description": "",
     "image": "/img/shows/7c77.jpg"
   },
   {
     "id": "c411",
     "name": "EM-Studio",
+    "event": true,
     "description": "",
     "image": "/img/shows/c411.jpg"
   },
   {
     "id": "3262",
     "name": "Erwachsene Männer hören Jan Tenner",
+    "event": true,
     "description": "",
     "image": "/img/shows/3262.jpg"
   },
   {
     "id": "f14c",
     "name": "Evil is Quatsching",
+    "event": true,
     "description": "",
     "image": "/img/shows/f14c.jpg"
   },
   {
     "id": "06a8",
-    "name": "FIFA 16 Launch Turnier [E]",
+    "name": "FIFA 16 Launch Turnier",
+    "event": true,
     "description": "",
     "image": "/img/shows/06a8.jpg"
   },
   {
     "id": "ffd4",
-    "name": "Fallout 24h [E]",
+    "name": "Fallout 24h",
+    "event": true,
     "description": "",
     "image": "/img/shows/ffd4.jpg"
   },
   {
     "id": "2978",
-    "name": "Festival Sommer 2016 [E]",
+    "name": "Festival Sommer 2016",
+    "event": true,
     "description": "",
     "image": "/img/shows/2978.jpg"
   },
   {
     "id": "93d9",
-    "name": "Fussball [E]",
+    "name": "Fussball",
+    "event": true,
     "description": "",
     "image": "/img/shows/93d9.jpg"
   },
   {
     "id": "419a",
     "name": "Gadget Inspectors",
+    "event": false,
     "description": "",
     "image": "/img/shows/419a.jpg"
   },
   {
     "id": "0224",
     "name": "Game+",
+    "event": false,
     "description": "",
     "image": "/img/shows/0224.jpg"
   },
   {
     "id": "3665",
     "name": "Game+ Daily",
+    "event": false,
     "description": "",
     "image": "/img/shows/3665.jpg"
   },
   {
     "id": "1d8d",
-    "name": "Gamescom 2015 [E]",
+    "name": "Gamescom 2015",
+    "event": true,
     "description": "",
     "image": "/img/shows/1d8d.jpg"
   },
   {
     "id": "dae5",
-    "name": "Gamescom 2016 [E]",
+    "name": "Gamescom 2016",
+    "event": true,
     "description": "",
     "image": "/img/shows/dae5.jpg"
   },
   {
     "id": "1b6c",
     "name": "Gino+",
+    "event": false,
     "description": "",
     "image": "/img/shows/1b6c.jpg"
   },
   {
     "id": "14f0",
     "name": "Ginos Gym",
+    "event": false,
     "description": "",
     "image": "/img/shows/14f0.jpg"
   },
   {
     "id": "c619",
     "name": "Hearthstoned",
+    "event": false,
     "description": "",
     "image": "/img/shows/c619.jpg"
   },
   {
     "id": "7715",
     "name": "Indie Tonne",
+    "event": false,
     "description": "",
     "image": "/img/shows/7715.jpg"
   },
   {
     "id": "77eb",
     "name": "Industrie Skypeorama",
+    "event": false,
     "description": "",
     "image": "/img/shows/77eb.jpg"
   },
   {
     "id": "4d4f",
     "name": "Jugendzimmer",
+    "event": false,
     "description": "",
     "image": "/img/shows/4d4f.jpg"
   },
   {
     "id": "c01c",
     "name": "Kino+",
+    "event": false,
     "description": "",
     "image": "/img/shows/c01c.jpg"
   },
   {
     "id": "b3b6",
     "name": "Kino+ Spezial",
+    "event": false,
     "description": "",
     "image": "/img/shows/b3b6.jpg"
   },
   {
     "id": "3952",
     "name": "Knallhart Durchgenommen",
+    "event": false,
     "description": "",
     "image": "/img/shows/3952.jpg"
   },
   {
     "id": "7a90",
     "name": "Lets Play",
+    "event": false,
     "description": "",
     "image": "/img/shows/7a90.jpg"
   },
   {
     "id": "7339",
     "name": "Los Santos Connection",
+    "event": false,
     "description": "",
     "image": "/img/shows/7339.jpg"
   },
   {
     "id": "ab1c",
     "name": "MoinMoin",
+    "event": false,
     "description": "",
     "image": "/img/shows/ab1c.jpg"
   },
   {
     "id": "212f",
-    "name": "NBA 2k16 Zock4-Turnier [E]",
+    "name": "NBA 2k16 Zock4-Turnier",
+    "event": true,
     "description": "",
     "image": "/img/shows/212f.jpg"
   },
   {
     "id": "1321",
     "name": "Nerd Quiz",
+    "event": false,
     "description": "",
     "image": "/img/shows/1321.jpg"
   },
   {
     "id": "6f7a",
     "name": "News",
+    "event": false,
     "description": "",
     "image": "/img/shows/6f7a.jpg"
   },
   {
     "id": "3602",
     "name": "Oculust",
+    "event": false,
     "description": "",
     "image": "/img/shows/3602.jpg"
   },
   {
     "id": "578a",
     "name": "Panelz",
+    "event": false,
     "description": "",
     "image": "/img/shows/578a.jpg"
   },
   {
     "id": "65fa",
     "name": "Pen & Paper",
+    "event": false,
     "description": "",
     "image": "/img/shows/65fa.jpg"
   },
   {
     "id": "a5bb",
     "name": "Philosofa",
+    "event": false,
     "description": "",
     "image": "/img/shows/a5bb.jpg"
   },
   {
     "id": "b6b5",
     "name": "Photochopped",
+    "event": false,
     "description": "",
     "image": "/img/shows/b6b5.jpg"
   },
   {
     "id": "2e85",
     "name": "Point & Chick",
+    "event": false,
     "description": "",
     "image": "/img/shows/2e85.jpg"
   },
   {
     "id": "276c",
     "name": "Press Select",
+    "event": false,
     "description": "",
     "image": "/img/shows/276c.jpg"
   },
   {
     "id": "8aa1",
-    "name": "Project Overlord [E]",
+    "name": "Project Overlord",
+    "event": true,
     "description": "",
     "image": "/img/shows/8aa1.jpg"
   },
   {
     "id": "02d3",
     "name": "Q&A",
+    "event": false,
     "description": "",
     "image": "/img/shows/02d3.jpg"
   },
   {
     "id": "f2c9",
-    "name": "RBTV Euro 2016 [E]",
+    "name": "RBTV Euro 2016",
+    "event": true,
     "description": "",
     "image": "/img/shows/f2c9.jpg"
   },
   {
     "id": "008d",
-    "name": "RBTV Geburtstagsparty [E]",
+    "name": "RBTV Geburtstagsparty",
+    "event": true,
     "description": "",
     "image": "/img/shows/008d.jpg"
   },
   {
     "id": "b109",
     "name": "Ranked",
+    "event": false,
     "description": "",
     "image": "/img/shows/b109.jpg"
   },
   {
     "id": "e263",
     "name": "Retro Klub",
+    "event": false,
     "description": "",
     "image": "/img/shows/e263.jpg"
   },
   {
     "id": "c0ed",
     "name": "Road To Division One",
+    "event": false,
     "description": "",
     "image": "/img/shows/c0ed.jpg"
   },
   {
     "id": "b905",
     "name": "Road to Final Fantasy XIV: Heavensward",
+    "event": false,
     "description": "",
     "image": "/img/shows/b905.jpg"
   },
   {
     "id": "23d9",
     "name": "Rocket Beans on tour",
+    "event": false,
     "description": "",
     "image": "/img/shows/23d9.jpg"
   },
   {
     "id": "7cd4",
     "name": "Rocketminers",
+    "event": false,
     "description": "",
     "image": "/img/shows/7cd4.jpg"
   },
   {
     "id": "97ce",
     "name": "Royal Beef",
+    "event": false,
     "description": "",
     "image": "/img/shows/97ce.jpg"
   },
   {
     "id": "a4d9",
     "name": "SRSLY",
+    "event": false,
     "description": "",
     "image": "/img/shows/a4d9.jpg"
   },
   {
     "id": "f912",
     "name": "Schröcks Fernsehgarten",
+    "event": false,
     "description": "",
     "image": "/img/shows/f912.jpg"
   },
   {
     "id": "e32d",
     "name": "Screentrips",
+    "event": false,
     "description": "",
     "image": "/img/shows/e32d.jpg"
   },
   {
     "id": "3525",
     "name": "Simonster",
+    "event": false,
     "description": "",
     "image": "/img/shows/3525.jpg"
   },
   {
     "id": "df48",
-    "name": "Skyrim 24h [E]",
+    "name": "Skyrim 24h",
+    "event": true,
     "description": "",
     "image": "/img/shows/df48.jpg"
   },
   {
     "id": "47f6",
     "name": "Smarter Phone",
+    "event": false,
     "description": "",
     "image": "/img/shows/47f6.jpg"
   },
   {
     "id": "0d4f",
     "name": "Social Eating",
+    "event": true,
     "description": "",
     "image": "/img/shows/0d4f.jpg"
   },
   {
     "id": "8413",
-    "name": "Sommerfest 2015 [E]",
+    "name": "Sommerfest 2015",
+    "event": true,
     "description": "",
     "image": "/img/shows/8413.jpg"
   },
   {
     "id": "509e",
-    "name": "Sommerfest 2016 [E]",
+    "name": "Sommerfest 2016",
+    "event": true,
     "description": "",
     "image": "/img/shows/509e.jpg"
   },
   {
     "id": "4d58",
     "name": "Speedrundale",
+    "event": false,
     "description": "",
     "image": "/img/shows/4d58.jpg"
   },
   {
     "id": "9746",
     "name": "Spiele mit Bart",
+    "event": false,
     "description": "",
     "image": "/img/shows/9746.jpg"
   },
   {
     "id": "220b",
     "name": "Spiele mit Schmerz",
+    "event": false,
     "description": "",
     "image": "/img/shows/220b.jpg"
   },
   {
     "id": "b665",
     "name": "Spoiler",
+    "event": false,
     "description": "",
     "image": "/img/shows/b665.jpg"
   },
   {
     "id": "d34d",
-    "name": "StarCraft II WCS 2015 [E]",
+    "name": "StarCraft II WCS 2015",
+    "event": true,
     "description": "",
     "image": "/img/shows/d34d.jpg"
   },
   {
     "id": "8615",
     "name": "Straight To Gold",
+    "event": false,
     "description": "",
     "image": "/img/shows/8615.jpg"
   },
   {
     "id": "79ec",
-    "name": "Street Fighter V Turnier [E]",
+    "name": "Street Fighter V Turnier",
+    "event": true,
     "description": "",
     "image": "/img/shows/79ec.jpg"
   },
   {
     "id": "2123",
     "name": "Super Competition Club",
+    "event": false,
     "description": "",
     "image": "/img/shows/2123.jpg"
   },
   {
     "id": "edc3",
     "name": "Team Limited",
+    "event": false,
     "description": "",
     "image": "/img/shows/edc3.jpg"
   },
   {
     "id": "1253",
     "name": "The Real Virtuality",
+    "event": false,
     "description": "",
     "image": "/img/shows/1253.jpg"
   },
   {
     "id": "9fd2",
     "name": "TheraThiel",
+    "event": false,
     "description": "",
     "image": "/img/shows/9fd2.jpg"
   },
   {
     "id": "b76b",
     "name": "Tilt",
+    "event": false,
     "description": "",
     "image": "/img/shows/b76b.jpg"
   },
   {
     "id": "595b",
     "name": "Verflixxte Klixx",
+    "event": false,
     "description": "",
     "image": "/img/shows/595b.jpg"
   },
   {
     "id": "217d",
-    "name": "WaTaWorld [E]",
+    "name": "WaTaWorld",
+    "event": true,
     "description": "",
     "image": "/img/shows/217d.jpg"
   },
   {
     "id": "8e17",
     "name": "Was kommen könnte",
+    "event": false,
     "description": "",
     "image": "/img/shows/8e17.jpg"
   },
   {
     "id": "a878",
     "name": "Weekly Wahnsinn",
+    "event": false,
     "description": "",
     "image": "/img/shows/a878.jpg"
   },
   {
     "id": "5b25",
     "name": "Wir müssen reden",
+    "event": false,
     "description": "",
     "image": "/img/shows/5b25.jpg"
   },
   {
     "id": "4f41",
     "name": "Zocken mit Bohnen",
+    "event": false,
     "description": "",
     "image": "/img/shows/4f41.jpg"
   },
   {
     "id": "b03b",
     "name": "Awesome Games Done Different",
+    "event": false,
     "description": "",
     "image": "/img/shows/b03b.jpg"
   },
   {
     "id": "8760",
     "name": "Beat Yesterday",
+    "event": false,
     "description": "",
     "image": "/img/shows/8760.jpg"
   },
   {
     "id": "3cad",
     "name": "Almost Magic",
+    "event": false,
     "description": "",
     "image": "/img/shows/3cad.jpg"
   }

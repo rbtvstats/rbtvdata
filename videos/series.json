@@ -2,8 +2,8 @@
   {
     "id": "ce64",
     "name": "Adr1ft",
-    "description": "",
-    "image": ""
+    "description": "ADR1FT is an immersive First Person Experience (FPX) that tells the story of an astronaut in peril. Floating silently amongst the wreckage of a destroyed space station with no memory and a severely damaged EVA suit slowly leaking oxygen, the only survivor struggles to determine the cause of the catastrophic event that took the lives of everyone on board. The player fights to stay alive by exploring the wreckage for precious resources, and overcomes the challenges of an unforgiving environment to repair the damaged EEV and safely return home.",
+    "image": "//images.igdb.com/igdb/image/upload/t_thumb_2x/ek0chukfsluw92vlaiha.png"
   },
   {
     "id": "9ac7",
@@ -586,5 +586,11 @@
     "name": "The Last Guardian",
     "description": "",
     "image": ""
+  },
+  {
+    "id": "54f6",
+    "name": "The Walking Dead: A New Frontier",
+    "description": "",
+    "image": "/img/series/54f6.img"
   }
 ]

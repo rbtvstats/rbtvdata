@@ -1121,5 +1121,13 @@
       "https://youtube.com/playlist?list=PLsksxTH4pR3JjwMJmaKqPsgMcFAJCUkl4"
     ],
     "image": "/img/shows/97e5.jpg"
+  },
+  {
+    "id": "f664",
+    "name": "Nachspiel",
+    "event": false,
+    "description": "",
+    "links": [],
+    "image": "/img/shows/f664.jpg"
   }
 ]

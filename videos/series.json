@@ -1071,5 +1071,26 @@
       "https://youtube.com/playlist?list=PLfU2RMxoOiSA91-PdUUovMzo5VOkw34pU"
     ],
     "image": "/img/series/54f6.jpg"
+  },
+  {
+    "id": "7e02",
+    "name": "Star Wars Jedi Knight II: Jedi Outcast",
+    "show": "3952",
+    "description": "In the tradition of the highly acclaimed Star Wars: Jedi Knight series, Star Wars: Jedi Knight 2, Jedi Outcast features rebel agent Kyle Katarn in exhilarating first-person action. Several years have passed since Kyle avenged his father's death and saved the Valley of the Jedi from Jerec and his band of Dark Jedi. Allowing his Force powers to languish for fear of falling to the dark side, Kyle entrusted his lightsaber to Luke Skywalker, vowing never to use it again. But when a new and menacing threat to the galaxy emerges, Kyle knows he must reclaim his past in order to save his future.\n\nExplore breathtaking Star Wars locales such as Cloud City, the Jedi Academy on Yavin 4, Nar Shaddaa, and the smugglers' moon. Multiplayer options include deathmatch, saber-only deathmatch, and team capture the flag.",
+    "links": [
+      "https://igdb.com/games/star-wars-jedi-knight-ii-jedi-outcast"
+    ],
+    "image": "/img/series/7e02.jpg"
+  },
+  {
+    "id": "6ddf",
+    "name": "Halo 5: Guardians",
+    "show": "7a90",
+    "description": "Peace is shattered when colony worlds are unexpectedly attacked. But when humanity's greatest hero goes missing, a new Spartan is tasked with hunting the Master Chief and solving a mystery that threatens the entire galaxy.",
+    "links": [
+      "https://igdb.com/games/halo-5-guardians",
+      "https://www.youtube.com/playlist?list=PLfU2RMxoOiSARn1KdF5yAAARzHCnHwfJU"
+    ],
+    "image": "/img/series/6ddf.jpg"
   }
 ]

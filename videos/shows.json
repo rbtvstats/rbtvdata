@@ -1126,5 +1126,23 @@
     "description": "",
     "links": [],
     "image": "/img/shows/f664.jpg"
+  },
+  {
+    "id": "bdba",
+    "name": "Menschen, Bohnen, Emotionen",
+    "event": true,
+    "description": "Der Rocket Beans TV Jahresrückblick, die große Gala mit Etienne Gardé und Lars Paulsen. Wir haben die Sendung vollgestopft mit Highlights und Gästen. Wir blicken zurück auf das Jahr 2016. Wir zeigen euch die emotionalsten, peinlichsten, schönsten und kostümträchtigsten Ereignisse des Jahres. Außerdem zeigen wir euch zwei Geschichten, die wir bislang vor euch verstecken konnten. Unsere journalistische Sorgfaltspflicht, sowie die Androhung ewiger Verdammnis des heiligen Sendergottes, haben uns zu dem Entschluss gebracht heute Licht ins Dunkel der Tonproblem-Verschwörung zu bringen. Außerdem ist uns exklusives Material aus der dunklen Ouzo-Nacht des Gregor K. zugespielt worden, das wir unter keinen Umständen mit ins neue Jahr nehmen wollen. Freut euch auf Colin, Gregor, Sofia, Max, Gunnar, Andreas und Simon!",
+    "links": [],
+    "image": "/img/bdba.jpg"
+  },
+  {
+    "id": "83dd",
+    "name": "Straight to Onyx",
+    "event": false,
+    "description": "",
+    "links": [
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSARn1KdF5yAAARzHCnHwfJU"
+    ],
+    "image": "/img/83dd.jpg"
   }
 ]

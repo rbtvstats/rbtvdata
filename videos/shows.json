@@ -1144,5 +1144,31 @@
       "https://youtube.com/playlist?list=PLfU2RMxoOiSARn1KdF5yAAARzHCnHwfJU"
     ],
     "image": "/img/83dd.jpg"
+  },
+  {
+    "id": "4799",
+    "name": "Mini Beef",
+    "event": false,
+    "description": "",
+    "links": [],
+    "image": "/img/shows/4799.jpg"
+  },
+  {
+    "id": "31fe",
+    "name": "New Game Plus",
+    "event": false,
+    "description": "",
+    "links": [],
+    "image": "/img/shows/31fe.jpg"
+  },
+  {
+    "id": "7e24",
+    "name": "2 Jahre Rocket Beans",
+    "event": true,
+    "description": "",
+    "links": [
+      "https://youtube.com/playlist?list=PLsksxTH4pR3JEZRT2IsXWvN-9tmsMOz4M"
+    ],
+    "image": "/img/shows/7e24.jpg"
   }
 ]

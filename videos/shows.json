@@ -1186,5 +1186,45 @@
     "description": "",
     "links": [],
     "image": "/img/shows/785f.jpg"
+  },
+  {
+    "id": "3654",
+    "name": "WWE Royal Rumble 2017",
+    "event": true,
+    "description": "",
+    "links": [
+      "https://youtube.com/playlist?list=PLsksxTH4pR3Iz6s2nB166d9yJrPdqBqoi"
+    ],
+    "image": "/img/shows/3654.jpg"
+  },
+  {
+    "id": "d88c",
+    "name": "Bada Binge",
+    "event": false,
+    "description": "Serien begleiten uns mittlerweile stetig und werden immer mehr zur Identifikations- und Profilierungsmöglichkeit. Welche Serie ist die coolste? Die lustigste? Die beste? Über solche Fragen kann man herrlich diskutieren, fachsimpeln und philosophieren. Ob mit Freunden, dem Partner, der Oma oder mit Daniel und Donnie. Denn: Jeder hat eine Meinung und das gilt ganz besonders für Serien. Bada Binge bringt genau das auf den Bildschirm. Kurz gesagt: Wir reden über Serien. Und das mit eigener Meinung!",
+    "links": [
+      "https://youtube.com/playlist?list=PLsksxTH4pR3KeYN3QnDkDR6wt0uqVLQ90"
+    ],
+    "image": "/img/shows/d88c.jpg"
+  },
+  {
+    "id": "6a6f",
+    "name": "Beanstag",
+    "event": false,
+    "description": "",
+    "links": [
+      ""
+    ],
+    "image": "/img/shows/6a6f.jpg"
+  },
+  {
+    "id": "7aae",
+    "name": "FIFA 17 Qualifikation für den EA Pressepokal",
+    "event": true,
+    "description": "",
+    "links": [
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSBmDG3g60V70pWQsD9VuV9J"
+    ],
+    "image": "/img/shows/7aae.jpg"
   }
 ]

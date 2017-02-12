@@ -1226,5 +1226,31 @@
       "https://youtube.com/playlist?list=PLfU2RMxoOiSBmDG3g60V70pWQsD9VuV9J"
     ],
     "image": "/img/shows/7aae.jpg"
+  },
+  {
+    "id": "19b9",
+    "name": "Pen & Paper: 9/11- Animal Squad",
+    "event": false,
+    "description": "Vier mutige Tiere machen sich auf die Reise, den Terroranschlag am 11.09.2001 zu verhindern. Doch wie sollen Sie das anstellen? In 9/11 Animal Squad werdet ihr es erfahren! Wir starten unsere zweite Pen and Paper Runde mit Spielleiter Florentin Will und seinen Mitspielern Lars Eric Paulsen, Andreas Lingsch, Gunnar Krupp und Fabian Käufer.",
+    "links": [
+      "https://youtube.com/playlist?list=PLsksxTH4pR3IKiRL7CsUmhbFBiOL-Vt50"
+    ],
+    "image": "/img/shows/19b9.jpg"
+  },
+  {
+    "id": "0c97",
+    "name": "Super Bowl 2017",
+    "event": true,
+    "description": "",
+    "links": [],
+    "image": "/img/shows/0c97.jpg"
+  },
+  {
+    "id": "0776",
+    "name": "Die Große Musik Mitsing Sause",
+    "event": true,
+    "description": "Musik, Gesang, Karaoke - Auch Amateure wollen singen! Mit Lara Trautmann von \"The Voice\" ist immerhin eine Kandidatin dabei, die durch Talent überzeugen konnte. Aber auch die anderen Sängerinnen und Sänger lieferten ordentlich ab. Über Backstreetboys, Vanilla Ice und The Caling - Am Ende blieb kein Auge trocken.",
+    "links": [],
+    "image": "/img/shows/0776.jpg"
   }
 ]

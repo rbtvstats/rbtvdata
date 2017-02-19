@@ -1,6 +1,6 @@
 {
- "hash": "8b4423619f61cce41490eb7a5f0d2b90",
- "update": 1486926422,
+ "hash": "5828c9e79dd5a36fe563e0bbcfc8080a",
+ "update": 1487525712,
  "files": {
   "channels": [
    "channels.min.json"
@@ -18,5 +18,5 @@
    "series.min.json"
   ]
  },
- "size": 3363882
+ "size": 3377617
 }

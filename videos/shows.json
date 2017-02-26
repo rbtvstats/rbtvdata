@@ -1260,5 +1260,13 @@
     "description": "",
     "links": [],
     "image": "/img/shows/f672.jpg"
+  },
+  {
+    "id": "dd21",
+    "name": "Neue Deutsche Abendunterhaltung",
+    "event": false,
+    "description": "Eure Unterhaltungssendung aus dem Internet-Apparat. Nur echt mit dem Bällebad. Präsentiert von Lars Paulsen und Andreas Lingsch.",
+    "links": [],
+    "image": "/img/shows/dd21.jpg"
   }
 ]

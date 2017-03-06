@@ -1135,5 +1135,26 @@
       "https://youtube.com/playlist?list=PLsksxTH4pR3KGyhJid1oXtVsQcfgmxLoi&disable_polymer=true"
     ],
     "image": "/img/series/331a.jpg"
+  },
+  {
+    "id": "29b9",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "show": "3952",
+    "description": "Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure.",
+    "links": [
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSAffiTiy9QvcQg12eq7pk3O"
+    ],
+    "image": "/img/series/29b9.jpg"
+  },
+  {
+    "id": "4b11",
+    "name": "Horizon Zero Dawn",
+    "show": "3952",
+    "description": "Horizon Zero Dawn, an exhilarating new action role playing game exclusively for the PlayStation 4 system, developed by the award winning Guerrilla Games, creatos of PlayStation's venerated Killzone franchise. As Horizon Zero Dawn's main protagonist Aloy, a skilled hunter, explore a vibrant and lush world inhabited by mysterious mechanized creatures.",
+    "links": [
+      "https://igdb.com/games/horizon-zero-dawn",
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSBhfij4jfFvkAEcSweI0eiD"
+    ],
+    "image": "/img/series/4b11.jpg"
   }
 ]

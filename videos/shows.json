@@ -1268,5 +1268,13 @@
     "description": "Eure Unterhaltungssendung aus dem Internet-Apparat. Nur echt mit dem Bällebad. Präsentiert von Lars Paulsen und Andreas Lingsch.",
     "links": [],
     "image": "/img/shows/dd21.jpg"
+  },
+  {
+    "id": "9670",
+    "name": "Oscars 2017",
+    "event": true,
+    "description": "",
+    "links": [],
+    "image": "/img/shows/9670.jpg"
   }
 ]

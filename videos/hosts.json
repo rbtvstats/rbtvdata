@@ -48,7 +48,9 @@
     "lastname": "Strauß",
     "nickname": "",
     "description": "",
-    "links": [],
+    "links": [
+      "https://rocketbeans.tv/bohnen/andy/"
+    ],
     "image": "/img/hosts/bc53.jpg"
   },
   {
@@ -409,6 +411,7 @@
     "nickname": "",
     "description": "",
     "links": [
+      "https://rocketbeans.tv/bohnen/ilyass/",
       "https://twitter.com/hypekultur"
     ],
     "image": "/img/hosts/9c2b.jpg"
@@ -977,7 +980,9 @@
     "lastname": "",
     "nickname": "",
     "description": "",
-    "links": [],
+    "links": [
+      "https://rocketbeans.tv/bohnen/clemens/"
+    ],
     "image": "/img/hosts/0cab.jpg"
   },
   {

@@ -1156,5 +1156,38 @@
       "https://youtube.com/playlist?list=PLfU2RMxoOiSBhfij4jfFvkAEcSweI0eiD"
     ],
     "image": "/img/series/4b11.jpg"
+  },
+  {
+    "id": "acad",
+    "name": "Outlast 2",
+    "show": "f5d4",
+    "description": "Outlast 2 is the sequel to the acclaimed survival horror game Outlast. Set in the same universe as the first game, but with different characters and a different setting, Outlast 2 is a twisted new journey into the depths of the human mind and its dark secrets. No conflict is ever black and white.",
+    "links": [
+      "https://igdb.com/games/outlast-ii",
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSC-uXMLeirzKSLW1Op6__y8"
+    ],
+    "image": "/img/series/acad.jpg"
+  },
+  {
+    "id": "0be9",
+    "name": "Thimbleweed Park",
+    "show": "3952",
+    "description": "Lost along a dusty stretch of highway, the town of Thimbleweed Park once boasted an opulent hotel, a vibrant business district and the state’s largest pillow factory, but now it teeters on the edge of oblivion and continues to exist for no real reason. It’s a town that makes you itch and your skin crawl. It’s a place no one ever looks for, but everyone seems to find.    \n    \nThimbleweed Park is the curious story of two washed up detectives investigating a dead body found in the river just outside of town. It’s a game where you switch between five playable characters while uncovering the dark, satirical and bizarre world of Thimbleweed Park.",
+    "links": [
+      "https://igdb.com/games/thimbleweed-park",
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSCzYnFTwTPPam-tGp17u2Ho"
+    ],
+    "image": "/img/series/0be9.jpg"
+  },
+  {
+    "id": "a8c0",
+    "name": "Nioh",
+    "show": "142c",
+    "description": "In Nioh, players will traverse war-torn Japan as William, a blonde-haired swordsman whose background as a fierce warrior and seasoned knowledge of the blade allows him to survive in the demon-plagued land of the samurai. Known as Yokai, these demons inhabit a number of dangerous locations and lie in wait in the shadows to ambush unsuspecting victims. Players will also face off with other samurai in supernatural sword battles and intense, multi-target engagements offering a level of difficulty that will truly test even the most hardened samurai’s skills, patience, and strategy. \n \nOffering a deep and original storyline that takes place during the Warring States Period of Japanese history alongside strategic sword-fighting action, Nioh will challenge players in a way that makes every mission and accomplishment feel earned and worthwhile.",
+    "links": [
+      "https://igdb.com/games/nioh",
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSB4yT5Lp1EslijcX2hOwz0K"
+    ],
+    "image": "/img/series/a8c0.jpg"
   }
 ]

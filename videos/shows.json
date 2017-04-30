@@ -1292,5 +1292,13 @@
     "description": "",
     "links": [],
     "image": "/img/shows/04a1.jpg"
+  },
+  {
+    "id": "142c",
+    "name": "Last Call",
+    "event": false,
+    "description": "Weiterspielen oder Aufhören?",
+    "links": [],
+    "image": "/img/shows/142c.jpg"
   }
 ]

@@ -1189,5 +1189,46 @@
       "https://youtube.com/playlist?list=PLfU2RMxoOiSB4yT5Lp1EslijcX2hOwz0K"
     ],
     "image": "/img/series/a8c0.jpg"
+  },
+  {
+    "id": "ea19",
+    "name": "Resident Evil 3: Nemesis",
+    "show": "f5d4",
+    "description": "Taking place once again in the zombie infested town of Raccoon City, Resident Evil 3 follows Jill Valentine as she tries to escape the oncoming hordes of undead monsters. The game begins one day before the events of Resident Evil 2, eventually surpassing them and extending into the day after.\n\nThis time the player finds themselves traversing a substantial portion of Raccoon City itself while also taking a few short trips to locales made famous from RE2, such as the R.P.D. (Raccoon Police Station). Throughout the game, Jill is hunted by the Umbrella corporation's latest B.O.W., and title character, Nemesis. Similarly to the T-103 in RE2, the Nemesis will appear at scripted occasions during the story and will relentlessly try to kill Jill Valentine. Unlike the T-103, Nemesis can follow Jill through rooms and sometimes even comes equipped with his own unique Rocket Launcher.",
+    "links": [
+      "https://igdb.com/games/resident-evil-3-nemesis"
+    ],
+    "image": "/img/series/ea19.jpg"
+  },
+  {
+    "id": "f8b5",
+    "name": "Prey",
+    "show": "3952",
+    "description": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted. As you dig into the dark secrets of Talos I and your own past, you must survive using the tools found on the station, your wits, weapons, and mind-bending abilities.",
+    "links": [
+      "https://igdb.com/games/prey--1",
+      "https://youtube.com/playlist?list=PLfU2RMxoOiSDanUVCEqz86IfXHhpDzC2v"
+    ],
+    "image": "http://images.igdb.com/igdb/image/upload/t_thumb_2x/mwatzgrxapko5u1iybs3.png"
+  },
+  {
+    "id": "9d8e",
+    "name": "Full Throttle Remastered",
+    "show": "3952",
+    "description": "Released by LucasArts in 1995, Full Throttle is a classic graphic adventure game from industry legend Tim Schafer, telling the story of Ben Throttle; butt-kicking leader of biker gang the Polecats, who gets caught up in a tale of Motorcycles, Mayhem and Murder.  \n \nNow over 20 years later, Full Throttle is back in a remastered edition featuring all new hand-drawn and 3D high-resolution artwork with 4k support, and with remastered audio and music.",
+    "links": [
+      "https://igdb.com/games/full-throttle-remastered"
+    ],
+    "image": "/img/series/9d8e.jpg"
+  },
+  {
+    "id": "9e6f",
+    "name": "The Forest",
+    "show": "3952",
+    "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.  \nBuild, explore, survive in this terrifying first person survival horror simulator.",
+    "links": [
+      "https://igdb.com/games/the-forest"
+    ],
+    "image": "/img/series/9e6f.jpg"
   }
 ]

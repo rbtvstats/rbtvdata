@@ -1300,5 +1300,15 @@
     "description": "Weiterspielen oder Aufhören?",
     "links": [],
     "image": "/img/shows/142c.jpg"
+  },
+  {
+    "id": "5a25",
+    "name": "Beef Jr.",
+    "event": true,
+    "description": "Ein vertrauter Wettkampf, vier neue Gesichter: Royal Beef erhält Verstärkung! Gunnar, Dennis, Gregor und Colin stellen sich im „Beef Jr.” dem ultimativen Nerdkrieg. In acht verschiedenen Runden gilt es Spiele unterschiedlichster Art zu meistern, fliegenden Controller auszuweichen und mentale Kriege zu führen. Möge der Kampf um den Titel des neuen Beef Champions beginnen!",
+    "links": [
+      "https://youtube.com/playlist?list=PLsksxTH4pR3Ll6hP1jTy51PP9OK5SV4ii"
+    ],
+    "image": "/img/shows/5a25.jpg"
   }
 ]
